@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<map_point id="1" type="1" show_name="Тарио" pos_x="27700" pos_y="3987" pos_z="63250"/>
+	<map_point id="2" type="1" show_name="Гора смерти" pos_x="65500" pos_y="2221" pos_z="40000"/>
+	<map_point id="3" type="1" show_name="Лес Теней" pos_x="12350" pos_y="3740" pos_z="19600"/>
+	<map_point id="4" type="1" show_name="Южные Топи" pos_x="57100" pos_y="3625" pos_z="12400"/>
+	<map_point id="5" type="1" show_name="Рудник" pos_x="43200" pos_y="2900" pos_z="27550"/>
+	<map_point id="6" type="1" show_name="Телепорт - Танбурт" pos_x="41248" pos_y="3821" pos_z="52630"/>
+	<map_point id="7" type="1" show_name="Телепорт - Калслэнд" pos_x="60767" pos_y="3721" pos_z="14898"/>
+	<map_point id="8" type="2" show_name="Фармацевт" pos_x="40385" pos_y="3018" pos_z="66041"/>
+	<map_point id="9" type="2" show_name="Коробейник" pos_x="38217" pos_y="3018" pos_z="64816"/>
+	<map_point id="10" type="2" show_name="Продавец эльфийской еды" pos_x="38518" pos_y="2980" pos_z="63864"/>
+	<map_point id="11" type="2" show_name="Аренда витрины" pos_x="41209" pos_y="3018" pos_z="65185"/>
+	<map_point id="12" type="3" show_name="Эмиссар наград" pos_x="41126" pos_y="3018" pos_z="63538"/>
+	<map_point id="13" type="3" show_name="Список розыска(Танбурт)" pos_x="40209" pos_y="3018" pos_z="64775"/>
+	<map_point id="14" type="3" show_name="Список розыска(Калслэнд)" pos_x="38838" pos_y="2983" pos_z="33073"/>
+	<map_point id="15" type="3" show_name="Список розыска(Тасрейн)" pos_x="24945" pos_y="3095" pos_z="42165"/>
+	<map_point id="16" type="3" show_name="Список розыска(Чериан)" pos_x="20606" pos_y="3065" pos_z="23443"/>
+	<map_point id="17" type="3" show_name="Список розыска(Кабутолин)" pos_x="54223" pos_y="2690" pos_z="58815"/>
+	<map_point id="18" type="3" show_name="Список розыска(Рандейл)" pos_x="61032" pos_y="2920" pos_z="31896"/>
+	<map_point id="19" type="3" show_name="Список розыска(Озеро призраков)" pos_x="43277" pos_y="2905" pos_z="40974"/>
+	<map_point id="20" type="3" show_name="Носитель кристаллов" pos_x="44811" pos_y="2883" pos_z="64125"/>
+	<map_point id="21" type="3" show_name="Телепорт в Мистерию" pos_x="40183" pos_y="2890" pos_z="55564"/>
+	<map_point id="22" type="3" show_name="Призрак Гадикары" pos_x="54641" pos_y="4500" pos_z="43374"/>
+	<map_point id="23" type="3" show_name="Призрак Халуры" pos_x="50920" pos_y="3900" pos_z="21255"/>
+	<map_point id="24" type="3" show_name="Призрак Алайши" pos_x="22096" pos_y="3020" pos_z="23004"/>
+	<map_point id="25" type="3" show_name="Гейл Провидец" pos_x="43150" pos_y="2872" pos_z="63050"/>
+	<map_point id="26" type="3" show_name="Даэва" pos_x="39400" pos_y="3018" pos_z="65250"/>
+	<map_point id="27" type="3" show_name="Веда" pos_x="62650" pos_y="2607" pos_z="34950"/>
+	<map_point id="28" type="3" show_name="Градос" pos_x="43300" pos_y="2831" pos_z="28100"/>
+	<map_point id="29" type="3" show_name="Страж Теоса" pos_x="42900" pos_y="2834" pos_z="27950"/>
+	<map_point id="30" type="3" show_name="Рори" pos_x="25050" pos_y="2919" pos_z="52550"/>
+	<map_point id="31" type="3" show_name="Грибник" pos_x="19850" pos_y="3093" pos_z="38200"/>
+	<map_point id="32" type="3" show_name="Путник" pos_x="19650" pos_y="3096" pos_z="38100"/>
+	<map_point id="33" type="4" show_name="Драгоящер" pos_x="61750" pos_y="4815" pos_z="48900"/>
+	<map_point id="34" type="4" show_name="Одержимая спора" pos_x="57750" pos_y="2709" pos_z="38100"/>
+	<map_point id="35" type="4" show_name="Дух-заклинатель" pos_x="54550" pos_y="3523" pos_z="15600"/>
+	<map_point id="36" type="4" show_name="Одержимая пикси" pos_x="50600" pos_y="3529" pos_z="33750"/> 
+	<map_point id="37" type="4" show_name="Толстокожий Корола" pos_x="40700" pos_y="3342" pos_z="24650"/>
+	<map_point id="38" type="4" show_name="Проклятый цветок" pos_x="14300" pos_y="2995" pos_z="32550"/>
+	<map_point id="39" type="4" show_name="Дикий огр" pos_x="13450" pos_y="3406" pos_z="13850"/>
+	<map_point id="40" type="4" show_name="Королева цветов" pos_x="45150" pos_y="2826" pos_z="37900"/>
+	<map_point id="41" type="4" show_name="Каменный голем" pos_x="18850" pos_y="4084" pos_z="7300"/>
+	<map_point id="42" type="4" show_name="Токсичная пикси" pos_x="59600" pos_y="2896" pos_z="22600"/>
+	<map_point id="43" type="4" show_name="Заблудший древень" pos_x="28000" pos_y="2739" pos_z="33700"/>
+	<map_point id="44" type="2" show_name="Кладовщик" pos_x="39400" pos_y="3018" pos_z="63650"/>
+	<map_point id="45" type="3" show_name="Призрак Луары" pos_x="56300" pos_y="3461" pos_z="17050"/>
+	<map_point id="46" type="3" show_name="Призрак Бенеджара" pos_x="12250" pos_y="3494" pos_z="15700"/>
+	<map_point id="47" type="3" show_name="Призрак Адриши" pos_x="26850" pos_y="3431" pos_z="48350"/>
+	<map_point id="48" type="3" show_name="Призрак Йолианы" pos_x="40150" pos_y="3217" pos_z="41550"/>
+	<map_point id="49" type="3" show_name="Призрак Рафейны" pos_x="44400" pos_y="2872" pos_z="55000"/>
+</root>

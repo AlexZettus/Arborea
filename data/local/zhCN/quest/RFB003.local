@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="29003" />
+    <entry Name="Призванный злодей" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь в &lt;N&gt;Библиотеку&lt;/N&gt;, найдите &lt;color=0xffff0000&gt;Гарджета Призванного злодея&lt;color=0xffffffff&gt;, убейте его и вернитесь к \n&lt;D&gt;&lt;L=s04, 5510635&gt;духовному лидеру Одли&lt;/L&gt;&lt;/D&gt;. " />
+</quest-local>

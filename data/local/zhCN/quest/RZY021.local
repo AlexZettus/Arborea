@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="40021" />
+    <entry Name="Просьба Ромидая" />
+    <entry Conditions="" />
+    <entry Overview="Убейте &lt;C&gt;40&lt;/C&gt; &lt;D&gt;&lt;L=s05, 1040001&gt;ледяных вепрей&lt;/L&gt;&lt;/D&gt; и вернитесь к &lt;D&gt;&lt;L=s02, 5010083&gt;Ромидаю&lt;/L&gt;&lt;/D&gt;, чтобы получить камни усиления и руны удачи." />
+</quest-local>

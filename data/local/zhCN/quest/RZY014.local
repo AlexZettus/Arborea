@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="40014" />
+    <entry Name="Первичный дух" />
+    <entry Conditions="" />
+    <entry Overview="Соберите &lt;C&gt;20&lt;/C&gt; &lt;I&gt;Тысячелетних первичный духов&lt;/I&gt;. Затем обратитесь к &lt;D&gt;&lt;L=s02,5010024&gt;работодателю Роосу&lt;/L&gt;&lt;/D&gt;.\n&lt;T&gt; Монстры 50-60 уровня с определенной вероятностью содержат обычный первичный дух.&lt;/T&gt;" />
+</quest-local>

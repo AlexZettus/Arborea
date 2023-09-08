@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30721" />
+    <entry Name="Простое задание I" />
+    <entry Conditions="" />
+    <entry Overview="Помогите игрокам от &lt;C&gt;10&lt;/C&gt; до &lt;C&gt;29&lt;/C&gt; уровня разобраться с &lt;C&gt;200&lt;/C&gt; мострами и идите к \n&lt;M&gt;&lt;L=s03, 5510627&gt;эмиссару наград&lt;/L&gt;&lt;/M&gt;." />
+</quest-local>

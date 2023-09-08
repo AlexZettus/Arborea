@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20608" />
+    <entry Name="Демон-цветок" />
+    <entry Conditions="" />
+    <entry Overview="Убейте \n&lt;A&gt;&lt;L=s08, 1070006&gt;злых цветков ветра&lt;/L&gt;&lt;/A&gt; - &lt;C&gt;80&lt;/C&gt;, \n&lt;A&gt;&lt;L=s08, 1070007&gt;злых соцветий ветра&lt;/L&gt;&lt;/A&gt; - &lt;C&gt;70&lt;/C&gt;, \n&lt;A&gt;&lt;L=s08, 1070008&gt;разрушителей угодий&lt;/L&gt;&lt;/A&gt; - &lt;C&gt;50&lt;/C&gt;, \n&lt;color=0xffff6000&gt;&lt;L=s08, 1070051&gt;злых духов цветка ветра&lt;/L&gt; - &lt;color=0xffffffff&gt;&lt;C&gt;20&lt;/C&gt;, \n&lt;color=0xffff0000&gt;&lt;L=s08, 1070073&gt;цветок танца демонов&lt;/L&gt; - &lt;color=0xffffffff&gt;&lt;C&gt;1&lt;/C&gt;.\nЗатем доложите обо всем &lt;D&gt;&lt;L=s08, 5010205&gt;Очилу&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

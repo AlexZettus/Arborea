@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20605" />
+    <entry Name="Душа возвращается" />
+    <entry Conditions="" />
+    <entry Overview="Поймайте &lt;C&gt;30&lt;/C&gt; душ &lt;color=0xffff6000&gt;&lt;L=s08, 1070050&gt;элитных громовых бандитов&lt;/L&gt;&lt;color=0xffffffff&gt; и сдайте повелителю мудрости &lt;D&gt;&lt;L=s08, 5010205&gt;Очилу&lt;/L&gt;&lt;/D&gt;. Он попытается очистить их." />
+</quest-local>

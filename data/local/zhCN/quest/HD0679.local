@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30679" />
+    <entry Name="Сбор омелы" />
+    <entry Conditions="" />
+    <entry Overview="Соберите &lt;C&gt;3&lt;/C&gt; &lt;I&gt;листа омелы&lt;/I&gt; и &lt;C&gt;3&lt;/C&gt; &lt;I&gt;сердца снеговика&lt;/I&gt;. Затем поговорите со \n&lt;D&gt;&lt;L=s02, 5600011&gt;Снегулой&lt;/L&gt;&lt;/D&gt;.\nВы можете получить &lt;I&gt;лист омелы&lt;/I&gt;, если подарите &lt;I&gt;омелу&lt;/I&gt другому игроку, а он - вам. Сердце снеговика можно получить с помощью усиления Снежок." />
+</quest-local>

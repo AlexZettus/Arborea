@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20025" />
+    <entry Name="Секрет долголетия" />
+    <entry Conditions="" />
+    <entry Overview="Исследуй &lt;M&gt;&lt;L=s01, 6011015&gt;статую Царицы цветочных сирен&lt;/L&gt;&lt;/M&gt; и добудь &lt;I&gt;волшебную пыльцу&lt;/I&gt; для &lt;D&gt; &lt;L=s01, 5010015&gt;Стража Стены памяти Теда&lt;/L&gt;&lt;/D&gt;.\n&#x0A;\n" />
+</quest-local>

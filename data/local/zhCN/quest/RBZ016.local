@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20316" />
+    <entry Name="Волчий вой" />
+    <entry Conditions="" />
+    <entry Overview="На западе &lt;N&gt;Долины Белого дракона&lt;/N&gt;, убейте \n&lt;C&gt;40&lt;/C&gt; &lt;A&gt;&lt;L=s05, 1040008&gt;искаженных оборотней&lt;/L&gt;&lt;/A&gt; и \n&lt;C&gt;40&lt;/C&gt; &lt;A&gt;&lt;L=s05, 1040009&gt;снежных оборотней&lt;/L&gt;&lt;/A&gt;.\nЗатем вернитесь к &lt;D&gt;&lt;L=s05, 5010092&gt;Саэшу.&lt;/L&gt;&lt;/D&gt;" />
+</quest-local>

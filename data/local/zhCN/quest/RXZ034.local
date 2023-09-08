@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20434" />
+    <entry Name="Проблемные медведи" />
+    <entry Conditions="" />
+    <entry Overview="Убейте &lt;C&gt;80&lt;/C&gt; &lt;A&gt;&lt;L=s06, 1050007&gt;Гигантских медведей&lt;/L&gt;&lt;/A&gt;. Затем вернитесь к &lt;D&gt;&lt;L=s06, 5511016&gt;Дебрасу&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

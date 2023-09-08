@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30725" />
+    <entry Name="[Привилегия] Награда новичка" />
+    <entry Conditions="" />
+    <entry Overview="Вы можете получить привилегию новичка у &lt;M&gt;&lt;Z=s02, 31500, 23094, 33600&gt;хранителя привилегий новичка&lt;/Z&gt;&lt;/M&gt;." />
+</quest-local>

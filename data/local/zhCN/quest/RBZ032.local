@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20332" />
+    <entry Name="Больше пыли" />
+    <entry Conditions="" />
+    <entry Overview="Найдите &lt;A&gt;&lt;L=s05, 1040037&gt;пикси-нимфалиду&lt;/L&gt;&lt;/A&gt;, соберите &lt;C&gt;20&lt;/C&gt; образцов &lt;I&gt;пыльцы призрачной пикси&lt;/I&gt;, отправляйтесь к Нефритовому пруду и поговорите с &lt;D&gt;&lt;L=s05, 5010096&gt;богиней Теа&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

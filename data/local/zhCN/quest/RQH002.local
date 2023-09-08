@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20102" />
+    <entry Name="Возвращение к оракулу" />
+    <entry Conditions="" />
+    <entry Overview="Вернись к &lt;D&gt;&lt;L=s02, 5010027&gt;Оракулу Кирану&lt;/L&gt;&lt;D&gt; для завершения задания.&#x0A;" />
+</quest-local>

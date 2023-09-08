@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="51010" />
+    <entry Name="Навыки святого духа" />
+    <entry Conditions="" />
+    <entry Overview="Пришло время узнать кое-что важное о духах. Поговори с &lt;D&gt;&lt;L=s02,6040030&gt;Призывателем духов Кастор&lt;/L&gt;&lt;/D&gt;, который находится в Тарио (746, 1055).\n&#x0A;\n" />
+</quest-local>

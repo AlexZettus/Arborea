@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30719" />
+    <entry Name="Очистить Камнепад" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь в &lt;N&gt;Пандору&lt;/N&gt; или &lt;N&gt;Долину Грома&lt;/N&gt; и найдите там \n&lt;M&gt;&lt;L=s03, 5810004&gt;носителя кристаллов&lt;/L&gt;&lt;/M&gt;. Убивайте в &lt;N&gt;Камнепаде&lt;/N&gt; монстров, соберите &lt;C&gt;15&lt;/C&gt; &lt;I&gt;малых морозных кристаллов&#x0A;&lt;/I&gt;, &lt;C&gt;6&lt;/C&gt; &lt;I&gt;средних морозных кристаллов&#x0A;&lt;/I&gt; и &lt;C&gt;1&lt;/C&gt; &lt;I&gt;гигантский морозный кристалл&lt;/I&gt;. Принесите их \n&lt;M&gt;&lt;L=s03, 5510627&gt;эмиссару наград&lt;/L&gt;&lt;/M&gt;.\n Вам нужно объединиться с игроками от &lt;C&gt;10&lt;/C&gt; до &lt;C&gt;29&lt;/C&gt; уровня, чтобы войти в Камнепад." />
+</quest-local>

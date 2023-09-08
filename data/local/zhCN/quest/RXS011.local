@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20011" />
+    <entry Name="Приятная встреча" />
+    <entry Conditions="" />
+    <entry Overview="В Тарио тебя встретит <D><L=s02, 5010026>Синида</L></D>. Поспеши, и ты сможешь узнать много интересного об этом удивительном городе.\n&#x0A;\n" />
+</quest-local>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<map_point id="1" type="1" show_name="Перевозчик Трайлокия" pos_x="11900" pos_y="3576" pos_z="14350"/>
+	<map_point id="2" type="1" show_name="Телепорт: Город-призрак" pos_x="32650" pos_y="3447" pos_z="27700"/>
+	<map_point id="3" type="1" show_name="Телепорт: Гробница Менеса" pos_x="73750" pos_y="2434" pos_z="26650"/>
+	<map_point id="4" type="1" show_name="Телепорт: Мертвая роща" pos_x="88150" pos_y="4174" pos_z="66800"/>
+	<map_point id="5" type="1" show_name="Телепорт: Долина царей" pos_x="30350" pos_y="3241" pos_z="69650"/>
+	<map_point id="6" type="1" show_name="Сумеречная пустошь" pos_x="9700" pos_y="3378" pos_z="5650"/>
+	<map_point id="7" type="1" show_name="Гробница Менеса" pos_x="81200" pos_y="2644" pos_z="18650"/>
+	<map_point id="8" type="2" show_name="Кладовщик" pos_x="8950" pos_y="3383" pos_z="11250"/>
+	<map_point id="9" type="2" show_name="Алхимик" pos_x="19100" pos_y="3377" pos_z="11050"/>
+	<map_point id="10" type="2" show_name="Сын дьявола" pos_x="15600" pos_y="3376" pos_z="11100"/>
+	<map_point id="11" type="2" show_name="Гейл Провидец" pos_x="15800" pos_y="3376" pos_z="12650"/>
+	<map_point id="12" type="2" show_name="Аренда витрины" pos_x="13200" pos_y="3375" pos_z="10200"/>
+	<map_point id="13" type="2" show_name="Кузнец" pos_x="13850" pos_y="3375" pos_z="9700"/>
+	<map_point id="14" type="2" show_name="Коробейник(Город-призрак)" pos_x="32250" pos_y="3462" pos_z="27800"/>
+	<map_point id="15" type="2" show_name="Коробейник(Гробница Менеса)" pos_x="73950" pos_y="2434" pos_z="26700"/>
+	<map_point id="16" type="2" show_name="Коробейник(Мертвая роща)" pos_x="88200" pos_y="4167" pos_z="67100"/>
+	<map_point id="17" type="2" show_name="Коробейник(Долина царей)" pos_x="30000" pos_y="3235" pos_z="69700"/>
+	<map_point id="18" type="2" show_name="Коробейник(Королевский сад)" pos_x="18100" pos_y="3376" pos_z="9600"/>
+	<map_point id="19" type="2" show_name="Еда для эльфов(Город-призрак)" pos_x="33000" pos_y="3430" pos_z="27450"/>
+	<map_point id="20" type="2" show_name="Еда для эльфов(Гробница Менеса)" pos_x="73650" pos_y="2435" pos_z="26400"/>
+	<map_point id="21" type="2" show_name="Еда для эльфов(Мертвая роща)" pos_x="87850" pos_y="4180" pos_z="66550"/>
+	<map_point id="22" type="2" show_name="Еда для эльфов(Долина царей)" pos_x="30650" pos_y="3214" pos_z="69750"/>
+	<map_point id="23" type="2" show_name="Еда для эльфов(Королевский сад)" pos_x="15950" pos_y="3376" pos_z="9000"/>
+	<map_point id="24" type="3" show_name="Список розыска(Королевский сад)" pos_x="17550" pos_y="3380" pos_z="14800"/>
+	<map_point id="25" type="3" show_name="Список розыска(Город-призрак)" pos_x="33150" pos_y="3422" pos_z="26950"/>
+	<map_point id="26" type="3" show_name="Список розыска(Гробница Менеса)" pos_x="73450" pos_y="2437" pos_z="26200"/>
+	<map_point id="27" type="3" show_name="Список розыска(Мертвая роща)" pos_x="88500" pos_y="4162" pos_z="67250"/>
+	<map_point id="28" type="3" show_name="Список розыска(Иллюзорный оазис)" pos_x="47950" pos_y="4031" pos_z="57750"/>
+	<map_point id="29" type="3" show_name="Список розыска(Долина царей)" pos_x="30950" pos_y="3176" pos_z="70050"/>
+	<map_point id="30" type="3" show_name="Небесный список заданий" pos_x="15300" pos_y="3376" pos_z="12100"/>
+	<map_point id="31" type="4" show_name="Пустынный волк(106)" pos_x="41750" pos_y="3568" pos_z="18900"/>
+	<map_point id="32" type="4" show_name="Прыткая игуана(107)" pos_x="56100" pos_y="3515" pos_z="18850"/>
+	<map_point id="33" type="4" show_name="Хранитель тайн(108)" pos_x="48050" pos_y="2158" pos_z="35500"/>
+	<map_point id="34" type="4" show_name="Дикий лаварог(109)" pos_x="20550" pos_y="3589" pos_z="39100"/>
+	<map_point id="35" type="4" show_name="Пернатый падальщик(110)" pos_x="27300" pos_y="3541" pos_z="49050"/>
+	<map_point id="36" type="4" show_name="Песчаная гадюка(111)" pos_x="25950" pos_y="2678" pos_z="61550"/>
+	<map_point id="37" type="4" show_name="Дух оазиса(112)" pos_x="36900" pos_y="2089" pos_z="57000"/>
+	<map_point id="38" type="4" show_name="Буря песков(113)" pos_x="57600" pos_y="3006" pos_z="50700"/>
+	<map_point id="39" type="4" show_name="Дрожь земли(114)" pos_x="61300" pos_y="3109" pos_z="37850"/>
+	<map_point id="40" type="4" show_name="Гигантская сколопендра(115)" pos_x="72000" pos_y="4145" pos_z="55200"/>
+	<map_point id="41" type="4" show_name="Огненная гиена(116)" pos_x="80850" pos_y="4163" pos_z="78150"/>
+	<map_point id="42" type="4" show_name="Варгас(116)" pos_x="38450" pos_y="2081" pos_z="48050"/>
+	<map_point id="43" type="4" show_name="Хитрый бес(117)" pos_x="65800" pos_y="4150" pos_z="80300"/>
+	<map_point id="44" type="4" show_name="Демон-привратник(118)" pos_x="54950" pos_y="4136" pos_z="80800"/>
+	<map_point id="45" type="4" show_name="Проклятый искатель(119)" pos_x="35750" pos_y="2838" pos_z="75700"/>
+	<map_point id="46" type="4" show_name="Слуга Менеса(120)" pos_x="20200" pos_y="2744" pos_z="76800"/>
+	
+</root>

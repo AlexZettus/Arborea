@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20412" />
+    <entry Name="Очистить драконов" />
+    <entry Conditions="" />
+    <entry Overview="Убейте по &lt;C&gt;40&lt;/C&gt; \n&lt;A&gt;&lt;L=s06, 1050014&gt;зеленых драконов Леса Теней&lt;/L&gt;&lt;/A&gt; и \n\n&lt;A&gt;&lt;L=s06, 1050015&gt;красных драконов Леса Теней&lt;/L&gt;&lt;/A&gt;." />
+</quest-local>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20634" />
+    <entry Name="Официальное представление" />
+    <entry Conditions="" />
+    <entry Overview="Поговорите с &lt;D&gt;&lt;L=s08, 5010209&gt;Роттом&lt;/L&gt;&lt;/D&gt; еще раз.\n&#x0A;\n" />
+</quest-local>

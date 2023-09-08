@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20519" />
+    <entry Name="Королева дементоров" />
+    <entry Conditions="" />
+    <entry Overview="Убейте &lt;color=0xffff0000&gt;&lt;L=s07, 1060054&gt;Королеву дементоров&lt;/L&gt;&lt;color=0xffffffff&gt;, а затем вернитесь к &lt;D&gt;&lt;L=s07, 5010203&gt;Зефф&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

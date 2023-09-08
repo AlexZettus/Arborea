@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+  <entry ID="54003" />
+  <entry Name="Получить подарок" />
+  <entry Conditions="" />
+  <entry Overview="" />
+</quest-local>

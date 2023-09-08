@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20002" />
+    <entry Name="Получение оружия" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйся в тренировочный лагерь к \n&lt;D&gt;&lt;L=m10,5010012&gt;инструктору Гарену&lt;/L&gt;&lt;/D&gt;. Он даст тебе на выбор одно из четырех видов оружия. Чтобы попасть в тренировочный лагерь, пройди по дороге на север.\n&lt;color=0xff00ff00&gt;Ориентир можно найти на карте. Чтобы открыть карту, нужно нажать клавишу &lt;I&gt;[ M ]&lt;/I&gt;&lt;color=0xff00ff00&gt; на клавиатуре.&lt;color=0xffffffff&gt;\n&#x0A;\n" />
+</quest-local>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20420" />
+    <entry Name="Демонические пикси в лесу" />
+    <entry Conditions="" />
+    <entry Overview="Убейте &lt;A&gt;&lt;L=s06, 1050019&gt;поющих пикси&lt;/L&gt;&lt;/A&gt; или &lt;A&gt;&lt;L=s06, 1050020&gt;исчезающих пикси&lt;/L&gt;&lt;/A&gt; поблизости и добудьте &lt;C&gt;80&lt;/C&gt; &lt;I&gt;поясов призраков&lt;/I&gt;. Затем отнесите их &lt;D&gt;&lt;L=s06, 5010162&gt;Синтии&lt;/L&gt;&lt;/D&gt;.&#xA;" />
+</quest-local>

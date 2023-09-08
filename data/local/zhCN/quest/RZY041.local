@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="40041" />
+    <entry Name="Руна битвы" />
+    <entry Conditions="" />
+    <entry Overview="Поговорите с оракулом Терезой, чтобы узнать о рунах битвы." />
+</quest-local>

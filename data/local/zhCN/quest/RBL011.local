@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20211" />
+    <entry Name="Ресурсы для обороны" />
+    <entry Conditions="" />
+    <entry Overview="Уничтожай &lt;D&gt;&lt;L=s03,1030007&gt;Толстокожих Королл&lt;/L&gt;&lt;/D&gt; в окрестностях Калслэнда, чтобы добыть из них 16 Панцирей Короллы. После этого возвращайся к &lt;D&gt;&lt;L=s03,5010078&gt;Градосу&lt;/L&gt;&lt;/D&gt; за наградой." />
+</quest-local>

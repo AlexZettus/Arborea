@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20654" />
+    <entry Name="Решение Уолтера" />
+    <entry Conditions="" />
+    <entry Overview="Поговорите с &lt;D&gt;&lt;L=s08, 5010210&gt;Уолтером&lt;/L&gt;&lt;/D&gt; еще раз.\n&#x0A;\n" />
+</quest-local>

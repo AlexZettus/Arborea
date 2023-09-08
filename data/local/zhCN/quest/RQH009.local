@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20109" />
+    <entry Name="Эхо прошлого" />
+    <entry Conditions="" />
+    <entry Overview="Предводитель Варваров ушел с окрестностей Пандоры. Расскажите об этом \n&lt;D&gt;&lt;L=s02, 5010085&gt;Шере&lt;/L&gt;&lt;/D&gt; (Тарио, 720 723). Кажется, они были знакомы. Хорошо, что xxxJenykwarxxx заметил отъезд этого великана." />
+</quest-local>

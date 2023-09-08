@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20411" />
+    <entry Name="Печать камня" />
+    <entry Conditions="" />
+    <entry Overview="Разрушьте &lt;C&gt;4&lt;/C&gt; &lt;D&gt;печати&lt;/D&gt; в Каменном городе. Затем вернитесь к &lt;D&gt;&lt;L=s06, 5010102&gt;Барцелю&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

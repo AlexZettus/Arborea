@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30371" />
+    <entry Name="Обмен Руны гарантии" />
+    <entry Conditions="" />
+    <entry Overview="Соберите &lt;C&gt;3&lt;/C&gt; &lt;I&gt;Трудовые награды &lt;/I&gt; и &lt;C&gt;3&lt;/C&gt; &lt;I&gt;Почетные награды&lt;/I&gt;, передайте их \n&lt;D&gt;&lt;L=s02,5600057&gt;Меняле на дне труда&lt;/L&gt;&lt;/D&gt;. Обменяйте на &lt;C&gt;1&lt;/C&gt; &lt;color=0xffff80ff&gt;Руну гарантии&lt;color=0xffffffff&gt;.&#x0A;\n&lt;I&gt;Трудовую награду&lt;/I&gt;, &lt;I&gt;почетную награду&lt;/I&gt; можно получить, убивая монстров во время ивента День Труда." />
+</quest-local>

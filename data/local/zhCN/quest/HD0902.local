@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30902" />
+    <entry Name="Солнечный дар 15" />
+    <entry Conditions="" />
+    <entry Overview="После достижения &lt;C&gt;80&lt;/C&gt; ур. получите награду у &lt;D&gt;&lt;L=s02,5610089&gt;Посланника Солнца&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

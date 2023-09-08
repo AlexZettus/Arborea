@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30794" />
+    <entry Name="Можно я сам?" />
+    <entry Conditions="" />
+    <entry Overview="Убивайте в &lt;N&gt;Лесу Теней&lt;/N&gt; &lt;A&gt;&lt;L=s06,1050004&gt;привидений-хилиастов&lt;/L&gt;&lt;/A&gt; и \n&lt;A&gt;&lt;L=s06,1050005&gt;привидений-адептов&lt;/L&gt;&lt;/A&gt;, чтобы собрать &lt;I&gt;ленточки&lt;/I&gt;. Собрав &lt;C&gt;20&lt;/C&gt; шт., вернитесь к &lt;D&gt;&lt;L=s02,5610050&gt;Эльзе.&lt;/L&gt;&lt;/D&gt;" />
+</quest-local>

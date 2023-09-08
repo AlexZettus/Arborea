@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20311" />
+    <entry Name="Артефакт холода" />
+    <entry Conditions="" />
+    <entry Overview="В &lt;N&gt;Логове Ящера&lt;/N&gt; найдите &lt;color=0xffff0000&gt;&lt;L=d03, 1040043&gt;владыку стаи&lt;/L&gt;&lt;color=0xffffffff&gt;, убейте его, возьмите &lt;I&gt;замороженный клык&lt;/I&gt; и отнесите его &lt;D&gt;&lt;L=d03, 5010091&gt;Нилу&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

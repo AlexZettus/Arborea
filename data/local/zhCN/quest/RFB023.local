@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="29023" />
+    <entry Name="Поединок в Библиотеке" />
+    <entry Conditions="" />
+    <entry Overview="Уничтожьте демонов &lt;N&gt;Библиотеки&lt;/N&gt;: &lt;A&gt; Марино Призванный Голем &lt;/A&gt;, &lt;A&gt;Гарджет Призванный Злодей&lt;/A&gt;, &lt;A&gt;Учитель волшебства Хида&lt;/A&gt;, &lt;A&gt;Милка Порочная Всадница&lt;/A&gt;, а потом вернитесь к &lt;D&gt;&lt;L=s04,5510635&gt;духовному лидеру Одли&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

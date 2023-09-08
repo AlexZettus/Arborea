@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30826" />
+    <entry Name="Подготовка мясного пира" />
+    <entry Conditions="" />
+    <entry Overview="Соберите &lt;C&gt;50&lt;/C&gt; кусков &lt;I&gt;свинины&lt;/I&gt;, &lt;C&gt;50&lt;/C&gt; &lt;I&gt;куриных крыльев&lt;/I&gt; и &lt;C&gt;10&lt;/C&gt; стручков &lt;I&gt;чили&lt;/I&gt; и отнесите в Тарио &lt;D&gt;&lt;Z=s02,30150,23094,34150&gt;Лунной деве&lt;/Z&gt;&lt;/D&gt;, чтобы сдать задание.\n&lt;I&gt;Свинину&lt;/I&gt; и &lt;I&gt;куриные крылья&lt;/I&gt; можно получить в качестве трофея с диких животных. &lt;I&gt;Чили&lt;/I&gt; можно собрать на диких просторах." />
+</quest-local>

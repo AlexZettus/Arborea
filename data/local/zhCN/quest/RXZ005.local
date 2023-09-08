@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20405" />
+    <entry Name="Три Призрака" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь в &lt;N&gt;Лес тигриного рыка&lt;/N&gt; и убейте \n&lt;A&gt;&lt;L=s06, 1050004&gt;привидение-хилиаста&lt;/L&gt;&lt;/A&gt; чтобы добыть &lt;C&gt;80&lt;/C&gt; &lt;I&gt;проклятых томов призраков&lt;/I&gt;, отнесите их \n&lt;D&gt;&lt;L=s06, 5010101&gt;повелителю битвы Битти&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

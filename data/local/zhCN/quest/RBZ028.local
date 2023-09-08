@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20328" />
+    <entry Name="Суперохотник" />
+    <entry Conditions="" />
+    <entry Overview="Найдите \n&lt;A&gt;&lt;L=s05,1040033&gt;элитного охотника&lt;/L&gt;&lt;/A&gt;, убейте его &lt;C&gt;20&lt;/C&gt;. Затем вернитесь к \n&lt;D&gt;&lt;L=s05,5010095&gt;гигантскому медведю Уиллу&lt;/L&gt;&lt;/D&gt;.\n&lt;S&gt;[Ур. 50]&lt;/S&gt;Небесные задания: достигнув 50 Ур., вы можете брать &lt;P&gt;небесные задания.&lt;/P&gt;&#x0A;\n&lt;S&gt;[Ур. 55]&lt;/S&gt;Два Лорда ужаса: достигнув 55 Ур., вы можете принять участие в &lt;P&gt; ивенте Два Лорда ужаса.&lt;/P&gt;&#x0A;" />
+</quest-local>

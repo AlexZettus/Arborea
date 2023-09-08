@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20503" />
+    <entry Name="Открыть путь" />
+    <entry Conditions="" />
+    <entry Overview="Убейте \n&lt;C&gt;10&lt;/C&gt; &lt;color=0xffff6000&gt;&lt;L=s07,1060033&gt;цветков южных топей&lt;/L&gt;&lt;color=0xffffffff&gt;, \n&lt;C&gt;10&lt;/C&gt; &lt;color=0xffff6000&gt;&lt;L=s07,1060034&gt;элитных разведчиков&lt;/L&gt;&lt;color=0xffffffff&gt;, \n&lt;color=0xffff0000&gt;&lt;L=s07, 1060048&gt;Завораживающего короля&lt;/L&gt;&lt;color=0xffffffff&gt; и \n&lt;color=0xffff0000&gt;&lt;L=s07, 1060047&gt;Главного разведчика&lt;/L&gt;&lt;color=0xffffffff&gt;.\nПосле этого вернитесь и доложите обо всем \n&lt;D&gt;&lt;L=s07, 5010164&gt;повелителю деревьев Харлансу&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

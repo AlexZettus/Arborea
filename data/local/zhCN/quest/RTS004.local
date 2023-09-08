@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="50004" />
+    <entry Name="Обмен грибов уничтожения" />
+    <entry Conditions="" />
+    <entry Overview="&lt;C&gt;2&lt;/C&gt;&lt;I&gt; гриба жизни &lt;/I&gt; у \n&lt;D&gt;&lt;L=s03, 5010197&gt;сборщицы грибов&lt;/L&gt;&lt;/D&gt; можно обменять на &lt;C&gt;1&lt;/C&gt; &lt;I&gt;гриб уничтожения&lt;/I&gt;" />
+</quest-local>

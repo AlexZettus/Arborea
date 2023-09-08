@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20504" />
+    <entry Name="Древняя гора" />
+    <entry Conditions="" />
+    <entry Overview="Достигнув уровня &lt;C&gt;67&lt;/C&gt;, отправляйтесь на &lt;N&gt;Древнюю гору&lt;/N&gt; и найдите там &lt;D&gt;&lt;L=s07, 5010165&gt;Иросая&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

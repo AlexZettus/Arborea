@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+
+<type id="1" name="Миссия" color="0xff00ddfe" category="1"/>
+   <type id="2" name="Наградное" color="0xFFaddf14" category="3"/>
+   <type id="3" name="Обмен" color="0xffffae00" category="7"/>
+   <type id="4" name="Ежедневное" color="0xffffae00" category="7"/>
+   <type id="5" name="Временное" color="0xffffae00" category="3"/>
+   <type id="6" name="Групповое" color="0xffffae00" category="4"/>
+   <type id="7" name="Привилегии" color="0xffffae00" category="4"/>
+   <type id="8" name="Обучение" color="0xFFaddf14" category="1"/>
+   <type id="115" name="Мастерство" color="0xFFff7ce8" category="8"/>
+   <type id="201" name="Вечный Ад[Ивент]" color="0xFF93d8f1" category="7"/>
+   <type id="202" name="Сияние Богини[Ивент]" color="0xFF93d8f1" category="7"/>
+   <type id="203" name="Честь вождя[Ивент]" color="0xFF93d8f1" category="7"/>
+   <type id="204" name="Рев демона[Ивент]" color="0xFF93d8f1" category="7"/>
+   <type id="205" name="Вторжение монстров[Ивент]" color="0xFF93d8f1" category="7"/>
+   <type id="206" name="Конкурс знаний[Ивент]" color="0xFF93d8f1" category="7"/>
+   <type id="207" name="Копия [Ивент]" color="0xFF93d8f1" category="7"/>
+   <type id="208" name="Вечный ад" color="0xFFFF6000" category="5"/>
+   <type id="209" name="Конкурс знаний[Ивент]" color="0xFF93d8f1" category="7"/>
+   <type id="300" name="Обучение" color="0xFFaddf14" category="2"/>
+	<type id="310" name="Гильдия" color="0xFFdc5d00" category="6"/>
+	<type id="313" name="Классовое" color="0xff80ff00" category="10"/>
+	<type id="316" name="Эксклюзив[Дн]" color="0xFF93d8f1" category="7"/>
+	<type id="507" name="Экспо[Праздник]" color="0xFFBD3017" category="4"/>
+	<type id="508" name="Бесплатная практика[Ивент]" color="0xFFff7ce8" category="4"/>
+	<type id="509" name="Новый год[Праздник]" color="0xFFBD3017" category="7"/>
+	 <type id="510" name="Новый год[Праздник]" color="0xFFBD3017" category="7"/>
+	 <type id="511" name="День Будды[Праздник]" color="0xFFBD3017" category="7"/>
+	 <type id="512" name="Праздник весны[Праздник]" color="0xFFBD3017" category="4"/>
+	 <type id="513" name="День Св Валентина[Праздник]" color="0xFFBD3017" category="4"/>
+	 <type id="514" name="Ранг бога" color="0xff00ddfe" category="11"/>
+	 <type id="515" name="Праздник начала лета[Праздник]" color="0xFFBD3017" category="4"/>
+	 <type id="516" name="Демон. снаряжение[Ивент]" color="0xFFBD3017" category="4"/>
+	 <type id="517" name="Выкуп счета[Ивент]" color="0xFFff7ce8" category="4"/>
+	<type id="518" name="Босс[Ивент]" color="0xFFff7ce8" category="4"/>
+	 <type id="519" name="Праздник китайского Дня Св.Валентина[Праздник]" color="0xFFBD3017" category="4"/>
+	 <type id="520" name="День Осени [Праздник]" color="0xFFBD3017" category="4"/>
+	 <type id="521" name="День Независимости [Праздник]" color="0xFFBD3017" category="4"/>
+	 <type id="522" name="День Благодарения [Праздник]" color="0xFFBD3017" category="4"/>
+	 <type id="523" name="Фестиваль" color="0xFFBD3017" category="4"/>
+	 <type id="524" name="Летняя ночь[Праздник]" color="0xFFBD3017" category="4"/>
+	 <type id="525" name="Ивент" color="0xFF93d8f1" category="7"/>
+</root>

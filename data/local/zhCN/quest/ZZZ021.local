@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="59021" />
+    <entry Name="К снежным вершинам" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь во &lt;D&gt;&lt;Z=s02,30700,22902,19950&gt;Вьюжный край (Тарио 614 399)&lt;/L&gt;&lt;/D&gt; и убейте несколько врагов, после этого возвращайтесь к &lt;D&gt;&lt;Z=s02,30700,22902,26150&gt;Артее (Тарио, 614 523)&lt;/L&gt;&lt;/D&gt; за наградой." />
+</quest-local>

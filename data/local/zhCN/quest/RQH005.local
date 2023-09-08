@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20105" />
+    <entry Name="Лимфа огра" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь на &lt;N&gt;Грибной холм&lt;/N&gt; и убивайте там \n&lt;A&gt;&lt;L=s03_1,1020012&gt;искаженных огров&lt;/L&gt;&lt;/A&gt;, чтобы добыть &lt;C&gt;3&lt;/C&gt; образца лимфы огров. Затем их нужно отнести \n&lt;D&gt;&lt;L=s03, 5010031&gt;мастеру иллюзий Карине&lt;/L&gt;&lt;/D&gt; в &lt;N&gt;Танбурт.&lt;/N&gt;\n&#x0A;\n&lt;S&gt;[Ур. 11]&lt;/S&gt;Наградные задания: у списка розыска вы можете получать &lt;P&gt;наградные задания.&lt;/P&gt;&#x0A;" />
+</quest-local>

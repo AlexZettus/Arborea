@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20112" />
+    <entry Name="Демон Лэсс" />
+    <entry Conditions="" />
+    <entry Overview="Убейте &lt;A&gt;&lt;L=s03, 1020015&gt;Лэсса&lt;/L&gt;&lt;/A&gt; и вернитесь к &lt;D&gt;&lt;L=s03, 5010075&gt;Джеку Сали&lt;/L&gt;&lt;/D&gt;.\n&#x0A;\n&lt;S&gt;[Ур. 20]&lt;/S&gt;PK: после достижения 20 Ур. вы можете принимать участие в &lt;T&gt;PK.&lt;/T&gt;&#x0A;\n&lt;S&gt;[Ур. 20]&lt;/S&gt;Получение класса: достигнув 20 Ур., вы можете &lt;T&gt; получить класс.&lt;/T&gt;&#x0A;\n&lt;S&gt;[Ур. 20]&lt;/S&gt;Создание гильдии: после 20 Ур. вы можете &lt;T&gt; создать гильдию.&lt;/T&gt;&#x0A;\n&lt;S&gt;[Ур. 20]&lt;/S&gt;Добыча руды: после 20 Ур. вы можете отправиться в Рудник для &lt;T&gt;добычи руды.&lt;/T&gt;&#x0A;" />
+</quest-local>

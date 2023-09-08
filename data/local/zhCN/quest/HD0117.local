@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30117" />
+    <entry Name="Обмен радужной магической ткани" />
+    <entry Conditions="" />
+    <entry Overview="Соберите &lt;C&gt;10&lt;/C&gt; отрезов &lt;I&gt;магической ткани&lt;/I&gt; и &lt;C&gt;1&lt;/C&gt; отрез &lt;I&gt;Золотого шелка&lt;/I&gt;, передайте их \n&lt;D&gt;&lt;L=s02,5516012&gt;богине красоты Грациане&lt;/L&gt;&lt;/D&gt; и обменяйте на &lt;C&gt;1&lt;/C&gt; отрез &lt;color=0xffff80ff&gt;Радужной магической ткани&lt;color=0xffffffff&gt;.\n&lt;I&gt;Радужная магическая ткань&lt;/I&gt; &lt;T&gt;- это материал для изготовления нарядов высокого уровня.&lt;/T&gt;" />
+</quest-local>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30743" />
+    <entry Name="Аппетитная каша (3)" />
+    <entry Conditions="" />
+    <entry Overview="Вам нужно собрать &lt;C&gt;5&lt;/C&gt; &lt;I&gt;ингредиентов для каши&lt;/I&gt; и &lt;C&gt;1&lt;/C&gt; &lt;I&gt;хрустальное мини-сердце&lt;/I&gt;.\n&lt;I&gt;Ингредиенты для каши&lt;/I&gt; можно найти, убивая любых монстров, а &lt;I&gt;хрустальное мини-сердце&lt;/I&gt; продается в премиум-магазине." />
+</quest-local>

@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<SuitName id="1000" name="Кровь демона" spec_effect_mod="set003"/>
+	<SuitName id="1001" name="Просмотр 1" spec_effect_mod="set003"/>
+	<SuitName id="1002" name="Просмотр 2" spec_effect_mod="set004"/>
+	<SuitName id="1003" name="Просмотр 3" spec_effect_mod="set005"/>
+	<SuitName id="1004" name="Просмотр 4" spec_effect_mod="set006"/>
+	<SuitName id="2001" name="Грубая сила I" />
+	<SuitName id="2002" name="Грубая сила II" />
+	<SuitName id="2003" name="Грубая сила III" />
+	<SuitName id="2004" name="Грубая сила IV" />
+	<SuitName id="2005" name="Грубая сила V" />
+	<SuitName id="2006" name="Грубая сила VI" />
+	<SuitName id="2007" name="Грубая сила VII" />
+	<SuitName id="2008" name="Грубая сила VIII" />
+	<SuitName id="2009" name="Грубая сила IX" />
+	<SuitName id="2011" name="Кара света" />
+	<SuitName id="2012" name="Кара веры" />
+	<SuitName id="2013" name="Кара дракона" />
+	<SuitName id="2014" name="Кара толпы" />
+	<SuitName id="2015" name="Кара ярости" />
+	<SuitName id="2016" name="Кара истины" />
+	<SuitName id="2017" name="Кара плети" />
+	<SuitName id="2018" name="Кара клыка" />
+	<SuitName id="2019" name="Кара вождя" />
+	<SuitName id="2021" name="Искаженная кара света" />
+	<SuitName id="2022" name="Искаженная кара веры" />
+	<SuitName id="2023" name="Искаженная кара дракона" />
+	<SuitName id="2024" name="Искаженная кара толпы" />
+	<SuitName id="2025" name="Искаженная кара ярости" />
+	<SuitName id="2026" name="Искаженная кара истины" />
+	<SuitName id="2027" name="Искаженная кара плети" />
+	<SuitName id="2028" name="Искаженная кара клыка" />
+	<SuitName id="2029" name="Искаженная кара вождя" />
+	<SuitName id="2031" name="Чистая кара ярости" />
+	<SuitName id="2032" name="Чистая кара истины" />
+	<SuitName id="2033" name="Чистая кара плети" />
+	<SuitName id="2034" name="Чистая кара клыка" />
+	<SuitName id="2035" name="Чистая кара вождя" />
+	<SuitName id="2041" name="Блеск зари I" />
+	<SuitName id="2042" name="Блеск зари II" />
+	<SuitName id="2043" name="Блеск зари III" />
+	<SuitName id="2044" name="Блеск зари IV" />
+	<SuitName id="2045" name="Блеск зари V" />
+	<SuitName id="2046" name="Блеск зари VI" />
+	<SuitName id="2047" name="Блеск зари VII" />
+	<SuitName id="2048" name="Блеск зари VIII" />
+	<SuitName id="2049" name="Блеск зари IX" />
+	<SuitName id="2051" name="Милость света" />
+	<SuitName id="2052" name="Милость веры" />
+	<SuitName id="2053" name="Милость дракона" />
+	<SuitName id="2054" name="Милость толпы" />
+	<SuitName id="2055" name="Милость ярости" />
+	<SuitName id="2056" name="Милость истины" />
+	<SuitName id="2057" name="Милость плети" />
+	<SuitName id="2058" name="Милость клыка" />
+	<SuitName id="2059" name="Милость вождя" />
+	<SuitName id="2061" name="Искаженная милость света" />
+	<SuitName id="2062" name="Искаженная милость веры" />
+	<SuitName id="2063" name="Искаженная милость дракона" />
+	<SuitName id="2064" name="Искаженная милость толпы" />
+	<SuitName id="2065" name="Искаженная милость ярости" />
+	<SuitName id="2066" name="Искаженная милость истины" />
+	<SuitName id="2067" name="Искаженная милость плети" />
+	<SuitName id="2068" name="Искаженная милость клыка" />
+	<SuitName id="2069" name="Искаженная милость вождя" />
+	<SuitName id="2071" name="Чистая милость ярости" />
+	<SuitName id="2072" name="Чистая милость истины" />
+	<SuitName id="2073" name="Чистая милость плети" />
+	<SuitName id="2074" name="Чистая милость клыка" />
+	<SuitName id="2075" name="Чистая милость вождя" />
+	<SuitName id="2081" name="Страж света" spec_effect_mod="set014"/>
+	<SuitName id="2082" name="Страж веры" spec_effect_mod="set014"/>
+	<SuitName id="2083" name="Страж дракона" spec_effect_mod="set014"/>
+	<SuitName id="2084" name="Страж толпы" spec_effect_mod="set014"/>
+	<SuitName id="2085" name="Страж ярости" spec_effect_mod="set014"/>
+	<SuitName id="2086" name="Страж истины" spec_effect_mod="set014"/>
+	<SuitName id="2087" name="Страж плети" spec_effect_mod="set014"/>
+	<SuitName id="2088" name="Страж клыка" spec_effect_mod="set014"/>
+	<SuitName id="2089" name="Страж вождя" spec_effect_mod="set014"/>
+	<SuitName id="2091" name="Искаженный страж света" spec_effect_mod="set015"/>
+	<SuitName id="2092" name="Искаженный страж веры" spec_effect_mod="set015"/>
+	<SuitName id="2093" name="Искаженный страж дракона" spec_effect_mod="set015"/>
+	<SuitName id="2094" name="Искаженный страж толпы" spec_effect_mod="set015"/>
+	<SuitName id="2095" name="Искаженный страж ярости" spec_effect_mod="set015"/>
+	<SuitName id="2096" name="Искаженный страж истины" spec_effect_mod="set015"/>
+	<SuitName id="2097" name="Искаженный страж плети" spec_effect_mod="set015"/>
+	<SuitName id="2098" name="Искаженный страж клыка" spec_effect_mod="set015"/>
+	<SuitName id="2099" name="Искаженный страж вождя" spec_effect_mod="set015"/>
+	<SuitName id="2101" name="Чистый страж ярости" spec_effect_mod="set11"/>
+	<SuitName id="2102" name="Чистый страж истины" spec_effect_mod="set11"/>
+	<SuitName id="2103" name="Чистый страж плети" spec_effect_mod="set11"/>
+	<SuitName id="2104" name="Чистый страж клыка" spec_effect_mod="set11"/>
+	<SuitName id="2105" name="Чистый страж вождя" spec_effect_mod="set11"/>
+	<SuitName id="2111" name="Вождь" spec_effect_mod="set09"/>
+	<SuitName id="2121" name="Зодиак" spec_effect_mod="set06"/>
+	<SuitName id="2131" name="Предатель" spec_effect_mod="set03"/>
+	<SuitName id="2141" name="Носитель правды" spec_effect_mod="set12"/>
+	<SuitName id="2151" name="Тардия" />
+	<SuitName id="2161" name="Офена" />
+	<SuitName id="2171" name="Аша" />
+	<SuitName id="2181" name="Ройнффин" />
+	<SuitName id="2191" name="Кара апокалипсиса" />
+	<SuitName id="2192" name="Кара сердца демона" />
+	<SuitName id="2201" name="Страж апокалипсиса" spec_effect_mod="set11"/>
+	<SuitName id="2202" name="Страж сердца демона" spec_effect_mod="set11"/>
+	<SuitName id="2211" name="Милость апокалипсиса" />
+	<SuitName id="2212" name="Милость сердца демона" />
+	<SuitName id="2221" name="Страж багрянца" spec_effect_mod="set014"/>
+	<SuitName id="2222" name="Страж волшебника" spec_effect_mod="set014"/>
+	<SuitName id="2223" name="Страж полета" spec_effect_mod="set014"/>
+	<SuitName id="2224" name="Страж усердия" spec_effect_mod="set014"/>
+	<SuitName id="2225" name="Страж отваги" spec_effect_mod="set014"/>
+	<SuitName id="2226" name="Страж элементалей" spec_effect_mod="set014"/>
+	<SuitName id="2227" name="Страж возмездия" spec_effect_mod="set014"/>
+	<SuitName id="2228" name="Страж тайны" spec_effect_mod="set014"/>
+	<SuitName id="2229" name="Страж нечисти" spec_effect_mod="set014"/>
+	<SuitName id="2231" name="Искаженный страж багрянца" spec_effect_mod="set015"/>
+	<SuitName id="2232" name="Искаженный страж волшебника" spec_effect_mod="set015"/>
+	<SuitName id="2233" name="Искаженный страж полета" spec_effect_mod="set015"/>
+	<SuitName id="2234" name="Искаженный страж усердия" spec_effect_mod="set015"/>
+	<SuitName id="2235" name="Искаженный страж отваги" spec_effect_mod="set015"/>
+	<SuitName id="2236" name="Искаженный страж элементалей" spec_effect_mod="set015"/>
+	<SuitName id="2237" name="Искаженный страж возмездия" spec_effect_mod="set015"/>
+	<SuitName id="2238" name="Искаженный страж тайны" spec_effect_mod="set015"/>
+	<SuitName id="2239" name="Искаженный страж нечисти" spec_effect_mod="set015"/>
+	<SuitName id="2241" name="Чистый страж отваги" spec_effect_mod="set11"/>
+	<SuitName id="2242" name="Чистый страж элементалей" spec_effect_mod="set11"/>
+	<SuitName id="2243" name="Чистый страж возмездия" spec_effect_mod="set11"/>
+	<SuitName id="2244" name="Чистый страж тайны" spec_effect_mod="set11"/>
+	<SuitName id="2245" name="Чистый страж нечисти" spec_effect_mod="set11"/>
+	<SuitName id="2251" name="Милость багрянца" />
+	<SuitName id="2252" name="Милость волшебника" />
+	<SuitName id="2253" name="Милость полета" />
+	<SuitName id="2254" name="Милость усердия" />
+	<SuitName id="2255" name="Милость отваги" />
+	<SuitName id="2256" name="Милость элементалей" />
+	<SuitName id="2257" name="Милость возмездия" />
+	<SuitName id="2258" name="Милость тайны" />
+	<SuitName id="2259" name="Милость нечисти" />
+	<SuitName id="2261" name="Искаженная милость багрянца" />
+	<SuitName id="2262" name="Искаженная милость волшебника" />
+	<SuitName id="2263" name="Искаженная милость полета" />
+	<SuitName id="2264" name="Искаженная милость усердия" />
+	<SuitName id="2265" name="Искаженная милость отваги" />
+	<SuitName id="2266" name="Искаженная милость элементалей" />
+	<SuitName id="2267" name="Искаженная милость возмездия" />
+	<SuitName id="2268" name="Искаженная милость тайны" />
+	<SuitName id="2269" name="Искаженная милость нечисти" />
+	<SuitName id="2271" name="Чистая милость отваги" />
+	<SuitName id="2272" name="Чистая милость элементалей" />
+	<SuitName id="2273" name="Чистая милость возмездия" />
+	<SuitName id="2274" name="Чистая милость тайны" />
+	<SuitName id="2275" name="Чистая милость нечисти" />
+	<SuitName id="2301" name="Сердце веры" />
+	<SuitName id="2302" name="Дух жертвы" />
+	<SuitName id="2303" name="Сила уничтожения" />
+	<SuitName id="3001" name="Жалость" />
+	<SuitName id="3002" name="Блик" />
+	<SuitName id="3003" name="Презрение" />
+	<SuitName id="3004" name="Упорство" />
+	<SuitName id="3005" name="Стремление" />
+	<SuitName id="3006" name="Пламя" />
+	<SuitName id="3007" name="Вера" />
+	<SuitName id="3008" name="Ярость тигра" />
+	<SuitName id="3009" name="Безумство ветра" />
+	<SuitName id="3011" name="Изменчивая реальность" />
+	<SuitName id="3012" name="Королевская милость" />
+	<SuitName id="3021" name="Натянутая тетива" />
+	<SuitName id="3022" name="Эра процветания" />
+	<SuitName id="3031" name="Спокойствие сердца" />
+	<SuitName id="3032" name="Радуга" />
+	<SuitName id="3033" name="Духи предков" />
+	<SuitName id="3034" name="Неистовость молний" />
+	<SuitName id="3035" name="Окрыляющая соната" />
+	<SuitName id="3041" name="Одиночество" />
+	<SuitName id="3042" name="Последняя надежда" />
+	<SuitName id="3051" name="Ряса монаха" />
+	<SuitName id="3052" name="Лазурное небо" />
+	<SuitName id="3101" name="Хаос" />
+	<SuitName id="3111" name="Ценность" />
+	<SuitName id="3201" name="Печать панды" spec_effect_mod=""/>
+	<SuitName id="3202" name="Костюм рыцаря Дракона" spec_effect_mod=""/>
+	<SuitName id="3203" name="Костюм демона Дракона" spec_effect_mod=""/>
+	<SuitName id="3204" name="Великолепный костюм Феникса" spec_effect_mod=""/>
+	<SuitName id="3205" name="Сверкающий костюм Феникса" spec_effect_mod=""/>
+	<SuitName id="3301" name="Небесный воин" spec_effect_mod=""/>
+	<SuitName id="3302" name="Собиратель звезд" spec_effect_mod=""/>
+	<SuitName id="3303" name="Песнопение" spec_effect_mod=""/>
+	<SuitName id="3304" name="Черное железо" spec_effect_mod=""/>
+	<SuitName id="3305" name="Призрачная сталь" spec_effect_mod=""/>
+	<SuitName id="3306" name="Чары" spec_effect_mod=""/>
+	<SuitName id="3307" name="Вопящий" spec_effect_mod=""/>
+	<SuitName id="3308" name="Феникс" spec_effect_mod=""/>
+	<SuitName id="3309" name="Убийца духов" spec_effect_mod=""/>
+	<SuitName id="3310" name="Хранитель духов" spec_effect_mod=""/>
+	<SuitName id="3311" name="Звуки природы" spec_effect_mod=""/>
+	<SuitName id="3312" name="Кровавый демон" spec_effect_mod=""/>
+	<SuitName id="3313" name="Мандат судьбы" spec_effect_mod=""/>
+	<SuitName id="3314" name="Суеверие" spec_effect_mod=""/>
+	<SuitName id="3315" name="Гибель рода" spec_effect_mod=""/>
+	<SuitName id="3316" name="Песнь Феникса" spec_effect_mod=""/>
+	<SuitName id="3317" name="Первый Британский наряд DIY" spec_effect_mod=""/>
+	<SuitName id="3318" name="Первый Наряд для отдыха DIY" spec_effect_mod=""/>
+	<SuitName id="3319" name="Первый Наряд Черного рыцаря DIY" spec_effect_mod=""/>
+	<SuitName id="3320" name="Первый Снеготканный наряд DIY" spec_effect_mod=""/>
+	<SuitName id="3321" name="Первый Наряд Милая полька DIY" spec_effect_mod=""/>
+	<SuitName id="3322" name="Первый Фиалковый наряд DIY" spec_effect_mod=""/>
+	<SuitName id="3323" name="Первый Пляжный наряд DIY" spec_effect_mod=""/>
+	<SuitName id="3324" name="Первый Темный наряд DIY" spec_effect_mod=""/>
+	<SuitName id="3325" name="Первый Наряд Языки пламени DIY" spec_effect_mod=""/>
+	<SuitName id="3326" name="Первый Наряд Чистая вера DIY" spec_effect_mod=""/>
+	<SuitName id="3327" name="Первый Наряд Превосходства DIY" spec_effect_mod=""/>
+	<SuitName id="3328" name="Первый Пляжный наряд жен. DIY" spec_effect_mod=""/>
+	<SuitName id="3329" name="Урок духовного покровителя" spec_effect_mod=""/>
+	<SuitName id="3330" name="Забота духовного покровителя" spec_effect_mod="set11"/>
+	<SuitName id="3331" name="Урок духовного защитника" spec_effect_mod=""/>
+	<SuitName id="3332" name="Забота духовного защитника" spec_effect_mod="set11"/>
+	<SuitName id="3341" name="Легенда" spec_effect_mod="set11"/>
+	<SuitName id="3342" name="Легенда" spec_effect_mod="set11"/>
+	<SuitName id="3343" name="Легенда" spec_effect_mod="set11"/>
+	<SuitName id="3344" name="Легенда" spec_effect_mod="set11"/>
+	<SuitName id="3345" name="Эгида" spec_effect_mod=""/>
+	<SuitName id="3346" name="Воитель" spec_effect_mod="set01"/>
+	<SuitName id="3347" name="Охотник" spec_effect_mod="set01"/>
+	<SuitName id="3348" name="Архимаг" spec_effect_mod="set01"/>
+	<SuitName id="3349" name="Проповедник" spec_effect_mod="set01"/>
+	<SuitName id="3350" name="Кровавая жатва" spec_effect_mod="set01"/>
+	<SuitName id="3351" name="Драконья клятва" spec_effect_mod="set01"/>
+	<SuitName id="3352" name="Ледяной шторм" spec_effect_mod="set01"/>
+	<SuitName id="3353" name="Резонанс душ" spec_effect_mod="set01"/>
+	<SuitName id="3354" name="Крылья" spec_effect_mod="set043"/>
+	<SuitName id="3355" name="Темная башня: Тардия" />
+	<SuitName id="3356" name="Темная башня: Офена" />
+	<SuitName id="3357" name="Темная башня: Аша" />
+	<SuitName id="3358" name="Темная башня: Ройффин" />
+	<SuitName id="3359" name="Разрушитель миров" />
+	<SuitName id="3360" name="Лук тысячи стрел" />
+	<SuitName id="3361" name="Посох ледяного дракона" />
+	<SuitName id="3362" name="Лира песни русалки" />
+	<SuitName id="3363" name="Буря в пустыне" />
+	<SuitName id="3364" name="Буря в пустыне" />
+	<SuitName id="3365" name="Пустынный волк" />
+	<SuitName id="3366" name="Охотник на драконов" />
+	<SuitName id="3367" name="Повелитель бурь" />
+	<SuitName id="3368" name="Песнь света" />
+	<SuitName id="3369" name="Буря в пустыне" />
+	<SuitName id="3370" name="Буря в пустыне" />
+	<SuitName id="3371" name="Буря в пустыне" />
+	<SuitName id="3372" name="Буря в пустыне" />
+	<SuitName id="3373" name="Ритм души" />
+	<SuitName id="3374" name="Ритм души" />
+	<SuitName id="3375" name="Ритм души" />
+	<SuitName id="3376" name="Ритм души" />
+	<SuitName id="3377" name="Ритм души" />
+	<SuitName id="3378" name="Ритм души" />
+	<SuitName id="3379" name="Ритм души" />
+	<SuitName id="3380" name="Ритм души" />
+</root>

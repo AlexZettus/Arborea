@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="40052" />
+    <entry Name="Узнайте получше Землю Эльфов" />
+    <entry Conditions="" />
+    <entry Overview="Найдите в &lt;N&gt;Земле Эльфов&lt;/N&gt; \n&lt;D&gt;&lt;L=s51, 5800078&gt;управляющего кухни&lt;/L&gt;&lt;/D&gt;, чтобы купить &lt;C&gt;1&lt;/C&gt; &lt;I&gt;семя медоноса&lt;/I&gt;. Затем возвращайтесь к управляющему \n&lt;D&gt;&lt;L=s51, 5800075&gt;Эйолу&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30115" />
+    <entry Name="Обмен звезд Ромен" />
+    <entry Conditions="" />
+    <entry Overview="Соберите &lt;C&gt;5&lt;/C&gt; &lt;I&gt;звезд Ромен&lt;/I&gt;, передайте их \n&lt;D&gt;&lt;L=s02,5516012&gt;богине красоты Грациане&lt;/L&gt;&lt;/D&gt; и обменяйте на &lt;C&gt;1&lt;/C&gt; &lt;color=0xffff80ff&gt;красивый подарок&lt;color=0xffffffff&gt;.&#x0A;\n&lt;I&gt;Звезды Ромен &lt;/I&gt; &lt;T&gt;можно получить &lt;/T&gt;&lt;P&gt;в Ромен &lt;/P&gt;, &lt;T&gt;выполнив ежедневное задание.&lt;/T&gt;" />
+</quest-local>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30693" />
+    <entry Name="Непримиримые войны Сноулэнда" />
+    <entry Conditions="" />
+    <entry Overview="В &lt;N&gt;&lt;Z=s06, 108724, 3000, 76926&gt;Месте власти&lt;/Z&gt;&lt;/N&gt; приговорите к смерти &lt;A&gt;Головореза&lt;/A&gt;, &lt;A&gt;Юриэли&lt;/A&gt; и &lt;A&gt;Медузу Горгону&lt;/A&gt;. Затем поговорите со \n&lt;D&gt;&lt;L=s02, 5600011&gt;Снегулой&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

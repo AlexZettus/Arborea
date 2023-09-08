@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="40010" />
+    <entry Name="Ремесленный навык" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь в &lt;N&gt;Рудник&lt;/N&gt; и поговорите с \n&lt;D&gt;&lt;L=d10, 5010025&gt;Фридом&lt;/L&gt;&lt;/D&gt;, чтобы обучиться сбору руды. Вход в &lt;N&gt;Рудник&lt;/N&gt; находится в &lt;A&gt;Долине Грома&lt;/A&gt;.&#x0A;\nНеобработанная руда используется при создании различных предметов." />
+</quest-local>

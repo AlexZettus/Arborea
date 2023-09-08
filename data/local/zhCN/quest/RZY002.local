@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="40002" />
+    <entry Name="Об эльфах" />
+    <entry Conditions="" />
+    <entry Overview="Поговорите с &lt;D&gt;&lt;L=s02, 5010023&gt;Фена&lt;/L&gt;&lt;/D&gt;, чтобы узнать больше об эльфах.\n&#x0A;\n" />
+</quest-local>

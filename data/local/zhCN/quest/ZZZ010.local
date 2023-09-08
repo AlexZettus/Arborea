@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="59010" />
+    <entry Name="Золотой ключик" />
+    <entry Conditions="" />
+    <entry Overview="Принесите &lt;D&gt;&lt;Z=s02,47600,27095,52500&gt;Мавлине&lt;/L&gt;&lt;/D&gt; несколько особенных предметов и получите в награду золотой ключик." />
+</quest-local>

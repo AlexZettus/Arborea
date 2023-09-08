@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20205" />
+    <entry Name="Важные образцы" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь на &lt;N&gt;Темную гору Ванарх&lt;/N&gt;, найдите \n&lt;A&gt;&lt;L=s04,1030014&gt;больших элементалей&lt;/L&gt;&lt;/A&gt;, добудьте &lt;C&gt;3&lt;/C&gt; цветущих камня и отнесите их &lt;D&gt;&lt;L=s04,5010076&gt;Джонасу&lt;/L&gt;&lt;/D&gt; в &lt;N&gt;Хеопс&lt;/N&gt;.\n&#x0A;\n&lt;S&gt;[Ур. 30]&lt;/S&gt;Сноулэнд: достигнув 30 Ур., вы можете отправиться в &lt;N&gt;Сноулэнд&lt;/N&gt; набираться опыта.&#x0A;" />
+</quest-local>

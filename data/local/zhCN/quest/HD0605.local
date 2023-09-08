@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="30605" />
+    <entry Name="Контроль Логова Зверя" />
+    <entry Conditions="Уничтожить последнего босса" />
+    <entry Overview="Ежедневно в &lt;C&gt;14：00, 18：00, 22：00&lt;/C&gt; в &lt;N&gt;Долине Грома&lt;/N&gt;, &lt;N&gt;Сноулэнде&lt;/N&gt; появляются &lt;D&gt;врата Логова Зверя&lt;/D&gt;. Соберите команду и поговорите с &lt;D&gt;вратами Логова Зверя&lt;/D&gt;, чтобы войти в &lt;D&gt;Логово Зверя&lt;/D&gt;." />
+</quest-local>

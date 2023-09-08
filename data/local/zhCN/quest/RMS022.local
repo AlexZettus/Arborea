@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20622" />
+    <entry Name="Протяни руку" />
+    <entry Conditions="" />
+    <entry Overview="Поговорите с &lt;D&gt;&lt;L=s08, 5010207&gt;Саулом&lt;/L&gt;&lt;/D&gt; еще раз. \n&#x0A;\n" />
+</quest-local>

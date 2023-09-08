@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+	<map_point id="1" type="1" show_name="Лес Теней" pos_x="13193" pos_y="1670" pos_z="1136" />
+	<map_point id="2" type="1" show_name="Список розыска" pos_x="14774" pos_y="1640" pos_z="1768" />
+	<map_point id="3" type="2" show_name="Привидение-силач" pos_x="11449" pos_y="1666" pos_z="5250" />
+	<map_point id="4" type="2" show_name="Привидение-дикарка" pos_x="10791" pos_y="1671" pos_z="8162" />
+	<map_point id="5" type="2" show_name="Привидение-колдун" pos_x="15197" pos_y="1686" pos_z="29655" />
+	<map_point id="6" type="2" show_name="Привидение-ассассин" pos_x="5654" pos_y="1675" pos_z="25425" />
+	<map_point id="7" type="2" show_name="Большое привидение-силач" pos_x="31335" pos_y="1705" pos_z="8535" />
+	<map_point id="8" type="2" show_name="Большое привидение-ассассин" pos_x="18281" pos_y="1644" pos_z="19677" />
+	<map_point id="9" type="2" show_name="Госпожа битвы Мистмун" pos_x="27097" pos_y="1644" pos_z="1967" />
+	<map_point id="10" type="2" show_name="Госпожа магии Файнфрост" pos_x="32098" pos_y="1646" pos_z="27842" />
+</root>

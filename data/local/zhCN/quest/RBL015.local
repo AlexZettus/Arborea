@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20215" />
+    <entry Name="У цветов есть шипы" />
+    <entry Conditions="" />
+    <entry Overview="Уничтожь 20 &lt;D&gt;&lt;L=s03,1030008&gt;Проклятых цветков&lt;/L&gt;&lt;/D&gt; в окрестностях Рагхилла и возвращайся к &lt;D&gt;&lt;L=s03,5010079&gt;Рори&lt;/L&gt;&lt;/D&gt; за наградой." />
+</quest-local>

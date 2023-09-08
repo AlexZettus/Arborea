@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="40013" />
+    <entry Name="Качество материалов" />
+    <entry Conditions="" />
+    <entry Overview="Соберите &lt;C&gt;10&lt;/C&gt; осколков &lt;I&gt;кристалла&lt;/I&gt;. Затем обратитесь к &lt;D&gt;&lt;L=s02, 5010024&gt;работодателю Роосу&lt;/L&gt;&lt;/D&gt;.\n&lt;T&gt;Монстры выше 20 уровня с определенной вероятностью содержат кристалл.&lt;/T&gt;" />
+</quest-local>

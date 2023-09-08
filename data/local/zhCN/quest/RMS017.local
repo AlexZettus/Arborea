@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20617" />
+    <entry Name="Гора Луны и Солнца" />
+    <entry Conditions="" />
+    <entry Overview="Убейте &lt;C&gt;100&lt;/C&gt; &lt;A&gt;&lt;L=s08, 1070015&gt;штормовых рубак&lt;/L&gt;&lt;/A&gt; и \n&lt;C&gt;100&lt;/C&gt; &lt;A&gt;&lt;L=s08, 1070016&gt;штормовых прислужников&lt;/L&gt;&lt;/A&gt;. Затем вернитесь и поговорите с &lt;D&gt;&lt;L=s08, 5010206&gt;Йору&lt;/L&gt;&lt;/D&gt;. " />
+</quest-local>

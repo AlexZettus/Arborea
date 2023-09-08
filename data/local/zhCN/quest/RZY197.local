@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="40202" />
+    <entry Name="1. Поиск ресурсов" />
+    <entry Conditions="" />
+    <entry Overview="Принесите &lt;D&gt;&lt;L=s02, 5010081&gt;мастеру ремесел Эврике&lt;/L&gt;&lt;/D&gt; &lt;A&gt;10&lt;/A&gt; &lt;A&gt;Кристаллов бездны&lt;/A&gt;, &lt;A&gt;10&lt;/A&gt; &lt;A&gt;Камней демонического яда&lt;/A&gt; в знак подтверждения вашего мастерства. Эти предметы можно получить при прохождении подземелий или при разборе снаряжения." />
+</quest-local>

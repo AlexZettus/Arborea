@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20508" />
+    <entry Name="Вестник Зла" />
+    <entry Conditions="" />
+    <entry Overview="Достигнув уровня &lt;C&gt;69&lt;/C&gt;, отправляйтесь в &lt;N&gt;Болото Накси&lt;/N&gt; и найдите Вестника зла &lt;D&gt;&lt;L=s07, 5010166&gt;Монара&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

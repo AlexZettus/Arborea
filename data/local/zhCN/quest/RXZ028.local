@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20428" />
+    <entry Name="Вернуться и доложить" />
+    <entry Conditions="" />
+    <entry Overview="Завершите задания в &lt;N&gt;Лесу Теней&lt;/N&gt; и повысьте свой уровень до &lt;C&gt;65&lt;/C&gt;. Затем возвращайтесь в Тарио и обратитесь к &lt;D&gt;&lt;L=s02, 5010029&gt;королю Марсу&lt;/L&gt;&lt;/D&gt;.&#xA;" />
+</quest-local>

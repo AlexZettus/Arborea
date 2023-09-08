@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20651" />
+    <entry Name="Ад Нефритовых ворот" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь на запад в &lt;N&gt;Горы Нефритовых ворот&lt;/N&gt;, или в &lt;N&gt;Замок святых&lt;/N&gt;, чтобы убить \n&lt;A&gt;&lt;L=d08, 1070041&gt;жрицу-ведьму&lt;/L&gt;&lt;/A&gt; и добыть &lt;C&gt;500&lt;/C&gt; &lt;I&gt;Грешных душ&lt;/I&gt;. Затем отнесите их &lt;D&gt;&lt;L=s08, 5010210&gt;Уолтеру&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

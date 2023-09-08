@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+	<map_point id="1" type="1" show_name="Пандора" pos_x="3000" pos_y="254" pos_z="17500" />
+	<map_point id="2" type="1" show_name="Список розыска" pos_x="2807" pos_y="235" pos_z="16830" />
+	<map_point id="3" type="2" show_name="Темный огр" pos_x="4814" pos_y="210" pos_z="14229" />
+	<map_point id="4" type="2" show_name="Пещерный дикарь" pos_x="5830" pos_y="209" pos_z="20318" />
+	<map_point id="5" type="2" show_name="Пещерный дух" pos_x="16283" pos_y="338" pos_z="6484" />
+	<map_point id="6" type="2" show_name="Виктор" pos_x="13990" pos_y="192" pos_z="21880" />
+</root>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="59007" />
+    <entry Name="Неведомые письмена" />
+    <entry Conditions="" />
+    <entry Overview="Принесите &lt;D&gt;&lt;Z=s02,48900,27095,50650&gt;Тифлету&lt;/L&gt;&lt;/D&gt; письмена о древних стихиях. Вы можете получить эти книги при прохождении подземелий." />
+</quest-local>

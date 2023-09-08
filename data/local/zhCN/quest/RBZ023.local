@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20323" />
+    <entry Name="Найти Фьюми" />
+    <entry Conditions="" />
+    <entry Overview="Шера хочет, чтобы вы нашли &lt;N&gt;Перевозчика Трайлокию&lt;/N&gt;, попали на Землю в &lt;N&gt;Сноулэнд&lt;/N&gt;. Отправляйтесь в Святой город и найдите \nповелительницу реки &lt;D&gt;&lt;L=s05, 5010094&gt;Фьюми&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

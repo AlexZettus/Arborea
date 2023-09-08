@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="41000" />
+    <entry Name="Выбор класса" />
+    <entry Conditions="" />
+    <entry Overview="Поговорите с \n&lt;D&gt;&lt;L=s02, 5010192&gt;Духом копья&lt;/L&gt;&lt;/D&gt;, \n&lt;D&gt;&lt;L=s02, 5010193&gt;Духом лука&lt;/L&gt;&lt;/D&gt;, \n&lt;D&gt;&lt;L=s02, 5010194&gt;Духом лиры&lt;/L&gt;&lt;/D&gt;, \n&lt;D&gt;&lt;L=s02, 5010195&gt;Духом артефакта&lt;/L&gt;&lt;/D&gt;, чтобы узнать об особенностях классов. Затем сообщите \nофицеру &lt;D&gt;&lt;L=s02, 5010196&gt;Аделю&lt;/L&gt;&lt;D&gt; свое решение." />
+</quest-local>

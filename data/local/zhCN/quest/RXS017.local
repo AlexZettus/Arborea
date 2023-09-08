@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20017" />
+    <entry Name="Новое приключение" />
+    <entry Conditions="" />
+    <entry Overview="Повысь свой уровень до &lt;C&gt;10-го&lt;/C&gt;, чтобы отправиться в Тарио. Поговорите с &lt;D&gt;&lt;L=s01,5510608&gt;Розали&lt;/L&gt;&lt;/D&gt;. Она покажет вам путь в Тарио.\n&#x0A;\n&lt;S&gt;[Ур. 10]&lt;/S&gt;Конкурс знаний: достигнув 10 Ур., вы можете участвовать в &lt;P&gt;Конкурсе знаний.&lt;/P&gt;\n&#x0A;\n" />
+</quest-local>

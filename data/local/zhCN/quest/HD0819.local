@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30819" />
+    <entry Name="Очень красивое платье" />
+    <entry Conditions="Поговорить с Эльзой" />
+    <entry Overview="Поговорите с &lt;D&gt;&lt;L=s02,5610050&gt;Эльзой.&lt;/L&gt;&lt;/D&gt;" />
+</quest-local>

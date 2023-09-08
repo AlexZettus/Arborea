@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20515" />
+    <entry Name="Уважение к смерти" />
+    <entry Conditions="" />
+    <entry Overview="Убейте &lt;color=0xffff0000&gt;&lt;L=d07, 1060051&gt;воина Скайсикла&lt;/L&gt;&lt;color=0xffffffff&gt;, &lt;color=0xffff0000&gt;&lt;L=d07, 1060052&gt;Небесного камнестража&lt;/L&gt;&lt;color=0xffffffff&gt;, \n&lt;color=0xffff0000&gt;&lt;L=d07, 1060053&gt;Тень Ветра&lt;/L&gt;&lt;color=0xffffffff&gt;. Затем вернитесь и расскажите об этом \n&lt;D&gt;&lt;L=s07, 5010167&gt;Монату&lt;/L&gt;&lt;/D&gt;. " />
+</quest-local>

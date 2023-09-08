@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<wuxing id="1000001" discription="★ Макс. ОЗ +3000"/>
+	<wuxing id="1000002" discription="☆ Макс. ОЗ +2000"/>
+	<wuxing id="1000003" discription="☆ Сопр. урону +20"/>
+	<wuxing id="1000004" discription="☆ Сопр. ослаблению +20"/>
+	<wuxing id="1000005" discription="☆ Сопр. хаосу +20"/>
+	<wuxing id="1000006" discription="☆ Сопр. замедлению +20"/>
+	<wuxing id="1000007" discription="☆ Доп. поглощение урона +10"/>
+	<wuxing id="1000008" discription="☆ Уклонение +2%"/>
+	<wuxing id="1000009" discription="☆ Сопротивляемость +2%"/>
+	<wuxing id="1000010" discription="☆ Сила +200"/>
+	<wuxing id="1000011" discription="☆ Боевой урон +10"/>
+	<wuxing id="1000012" discription="☆ Боевая душа +10"/>
+	<wuxing id="1000013" discription="☆ Доп. урон +10"/>
+	<wuxing id="1000014" discription="☆ Крит. удар +1%"/>
+	<wuxing id="1000015" discription="☆ Крит. урон +10%"/>
+	<wuxing id="1000016" discription="☆ Макс. ОЗ +2000"/>
+	<wuxing id="1000017" discription="★☆ Сопр. урону +30"/>
+	<wuxing id="1000018" discription="★★ Сопр. ослаблению +30"/>
+	<wuxing id="1000019" discription="★☆ Сопр. хаосу +30"/>
+	<wuxing id="1000020" discription="★☆ Сопр. замедлению +30"/>
+	<wuxing id="1000021" discription="★☆ Доп. поглощение урона +50"/>
+	<wuxing id="1000022" discription="★☆ Уклонение +4%"/>
+	<wuxing id="1000023" discription="★☆ Сопротивляемость +4%"/>
+	<wuxing id="1000024" discription="★☆ Сила +500"/>
+	<wuxing id="1000025" discription="★★ Боевой урон +50"/>
+	<wuxing id="1000026" discription="★★ Боевая душа +50"/>
+	<wuxing id="1000027" discription="★★ Доп. урон +50"/>
+	<wuxing id="1000028" discription="★★ Крит. удар +3%"/>
+	<wuxing id="1000029" discription="★★ Крит. урон +15%"/>
+	<wuxing id="1000030" discription="★☆ Макс. ОЗ +3000"/>
+	<wuxing id="1000031" discription="★★ Сила +1000"/>
+	<wuxing id="1000032" discription="★★☆ Крит. удар +5%"/>
+	<wuxing id="1000033" discription="★★ Сопр. урону +40"/>
+	<wuxing id="1000034" discription="★★ Сопр. ослаблению +40"/>
+	<wuxing id="1000035" discription="★★★ Сопр. хаосу +40"/>
+	<wuxing id="1000036" discription="★★ Сопр. замедлению +40"/>
+	<wuxing id="1000037" discription="★★☆ Уклонение +12%"/>
+	<wuxing id="1000038" discription="★★☆ Сопротивляемость +12%"/>
+	<wuxing id="1000039" discription="★★★ Боевой урон +80"/>
+	<wuxing id="1000040" discription="★★★ Боевая душа +80"/>
+	<wuxing id="1000041" discription="★★☆ Доп. урон +200"/>
+	<wuxing id="1000042" discription="★★☆ Макс. ОЗ +4000"/>
+	<wuxing id="1000043" discription="★★☆ Крит. урон +20%"/>
+	<wuxing id="1000044" discription="★★ Сила +1000"/>
+	<wuxing id="1000045" discription="★★ Крит. удар +5%"/>
+	<wuxing id="1000046" discription="★★ Сопр. урону +40"/>
+	<wuxing id="1000047" discription="★★ Сопр. ослаблению +40"/>
+	<wuxing id="1000048" discription="★★ Сопр. хаосу +40"/>
+	<wuxing id="1000049" discription="★★ Сопр. замедлению +40"/>
+	<wuxing id="1000050" discription="★★ Уклонение +12%"/>
+	<wuxing id="1000051" discription="★★ Сопротивляемость +12%"/>
+	<wuxing id="1000052" discription="★★☆ Боевой урон +80"/>
+	<wuxing id="1000053" discription="★★☆ Боевая душа +80"/>
+	<wuxing id="1000054" discription="★★ Доп. урон +200"/>
+	<wuxing id="1000055" discription="★★ Макс. ОЗ +4000"/>
+	<wuxing id="1000056" discription="★★ Крит. урон +25%"/>
+	<wuxing id="1000057" discription="★★☆ Сила +1500"/>
+	<wuxing id="1000058" discription="★★☆ Крит. удар +8%"/>
+	<wuxing id="1000059" discription="★★ Сопр. урону +60"/>
+	<wuxing id="1000060" discription="★★ Сопр. ослаблению +60"/>
+	<wuxing id="1000061" discription="★★★ Сопр. хаосу +60"/>
+	<wuxing id="1000062" discription="★★ Сопр. замедлению +60"/>
+	<wuxing id="1000063" discription="★★☆ Уклонение +16%"/>
+	<wuxing id="1000064" discription="★★☆ Сопротивляемость +16%"/>
+	<wuxing id="1000065" discription="★★★ Боевой урон +100"/>
+	<wuxing id="1000066" discription="★★★ Боевая душа +100"/>
+	<wuxing id="1000067" discription="★★☆ Доп. урон +250"/>
+	<wuxing id="1000068" discription="★★★ Макс. ОЗ +6000"/>
+	<wuxing id="1000069" discription="★★☆ Крит. урон +30%"/>
+	<wuxing id="1000070" discription="★★ Сила +1500"/>
+	<wuxing id="1000071" discription="★★ Крит. удар +8%"/>
+	<wuxing id="1000072" discription="★★ Сопр. урону +60"/>
+	<wuxing id="1000073" discription="★★ Сопр. ослаблению +60"/>
+	<wuxing id="1000074" discription="★★☆ Сопр. хаосу +60"/>
+	<wuxing id="1000075" discription="★★ Сопр. замедлению +60"/>
+	<wuxing id="1000076" discription="★★ Уклонение +16%"/>
+	<wuxing id="1000077" discription="★★ Сопротивляемость +16%"/>
+	<wuxing id="1000078" discription="★★☆ Боевой урон +100"/>
+	<wuxing id="1000079" discription="★★☆ Боевая душа +100"/>
+	<wuxing id="1000080" discription="★★ Доп. урон +250"/>
+	<wuxing id="1000081" discription="★★ Макс. ОЗ +6000"/>
+	<wuxing id="1000082" discription="★★☆ Крит. урон +25%"/>
+	<wuxing id="1000083" discription="★★★ Сила +2000"/>
+	<wuxing id="1000084" discription="★★★ Крит. удар +10%"/>
+	<wuxing id="1000085" discription="★★ Сопр. урону +80"/>
+	<wuxing id="1000086" discription="★★ Сопр. ослаблению +80"/>
+	<wuxing id="1000087" discription="★★★ Сопр. хаосу +80"/>
+	<wuxing id="1000088" discription="★★ Сопр. замедлению +80"/>
+	<wuxing id="1000089" discription="★★☆ Уклонение +20%"/>
+	<wuxing id="1000090" discription="★★☆ Сопротивляемость +20%"/>
+	<wuxing id="1000091" discription="★★★ Боевой урон +120"/>
+	<wuxing id="1000092" discription="★★★ Боевая душа +120"/>
+	<wuxing id="1000093" discription="★★★ Доп. урон +300"/>
+	<wuxing id="1000094" discription="★★★ Макс. ОЗ +8000"/>
+	<wuxing id="1000095" discription="★★★ Крит. урон +30%"/>
+	<wuxing id="1000102" discription="★ Макс. ОЗ +3000"/>
+	<wuxing id="1000103" discription="☆ Макс. ОЗ +2000"/>
+	<wuxing id="1000104" discription="★ Макс. ОЗ +3000"/>
+	<wuxing id="1000105" discription="☆ Макс. ОЗ +2000"/>
+</root>

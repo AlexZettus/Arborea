@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30776" />
+    <entry Name="Обмен вечного пламени" />
+    <entry Conditions="" />
+    <entry Overview="Соберите &lt;C&gt;50&lt;/C&gt; &lt;I&gt;вечного пламени&lt;/I&gt; и отдайте их \n&lt;D&gt;&lt;L=s52, 5600035&gt;меняле титулов Ромен&lt;/L&gt;&lt;/D&gt;, чтобы получить титул &lt;I&gt;Дон Жуана&lt;/I&gt; или &lt;I&gt;Красотка&lt;/I&gt;.\nОтдайте &lt;I&gt;розу любви&lt;/I&gt; или &lt;I&gt;вкуснейший шоколад&lt;/I&gt; игрокам разного пола, чтобы получить &lt;I&gt;вечное пламя&lt;/I&gt;." />
+</quest-local>

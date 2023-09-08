@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20615" />
+    <entry Name="Сердце Аида" />
+    <entry Conditions="" />
+    <entry Overview="Поговорите с &lt;D&gt;&lt;L=s08, 5010206&gt;Йору&lt;/L&gt;&lt;/D&gt; еще раз. " />
+</quest-local>

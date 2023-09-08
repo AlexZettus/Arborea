@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<map_point id="1" type="1" show_name="Александра" pos_x="7700" pos_y="8327" pos_z="8450"/>
+	<map_point id="2" type="1" show_name="Гарен" pos_x="19000" pos_y="9013" pos_z="24450"/>
+	<map_point id="3" type="1" show_name="Мартин" pos_x="18500" pos_y="8999" pos_z="26000"/>
+	<map_point id="4" type="1" show_name="Луна" pos_x="37100" pos_y="9373" pos_z="15650"/>
+	<map_point id="5" type="1" show_name="Айла" pos_x="47200" pos_y="9753" pos_z="18150"/>
+	<map_point id="6" type="1" show_name="Клайд" pos_x="55100" pos_y="11035" pos_z="33900"/>
+	<map_point id="7" type="1" show_name="Аша" pos_x="43300" pos_y="13025" pos_z="30050"/>
+	<map_point id="8" type="1" show_name="Радомир" pos_x="30800" pos_y="12999" pos_z="50750"/>
+	<map_point id="9" type="1" show_name="Григор" pos_x="28350" pos_y="13017" pos_z="56300"/>
+	<map_point id="10" type="1" show_name="Шая" pos_x="30200" pos_y="13018" pos_z="54850"/>
+	<map_point id="11" type="1" show_name="Эбби" pos_x="25650" pos_y="12991" pos_z="54700"/>
+	<map_point id="12" type="1" show_name="Эстер" pos_x="13200" pos_y="16046" pos_z="53700"/>
+	
+	<map_point id="13" type="2" show_name="Дикий шершень" pos_x="29300" pos_y="9235" pos_z="15400"/>
+	<map_point id="14" type="2" show_name="Цветочная сирена" pos_x="38350" pos_y="9248" pos_z="21950"/>
+	<map_point id="15" type="2" show_name="Гоблин-охотник" pos_x="57400" pos_y="10153" pos_z="11700"/>
+	<map_point id="16" type="2" show_name="Гоблин-шаман" pos_x="60500" pos_y="10242" pos_z="11550"/>
+	<map_point id="17" type="2" show_name="Огненный голем" pos_x="54200" pos_y="11342" pos_z="36400"/>
+	<map_point id="18" type="2" show_name="Лавовый бес" pos_x="28200" pos_y="12998" pos_z="53600"/>
+	<map_point id="19" type="2" show_name="Заркан" pos_x="17600" pos_y="13175" pos_z="46300"/>
+</root>

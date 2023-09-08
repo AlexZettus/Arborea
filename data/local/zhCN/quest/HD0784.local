@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30784" />
+    <entry Name="Разрешение на работу в Ромен" />
+    <entry Conditions="" />
+    <entry Overview="Вы можете попросить \n&lt;D&gt;&lt;L=s52, 5600029&gt;господина Больбо&lt;/L&gt;&lt;/D&gt; дать вам &lt;C&gt;10&lt;/C&gt; карточек с &lt;I&gt;разрешением на работу в Ромен&lt;/I&gt;." />
+</quest-local>

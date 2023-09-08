@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20309" />
+    <entry Name="Затерявшийся во мраке" />
+    <entry Conditions="" />
+    <entry Overview="Войдите в &lt;N&gt;Логово Ящера&lt;/N&gt; и найдите пропавшего брата Алекса - &lt;D&gt;&lt;L=d03, 5010091&gt;Нила&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

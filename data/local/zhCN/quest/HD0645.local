@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30645" />
+    <entry Name="Снежная королева" />
+    <entry Conditions="" />
+    <entry Overview="Возьмите &lt;I&gt;слезу эльфа&lt;/I&gt; и в &lt;N&gt;Пандоре&lt;/N&gt; \nу \n&lt;D&gt;&lt;L=s03, 5513005&gt;призрака Гадикары&lt;/L&gt;&lt;/D&gt; обменяйте \nна &lt;I&gt;камень снежной королевы&lt;/I&gt;.\n Капли слез эльфов содержат таинственную силу, которая жива только &lt;C&gt;10&lt;/C&gt; мин." />
+</quest-local>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30830" />
+    <entry Name="Уноси, что не съешь!" />
+    <entry Conditions="" />
+    <entry Overview="" />
+</quest-local>

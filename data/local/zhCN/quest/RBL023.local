@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20223" />
+    <entry Name="Скрытая угроза" />
+    <entry Conditions="" />
+    <entry Overview="Убейте &lt;C&gt;15&lt;/C&gt; &lt;A&gt;&lt;L=s04,1030013&gt;громовых камней&lt;/L&gt;&lt;/A&gt; и соберите &lt;C&gt;15&lt;/C&gt; &lt;M&gt;элементалей камня&lt;/M&gt;.\nЗатем вернитесь к &lt;D&gt;&lt;L=s02, 5010029&gt;Королю Марсу&lt;/L&gt;&lt;/D&gt;.\nУбив &lt;A&gt;&lt;L=s04,1030011&gt; элементаля руин&lt;/L&gt;&lt;/A&gt;, можно получить &lt;M&gt;элементаль камня&lt;/M&gt;.\n&#x0A;\n&lt;S&gt;[Ур. 30]&lt;/S&gt;Сноулэнд: достигнув 30 Ур., вы можете отправиться в &lt;N&gt;Сноулэнд&lt;/N&gt; набираться опыта.&#x0A;" />
+</quest-local>

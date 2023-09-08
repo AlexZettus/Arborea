@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20203" />
+    <entry Name="Пыльца для эльфа" />
+    <entry Conditions="" />
+    <entry Overview="Найди в округе возле Танбурта &lt;D&gt;&lt;L=s03, 6010010&gt;Грубую эльфийскую пыльцу&lt;/L&gt;&lt;/D&gt;. Собери 4 штуки и принеси их Хранителю эльфов." />
+</quest-local>

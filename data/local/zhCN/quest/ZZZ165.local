@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="52152" />
+    <entry Name="В западне" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйся в Сноулэнд и распечатай 3 магические ловушки. Когда найдешь их, возвращайся к Келли (Тарио, 320 444) за наградой." />
+</quest-local>

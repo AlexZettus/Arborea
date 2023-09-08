@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30922" />
+    <entry Name="Свиток Испытаний Сокровищницы" />
+    <entry Conditions="" />
+    <entry Overview="Только после того, как Герой завладеет Свитком, он сможет войти в Сокровищницу." />
+</quest-local>

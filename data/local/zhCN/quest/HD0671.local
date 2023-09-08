@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30671" />
+    <entry Name="Яростные войны Сноулэнда" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь к &lt;N&gt;Горе Смерти&lt;/N&gt; и уничтожьте в &lt;N&gt;Пещере песка&lt;/N&gt; \n&lt;A&gt;&lt;L=d09, 1070060&gt;гигантского пещерного камнестража&lt;/L&gt;&lt;/A&gt;, а на &lt;N&gt;Изумрудной горе&lt;/N&gt; - \n&lt;A&gt;&lt;L=s08, 1070063&gt;небесного дикаря&lt;/L&gt;&lt;/A&gt;. Затем поговорите со \n&lt;D&gt;&lt;L=s02, 5600011&gt;Снегулой&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

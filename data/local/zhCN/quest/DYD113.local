@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="52182" />
+    <entry Name="Славный садовод" />
+    <entry Conditions="" />
+    <entry Overview="Соберите любое свое растение в Долине Орбис и вернитесь к Эйол (Долина Орбис, 617 1827) за наградой. В награду вы получите 3 очка славы." />
+</quest-local>

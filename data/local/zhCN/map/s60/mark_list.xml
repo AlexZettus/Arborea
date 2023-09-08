@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<map_point id="1" type="1" show_name="Страж Кафедрала" pos_x="43550" pos_y="19256" pos_z="62500"/>
+	<map_point id="2" type="1" show_name="Наставник Кафедрала" pos_x="43650" pos_y="19249" pos_z="63450"/>
+	<map_point id="3" type="1" show_name="Торговец Элизиума" pos_x="43400" pos_y="19236" pos_z="63450"/>
+	<map_point id="4" type="2" show_name="Страж Бастиона" pos_x="89650" pos_y="18922" pos_z="63200"/>
+	<map_point id="5" type="2" show_name="Наставник Бастиона" pos_x="89400" pos_y="18922" pos_z="64300"/>
+	<map_point id="6" type="2" show_name="Торговец Абсолема" pos_x="89700" pos_y="18922" pos_z="64300"/>
+	<map_point id="7" type="3" show_name="Регистратор боёв 1 на 1" pos_x="64000" pos_y="20287" pos_z="65200"/>
+	<map_point id="8" type="3" show_name="Кразен" pos_x="63600" pos_y="20287" pos_z="61350"/>
+	<map_point id="9" type="3" show_name="Агринар" pos_x="64650" pos_y="20287" pos_z="61350"/>
+</root>

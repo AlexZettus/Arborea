@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="52007" />
+    <entry Name="Захват Дворца Сокровищ" />
+    <entry Conditions="" />
+    <entry Overview="Прибудь во &lt;N&gt;Дворец Сокровищ&lt;/N&gt; и уничтож &lt;A&gt;старших ученых&lt;/A&gt;. После завершения задания вернись к \n&lt;D&gt;&lt;L=s02,1086099&gt;Фернану Магеллану&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

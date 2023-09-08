@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30792" />
+    <entry Name="Просьба Эльзы" />
+    <entry Conditions="Выполнить 5 заданий" />
+    <entry Overview="Отправляйтесь к эмиссару мастерства &lt;D&gt;&lt;L=s02,5010057&gt;Парту&lt;/L&gt;&lt;/D&gt; и выполните 5 заданий. Затем вернитеськ &lt;D&gt;&lt;L=s02,5610050&gt;Эльзе.&lt;/L&gt;&lt;/D&gt;" />
+</quest-local>

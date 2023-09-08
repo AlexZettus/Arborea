@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="29027" />
+    <entry Name="Правосудие в Гробнице Менеса" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь в &lt;N&gt;Гробницу Менеса&lt;/N&gt;, войдите внутрь, убейте &lt;A&gt;стражей гробницы&lt;/A&gt; - &lt;C&gt;70&lt;/C&gt;, &lt;A&gt;ужасов пустыни&lt;/A&gt; - &lt;C&gt;25&lt;/C&gt;, &lt;A&gt;песчаных духов&lt;/A&gt; - &lt;C&gt;25&lt;/C&gt;, а затем расправьтесь с &lt;A&gt;Менесом&lt;/A&gt;. После этого вернитесь к \n&lt;D&gt;&lt;L=s02, 5010227&gt;Судье Аусвейду&lt;/L&gt;&lt;/D&gt;. &#xA;" />
+</quest-local>

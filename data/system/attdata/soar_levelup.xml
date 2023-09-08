@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<soar_levelup id="0" soar_levelupexp="75" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="100000"/>
+	<soar_levelup id="1" soar_levelupexp="210" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="120000"/>
+	<soar_levelup id="2" soar_levelupexp="405" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="140000"/>
+	<soar_levelup id="3" soar_levelupexp="660" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="170000"/>
+	<soar_levelup id="4" soar_levelupexp="975" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="200000"/>
+	<soar_levelup id="5" soar_levelupexp="1350" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="230000"/>
+	<soar_levelup id="6" soar_levelupexp="1785" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="260000"/>
+	<soar_levelup id="7" soar_levelupexp="2280" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="300000"/>
+	<soar_levelup id="8" soar_levelupexp="2835" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="300000"/>
+	<soar_levelup id="9" soar_levelupexp="3450" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="300000"/>
+	<soar_levelup id="10" soar_levelupexp="3950" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="310000"/>
+	<soar_levelup id="11" soar_levelupexp="4860" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="321000"/>
+	<soar_levelup id="12" soar_levelupexp="5655" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="333000"/>
+	<soar_levelup id="13" soar_levelupexp="6510" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="346000"/>
+	<soar_levelup id="14" soar_levelupexp="7425" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="360000"/>
+	<soar_levelup id="15" soar_levelupexp="8400" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="375000"/>
+	<soar_levelup id="16" soar_levelupexp="9435" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="391000"/>
+	<soar_levelup id="17" soar_levelupexp="10530" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="408000"/>
+	<soar_levelup id="18" soar_levelupexp="11685" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="426000"/>
+	<soar_levelup id="19" soar_levelupexp="12900" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="445000"/>
+	<soar_levelup id="20" soar_levelupexp="14175" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="465000"/>
+	<soar_levelup id="21" soar_levelupexp="15510" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="486000"/>
+	<soar_levelup id="22" soar_levelupexp="16905" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="508000"/>
+	<soar_levelup id="23" soar_levelupexp="18360" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="531000"/>
+	<soar_levelup id="24" soar_levelupexp="19875" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="555000"/>
+	<soar_levelup id="25" soar_levelupexp="21450" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="580000"/>
+	<soar_levelup id="26" soar_levelupexp="23085" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="606000"/>
+	<soar_levelup id="27" soar_levelupexp="24780" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="633000"/>
+	<soar_levelup id="28" soar_levelupexp="26535" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="661000"/>
+	<soar_levelup id="29" soar_levelupexp="28350" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="690000"/>
+	<soar_levelup id="30" soar_levelupexp="28350" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="690000"/>
+	<soar_levelup id="31" soar_levelupexp="30225" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="720000"/>
+	<soar_levelup id="32" soar_levelupexp="32160" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="751000"/>
+	<soar_levelup id="33" soar_levelupexp="34155" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="783000"/>
+	<soar_levelup id="34" soar_levelupexp="36210" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="816000"/>
+	<soar_levelup id="35" soar_levelupexp="38325" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="850000"/>
+	<soar_levelup id="36" soar_levelupexp="40500" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="885000"/>
+	<soar_levelup id="37" soar_levelupexp="42735" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="921000"/>
+	<soar_levelup id="38" soar_levelupexp="45030" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="958000"/>
+	<soar_levelup id="39" soar_levelupexp="47385" green_num="10" blue_num="50" orange_num="140" purple_num="300" pink_num="1000" money_cost="996000"/>
+	<soar_levelup id="40" soar_levelupexp="0" green_num="0" blue_num="0" orange_num="0" purple_num="0" pink_num="0" money_cost="0"/>
+</root>

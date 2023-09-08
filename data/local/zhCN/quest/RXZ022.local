@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20422" />
+    <entry Name="Призраки в лесу" />
+    <entry Conditions="" />
+    <entry Overview="Убейте &lt;C&gt;85&lt;/C&gt; &lt;A&gt;&lt;L=s06, 1050021&gt;привидений-провидцев&lt;/L&gt;&lt;/A&gt;. Затем вернитесь к &lt;D&gt;&lt;L=s06, 5010162&gt;Синтии&lt;/L&gt;&lt;/D&gt;.&#xA;" />
+</quest-local>

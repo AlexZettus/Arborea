@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="59009" />
+    <entry Name="33 богатыря" />
+    <entry Conditions="" />
+    <entry Overview="Помогите &lt;D&gt;&lt;Z=s02,47250,27095,52750&gt;Адмиралу Беловоду&lt;/L&gt;&lt;/D&gt;, принесите ресурсы для починки доспехов 33 богатырей и получите заслуженную награду." />
+</quest-local>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="40030" />
+    <entry Name="Поимка и зачаровывание души" />
+    <entry Conditions="" />
+    <entry Overview="Используйте Обычный ловец душ на &lt;I&gt;кольце эксперимента+2&lt;/I&gt; и получите &lt;C&gt;1&lt;/C&gt; &lt;I&gt;камень души+2&lt;/I&gt;. Затем вернитесь к &lt;D&gt;&lt;L=s02, 5010084&gt;инструктору душ Карею&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+	<map_point id="1" type="1" show_name="Пандора" pos_x="3750" pos_y="3200" pos_z="9250" />
+	<map_point id="2" type="1" show_name="Коробейник" pos_x="4845" pos_y="3159" pos_z="9860" />
+	<map_point id="3" type="1" show_name="Фрид" pos_x="5045" pos_y="3152" pos_z="9218" />
+</root>

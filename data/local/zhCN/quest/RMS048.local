@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20648" />
+    <entry Name="Поиск Уолтера" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь к &lt;N&gt;Лунному источнику&lt;/N&gt; и поговорите с \n&lt;D&gt;&lt;L=s08, 5010210&gt;Уолтером&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

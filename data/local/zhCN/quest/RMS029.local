@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20629" />
+    <entry Name="Высокомерный Марс" />
+    <entry Conditions="" />
+    <entry Overview="Вернитесь в &lt;N&gt;Тарио&lt;/N&gt; и поговорите с \n&lt;D&gt;&lt;L=s02, 5010029&gt;королем Марсом&lt;/L&gt;&lt;/D&gt;.\n&#x0A;\n" />
+</quest-local>

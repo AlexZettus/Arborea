@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="40054" />
+    <entry Name="Хорошая работа-2" />
+    <entry Conditions="Полейте плантацию" />
+    <entry Overview="В &lt;N&gt;Земле Эльфов&lt;/N&gt; найдите \n&lt;M&gt;&lt;L=s51, 6020001&gt;колодец&lt;/L&gt;&lt;/M&gt; и наберите в нем &lt;C&gt;1&lt;/C&gt; ведро &lt;I&gt;колодезной воды&lt;/I&gt;. Затем идите на &lt;N&gt;плантацию&lt;/N&gt;, кликните на кнопку &lt;S&gt;Вода&lt;/S&gt;, чтобы вылить &lt;C&gt;1&lt;/C&gt; ведро &lt;I&gt;колодезной воды&lt;/I&gt; на посадку. Когда все сделаете, поговорите с управляющим \n&lt;D&gt;&lt;L=s51, 5800075&gt;Эйолом&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="41003" />
+    <entry Name="Класс - Маг" />
+    <entry Conditions="" />
+    <entry Overview="Если вы решили стать &lt;color=0xff80ff00&gt;магом&lt;color=0xffffffff&gt;, подпишите &lt;I&gt;контракт наемника&lt;/I&gt; с \n&lt;D&gt;&lt;L=s02, 5010195&gt;Духом артефакта&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="51013" />
+    <entry Name="Узоры для духа" />
+    <entry Conditions="" />
+    <entry Overview="Поговори с &lt;D&gt;&lt;L=s02,6040030&gt;Призывателем духа&lt;/L&gt;&lt;/D&gt;. Заверши задание, чтобы получить 2 узора фиолетового качества." />
+</quest-local>

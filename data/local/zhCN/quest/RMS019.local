@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20619" />
+    <entry Name="Сбор дров" />
+    <entry Conditions="" />
+    <entry Overview="Найдите &lt;C&gt;10&lt;/C&gt; &lt;M&gt;&lt;L=s08, 6010023&gt;дров &lt;/L&gt;&lt;/M&gt; и отнесите их &lt;D&gt;&lt;L=s08, 5010206&gt;Йору&lt;/L&gt;&lt;/D&gt;. " />
+</quest-local>

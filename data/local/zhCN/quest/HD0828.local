@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30828" />
+    <entry Name="Получить титул Осени" />
+    <entry Conditions="" />
+    <entry Overview="Соберите &lt;C&gt;20&lt;/C&gt; перчиков &lt;I&gt;чили&lt;/I&gt; и передайте &lt;D&gt;&lt;Z=s02,30150,23094,34150&gt;Лунной деве&lt;/Z&gt;&lt;/D&gt; в Тарио.\nПерец чили можно собрать в диких просторах." />
+</quest-local>

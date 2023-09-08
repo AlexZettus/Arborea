@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="40023" />
+    <entry Name="Просьба Ромидая" />
+    <entry Conditions="" />
+    <entry Overview="Соберите &lt;C&gt;50&lt;/C&gt; &lt;I&gt;обычных первичных духов&lt;/I&gt;. Затем вернитесь к &lt;D&gt;&lt;L=s02, 5010083&gt;Ромидаю&lt;/L&gt;&lt;/D&gt;, чтобы получить камни усиления и руны удачи." />
+</quest-local>

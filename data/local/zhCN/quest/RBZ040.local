@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20340" />
+    <entry Name="Помочь хранителю неба" />
+    <entry Conditions="" />
+    <entry Overview="Найдите &lt;D&gt;&lt;L=s05, 5010100&gt;Хранителя неба Лана.&lt;/L&gt;&lt;/D&gt;" />
+</quest-local>

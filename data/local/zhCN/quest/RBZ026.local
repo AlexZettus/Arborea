@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20326" />
+    <entry Name="Приглашение от медведя" />
+    <entry Conditions="" />
+    <entry Overview="Идите к &lt;N&gt;Озеру темной воды&lt;/N&gt; и найдите там &lt;D&gt;&lt;L=s05, 5010095&gt;гигантского медведя Уилла&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

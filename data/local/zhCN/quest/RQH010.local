@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20110" />
+    <entry Name="Старый огр" />
+    <entry Conditions="" />
+    <entry Overview="Синий огр ушел на пенсию. Вы больше не можете вызвать его на бой. Сообщите об этом &lt;D&gt;&lt;L=s02, 5010085&gt;Шере&lt;/L&gt;&lt;/D&gt; для завершения задания." />
+</quest-local>

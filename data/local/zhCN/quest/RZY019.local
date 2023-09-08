@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="40019" />
+    <entry Name="Улучшение снаряжения" />
+    <entry Conditions="" />
+    <entry Overview="Соберите &lt;C&gt;10 кристаллов&lt;/C&gt;. Затем обратитесь к \n&lt;D&gt;&lt;L=s04, 5010082&gt;мастеру улучшения Сави&lt;/L&gt;&lt;/D&gt;.\n&lt;T&gt;Вы можете разобрать предметы для получения кристаллов, либо добыть их из монстров.&lt;/T&gt;" />
+</quest-local>

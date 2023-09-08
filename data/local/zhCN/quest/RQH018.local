@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20118" />
+    <entry Name="Разведка" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь на &lt;N&gt;&lt;Z=s03_1, 19534, 5591, 21399&gt;Грибной холм&lt;/Z&gt;&lt;/N&gt;, осмотрите его и доложите об увиденном &lt;D&gt;&lt;L=s03, 5010074&gt;Фалансу.&lt;/L&gt;&lt;/D&gt;\n&#x0A;\n&lt;S&gt;[Ур. 20]&lt;/S&gt;Создание гильдии: после 20 Ур. вы можете &lt;T&gt;создать гильдию.&lt;/T&gt;.\n&#x0A;\n" />
+</quest-local>

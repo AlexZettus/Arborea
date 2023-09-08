@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20623" />
+    <entry Name="Зомби на Горе Смерти" />
+    <entry Conditions="" />
+    <entry Overview="Убейте &lt;C&gt;100&lt;/C&gt; &lt;A&gt;&lt;L=s08, 1070018&gt;жрецов-зомби&lt;/L&gt;&lt;/A&gt;, &lt;C&gt;100&lt;/C&gt; &lt;A&gt;&lt;L=s08, 1070019&gt;бездушных жрецов&lt;/L&gt;&lt;/A&gt;. После выполнения вернитесь и поговорите с &lt;D&gt;&lt;L=s08, 5010207&gt;Саулом&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

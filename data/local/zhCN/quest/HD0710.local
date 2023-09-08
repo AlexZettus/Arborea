@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30710" />
+    <entry Name="Войны Сноулэнда" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь к &lt;N&gt;Горе Смерти&lt;/N&gt; и уничтожьте в &lt;N&gt;Пещере песка&lt;/N&gt; \n&lt;A&gt;&lt;L=d09, 1070028&gt;призывателя лавы&lt;/L&gt;&lt;/A&gt;, а в &lt;N&gt;Изумрудной деревне&lt;/N&gt; - \n&lt;A&gt;&lt;L=s08, 1070034&gt;жреца-черного мага&lt;/L&gt;&lt;/A&gt;. Затем вернитесь к \n&lt;D&gt;&lt;L=s02, 5600011&gt;Снегуле&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

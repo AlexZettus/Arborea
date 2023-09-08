@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<map_point id="1" type="1" show_name="Тайгер" pos_x="20483" pos_y="2833" pos_z="11683"/>
+	<map_point id="2" type="1" show_name="Вудхэм" pos_x="20596" pos_y="2840" pos_z="10900"/>
+	<map_point id="3" type="1" show_name="Аллен" pos_x="20690" pos_y="2809" pos_z="12370"/>
+	<map_point id="4" type="1" show_name="Глэдис" pos_x="23573" pos_y="2632" pos_z="18077"/>
+	<map_point id="5" type="1" show_name="Микеланджело" pos_x="21676" pos_y="2830" pos_z="9535"/>
+	<map_point id="6" type="1" show_name="Стержень энергии Пиратской бухты" pos_x="21890" pos_y="2810" pos_z="11528"/>
+	<map_point id="7" type="1" show_name="Сэйдж" pos_x="22537" pos_y="2830" pos_z="9344"/>
+	<map_point id="8" type="1" show_name="Чарли" pos_x="23151" pos_y="2829" pos_z="9951"/>
+	<map_point id="9" type="1" show_name="Джудит" pos_x="8230" pos_y="3222" pos_z="35052"/>
+	<map_point id="10" type="1" show_name="Роберт" pos_x="23052" pos_y="2830" pos_z="9453"/>
+	<map_point id="11" type="1" show_name="Стивенс" pos_x="25102" pos_y="2699" pos_z="41862"/>
+</root>

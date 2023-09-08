@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20609" />
+    <entry Name="Штольня" />
+    <entry Conditions="" />
+    <entry Overview="Соберите &lt;C&gt;80&lt;/C&gt; частей &lt;A&gt;&lt;L=d11,1070009&gt;души-мучителя&lt;/L&gt;&lt;/A&gt;, \n&lt;C&gt;80&lt;/C&gt; частей &lt;A&gt;&lt;L=d11, 1070010&gt;исчезающей души&lt;/L&gt;&lt;/A&gt; и \n&lt;C&gt;20&lt;/C&gt; частей &lt;color=0xffff6000&gt;&lt;L=d11, 1070052&gt;скорбящей души&lt;/L&gt;&lt;color=0xffffffff&gt;.\nЗатем вернитесь к &lt;D&gt;&lt;L=s08, 5010205&gt;Очилу&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

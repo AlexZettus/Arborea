@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20626" />
+    <entry Name="Просьба Алиси" />
+    <entry Conditions="" />
+    <entry Overview="Найдите и сорвите &lt;C&gt;1&lt;/C&gt; &lt;M&gt;&lt;L=s08, 6010041&gt;нефритовый цветок&lt;/L&gt;&lt;/M&gt; и используйте его для изготовления &lt;C&gt;1&lt;/C&gt; &lt;I&gt;мощи небесной души&lt;/I&gt;. Затем отнесите ее &lt;D&gt;&lt;L=s08, 5010208&gt;Алиси&lt;/L&gt;&lt;/D&gt;.&#xA;\n&lt;T&gt;После сбора&lt;/T&gt; &lt;C&gt;1&lt;/C&gt;&lt;T&gt; &lt;/T&gt;&lt;I&gt;нефритового цветка&lt;/I&gt;&lt;T&gt; &lt;/T&gt; &lt;T&gt;кликните правой кнопкой на &lt;/T&gt;&lt;I&gt;кровавую траву&lt;/I&gt;&lt;T&gt;, чтобы получить &lt;/T&gt;&lt;I&gt;мощь небесной души&lt;/I&gt;." />
+</quest-local>

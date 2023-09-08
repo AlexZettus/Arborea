@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20517" />
+    <entry Name="Наблюдатель смерти" />
+    <entry Conditions="" />
+    <entry Overview="Убейте &lt;C&gt;40&lt;/C&gt; &lt;A&gt;&lt;L=s07,1060024&gt;наблюдателей смерти&lt;/L&gt;&lt;/A&gt; и \n&lt;C&gt;50&lt;/C&gt; &lt;A&gt;&lt;L=s07,1060025&gt;гигантских джунглевых дикарей&lt;/L&gt;&lt;/A&gt;, а затем вернитесь к &lt;D&gt;&lt;L=s07, 5010203&gt;Зефф&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

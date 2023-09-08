@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20505" />
+    <entry Name="Исследование" />
+    <entry Conditions="" />
+    <entry Overview="Убейте &lt;A&gt;&lt;L=s07, 1060007&gt;дикаря-мучителя&lt;/L&gt;&lt;/A&gt; или &lt;A&gt;&lt;L=s07, 1060008&gt;злого дикаря&lt;/L&gt;&lt;/A&gt;, добудьте &lt;C&gt;90&lt;/C&gt; &lt;I&gt;камней Небесного бога&lt;/I&gt; и идите к &lt;D&gt;&lt;L=s07, 5010165&gt;Иросаю&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

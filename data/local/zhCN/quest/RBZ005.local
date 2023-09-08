@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20305" />
+    <entry Name="Лисье бешенство" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь на &lt;N&gt;Заснеженное поле&lt;/N&gt; и убейте &lt;C&gt;30&lt;/C&gt; \n&lt;A&gt;&lt;L=s05, 1040002&gt;Снежных горных лис&lt;/L&gt;&lt;/A&gt;. Затем вернитесь к \n&lt;D&gt;&lt;L=s05, 5010089&gt;Джастину&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

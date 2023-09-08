@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="40047" />
+    <entry Name="Взаимопомощь" />
+    <entry Conditions="" />
+    <entry Overview="Ответьте на вопросы \n&lt;D&gt;&lt;L=s04, 5010076&gt;Джонаса&lt;/L&gt;&lt;/D&gt;.\nКликните на кнопку Поиск группы в верхнем правом углу экрана, чтобы воспользоваться панелью поиска группы." />
+</quest-local>

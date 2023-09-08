@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20220" />
+    <entry Name="Подкрепление" />
+    <entry Conditions="" />
+    <entry Overview="Уничтожь 10 &lt;N&gt;&lt;L=s03,1030004&gt;Духов-заклинателей&lt;/L&gt;&lt;/N&gt; и 10 &lt;N&gt;&lt;L=s03,1030003&gt;Одержимых спор&lt;/L&gt;&lt;/N&gt;. Когда справишься, возвращайся к Лесной дриаде за наградой." />
+</quest-local>

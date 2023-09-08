@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="40037" />
+    <entry Name="Нулевой камень" />
+    <entry Conditions="" />
+    <entry Overview="Помогите \n&lt;D&gt;&lt;L=s02, 5010086&gt;мастеру знаков Рамесе&lt;/L&gt;&lt;/D&gt; убить \n&lt;D&gt;&lt;L=d06, 1050043&gt;Бестеневого&lt;/L&gt;&lt;/D&gt; в &#xA;&lt;N&gt;Пещере Камня&lt;/N&gt;, что в Лесу Теней." />
+</quest-local>

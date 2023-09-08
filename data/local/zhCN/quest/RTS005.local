@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="50005" />
+    <entry Name="Зомби-доктор" />
+    <entry Conditions="" />
+    <entry Overview="Соберите &lt;C&gt;3&lt;/C&gt; &lt;I&gt;гриба уничтожения&lt;/I&gt; и отнесите их \n&lt;D&gt;&lt;L=s03, 5010198&gt;зомби-доктору&lt;/L&gt;&lt;/D&gt;.\n&#xA;&lt;T&gt;Вы можете брать это задание один раз в день. &lt;/T&gt;\n&lt;T&gt;Гриб уничтожения можно добыть из монстров Пандоры.&lt;/T&gt;" />
+</quest-local>

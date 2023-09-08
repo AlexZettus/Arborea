@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="40058" />
+    <entry Name="Первая попытка очищения" />
+    <entry Conditions="" />
+    <entry Overview="Откройте &lt;I&gt;Сосуд Тьмы&lt;/I&gt;, чтобы выпустить &lt;A&gt;Духа Тьмы.&lt;/A&gt; Используйте &lt;S&gt;навык Очищение души&lt;/S&gt;. После применения навыка убейте Духа Тьмы и поговорите с\n&lt;D&gt;&lt;L=s02,5010243&gt;Властительницей трех миров Леонорой&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

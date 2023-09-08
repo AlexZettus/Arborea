@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+	<map_point id="1" type="1" show_name="Тарио" pos_x="42000" pos_y="5128" pos_z="7000" />
+	<map_point id="2" type="2" show_name="Зелья новичка (Северо-Запад)" pos_x="20014" pos_y="5204" pos_z="32245" />
+	<map_point id="3" type="2" show_name="Зелья новичка (Восток)" pos_x="43518" pos_y="5081" pos_z="22835" />
+	<map_point id="4" type="2" show_name="Зелья новичка (Юг)" pos_x="25214" pos_y="4479" pos_z="12458" />
+	<map_point id="5" type="3" show_name="Учитель" pos_x="7207" pos_y="4628" pos_z="36998" />
+	<map_point id="6" type="3" show_name="Квартирмейстер Айла" pos_x="9722" pos_y="4624" pos_z="43809" />
+	<map_point id="7" type="3" show_name="Тирист" pos_x="20007" pos_y="5204" pos_z="34018" />
+	<map_point id="8" type="3" show_name="Учитель новичков Лора" pos_x="21413" pos_y="5204" pos_z="32455" />
+	<map_point id="9" type="3" show_name="Наставник Тед" pos_x="8557" pos_y="4243" pos_z="17991" />
+	<map_point id="10" type="3" show_name="Капитан новобранцев Фритайс" pos_x="26430" pos_y="4479" pos_z="12551" />
+	<map_point id="11" type="3" show_name="Квартирмейстер Налан" pos_x="27439" pos_y="4479" pos_z="11279" />
+	<map_point id="12" type="3" show_name="Инструктор Григор" pos_x="43347" pos_y="5099" pos_z="20863" />
+	<map_point id="13" type="3" show_name="Военачальник Аррас" pos_x="43023" pos_y="7177" pos_z="34524" />
+	<map_point id="14" type="4" show_name="Малый Демонион (2)" pos_x="20856" pos_y="4781" pos_z="37949" />
+	<map_point id="15" type="4" show_name="Большой Демонион (3)" pos_x="13649" pos_y="5200" pos_z="24737" />
+	<map_point id="16" type="4" show_name="Демон-цветок (5)" pos_x="28534" pos_y="5530" pos_z="20999" />
+	<map_point id="17" type="4" show_name="Призрачная пикси (6)" pos_x="29676" pos_y="4586" pos_z="15217" />
+	<map_point id="18" type="4" show_name="Страж призрачной гробницы (7)" pos_x="35950" pos_y="5179" pos_z="22995" />
+	<map_point id="19" type="4" show_name="Древний демонион (8)" pos_x="37874" pos_y="6185" pos_z="28354" />
+	<map_point id="20" type="4" show_name="Ядовитый страж гробницы (8)" pos_x="30150" pos_y="5954" pos_z="36625" />
+	<map_point id="21" type="4" show_name="Демон колдовских небес (9)" pos_x="41426" pos_y="5743" pos_z="41894" />
+	<map_point id="22" type="4" show_name="Чарующая пикси (4)" pos_x="12572" pos_y="4402" pos_z="9121" />
+</root>

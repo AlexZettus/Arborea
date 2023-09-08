@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30711" />
+    <entry Name="Получить новогодний наряд" />
+    <entry Conditions="" />
+    <entry Overview="Возьмите &lt;C&gt; &lt;/C&gt; &lt;I&gt;новогодний набор&lt;/I&gt; у \n&lt;M&gt;&lt;L=s02, 5600019&gt;новогодней елки&lt;/L&gt;&lt;/M&gt;." />
+</quest-local>

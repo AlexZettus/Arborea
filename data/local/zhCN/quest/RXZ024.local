@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20424" />
+    <entry Name="Поиск друзей" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь на &lt;N&gt;Мирные холмы&lt;/N&gt; и найдите &lt;D&gt;&lt;L=s06, 5010163&gt;Анну&lt;/L&gt;&lt;/D&gt;.\n&#xA;" />
+</quest-local>

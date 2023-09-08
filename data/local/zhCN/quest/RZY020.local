@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="40020" />
+    <entry Name="Улучшение снаряжения" />
+    <entry Conditions="" />
+    <entry Overview="Соберите &lt;C&gt;20&lt;/C&gt; &lt;I&gt;кристаллов&lt;/I&gt; и поменяйте их у \n&lt;D&gt;&lt;L=s02, 5010083&gt;Ромидая&lt;/L&gt;&lt;/D&gt; на камни усиления и руны удачи." />
+</quest-local>

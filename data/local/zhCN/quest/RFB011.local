@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="29011" />
+    <entry Name="Правосудие в Замке теней" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь в &lt;N&gt;&lt;Z=s07, 78266, 5730, 99098&gt;Замок теней&lt;/Z&gt;&lt;/N&gt;, войдите внутрь, убейте &lt;A&gt;палачей Замка Теней&lt;/A&gt; - &lt;C&gt;10&lt;/C&gt;, &lt;A&gt;последователей Замка Теней&lt;/A&gt; - &lt;C&gt;10&lt;/C&gt;, &lt;A&gt;крокодилов&lt;/A&gt; - &lt;C&gt;10&lt;/C&gt;, а затем расправьтесь с &lt;A&gt;Су Таем&lt;/A&gt;. После выполнения заданий вернитесь к \n&lt;D&gt;&lt;L=s02, 5010227&gt;Судье Аусвейду&lt;/L&gt;&lt;/D&gt;. " />
+</quest-local>

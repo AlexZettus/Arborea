@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<map_point id="1" type="1" show_name="Выход из города" pos_x="4018" pos_y="14508" pos_z="4380"/>
+	<map_point id="2" type="2" show_name="Снежная королева Вэлла" pos_x="12479" pos_y="11759" pos_z="13339"/>
+</root>

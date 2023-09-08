@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="40049" />
+    <entry Name="Еда эльфов" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь в &lt;N&gt;Заснеженный Город&lt;/N&gt; и найдите там &lt;D&gt;&lt;L=s05, 5510639&gt;продавца эльфийской еды&lt;/L&gt;&lt;/D&gt;. Купите у него &lt;C&gt;5&lt;/C&gt; &lt;I&gt;особых сливовых конфет&lt;/I&gt; и вернитесь к \n&lt;D&gt;&lt;L=s05, 5511027&gt;Эльфоведу Фиэлле&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

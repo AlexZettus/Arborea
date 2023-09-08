@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="59043" />
+    <entry Name="Всеобщее ликование!" />
+    <entry Conditions="" />
+    <entry Overview="Каждый герой Теоса может получить Всеобщее ликование в честь празднования дня рождения Blood and Soul." />
+</quest-local>

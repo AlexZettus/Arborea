@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20001" />
+    <entry Name="Первый шаг" />
+    <entry Conditions="" />
+    <entry Overview="Подойди к &lt;D&gt;&lt;L=m10, 5010011&gt;Александре&lt;/L&gt;&lt;/D&gt;, чтобы начать своё приключение и завершить это задание. Проводник Александра ждет тебя возле древнего портала.\n&#x0A;\n" />
+</quest-local>

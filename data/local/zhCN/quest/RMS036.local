@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20636" />
+    <entry Name="Разбойники в пустыне" />
+    <entry Conditions="" />
+    <entry Overview="Убейте &lt;C&gt;100&lt;/C&gt; &lt;A&gt;&lt;L=s08, 1070025&gt;штормовых магов&lt;/L&gt;&lt;/A&gt; и &lt;C&gt;100&lt;/C&gt; \n&lt;A&gt;&lt;L=s08, 1070026&gt;безумных разбойников&lt;/L&gt;&lt;/A&gt;. Затем вернитесь к &lt;D&gt;&lt;L=s08, 5010209&gt;Ротту&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

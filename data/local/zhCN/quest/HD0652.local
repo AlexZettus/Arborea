@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30652" />
+    <entry Name="Любимица Богини" />
+    <entry Conditions="" />
+    <entry Overview="Возьмите &lt;I&gt;слезу эльфа&lt;/I&gt; и в &lt;N&gt;Пандора&lt;/N&gt; у \n&lt;D&gt;&lt;L=s03, 5513011&gt;Рафейны Любимицы Богини&lt;/L&gt;&lt;/D&gt; обменяйте на &lt;I&gt;камень чародейки&lt;/I&gt;.\nКапли слез эльфов содержат таинственную силу, но существуют они  только &lt;C&gt;10&lt;/C&gt; мин. Через &lt;C&gt;10&lt;/C&gt; мин. их волшебная сила исчезает." />
+</quest-local>

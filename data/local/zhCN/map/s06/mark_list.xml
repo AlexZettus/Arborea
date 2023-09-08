@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<map_point id="1" type="1" show_name="Перевозчик Трайлокия" pos_x="30299" pos_y="3500" pos_z="88579"/>
+	<map_point id="2" type="1" show_name="Пандора" pos_x="141264" pos_y="8395" pos_z="67313"/>
+	<map_point id="3" type="1" show_name="Пещера света" pos_x="65819" pos_y="5722" pos_z="67601"/>
+	<map_point id="4" type="1" show_name="Пещера Камня" pos_x="80126" pos_y="5826" pos_z="94269"/>
+	<map_point id="5" type="1" show_name="Телепорт: Деревня Ку" pos_x="49478" pos_y="3490" pos_z="71133"/>
+	<map_point id="6" type="1" show_name="Телепорт: Тигриный рык" pos_x="86062" pos_y="6979" pos_z="32000"/>
+	<map_point id="7" type="1" show_name="Телепорт: Дом драконов" pos_x="95423" pos_y="3100" pos_z="42512"/>
+	<map_point id="8" type="1" show_name="Телепорт: Каменный город" pos_x="95751" pos_y="5995" pos_z="81440"/>
+	<map_point id="85" type="1" show_name="Телепорт: Место Власти" pos_x="108551" pos_y="2800" pos_z="77500"/>
+	<map_point id="9" type="1" show_name="Телепорт: Лес феникса" pos_x="53236" pos_y="7940" pos_z="97909"/>
+	<map_point id="10" type="1" show_name="Телепорт: Мирные холмы" pos_x="115181" pos_y="4335" pos_z="100438"/>
+	<map_point id="11" type="1" show_name="Телепорт: Пруд лотосов" pos_x="137553" pos_y="8130" pos_z="58936"/>
+	<map_point id="12" type="2" show_name="Кладовщик" pos_x="53853" pos_y="3920" pos_z="70411"/>
+	<map_point id="13" type="2" show_name="Мастер снаряжения" pos_x="53993" pos_y="3920" pos_z="71002"/>
+	<map_point id="14" type="2" show_name="Алхимик" pos_x="56564" pos_y="3920" pos_z="70687"/>
+	<map_point id="15" type="2" show_name="Коробейник" pos_x="55736" pos_y="3920" pos_z="71895"/>
+	<map_point id="16" type="2" show_name="Продавец эльфийской еды" pos_x="55341" pos_y="3880" pos_z="71995"/>
+	<map_point id="17" type="2" show_name="Еда для эльфов" pos_x="56100" pos_y="3850" pos_z="71807"/>
+	<map_point id="18" type="2" show_name="Сын дьявола" pos_x="53026" pos_y="3800" pos_z="70230"/>
+	<map_point id="19" type="2" show_name="Аренда витрины" pos_x="55667" pos_y="3920" pos_z="69413"/>
+	<map_point id="20" type="3" show_name="Повелитель битвы Битти" pos_x="49545" pos_y="3797" pos_z="68800"/>
+	<map_point id="21" type="3" show_name="Барцель" pos_x="87768" pos_y="6174" pos_z="86982"/>
+	<map_point id="22" type="3" show_name="Колет" pos_x="89179" pos_y="5369" pos_z="96105"/>
+	<map_point id="23" type="3" show_name="Синтия" pos_x="49751" pos_y="6901" pos_z="101797"/>
+	<map_point id="24" type="3" show_name="Анна" pos_x="121835" pos_y="4240" pos_z="95321"/>
+	<map_point id="25" type="3" show_name="Дебрас" pos_x="85156" pos_y="6978" pos_z="31120"/>
+	<map_point id="26" type="3" show_name="Каменная печать Небо" pos_x="103003" pos_y="6000" pos_z="90290"/>
+	<map_point id="27" type="3" show_name="Каменная печать Земля" pos_x="108738" pos_y="6092" pos_z="90974"/>
+	<map_point id="28" type="3" show_name="Каменная печать Демон" pos_x="111607" pos_y="6123" pos_z="84473"/>
+	<map_point id="29" type="3" show_name="Каменная печать Человек" pos_x="102795" pos_y="6000" pos_z="86141"/>
+	<map_point id="30" type="3" show_name="Небесный список заданий" pos_x="54651" pos_y="3920" pos_z="71971"/>
+	<map_point id="31" type="3" show_name="Колдовская печь" pos_x="49887" pos_y="3795" pos_z="67160"/>
+	<map_point id="32" type="3" show_name="Список розыска(Деревня Ку)" pos_x="55408" pos_y="3920" pos_z="70838"/>
+	<map_point id="33" type="3" show_name="Список розыска(Лес Феникса)" pos_x="52949" pos_y="7560" pos_z="101343"/>
+	<map_point id="34" type="3" show_name="Список розыска(Окраины Каменного города)" pos_x="79939" pos_y="5805" pos_z="96439"/>
+	<map_point id="35" type="3" show_name="Список розыска(Мирные холмы)" pos_x="114097" pos_y="4005" pos_z="102857"/>
+	<map_point id="36" type="3" show_name="Список розыска(Аквамариновый пик)" pos_x="65408" pos_y="6940" pos_z="87719"/>
+	<map_point id="37" type="3" show_name="Список розыска(Лес драконов)" pos_x="97907" pos_y="3130" pos_z="42213"/>
+	<map_point id="38" type="3" show_name="Список розыска(Пруд лотосов)" pos_x="129846" pos_y="8120" pos_z="58777"/>
+	<map_point id="39" type="3" show_name="Список розыска(Земля небесных пиков)" pos_x="113730" pos_y="7170" pos_z="34846"/>
+	<map_point id="40" type="3" show_name="Список розыска(Лес тигриного рыка)" pos_x="81971" pos_y="5790" pos_z="47017"/>
+	<map_point id="41" type="3" show_name="Список розыска(Забытая реликвия)" pos_x="39754" pos_y="5490" pos_z="27633"/>
+	<map_point id="42" type="3" show_name="Список розыска(Каменный город)" pos_x="94337" pos_y="5975" pos_z="81417"/>
+	<map_point id="43" type="3" show_name="Эмиссар наград" pos_x="56323" pos_y="3920" pos_z="71375"/>
+	<map_point id="44" type="3" show_name="Путешественник" pos_x="53813" pos_y="3803" pos_z="68739"/>
+	<map_point id="45" type="4" show_name="Кабан Леса Теней(50)" pos_x="53305" pos_y="5025" pos_z="56030"/>
+	<map_point id="46" type="4" show_name="Красочная пикси(51)" pos_x="48658" pos_y="7415" pos_z="32293"/>
+	<map_point id="47" type="4" show_name="Пикси Леса Теней(51)" pos_x="32709" pos_y="7050" pos_z="20600"/>
+	<map_point id="48" type="4" show_name="Привидение-хилиаст(52)" pos_x="63830" pos_y="3280" pos_z="29759"/>
+	<map_point id="49" type="4" show_name="Привидение-адепт(53)" pos_x="82061" pos_y="3158" pos_z="26819"/>
+	<map_point id="50" type="4" show_name="Привидение(53)" pos_x="75846" pos_y="3489" pos_z="41601"/>
+	<map_point id="51" type="4" show_name="Гигантский медведь(54)" pos_x="127301" pos_y="5000" pos_z="24776"/>
+	<map_point id="52" type="4" show_name="Демонический лотос(54)" pos_x="128252" pos_y="5000" pos_z="23504"/>
+	<map_point id="53" type="4" show_name="Скрытное привидение(55)" pos_x="109590" pos_y="3355" pos_z="48994"/>
+	<map_point id="54" type="4" show_name="Зеленый дракон Леса Теней(58)" pos_x="90577" pos_y="5972" pos_z="88344"/>
+	<map_point id="55" type="4" show_name="Красный дракон Леса Теней(58)" pos_x="89912" pos_y="4010" pos_z="71547"/>
+	<map_point id="56" type="4" show_name="Привидение-истязатель(59)" pos_x="94577" pos_y="3557" pos_z="115747"/>
+	<map_point id="57" type="4" show_name="Привидение-последователь(60)" pos_x="98468" pos_y="6000" pos_z="85091"/>
+	<map_point id="58" type="4" show_name="Привидение-ставленник(60)" pos_x="104372" pos_y="6009" pos_z="90620"/>
+	<map_point id="59" type="4" show_name="Поющая пикси(61)" pos_x="72958" pos_y="7346" pos_z="110843"/>
+	<map_point id="60" type="4" show_name="Исчезающая пикси(61)" pos_x="76146" pos_y="6477" pos_z="105063"/>
+	<map_point id="61" type="4" show_name="Привидение-провидец(62)" pos_x="60884" pos_y="7482" pos_z="94242"/>
+	<map_point id="62" type="4" show_name="Привидение-палач(62)" pos_x="59696" pos_y="7726" pos_z="95817"/>
+	<map_point id="63" type="4" show_name="Разрушитель Леса Теней(50)" pos_x="50078" pos_y="8874" pos_z="38533"/>
+	<map_point id="64" type="4" show_name="Привидение-милленарий(52)" pos_x="82724" pos_y="3100" pos_z="21956"/>
+	<map_point id="65" type="4" show_name="Искаженный гигантский медведь(54)" pos_x="85648" pos_y="3144" pos_z="38852"/>
+	<map_point id="66" type="4" show_name="Серебряный дракон(58)" pos_x="114548" pos_y="4014" pos_z="104836"/>
+	<map_point id="67" type="4" show_name="Большое привидение-истязатель(59)" pos_x="99938" pos_y="3500" pos_z="129600"/>
+	<map_point id="68" type="4" show_name="Большое привидение-колдун(60)" pos_x="111130" pos_y="6048" pos_z="86824"/>
+	<map_point id="69" type="4" show_name="Кудесник Леса Теней(61)" pos_x="64425" pos_y="7697" pos_z="117465"/>
+	<map_point id="70" type="4" show_name="Сильное привидение-убийца(62)" pos_x="46649" pos_y="4851" pos_z="110340"/>
+	<map_point id="71" type="4" show_name="Большое привидение-убийца(64)" pos_x="135634" pos_y="4800" pos_z="77119"/>
+	<map_point id="72" type="4" show_name="Королева пикси Леса Теней(51)" pos_x="28445" pos_y="7050" pos_z="21780"/>
+	<map_point id="73" type="4" show_name="Пурпурная ведьма(54)" pos_x="127241" pos_y="5000" pos_z="26522"/>
+	<map_point id="74" type="4" show_name="Король скорби(59)" pos_x="88472" pos_y="4135" pos_z="115903"/>
+	<map_point id="75" type="4" show_name="Злая зеленая пикси(61)" pos_x="67157" pos_y="7490" pos_z="112477"/>
+	<map_point id="76" type="4" show_name="Привидение-убийца(64)" pos_x="132829" pos_y="5981" pos_z="95842"/>
+	<map_point id="77" type="4" show_name="Страж артефакта(60)" pos_x="122376" pos_y="3307" pos_z="124275"/>
+	<map_point id="78" type="4" show_name="Древняя душа(61)" pos_x="134249" pos_y="4063" pos_z="134152"/>
+	<map_point id="79" type="4" show_name="Привидение-повелитель(65)" pos_x="132500" pos_y="8300" pos_z="48750"/>
+	<map_point id="80" type="4" show_name="Многоцветный дух(52)" pos_x="83889" pos_y="3100" pos_z="24491"/>
+	<map_point id="81" type="4" show_name="Молниеносный нападающий(58)" pos_x="84693" pos_y="4230" pos_z="75066"/>
+	<map_point id="82" type="4" show_name="Привидение-воин(62)" pos_x="41115" pos_y="6133" pos_z="102620"/>
+	<map_point id="83" type="4" show_name="Суккуб Юна(55)" pos_x="104612" pos_y="6125" pos_z="54697"/>
+	<map_point id="84" type="4" show_name="Архидемон Ариан(65)" pos_x="132400" pos_y="8400" pos_z="52800"/>
+	<map_point id="87" type="1" show_name="Пиратская бухта" pos_x="28750" pos_y="3500" pos_z="87500"/>
+	<map_point id="86" type="3" show_name="Страж Пиратской бухты" pos_x="28350" pos_y="3500" pos_z="87850"/>
+	<map_point id="88" type="1" show_name="Дьявольское ущелье" pos_x="29700" pos_y="3499" pos_z="87500"/>
+	<map_point id="89" type="3" show_name="Страж Дьявольского ущелья" pos_x="29300" pos_y="3500" pos_z="87150"/>
+</root>

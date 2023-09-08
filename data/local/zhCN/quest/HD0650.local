@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30650" />
+    <entry Name="Камень Иллюзиониста" />
+    <entry Conditions="" />
+    <entry Overview="Возьмите &lt;I&gt;слезу эльфа&lt;/I&gt; и, прибыв в &lt;N&gt;Долину Грома&lt;/N&gt;, у \n&lt;D&gt;&lt;L=s04, 5513010&gt;Адриши Иллюзиониста&lt;/L&gt;&lt;/D&gt; обменяйте на &lt;I&gt;Камень Иллюзиониста&lt;/I&gt;.\nКапли слез эльфов содержат таинственную силу, но существуют только &lt;C&gt;10&lt;/C&gt; мин. Через &lt;C&gt;10&lt;/C&gt; мин. их волшебная сила исчезает." />
+</quest-local>

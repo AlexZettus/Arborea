@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="40004" />
+    <entry Name="Душа эльфа" />
+    <entry Conditions="" />
+    <entry Overview="Продолжите общение с \n&lt;D&gt;&lt;L=s02, 5010023&gt;эмиссаром душ Феной&lt;/L&gt;&lt;/D&gt;, чтобы завершить задание.\n&#x0A;\n" />
+</quest-local>

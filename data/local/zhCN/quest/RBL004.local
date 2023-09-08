@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20204" />
+    <entry Name="На страже порядка" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйся к &lt;D&gt;&lt;L=s03, 5010077&gt;Лесной дриаде&lt;/L&gt;&lt;/D&gt;, чтобы узнать о происходящем в окрестностях Рандейла." />
+</quest-local>

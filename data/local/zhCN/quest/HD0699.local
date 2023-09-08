@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30699" />
+    <entry Name="Яростные войны Сноулэнда" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь в &lt;N&gt;Лес Теней&lt;/N&gt; и убейте в &lt;N&gt;Лесу тигриного рыка&lt;/N&gt; \n&lt;A&gt;&lt;L=s06, 1050026&gt;привидение-милленарий&lt;/L&gt;&lt;/A&gt;, а в &lt;N&gt;Пещере света&lt;/N&gt; - \n&lt;A&gt;&lt;L=d05, 1050028&gt;большое привидение-силача&lt;/L&gt;&lt;/A&gt;. Затем поговорите со \n&lt;D&gt;&lt;L=s02, 5600011&gt;Снегулой&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

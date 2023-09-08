@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<map_point id="1" type="2" show_name="Стихийные эльфы" pos_x="23100" pos_y="31176" pos_z="51750"/>
+	<map_point id="2" type="2" show_name="Элементалист" pos_x="23100" pos_y="31176" pos_z="52000"/>
+	<map_point id="3" type="2" show_name="Эльфийская еда" pos_x="23100" pos_y="31176" pos_z="52500"/>
+	<map_point id="4" type="2" show_name="Мастер перековки эльфов" pos_x="23200" pos_y="31176" pos_z="52850"/>
+	<map_point id="5" type="2" show_name="Особая эльфийская еда" pos_x="23550" pos_y="31176" pos_z="52900"/>
+	<map_point id="6" type="2" show_name="Усиление душ и книг" pos_x="24050" pos_y="31176" pos_z="52900"/>
+	<map_point id="7" type="2" show_name="Мастер перековки душ" pos_x="24550" pos_y="31176" pos_z="52900"/>
+	<map_point id="8" type="2" show_name="Мастер скрещивания" pos_x="25150" pos_y="31176" pos_z="52900"/>
+	<map_point id="9" type="1" show_name="Волшебная долина" pos_x="30800" pos_y="23046" pos_z="11950"/>
+	<map_point id="10" type="1" show_name="Пандора" pos_x="15000" pos_y="23073" pos_z="27000"/>
+	<map_point id="11" type="1" show_name="Сноулэнд" pos_x="49300" pos_y="23075" pos_z="27000"/>
+	<map_point id="12" type="1" show_name="Перевозчик Трайлокия" pos_x="30040" pos_y="23510" pos_z="42350"/>
+	<map_point id="13" type="1" show_name="Земля эльфов" pos_x="13900" pos_y="27106" pos_z="50950"/>
+	<map_point id="14" type="1" show_name="Лунный пруд" pos_x="47250" pos_y="27095" pos_z="50200"/>
+	<map_point id="15" type="1" show_name="Деревня Ромен" pos_x="20150" pos_y="23692" pos_z="30050"/>
+	<map_point id="16" type="1" show_name="Фронтир" pos_x="47750" pos_y="23692" pos_z="36300"/>
+	<map_point id="20" type="3" show_name="Призыватель духов" pos_x="37250" pos_y="31176" pos_z="52750"/>
+	<map_point id="21" type="3" show_name="Мастер чудесных узоров" pos_x="37750" pos_y="31176" pos_z="52750"/>
+	<map_point id="22" type="3" show_name="Знаток духов" pos_x="38250" pos_y="31176" pos_z="52750"/>
+	<map_point id="23" type="3" show_name="Усиление ядер души" pos_x="38250" pos_y="31176" pos_z="52350"/>
+	<map_point id="24" type="3" show_name="Меняла духов" pos_x="38250" pos_y="31176" pos_z="51950"/>
+	<map_point id="30" type="4" show_name="Мастер Звёзд" pos_x="23200" pos_y="31176" pos_z="47500"/>
+	<map_point id="31" type="4" show_name="Меняла Плейон" pos_x="23200" pos_y="31176" pos_z="47250"/>
+	<map_point id="40" type="5" show_name="Мастер пробуждения" pos_x="38200" pos_y="31176" pos_z="47400"/>
+	<map_point id="41" type="5" show_name="Знаток пробуждения" pos_x="38200" pos_y="31176" pos_z="47100"/>
+	<map_point id="50" type="14" show_name="Снаряжение духа" pos_x="45100" pos_y="23801" pos_z="36200"/>
+	<map_point id="51" type="14" show_name="Легендарное снаряжение" pos_x="44450" pos_y="23801" pos_z="35400"/>
+	<map_point id="52" type="14" show_name="Священная бижутерия" pos_x="45200" pos_y="23801" pos_z="38700"/>
+	<map_point id="53" type="14" show_name="Демоническое снаряжение" pos_x="44500" pos_y="23801" pos_z="39500"/>
+	<map_point id="54" type="14" show_name="Зачарованное снаряжение 60 ур." pos_x="15150" pos_y="22980" pos_z="18200"/>
+	<map_point id="55" type="14" show_name="Зачарованная бижутерия 60 ур." pos_x="15150" pos_y="22980" pos_z="18650"/>
+	<map_point id="56" type="14" show_name="Зачарованное снаряжение 80 ур." pos_x="15150" pos_y="22980" pos_z="19000"/>
+	<map_point id="57" type="14" show_name="Зачарованная бижутерия 80 ур." pos_x="15150" pos_y="22980" pos_z="19550"/>
+	<map_point id="58" type="14" show_name="Зачарованное снаряжение 90 ур." pos_x="15150" pos_y="22980" pos_z="20100"/>
+	<map_point id="59" type="14" show_name="Зачарованная бижутерия 90 ур." pos_x="15150" pos_y="22980" pos_z="20550"/>
+	<map_point id="60" type="16" show_name="Священное снаряжение 80 ур." pos_x="28850" pos_y="22980" pos_z="21350"/>
+	<map_point id="61" type="16" show_name="Священное снаряжение 80 ур." pos_x="28150" pos_y="22980" pos_z="21300"/>
+	<map_point id="62" type="16" show_name="Снаряжение Эгиды 95 ур." pos_x="27700" pos_y="22980" pos_z="24900"/>
+	<map_point id="63" type="16" show_name="Снаряжение Эгиды 95 ур." pos_x="28800" pos_y="22980" pos_z="24900"/>
+	<map_point id="64" type="16" show_name="Задания на печати Серафима" pos_x="28250" pos_y="22980" pos_z="23000"/>
+	<map_point id="68" type="8" show_name="Меняла демонических знаков" pos_x="20000" pos_y="22980" pos_z="20850"/>
+	<map_point id="69" type="8" show_name="Меняла священных знаков" pos_x="20350" pos_y="22980" pos_z="20850"/>
+	<map_point id="70" type="8" show_name="Меняла простых камней" pos_x="23100" pos_y="22980" pos_z="20900"/>
+	<map_point id="71" type="8" show_name="Меняла элитных камней" pos_x="23500" pos_y="22980" pos_z="20900"/>
+	<map_point id="72" type="8" show_name="Меняла небесных монет" pos_x="24350" pos_y="22980" pos_z="19800"/>
+	<map_point id="73" type="8" show_name="Меняла думонов" pos_x="24350" pos_y="22980" pos_z="20150"/>
+	<map_point id="74" type="8" show_name="Меняла древней веры" pos_x="21750" pos_y="22980" pos_z="20100"/>	
+	<map_point id="75" type="8" show_name="Меняла печатей богов" pos_x="19250" pos_y="22980" pos_z="20700"/>
+	<map_point id="76" type="8" show_name="Меняла сумок" pos_x="24350" pos_y="22980" pos_z="20550"/>
+	<map_point id="77" type="8" show_name="Меняла мерцающего ядра" pos_x="19150" pos_y="22980" pos_z="20250"/>
+	<map_point id="81" type="14" show_name="Святое снаряжение воина" pos_x="32200" pos_y="31255" pos_z="53050"/>
+	<map_point id="82" type="14" show_name="Святое снаряжение мага" pos_x="32200" pos_y="31255" pos_z="52550"/>
+	<map_point id="83" type="14" show_name="Святое снаряжение барда" pos_x="32200" pos_y="31255" pos_z="51650"/>
+	<map_point id="84" type="14" show_name="Святое снаряжение стрелка" pos_x="32200" pos_y="31255" pos_z="51150"/>
+	<map_point id="91" type="9" show_name="Регистратор заявок" pos_x="18700" pos_y="23626" pos_z="35350"/>
+	<map_point id="92" type="9" show_name="Меняла гильдии" pos_x="18700" pos_y="23626" pos_z="35200"/>
+	<map_point id="93" type="9" show_name="Управляющий гильдиями" pos_x="18700" pos_y="23626" pos_z="34900"/>
+	<map_point id="94" type="9" show_name="Распорядитель гильдии" pos_x="18700" pos_y="23626" pos_z="34650"/>
+	<map_point id="95" type="9" show_name="Кладовщик гильдии" pos_x="18700" pos_y="23626" pos_z="34350"/>
+	<map_point id="100" type="10" show_name="Товары семьи" pos_x="18500" pos_y="23557" pos_z="32100"/>
+	<map_point id="101" type="10" show_name="Регистратор семей" pos_x="19150" pos_y="23510" pos_z="31350"/>
+	<map_point id="110" type="13" show_name="Модельер" pos_x="21800" pos_y="22980" pos_z="24500"/>
+	<map_point id="111" type="13" show_name="Портной" pos_x="21550" pos_y="22980" pos_z="24500"/>
+	<map_point id="112" type="13" show_name="Кутюрье" pos_x="21300" pos_y="22980" pos_z="24500"/>
+	<map_point id="113" type="13" show_name="Модница" pos_x="21050" pos_y="22980" pos_z="24500"/>
+	<map_point id="114" type="13" show_name="Вестница любви" pos_x="22050" pos_y="22980" pos_z="24500"/>
+	<map_point id="115" type="13" show_name="Косметолог" pos_x="22300" pos_y="22980" pos_z="24500"/>
+	<map_point id="116" type="13" show_name="Богиня красоты" pos_x="22550" pos_y="22980" pos_z="24500"/>
+	<map_point id="120" type="19" show_name="Бартер купонов Демониона" pos_x="20100" pos_y="23692" pos_z="38050"/>
+	<map_point id="121" type="19" show_name="Меняла медалей Демониона" pos_x="19650" pos_y="23692" pos_z="37600"/>
+	<map_point id="122" type="19" show_name="Меняла кубков Теоса" pos_x="19850" pos_y="23692" pos_z="37900"/>
+	<map_point id="130" type="12" show_name="Страж дворца звезд" pos_x="24900" pos_y="23510" pos_z="30650"/>
+	<map_point id="131" type="12" show_name="Мастер дворца звезд" pos_x="24100" pos_y="23510" pos_z="30650"/>
+	<map_point id="132" type="12" show_name="Привратник Дворца Звезд" pos_x="24500" pos_y="23510" pos_z="30850"/>
+	<map_point id="133" type="12" show_name="Страж Храма элементов" pos_x="37350" pos_y="23510" pos_z="30350"/>
+	<map_point id="134" type="12" show_name="Меняла Храма элементов" pos_x="36650" pos_y="23510" pos_z="30350"/>
+	<map_point id="135" type="12" show_name="Привратник Храма элементов" pos_x="37000" pos_y="23510" pos_z="30350"/>
+	<map_point id="136" type="12" show_name="Телепорт Дворца Демонов" pos_x="44500" pos_y="23510" pos_z="31900"/>
+	<map_point id="137" type="12" show_name="Телепорт Дворца Сокровищ" pos_x="44850" pos_y="23510" pos_z="31900"/>
+	<map_point id="138" type="12" show_name="Телепорт Дворца Судьбы" pos_x="44150" pos_y="23510" pos_z="31900"/>
+	<map_point id="139" type="12" show_name="Капитан исследователей" pos_x="44850" pos_y="23510" pos_z="32650"/>
+	<map_point id="140" type="1" show_name="Страж Храма Аскез" pos_x="30550" pos_y="23094" pos_z="35900"/>
+	<map_point id="151" type="7" show_name="Мастер усиления" pos_x="36950" pos_y="23556" pos_z="38950"/>
+	<map_point id="152" type="7" show_name="Инструктор усиления" pos_x="36800" pos_y="23556" pos_z="38450"/>
+	<map_point id="153" type="7" show_name="Разборка снаряжения" pos_x="36350" pos_y="23510" pos_z="38800"/>
+	<map_point id="154" type="7" show_name="Создание снаряжения" pos_x="36300" pos_y="23510" pos_z="39100"/>
+	<map_point id="155" type="7" show_name="Мастер удаления камней" pos_x="36937" pos_y="23559" pos_z="34400"/>
+	<map_point id="156" type="7" show_name="Мастер улучшения камней" pos_x="37212" pos_y="23559" pos_z="34772"/>
+	<map_point id="157" type="7" show_name="Меняла драгоценных камней" pos_x="37239" pos_y="23508" pos_z="35524"/>
+	<map_point id="158" type="7" show_name="Огранщик камней" pos_x="37660" pos_y="23510" pos_z="36141"/>
+	<map_point id="159" type="7" show_name="Мастер драгоценных камней" pos_x="37234" pos_y="23508" pos_z="35167"/>
+	<map_point id="160" type="7" show_name="Рецепты драгоценных камней" pos_x="36536" pos_y="23510" pos_z="34777"/>
+	<map_point id="161" type="7" show_name="Производство драгоценных камней" pos_x="36599" pos_y="23510" pos_z="34193"/>
+	<map_point id="163" type="7" show_name="Изготовление ловцов душ" pos_x="36900" pos_y="23510" pos_z="37900"/>
+	<map_point id="170" type="6" show_name="Перевозчик поля боя ГВГ" pos_x="14000" pos_y="23649" pos_z="40350"/>
+	<map_point id="172" type="6" show_name="Распорядитель боевых наград" pos_x="14865" pos_y="23649" pos_z="41205"/>
+	<map_point id="173" type="6" show_name="Книжник воинов и стрелков" pos_x="14017" pos_y="23649" pos_z="41044"/>
+	<map_point id="174" type="6" show_name="Книжница бардов и магов" pos_x="14283" pos_y="23649" pos_z="41337"/>
+	<map_point id="175" type="6" show_name="Меняла медалей мастера" pos_x="14838" pos_y="23649" pos_z="40258"/>
+	<map_point id="176" type="6" show_name="Меняла высших медалей" pos_x="14885" pos_y="23649" pos_z="40548"/>
+	<map_point id="177" type="6" show_name="Торговец рецептами" pos_x="14150" pos_y="23654" pos_z="40700"/>
+	<map_point id="178" type="6" show_name="Командир Джейд" pos_x="12450" pos_y="23654" pos_z="39300"/>
+	<map_point id="180" type="11" show_name="Кладовщик (Центр)" pos_x="25570" pos_y="23508" pos_z="31831"/>
+	<map_point id="181" type="11" show_name="Кладовщик (Рынок)" pos_x="35996" pos_y="22978" pos_z="22995"/>
+	<map_point id="182" type="11" show_name="Кладовщик (Север)" pos_x="34688" pos_y="23508" pos_z="39836"/>
+	<map_point id="190" type="20" show_name="Королева Леонора" pos_x="31339" pos_y="31255" pos_z="53288"/>
+	<map_point id="191" type="20" show_name="Король Марс" pos_x="30510" pos_y="31255" pos_z="53271"/>
+	<map_point id="192" type="20" show_name="Офицер Адель" pos_x="31460" pos_y="31176" pos_z="47471"/>
+	<map_point id="193" type="20" show_name="Дух Артефакта" pos_x="30390" pos_y="31770" pos_z="45280"/>
+	<map_point id="194" type="20" show_name="Дух Копья" pos_x="31350" pos_y="31770" pos_z="46300"/>
+	<map_point id="195" type="20" show_name="Дух Лиры" pos_x="31350" pos_y="31770" pos_z="45280"/>
+	<map_point id="196" type="20" show_name="Дух Лука" pos_x="30390" pos_y="31770" pos_z="46300"/>
+	<map_point id="197" type="20" show_name="Оракул Киран" pos_x="30580" pos_y="23094" pos_z="34216"/>
+	<map_point id="198" type="20" show_name="Оракул Тереза" pos_x="29565" pos_y="31255" pos_z="53048"/>
+	<map_point id="200" type="15" show_name="Целитель ранений" pos_x="31750" pos_y="23094" pos_z="37600"/>
+	<map_point id="210" type="14" show_name="Элитное снаряжение (52 ур.)" pos_x="29134" pos_y="31255" pos_z="50919"/>
+	<map_point id="211" type="14" show_name="Элитное снаряжение (67 ур.)" pos_x="29134" pos_y="31255" pos_z="51924"/>
+	<map_point id="212" type="14" show_name="Элитное снаряжение (82 ур.)" pos_x="28970" pos_y="31255" pos_z="51416"/>
+	<map_point id="220" type="17" show_name="Фармацевт(Центр)" pos_x="24240" pos_y="23557" pos_z="34792"/>
+	<map_point id="221" type="17" show_name="Фармацевт(Запад)" pos_x="17657" pos_y="23557" pos_z="41825"/>
+	<map_point id="222" type="17" show_name="Фармацевт(Восток)" pos_x="50171" pos_y="23557" pos_z="41527"/>
+	<map_point id="223" type="17" show_name="Алхимик(Центр)" pos_x="24000" pos_y="23557" pos_z="34425"/>
+	<map_point id="224" type="17" show_name="Алхимик(Запад)" pos_x="17344" pos_y="23557" pos_z="42039"/>
+	<map_point id="225" type="17" show_name="Алхимик(Восток)" pos_x="49819" pos_y="23557" pos_z="41751"/>
+	<map_point id="230" type="18" show_name="Аренда витрины (Северо-запад)" pos_x="25050" pos_y="31176" pos_z="50150"/>
+	<map_point id="231" type="18" show_name="Аренда витрины (Северо-восток)" pos_x="36500" pos_y="31176" pos_z="50200"/>
+	<map_point id="232" type="18" show_name="Аренда витрины (Восток)" pos_x="38900" pos_y="23510" pos_z="32100"/>
+	<map_point id="233" type="18" show_name="Аренда витрины (Запад)" pos_x="22700" pos_y="23510" pos_z="32150"/>
+	<map_point id="234" type="18" show_name="Аренда витрины (Рынок)" pos_x="42500" pos_y="22980" pos_z="25550"/>
+	<map_point id="235" type="18" show_name="Аренда витрины (Рынок)" pos_x="32900" pos_y="22980" pos_z="25550"/>
+	<map_point id="236" type="18" show_name="Аренда витрины (Рынок)" pos_x="42450" pos_y="22980" pos_z="17350"/>
+	<map_point id="237" type="18" show_name="Аренда витрины (Рынок)" pos_x="34000" pos_y="22980" pos_z="17350"/>
+	<map_point id="238" type="18" show_name="Рыночная площадь" pos_x="34600" pos_y="22980" pos_z="23100"/>
+	<map_point id="240" type="15" show_name="Коробейник (Центр)" pos_x="24028" pos_y="23508" pos_z="35713"/>
+	<map_point id="241" type="15" show_name="Коробейник (Восток)" pos_x="45905" pos_y="23508" pos_z="40843"/>
+	<map_point id="242" type="15" show_name="Книжница (Центр)" pos_x="23738" pos_y="23510" pos_z="35868"/>
+	<map_point id="243" type="15" show_name="Книжница (Восток)" pos_x="46147" pos_y="23510" pos_z="40558"/>
+	<map_point id="244" type="15" show_name="Юрист Рикардо" pos_x="29550" pos_y="23094" pos_z="37650"/>
+	<map_point id="250" type="21" show_name="Два Лорда ужаса(Восток)" pos_x="47603" pos_y="22902" pos_z="26196"/>
+	<map_point id="251" type="21" show_name="Два Лорда ужаса(Запад)" pos_x="16470" pos_y="22902" pos_z="26143"/>
+	<map_point id="252" type="21" show_name="Два Лорда ужаса(Юг)" pos_x="29253" pos_y="22980" pos_z="15154"/>
+	<map_point id="253" type="21" show_name="Небесный проводник" pos_x="18800" pos_y="22980" pos_z="22300"/>
+	<map_point id="254" type="21" show_name="Проводник Логова зверя" pos_x="34314" pos_y="23508" pos_z="43103"/>
+	<map_point id="255" type="21" show_name="Страж Колеса Судьбы" pos_x="25350" pos_y="22980" pos_z="12600"/>
+	<map_point id="256" type="21" show_name="Золотая лихорадка (Банкир)" pos_x="26000" pos_y="22980" pos_z="12800"/>
+	<map_point id="257" type="21" show_name="Раненый воин" pos_x="26950" pos_y="22980" pos_z="13000"/>
+	<map_point id="258" type="21" show_name="Камень-ножницы-бумага" pos_x="24000" pos_y="22980" pos_z="13950"/>
+	<map_point id="259" type="21" show_name="Мастер Енот" pos_x="31400" pos_y="23094" pos_z="35100"/>
+	<map_point id="260" type="20" show_name="Голодный эльф" pos_x="14300" pos_y="27106" pos_z="51350"/>
+	<map_point id="261" type="20" show_name="Восстановление бож. навыков" pos_x="31927" pos_y="31255" pos_z="53339"/>
+	<map_point id="262" type="20" show_name="Продавец припасов" pos_x="27050" pos_y="23510" pos_z="42700"/>
+	<map_point id="263" type="20" show_name="Синида" pos_x="30726" pos_y="22900" pos_z="16713"/>
+	<map_point id="264" type="20" show_name="Хозяин рынка" pos_x="37550" pos_y="22980" pos_z="22750"/>
+	<map_point id="265" type="20" show_name="Помощница кладовщика" pos_x="35100" pos_y="23510" pos_z="39650"/>
+	<map_point id="266" type="20" show_name="Помощница кладовщика" pos_x="25700" pos_y="23510" pos_z="31400"/>
+	<map_point id="267" type="20" show_name="Бегун Касэ" pos_x="32630" pos_y="23094" pos_z="35534"/>
+	<map_point id="268" type="20" show_name="Роос работодатель" pos_x="36307" pos_y="23510" pos_z="38051"/>
+	<map_point id="269" type="20" show_name="Шера" pos_x="35745" pos_y="23510" pos_z="36118"/>
+	<map_point id="270" type="22" show_name="Список розыска (Юг)" pos_x="27500" pos_y="22980" pos_z="20200"/>
+	<map_point id="271" type="22" show_name="Список розыска (Запад)" pos_x="18200" pos_y="23510" pos_z="29350"/>
+	<map_point id="272" type="22" show_name="Список розыска (Восток)" pos_x="45900" pos_y="23510" pos_z="32900"/>
+	<map_point id="273" type="22" show_name="Список розыска (Северо-восток)" pos_x="37450" pos_y="31176" pos_z="44550"/>
+	<map_point id="274" type="22" show_name="Список розыска (Северо-запад)" pos_x="23900" pos_y="31176" pos_z="44550"/>
+	<map_point id="276" type="20" show_name="Рамеса" pos_x="35689" pos_y="23510" pos_z="36569"/>
+	<map_point id="277" type="20" show_name="Эврика" pos_x="36612" pos_y="23510" pos_z="35075"/>
+	<map_point id="278" type="20" show_name="Ромидай" pos_x="35450" pos_y="23510" pos_z="32150"/>
+	<map_point id="279" type="9" show_name="Фатерн" pos_x="19100" pos_y="23626" pos_z="35550"/>
+	<map_point id="280" type="12" show_name="Крадрис" pos_x="42900" pos_y="23510" pos_z="41150"/>
+	<map_point id="281" type="21" show_name="Рейтинг олимпийских медалей" pos_x="41450" pos_y="23510" pos_z="41150"/>
+	<map_point id="282" type="20" show_name="Аша Путешественница" pos_x="28150" pos_y="22980" pos_z="12900"/>
+</root>

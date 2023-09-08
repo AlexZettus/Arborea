@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30820" />
+    <entry Name="Безумный архангел" />
+    <entry Conditions="" />
+    <entry Overview="Ежедневно, в 18:00 на просторах &lt;N&gt;Пандоры&lt;/N&gt; в случайном месте может появиться Безумный архангел &lt;A&gt;Хедилус&lt;/A&gt;. Найдите и убейте его, а затем идите в Тарио к &lt;D&gt;&lt;L=s02,5516025&gt;раненому воину&lt;/L&gt;&lt;/D&gt; за наградой." />
+</quest-local>

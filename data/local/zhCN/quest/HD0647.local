@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30647" />
+    <entry Name="Темный рыцарь" />
+    <entry Conditions="" />
+    <entry Overview="Возьмите&lt;I&gt;Слезу эльфа&lt;/I&gt;и прибыв в &lt;N&gt;Пандору&lt;/N&gt;у\n&lt;D&gt;&lt;L=s03, 5513007&gt;Призрака Халуры&lt;/L&gt;&lt;/D&gt;обменяйте на&lt;I&gt;Камень Темной Ночи&lt;/I&gt;.\nКапли слез эльфов содержат таинственную силу, но существуют только&lt;C&gt;10&lt;/C&gt;мин.&lt;C&gt;10&lt;/C&gt;Через 10 мин. их волшебная сила исчезает." />
+</quest-local>

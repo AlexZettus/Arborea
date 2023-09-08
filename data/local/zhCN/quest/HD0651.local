@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30651" />
+    <entry Name="Гнилая госпожа" />
+    <entry Conditions="" />
+    <entry Overview="Возьмите &lt;I&gt;слезу эльфа&lt;/I&gt; и в &lt;N&gt;Долине Грома&lt;/N&gt; у \n&lt;D&gt;&lt;L=s04, 5513012&gt;Леди Йолианы&lt;/L&gt;&lt;/D&gt; обменяйте на &lt;I&gt;камень Йолианы&lt;/I&gt;.\nКапли слез эльфов содержат таинственную силу, но она существуют только &lt;C&gt;10&lt;/C&gt; мин. Через &lt;C&gt;10&lt;/C&gt; мин. она исчезает." />
+</quest-local>

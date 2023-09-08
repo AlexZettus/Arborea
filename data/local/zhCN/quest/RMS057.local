@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20657" />
+    <entry Name="Сбросить проклятие" />
+    <entry Conditions="" />
+    <entry Overview="Нужно убить \n&lt;color=0xffff0000&gt;&lt;L=s08, 1070088&gt;Правого небесного глашатая&lt;/L&gt;\n&lt;L=s07, 1060054&gt;Королеву дементоров&lt;/L&gt;\n&lt;L=s06, 1050042&gt;Злую зелёную пикси&lt;/L&gt;\n&lt;L=s05, 1040049&gt;Императора Сноулэнда&lt;/L&gt;\n&lt;L=s03,1030019&gt;Каменный голем&lt;/L&gt;\n&lt;L=s03, 1081002&gt;Заблудший древень&lt;/L&gt;&lt;color=0xffffffff&gt;\nи добыть с них &lt;I&gt;зелья снятия проклятий от A до F&lt;/I&gt;. Все собранные зелья отнесите  &lt;D&gt;&lt;L=s08, 5010210&gt;Уолтеру&lt;/L&gt;." />
+</quest-local>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30887" />
+    <entry Name="Подарок в день Благодарения 5" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь в Тарио к &lt;D&gt;&lt;Z=s02,47800,23692,36350&gt;Посланнику Благодарности&lt;/Z&gt;&lt;/D&gt; и получите опыт в награду." />
+</quest-local>

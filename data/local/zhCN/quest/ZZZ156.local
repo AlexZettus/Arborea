@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="50056" />
+    <entry Name="Дикая охота" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйся в Логово зверя и уничтожь финального босса. Для получения награды обращайся к &lt;N&gt;&lt;Z=as02,22500, 22982, 32150&gt;Авигору&lt;/Z&gt;&lt;/N&gt;." />
+</quest-local>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20019" />
+    <entry Name="Помощь оракула" />
+    <entry Conditions="" />
+    <entry Overview="Иди на центральную площадь и поговори с &lt;D&gt;&lt;L=s02, 5010027&gt;оракулом Кираном&lt;/L&gt;&lt;/D&gt;. Он поможет тебе познакомиться поближе с городом и его жителями.\n&#x0A;\n" />
+</quest-local>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20314" />
+    <entry Name="Заснеженная гора" />
+    <entry Conditions="" />
+    <entry Overview="Поговорите с &lt;D&gt;&lt;L=s05, 5010092&gt;Саэшем&lt;/L&gt;&lt;/D&gt;, чтобы узнать, чем ему помочь." />
+</quest-local>

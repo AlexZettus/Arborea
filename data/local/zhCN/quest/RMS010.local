@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20610" />
+    <entry Name="Орудие власти" />
+    <entry Conditions="" />
+    <entry Overview="Найдите &lt;A&gt;&lt;L=d11, 1070011&gt;жреца-последователя&lt;/L&gt;&lt;/A&gt; и &lt;A&gt;&lt;L=d11, 1070012&gt;жреца-убийцу&lt;/L&gt;&lt;/A&gt;, соберите &lt;C&gt;150&lt;/C&gt; кусочков &lt;I&gt;орудия власти&lt;/I&gt;, ликвидируйте &lt;color=0xffffffff&gt;&lt;C&gt;25&lt;/C&gt; &lt;color=0xffff6000&gt;&lt;L=d11, 1070053&gt;элитных жрецов-адептов&lt;/L&gt; и \n&lt;color=0xffff0000&gt;&lt;L=d11, 1070074&gt;Майру Убийцу Тысячи&lt;/L&gt;&lt;color=0xffffffff&gt; - &lt;C&gt;1&lt;/C&gt;. Затем вернитесь к &lt;D&gt;&lt;L=s08, 5010205&gt;Очилу&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

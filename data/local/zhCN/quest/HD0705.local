@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30705" />
+    <entry Name="Войны Сноулэнда" />
+    <entry Conditions="" />
+    <entry Overview="В &lt;N&gt;Сноулэнде&lt;/N&gt; избавьтесь от \n&lt;A&gt;&lt;L=s05, 1040014&gt;снежного медведя&lt;/L&gt;&lt;/A&gt; и \n&lt;A&gt;&lt;L=s05, 1040017&gt;ледяной пикси&lt;/L&gt;&lt;/A&gt;. Затем вернитесь к \n&lt;D&gt;&lt;L=s02, 5600011&gt;Снегуле&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

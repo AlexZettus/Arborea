@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="30604" />
+    <entry Name="Контроль логова Тьмы" />
+    <entry Conditions="Уничтожить последнего босса" />
+    <entry Overview="Ежедневно в &lt;C&gt;09：00,  13：00,  18：00, и 23：00&lt;/C&gt; в &lt;N&gt;Долине Грома&lt;/N&gt;, &lt;N&gt;Сноулэнде&lt;/N&gt; появляются &lt;D&gt;врата Логова Тьмы&lt;/D&gt;.Соберите команду и отправляйтесь в &lt;D&gt;Логово Тьмы&lt;/D&gt;, чтобы очистить эти земли от тёмных сил.\n&#x0A;\n" />
+</quest-local>

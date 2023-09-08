@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30870" />
+    <entry Name="Спасение питомца" />
+    <entry Conditions="" />
+    <entry Overview="Сперва отправляйтесь в &lt;N&gt;Пандору&lt;/N&gt;и убейте &lt;A&gt;&lt;L=s03,3040375&gt;Злобную панду Бин&lt;/L&gt;&lt;/A&gt;, спасите питомца Посланника Весны&lt;I&gt; Панду Бинбин&lt;/I&gt;, а выполнив это возвращайтесь к &lt;D&gt;&lt;L=s02,6040022&gt;Посланнику Весны&lt;/L&gt;&lt;/D&gt; и сдайте задание." />
+</quest-local>

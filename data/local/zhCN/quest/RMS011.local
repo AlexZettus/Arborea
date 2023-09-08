@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20611" />
+    <entry Name="Дочь дьявола Йору" />
+    <entry Conditions="" />
+    <entry Overview="Очил просит вас отправиться в &lt;N&gt;Деревню Восточной горы&lt;/N&gt; к помощнице &lt;D&gt;&lt;L=s08, 5010206&gt;Йору&lt;/L&gt;&lt;/D&gt;. " />
+</quest-local>

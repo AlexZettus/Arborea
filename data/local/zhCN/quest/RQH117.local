@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20117" />
+    <entry Name="Тест варваров" />
+    <entry Conditions="" />
+    <entry Overview="Ответьте на вопросы \n&lt;D&gt;&lt;L=s03, 5010075&gt;Джека Сали&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

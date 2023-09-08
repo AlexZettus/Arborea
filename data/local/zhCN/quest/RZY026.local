@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="40026" />
+    <entry Name="Просьба Ромидая" />
+    <entry Conditions="" />
+    <entry Overview="Уничтожьте \n&lt;D&gt;&lt;L=s08, 1070073&gt;цветок танца демонов&lt;/L&gt;&lt;/D&gt;, \n&lt;D&gt;&lt;L=d11, 1070074&gt;Майру Убийцу тысячи&lt;/L&gt;&lt;/D&gt;, \n&lt;D&gt;&lt;L=s08, 1070075&gt;стража Редмонда&lt;/L&gt;&lt;/D&gt;, \n&lt;D&gt;&lt;L=s08, 1070076&gt;Резчика Ветра&lt;/L&gt;&lt;/D&gt;. \nЗатем вернитесь к &lt;D&gt;&lt;L=s02, 5010083&gt;Ромидаю&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

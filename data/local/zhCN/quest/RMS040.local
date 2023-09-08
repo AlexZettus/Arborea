@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20640" />
+    <entry Name="Вкус Сэндрагона" />
+    <entry Conditions="" />
+    <entry Overview="Соберите &lt;C&gt;30&lt;/C&gt; &lt;M&gt;&lt;L=s08, 6010029&gt;сэндрагонов&lt;/L&gt;&lt;/M&gt; и отнесите их &lt;D&gt;&lt;L=s08, 5010209&gt;Ротту&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

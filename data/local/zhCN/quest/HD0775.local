@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30775" />
+    <entry Name="Обмен искры храбреца" />
+    <entry Conditions="" />
+    <entry Overview="Соберите &lt;C&gt;50&lt;/C&gt; &lt;I&gt;искр храбреца&lt;/I&gt; и отдайте их \n&lt;D&gt;&lt;L=s52, 5600035&gt;меняле титулов Ромен&lt;/L&gt;&lt;/D&gt;, чтобы получить титул &lt;I&gt;Влюблённый&lt;/I&gt;.\n Отдайте &lt;I&gt;розу любви&lt;/I&gt; игроку мужского пола, чтобы получить предмет &lt;I&gt;искра храбреца&lt;/I&gt;." />
+</quest-local>

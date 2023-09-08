@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30814" />
+    <entry Name="Опыт путешественника X" />
+    <entry Conditions="Собрать 300000 опыта" />
+    <entry Overview="Используйте &lt;I&gt;особое зелье энергии [12 ч]&lt;/I&gt;, найдите &lt;I&gt;корзину оранжевых плодов&lt;/I&gt;, чтобы заработать опыт.\nСобрав &lt;C&gt;300000&lt;/C&gt; ед. опыта, сдайте задание &lt;D&gt;заведующему операциями.&lt;/D&gt;" />
+</quest-local>

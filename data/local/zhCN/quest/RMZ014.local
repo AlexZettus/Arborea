@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20514" />
+    <entry Name="Сущность оборотня" />
+    <entry Conditions="" />
+    <entry Overview="Убейте &lt;C&gt;5&lt;/C&gt; &lt;color=0xffff6000&gt;&lt;L=d07, 1060041&gt;джунглевых яростных волков&lt;/L&gt;&lt;color=0xffffffff&gt; и \n&lt;C&gt;10&lt;/C&gt; &lt;color=0xffff6000&gt;&lt;L=d07, 1060040&gt;гигантских болотных медведей&lt;/L&gt;&lt;color=0xffffffff&gt;. Затем отправляйтесь в Пещеру Волка и добудьте &lt;C&gt;90&lt;/C&gt; единиц &lt;I&gt;сути монстра&lt;/I&gt; из &lt;A&gt;&lt;L=d07, 1060020&gt;джунглевых оборотней&lt;/L&gt;&lt;/A&gt; или \n&lt;A&gt;&lt;L=d07, 1060021&gt;джунглевых духов волка&lt;/L&gt;&lt;/A&gt;. После выполнения доложите обо всем &lt;D&gt;&lt;L=s07, 5010167&gt;Монату&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

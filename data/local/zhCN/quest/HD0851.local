@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30851" />
+    <entry Name="Панда-нарушитель" />
+    <entry Conditions="" />
+    <entry Overview="&lt;D&gt;Панда-старейшина&lt;/D&gt;хочет, чтобы вы покарали &lt;C&gt;1&lt;/C&gt;нарушившую границы &lt;M&gt;Панду Новой весны&lt;/M&gt;。&lt;M&gt;Панда Новой весны&lt;/M&gt; каждые &lt;C&gt;30&lt;/C&gt; минут появляются в &lt;P&gt;Лесу Теней&lt;/P&gt; и через 10 минут убегают. После выполнения задания найдите &lt;D&gt;&lt;Z=s02,33300,23510,39800&gt;Панда-старейшина&lt;/Z&gt;&lt;/D&gt; и получите награду! " />
+</quest-local>

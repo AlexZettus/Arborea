@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20302" />
+    <entry Name="Узнать Землю" />
+    <entry Conditions="" />
+    <entry Overview="Поговорите с людьми в центре, узнайте ситуацию на Земле. Затем вернитесь к \n&lt;D&gt;&lt;L=s05, 5010088&gt;Аарону&lt;/L&gt;&lt;/D&gt;.\n&#x0A;\n&lt;S&gt;[Ур. 30]&lt;/S&gt;Сноулэнд: достигнув 30 Ур., вы можете отправиться в &lt;N&gt;Сноулэнд&lt;/N&gt; набираться опыта.&#x0A;" />
+</quest-local>

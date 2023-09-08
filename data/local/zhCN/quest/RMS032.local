@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20632" />
+    <entry Name="Демонический кристалл и следы" />
+    <entry Conditions="" />
+    <entry Overview="Сначала соберите 2 &lt;M&gt;&lt;L=s08, 6010024&gt;следа потрошителя земли&lt;/L&gt;&lt;/M&gt;, а потом убивая &lt;A&gt;&lt;L=s08, 1070022&gt;Плачущую душу&lt;/L&gt;&lt;/A&gt;, &lt;A&gt;&lt;L=s08, 1070023&gt;дракона Горы смерти&lt;/L&gt;&lt;/A&gt;, \n&lt;A&gt;&lt;L=s08, 1070024&gt;кровавого волка&lt;/L&gt;&lt;/A&gt; добудьте &lt;C&gt;150&lt;/C&gt; &lt;I&gt;демонических кристаллов&lt;/I&gt; и отнесите все это &lt;D&gt;&lt;L=s08, 5010209&gt;Ротту&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

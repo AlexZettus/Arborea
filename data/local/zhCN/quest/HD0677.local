@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30677" />
+    <entry Name="Войны Сноулэнда" />
+    <entry Conditions="" />
+    <entry Overview="Идите к &lt;N&gt;Горе Смерти&lt;/N&gt; и избавьтесь в &lt;N&gt;Штольне&lt;/N&gt; от \n&lt;A&gt;&lt;L=d11, 1070012&gt;жреца-убийцы&lt;/L&gt;&lt;/A&gt;, а в &lt;N&gt;Деревне Зеленая гора&lt;/N&gt; - от \n&lt;A&gt;&lt;L=s08, 1070005&gt;штормового грабителя&lt;/L&gt;&lt;/A&gt;. Затем поговорите со \n&lt;D&gt;&lt;L=s02, 5600011&gt;Снегулой&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

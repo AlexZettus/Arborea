@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+	<Constellation id="1" name="Овен (3/21-4/20)" />
+	<Constellation id="2" name="Телец (4/21-5/20)" />
+	<Constellation id="3" name="Близнецы (5/21-6/21)" />
+	<Constellation id="4" name="Рак (6/22-7/22)" />
+	<Constellation id="5" name="Лев (7/23-8/22)" />
+	<Constellation id="6" name="Дева (8/23-9/22)" />
+	<Constellation id="7" name="Весы (9/23-10/22)" />
+	<Constellation id="8" name="Скорпион (10/23-11/21)" />
+	<Constellation id="9" name="Стрелец (11/22-12/21)" />
+	<Constellation id="10" name="Козерог (12/22-1/19)" />
+	<Constellation id="11" name="Водолей (1/20-2/18)" />
+	<Constellation id="12" name="Рыбы (2/19-3/20)" />
+	<Constellation id="13" name="Закрыто" />
+</root>

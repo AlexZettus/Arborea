@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<root>
+    <activity id="1" name="Сияние богини" prompt="0" activitymode="1" activitytype="5" weekday="1" starthour="13" startminute="01" endhour="14" endminute="0" AcceptNpcID="5510401" MinLevel="40" MaxLevel="120" />
+    <activity id="2" name="Сияние богини" prompt="0" activitymode="1" activitytype="5" weekday="1" starthour="16" startminute="01" endhour="17" endminute="0" AcceptNpcID="5510401" MinLevel="40" MaxLevel="120" />
+    <activity id="3" name="Сияние богини" prompt="0" activitymode="1" activitytype="5" weekday="4" starthour="13" startminute="01" endhour="14" endminute="0" AcceptNpcID="5510401" MinLevel="40" MaxLevel="120" />
+    <activity id="4" name="Сияние богини" prompt="0" activitymode="1" activitytype="5" weekday="4" starthour="16" startminute="01" endhour="17" endminute="0" AcceptNpcID="5510401" MinLevel="40" MaxLevel="120" />
+    <activity id="5" name="Честь вождя" prompt="0" activitymode="1" activitytype="5" weekday="2" starthour="13" startminute="01" endhour="14" endminute="0" AcceptNpcID="5510402" MinLevel="40" MaxLevel="120" />
+    <activity id="6" name="Честь вождя" prompt="0" activitymode="1" activitytype="5" weekday="2" starthour="16" startminute="01" endhour="17" endminute="0" AcceptNpcID="5510402" MinLevel="40" MaxLevel="120" />
+    <activity id="7" name="Честь вождя" prompt="0" activitymode="1" activitytype="5" weekday="5" starthour="13" startminute="01" endhour="14" endminute="0" AcceptNpcID="5510402" MinLevel="40" MaxLevel="120" />
+    <activity id="8" name="Честь вождя" prompt="0" activitymode="1" activitytype="5" weekday="5" starthour="16" startminute="01" endhour="17" endminute="0" AcceptNpcID="5510402" MinLevel="40" MaxLevel="120" />
+    <activity id="9" name="Рев демона" prompt="0" activitymode="1" activitytype="5" weekday="3" starthour="15" startminute="0" endhour="16" endminute="0" AcceptNpcID="5510403" MinLevel="40" MaxLevel="120" />
+    <activity id="10" name="Рев демона" prompt="0" activitymode="1" activitytype="5" weekday="3" starthour="19" startminute="01" endhour="20" endminute="0" AcceptNpcID="5510403" MinLevel="40" MaxLevel="120" />
+    <activity id="11" name="Рев демона" prompt="0" activitymode="1" activitytype="5" weekday="5" starthour="15" startminute="0" endhour="16" endminute="0" AcceptNpcID="5510403" MinLevel="40" MaxLevel="120" />
+    <activity id="12" name="Рев демона" prompt="0" activitymode="1" activitytype="5" weekday="5" starthour="19" startminute="01" endhour="20" endminute="0" AcceptNpcID="5510403" MinLevel="40" MaxLevel="120" />
+    <activity id="13" name="Логово зверя" prompt="0" activitymode="0" activitytype="4" starthour="14" startminute="00" endhour="15" endminute="0" AcceptNpcID="5510501" MinLevel="30" MaxLevel="120" />
+    <activity id="14" name="Логово зверя" prompt="0" activitymode="0" activitytype="4" starthour="18" startminute="1" endhour="19" endminute="0" AcceptNpcID="5510501" MinLevel="30" MaxLevel="120" />
+    <activity id="15" name="Логово зверя" prompt="0" activitymode="0" activitytype="4" starthour="22" startminute="00" endhour="23" endminute="0" AcceptNpcID="5510501" MinLevel="30" MaxLevel="120" />
+    <activity id="16" name="Логово зверя" prompt="0" activitymode="0" activitytype="4" starthour="2" startminute="0" endhour="3" endminute="0" AcceptNpcID="5510501" MinLevel="30" MaxLevel="120" />
+    <activity id="17" name="Вторжение монстров" prompt="0" activitymode="0" activitytype="6" startyear="11" starthour="0" startminute="30" endhour="1" endminute="30" MinLevel="120" MaxLevel="120" />
+    <activity id="18" name="Вторжение монстров" prompt="0" activitymode="0" activitytype="6" startyear="11" starthour="8" startminute="30" endhour="9" endminute="30" MinLevel="120" MaxLevel="120" />
+    <activity id="19" name="Вторжение монстров" prompt="0" activitymode="0" activitytype="6" startyear="11" starthour="12" startminute="30" endhour="13" endminute="30" MinLevel="120" MaxLevel="120" />
+    <activity id="20" name="Вторжение монстров" prompt="0" activitymode="0" activitytype="6" startyear="11" starthour="16" startminute="31" endhour="17" endminute="30" MinLevel="120" MaxLevel="120" />
+    <activity id="21" name="Вторжение монстров" prompt="0" activitymode="0" activitytype="6" startyear="11" starthour="20" startminute="30" endhour="21" endminute="30" MinLevel="120" MaxLevel="120" />
+    <activity id="22" name="Вечный ад" prompt="0" activitymode="0" activitytype="4" starthour="19" startminute="0" endhour="20" endminute="0" AcceptNpcID="5510201" MinLevel="40" MaxLevel="120" />
+    <activity id="23" name="Конкурс знаний" prompt="0" activitymode="0" activitytype="2" startyear="11" starthour="12" startminute="0" endhour="14" endminute="0" MinLevel="120" MaxLevel="120" />
+    <activity id="24" name="Конкурс знаний" prompt="0" activitymode="0" activitytype="2" startyear="11" starthour="19" startminute="30" endhour="21" endminute="30" MinLevel="120" MaxLevel="120" />
+    <activity id="25" name="Битва гильдий" prompt="0" activitymode="4" activitytype="3" MinLevel="1" MaxLevel="120" />
+    <activity id="26" name="Викторина" prompt="0" activitymode="1" activitytype="5" weekday="0" starthour="15" startminute="0" endhour="15" endminute="30" MinLevel="40" MaxLevel="120" />
+    <activity id="27" name="Охота за сокровищами" prompt="0" activitymode="4" activitytype="3" weekday="3" starthour="20" startminute="0" endhour="23" endminute="59" MinLevel="20" MaxLevel="120" />
+    <activity id="28" name="Два лорда ужаса" prompt="0" activitymode="0" activitytype="6" starthour="21" startminute="2" endhour="23" endminute="0" MinLevel="55" MaxLevel="120" />
+    <activity id="29" name="Системный ивент" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" />
+    <activity id="30" name="Хэллоуин" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" />
+    <activity id="31" name="Призрачная арена" prompt="0" activitymode="0" activitytype="6" starthour="14" startminute="1" endhour="16" endminute="0" MinLevel="40" MaxLevel="120" />
+    <activity id="32" name="Призрачная арена" prompt="0" activitymode="0" activitytype="6" starthour="18" startminute="2" endhour="20" endminute="0" MinLevel="40" MaxLevel="120" />
+    <activity id="33" name="Сокровища эльфов" prompt="0" activitymode="0" activitytype="6" starthour="18" startminute="0" endhour="23" endminute="59" MinLevel="30" MaxLevel="120" />
+    <activity id="34" name="Новый год" prompt="1" activitymode="3" activitytype="0" startyear="11" startmonth="12" startday="23" starthour="0" startminute="0" endyear="12" endmonth="1" endday="11" endhour="23" endminute="59" MinLevel="30" MaxLevel="120" />
+    <activity id="36" name="Новый год" prompt="0" activitymode="3" activitytype="0" startyear="10" startmonth="12" startday="21" starthour="0" startminute="0" endyear="11" endmonth="1" endday="11" endhour="23" endminute="59" MinLevel="30" MaxLevel="120" />
+    <activity id="37" name="Праздник весны" prompt="0" activitymode="3" activitytype="0" startyear="11" startmonth="1" startday="25" starthour="0" startminute="0" endyear="11" endmonth="2" endday="15" endhour="23" endminute="59" MinLevel="30" MaxLevel="120" />
+    <activity id="38" name="День Святого Валентина" prompt="0" activitymode="3" activitytype="0" startyear="11" startmonth="2" startday="11" starthour="0" startminute="0" endyear="11" endmonth="2" endday="25" endhour="23" endminute="59" />
+    <activity id="39" name="День матери" prompt="0" activitymode="3" activitytype="0" startyear="11" startmonth="5" startday="4" starthour="0" startminute="0" endyear="11" endmonth="5" endday="17" endhour="23" endminute="59" MinLevel=" " MaxLevel=" " />
+    <activity id="40" name="Праздник начала лета" prompt="0" activitymode="3" activitytype="0" startyear="11" startmonth="5" startday="31" starthour="0" startminute="0" endyear="11" endmonth="6" endday="14" endhour="23" endminute="59" />
+    <activity id="41" name="Стипендиальная программа" prompt="0" activitymode="3" activitytype="0" startyear="11" startmonth="6" startday="23" starthour="0" startminute="0" endyear="11" endmonth="9" endday="14" endhour="23" endminute="59" />
+    <activity id="42" name="Карнавал босса" prompt="0" activitymode="3" activitytype="0" startyear="11" startmonth="7" startday="25" starthour="0" startminute="0" endyear="11" endmonth="12" endday="28" endhour="23" endminute="59" />
+    <activity id="43" name="Исследование сокровищницы" prompt="0" activitymode="1" activitytype="5" weekday="1" starthour="20" startminute="00" endhour="21" endminute="0" AcceptNpcID="5610056" MinLevel="60" MaxLevel="120" />
+    <activity id="44" name="Праздник Осени" prompt="0" activitymode="3" activitytype="0" startyear="11" startmonth="9" startday="6" starthour="0" startminute="0" endyear="11" endmonth="9" endday="19" endhour="23" endminute="59" MinLevel="30" MaxLevel="120" />
+    <activity id="45" name="День Независимости" prompt="0" activitymode="3" activitytype="0" startyear="11" startmonth="9" startday="27" starthour="0" startminute="0" endyear="11" endmonth="10" endday="10" endhour="23" endminute="59" MinLevel="50" MaxLevel="120" />
+    <activity id="46" name="День матери" prompt="0" activitymode="3" activitytype="0" startyear="11" startmonth="5" startday="4" starthour="0" startminute="0" endyear="11" endmonth="5" endday="17" endhour="23" endminute="59" MinLevel=" " MaxLevel=" " />
+    <activity id="47" name="Битва небесных избранников" prompt="0" activitymode="1" activitytype="5" weekday="3" starthour="21" startminute="0" endhour="21" endminute="58" MinLevel="50" MaxLevel="120" />
+    <activity id="48" name="Битва небесных избранников" prompt="0" activitymode="1" activitytype="5" weekday="0" starthour="21" startminute="0" endhour="21" endminute="58" MinLevel="50" MaxLevel="120" />
+    <activity id="49" name="День Благодарения" prompt="0" activitymode="3" activitytype="0" startyear="11" startmonth="11" startday="22" starthour="0" startminute="0" endyear="11" endmonth="11" endday="28" endhour="23" endminute="59" MinLevel="10" MaxLevel="120" />
+    <activity id="50" name="Праздник весны" prompt="0" activitymode="3" activitytype="0" startyear="12" startmonth="1" startday="17" starthour="0" startminute="0" endyear="12" endmonth="2" endday="10" endhour="23" endminute="59" />
+    <activity id="51" name="Подземлье опыта" prompt="1" activitymode="1" activitytype="0" weekday="0" starthour="14" startminute="0" endhour="17" endminute="58" MinLevel="40" MaxLevel="89" />
+    <activity id="52" name="Подземлье опыта" prompt="1" activitymode="1" activitytype="0" weekday="6" starthour="14" startminute="0" endhour="17" endminute="58" MinLevel="40" MaxLevel="89" />
+    <activity id="53" name="День Св. Валентина" prompt="0" activitymode="3" activitytype="0" startyear="12" startmonth="2" startday="9" starthour="0" startminute="0" endyear="12" endmonth="2" endday="27" endhour="23" endminute="59" MinLevel="40" MaxLevel="120" />
+    <activity id="54" name="Всеобщипй Pk" prompt="0" activitymode="0" activitytype="6" starthour="19" startminute="20" endhour="20" endminute="30" />
+    <activity id="55" name="Системный ивент" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" />
+    <activity id="56" name="Ивент Олимпийские Игры" prompt="0" activitymode="3" activitytype="0" startyear="12" startmonth="7" startday="24" starthour="18" startminute="0" endyear="12" endmonth="8" endday="21" endhour="23" endminute="59" />
+    <activity id="57" name="Ивент Олимпийские Игры" prompt="0" activitymode="3" activitytype="0" startyear="12" startmonth="9" startday="4" starthour="18" startminute="0" endyear="12" endmonth="9" endday="11" endhour="23" endminute="59" />
+	<activity id="58" name="Ивент Праздника Середины Осени" prompt="0" activitymode="3" activitytype="0" startyear="12" startmonth="9" startday="27" starthour="0" startminute="0" endyear="12" endmonth="10" endday="9" endhour="23" endminute="59" MinLevel="30" MaxLevel="120" />
+	<activity id="59" name="Викторина" prompt="0" activitymode="1" activitytype="5" weekday="0" starthour="19" startminute="1" endhour="19" endminute="30" MinLevel="40" MaxLevel="120" />
+	<activity id="60" name="Олимпийский остров" prompt="0" activitymode="1" activitytype="5" weekday="1" starthour="15" startminute="40" endhour="17" endminute="00" />
+	<activity id="61" name="Олимпийский остров" prompt="0" activitymode="1" activitytype="5" weekday="1" starthour="19" startminute="40" endhour="21" endminute="00" />
+	<activity id="62" name="Олимпийский остров" prompt="0" activitymode="1" activitytype="5" weekday="4" starthour="15" startminute="40" endhour="17" endminute="00" />
+	<activity id="63" name="Олимпийский остров" prompt="0" activitymode="1" activitytype="5" weekday="4" starthour="19" startminute="40" endhour="21" endminute="00" />
+	<activity id="64" name="Олимпийская арена" prompt="0" activitymode="4" activitytype="3" MinLevel="60" MaxLevel="120" />
+	<activity id="65" name="Квестовые оповещения" prompt="0" activitymode="4" activitytype="3" MinLevel="1" MaxLevel="120" />
+	<activity id="1001" name="Сияние богини" prompt="0" activitymode="1" activitytype="5" weekday="1" starthour="20" startminute="3" endhour="21" endminute="0" AcceptNpcID="5510401" MinLevel="40" MaxLevel="120" />
+    <activity id="1003" name="Сияние богини" prompt="0" activitymode="1" activitytype="5" weekday="4" starthour="20" startminute="3" endhour="21" endminute="0" AcceptNpcID="5510401" MinLevel="40" MaxLevel="120" />
+	<activity id="1005" name="Честь вождя" prompt="0" activitymode="1" activitytype="5" weekday="2" starthour="20" startminute="1" endhour="21" endminute="0" AcceptNpcID="5510402" MinLevel="40" MaxLevel="120" />
+    <activity id="1007" name="Честь вождя" prompt="0" activitymode="1" activitytype="5" weekday="5" starthour="20" startminute="1" endhour="21" endminute="0" AcceptNpcID="5510402" MinLevel="40" MaxLevel="120" />
+    <!-- <activity id="1009" name="Рев демона" prompt="0" activitymode="1" activitytype="5" weekday="3" starthour="12" startminute="1" endhour="13" endminute="0" AcceptNpcID="5510403" MinLevel="10" MaxLevel="120" /> -->
+    <!-- <activity id="1011" name="Рев демона" prompt="0" activitymode="1" activitytype="5" weekday="6" starthour="12" startminute="1" endhour="13" endminute="0" AcceptNpcID="5510403" MinLevel="10" MaxLevel="120" /> -->
+    <activity id="1022" name="Вечный ад" prompt="0" activitymode="0" activitytype="4" starthour="15" startminute="1" endhour="16" endminute="0" AcceptNpcID="5510201" MinLevel="40" MaxLevel="120" />
+	<activity id="1027" name="Охота за сокровищами" prompt="0" activitymode="4" activitytype="3" weekday="0" starthour="20" startminute="0" endhour="23" endminute="59" MinLevel="20" MaxLevel="120" />
+	<activity id="1101" name="Сбор урожая" prompt="0" activitymode="1" activitytype="5" weekday="0" starthour="0" startminute="10" endhour="23" endminute="59" AcceptNpcID="9516003" MinLevel="10" MaxLevel="120" />
+	<activity id="1102" name="Для души" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" />
+	<activity id="1103" name="Рейтинг30-59" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" />
+	<activity id="1104" name="Рейтинг60-79" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" />
+	<activity id="1105" name="Рейтинг80-89" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" />
+	<activity id="1106" name="Рейтинг90-100" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" />
+	<activity id="1108" name="Забавы эльфийки Лиэль" prompt="0" activitymode="1" activitytype="5" weekday="1" starthour="15" startminute="0" endhour="16" endminute="00" MinLevel="60" MaxLevel="120" />
+	<activity id="1109" name="Забавы эльфийки Лиэль" prompt="0" activitymode="1" activitytype="5" weekday="1" starthour="19" startminute="1" endhour="20" endminute="00" MinLevel="60" MaxLevel="120" />
+	<activity id="1112" name="Нападение демонов" prompt="0" activitymode="1" activitytype="5" weekday="5" starthour="20" startminute="01" endhour="21" endminute="00" MinLevel="10" MaxLevel="120" />
+	<!-- <activity id="1113" name="Драконы" prompt="0" activitymode="1" activitytype="5" weekday="3" starthour="20" startminute="02" endhour="21" endminute="00" MinLevel="10" MaxLevel="120" /> -->
+	<activity id="1114" name="Сундуки" prompt="0" activitymode="1" activitytype="5" weekday="2" starthour="21" startminute="01" endhour="21" endminute="30" MinLevel="10" MaxLevel="120" />
+	<activity id="1115" name="боссы" prompt="0" activitymode="4" activitytype="3" MinLevel="1" MaxLevel="120" />
+	<activity id="1116" name="Плоды" prompt="0" activitymode="1" activitytype="5" weekday="1" starthour="20" startminute="55" endhour="20" endminute="57" MinLevel="1" MaxLevel="120" />
+	<activity id="1117" name="Плоды" prompt="0" activitymode="1" activitytype="5" weekday="2" starthour="19" startminute="10" endhour="19" endminute="12" MinLevel="1" MaxLevel="120" />
+	<activity id="1118" name="Плоды" prompt="0" activitymode="1" activitytype="5" weekday="3" starthour="21" startminute="35" endhour="21" endminute="37" MinLevel="1" MaxLevel="120" />
+	<activity id="1119" name="Плоды" prompt="0" activitymode="1" activitytype="5" weekday="4" starthour="22" startminute="15" endhour="22" endminute="17" MinLevel="1" MaxLevel="120" />
+	<activity id="1120" name="Плоды" prompt="0" activitymode="1" activitytype="5" weekday="5" starthour="20" startminute="20" endhour="20" endminute="22" MinLevel="1" MaxLevel="120" />
+	<activity id="1121" name="Плоды" prompt="0" activitymode="1" activitytype="5" weekday="6" starthour="23" startminute="05" endhour="23" endminute="07" MinLevel="1" MaxLevel="120" />
+	<activity id="1122" name="Плоды" prompt="0" activitymode="1" activitytype="5" weekday="0" starthour="19" startminute="45" endhour="19" endminute="47" MinLevel="1" MaxLevel="120" />
+	<activity id="1123" name="Мятежные духи" prompt="0" activitymode="1" activitytype="5" weekday="1" starthour="20" startminute="1" endhour="21" endminute="0" MinLevel="60" MaxLevel="120"  />
+	<activity id="1124" name="Мятежные духи" prompt="0" activitymode="1" activitytype="5" weekday="6" starthour="20" startminute="1" endhour="21" endminute="0" MinLevel="60" MaxLevel="120"  />
+	<activity id="1127" name="Покровитель Бастиона" prompt="0" activitymode="0" activitytype="6" starthour="15" startminute="31" endhour="16" endminute="30" MinLevel="80" MaxLevel="120" />
+	<activity id="1128" name="Покровитель Кафедрала" prompt="0" activitymode="0" activitytype="6" starthour="15" startminute="30" endhour="16" endminute="30" MinLevel="80" MaxLevel="120" />
+	<activity id="1129" name="Долина духов" prompt="0" activitymode="1" activitytype="5" weekday="1" starthour="21" startminute="0" endhour="22" endminute="0" MinLevel="50" MaxLevel="120" />
+	<activity id="1130" name="Долина духов" prompt="0" activitymode="1" activitytype="5" weekday="5" starthour="21" startminute="0" endhour="22" endminute="0" MinLevel="50" MaxLevel="120" />
+	<activity id="1131" name="Рейтинг стражей святости" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" /> 
+	<activity id="1132" name="Рейтинг стражей святости" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" /> 
+	<activity id="1133" name="Лич" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" /> 
+	<activity id="1134" name="Обмен плодов" prompt="0" activitymode="0" activitytype="2" starthour="12" startminute="5" endhour="12" endminute="35" MinLevel="40" MaxLevel="120" />
+	<activity id="1135" name="Обмен плодов" prompt="0" activitymode="0" activitytype="2" starthour="21" startminute="5" endhour="21" endminute="35" MinLevel="40" MaxLevel="120" />
+	<activity id="1138" name="Новый год 2016 Босс" prompt="0" activitymode="4" activitytype="3" MinLevel="100" MaxLevel="120" /> 
+	<activity id="1139" name="Сумрачные эльфы" prompt="0" activitymode="1" activitytype="5" startyear="12" weekday="2" starthour="19" startminute="35" endhour="21" endminute="0" MinLevel="100" MaxLevel="120" />
+	<activity id="1140" name="Сумрачные эльфы" prompt="0" activitymode="1" activitytype="5" startyear="12" weekday="4" starthour="19" startminute="35" endhour="21" endminute="0" MinLevel="100" MaxLevel="120" />
+	<activity id="1141" name="Песочный замок" prompt="0" activitymode="0" activitytype="2" starthour="0" startminute="3" endhour="23" endminute="59" MinLevel="10" MaxLevel="30" />
+	<!-- <activity id="1142" name="Ледовое побоище" prompt="0" activitymode="1" activitytype="5" startyear="11" weekday="2" starthour="08" startminute="30" endhour="09" endminute="30" MinLevel="130" MaxLevel="120" />
+	<activity id="1143" name="Ледовое побоище" prompt="0" activitymode="1" activitytype="5" weekday="2" starthour="21" startminute="00" endhour="22" endminute="00" MinLevel="80" MaxLevel="120" />
+	<activity id="1144" name="Ледовое побоище" prompt="0" activitymode="1" activitytype="5" startyear="11" weekday="4" starthour="08" startminute="30" endhour="09" endminute="30" MinLevel="130" MaxLevel="120" />
+	<activity id="1145" name="Ледовое побоище" prompt="0" activitymode="1" activitytype="5" weekday="4" starthour="21" startminute="00" endhour="22" endminute="00" MinLevel="80" MaxLevel="120" /> -->
+	<activity id="1146" name="Битва титанов" prompt="0" activitymode="1" activitytype="5" weekday="1" starthour="21" startminute="01" endhour="22" endminute="00" MinLevel="80" MaxLevel="120" />
+	<activity id="1147" name="Битва титанов" prompt="0" activitymode="1" activitytype="5" weekday="5" starthour="21" startminute="01" endhour="22" endminute="00" MinLevel="80" MaxLevel="120" />
+	<activity id="1148" name="Рейтинг стражей святости" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" /> 
+	<activity id="1149" name="Рейтинг стражей святости" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" /> 
+	<activity id="1150" name="Рейтинг стражей святости" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" /> 
+	<activity id="1151" name="Рейтинг стражей святости" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" /> 
+	<activity id="1152" name="Рейтинг стражей святости" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" /> 
+	<activity id="1153" name="Рейтинг стражей святости" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" /> 
+	<activity id="1154" name="Рейтинг стражей святости" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" /> 
+	<activity id="1155" name="Рейтинг стражей святости" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" /> 
+	<activity id="1156" name="Рейтинг стражей святости" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" /> 
+	<activity id="1157" name="Рейтинг стражей святости" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" /> 
+	<activity id="1158" name="Рейтинг стражей святости" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" /> 
+	<activity id="1159" name="Рейтинг стражей святости" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" /> 
+	<activity id="1160" name="Рейтинг стражей святости" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" /> 
+	<activity id="1161" name="Рейтинг стражей святости" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" /> 
+	<activity id="1162" name="Рейтинг стражей святости" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" /> 
+	<activity id="1163" name="Рейтинг стражей святости" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" /> 
+	<activity id="1164" name="Рейтинг стражей святости" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" /> 
+	<activity id="1165" name="Рейтинг стражей святости" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" /> 
+	<activity id="1166" name="Рейтинг стражей святости" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" /> 
+	<activity id="1167" name="Рейтинг стражей святости" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" /> 
+	<activity id="1168" name="Рейтинг стражей святости" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" /> 
+	<activity id="1169" name="Рейтинг стражей святости" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" /> 
+	<activity id="1170" name="Хранитель снежного пика" prompt="0" activitymode="1" activitytype="5" weekday="5" starthour="20" startminute="02" endhour="21" endminute="00" MinLevel="80" MaxLevel="120" />
+	<activity id="1171" name="Покровитель Кафедрала" prompt="0" activitymode="0" activitytype="6" starthour="19" startminute="31" endhour="20" endminute="30" MinLevel="80" MaxLevel="120" />
+	<activity id="1172" name="Покровитель Бастиона" prompt="0" activitymode="0" activitytype="6" starthour="19" startminute="32" endhour="20" endminute="30" MinLevel="80" MaxLevel="120" />
+	<activity id="1173" name="Древо жизни" prompt="0" activitymode="1" activitytype="5" weekday="2" starthour="20" startminute="2" endhour="21" endminute="00" MinLevel="60" MaxLevel="120" />
+	<activity id="1174" name="Храм прозрения" prompt="0" activitymode="1" activitytype="5" weekday="2" starthour="15" startminute="2" endhour="15" endminute="30" MinLevel="60" MaxLevel="120" />
+	<activity id="1175" name="Храм прозрения" prompt="0" activitymode="1" activitytype="5" weekday="2" starthour="19" startminute="1" endhour="19" endminute="30" MinLevel="60" MaxLevel="120" />
+	<activity id="1176" name="Храм прозрения" prompt="0" activitymode="1" activitytype="5" weekday="4" starthour="15" startminute="2" endhour="15" endminute="31" MinLevel="60" MaxLevel="120" />
+	<activity id="1177" name="Храм прозрения" prompt="0" activitymode="1" activitytype="5" weekday="4" starthour="19" startminute="1" endhour="19" endminute="30" MinLevel="60" MaxLevel="120" />
+	<activity id="1178" name="Владыка мёртвых" prompt="0" activitymode="0" activitytype="6" starthour="16" startminute="30" endhour="16" endminute="40" MinLevel="80" MaxLevel="120" />
+	<activity id="1179" name="Владыка мёртвых" prompt="0" activitymode="0" activitytype="6" starthour="20" startminute="31" endhour="20" endminute="40" MinLevel="80" MaxLevel="120" />
+	<activity id="1180" name="Два лорда ужаса" prompt="0" activitymode="0" activitytype="6" starthour="17" startminute="0" endhour="19" endminute="0" MinLevel="55" MaxLevel="120" />
+	<activity id="1181" name="Древо жизни" prompt="0" activitymode="1" activitytype="5" weekday="4" starthour="20" startminute="2" endhour="21" endminute="00" MinLevel="60" MaxLevel="120" />
+	<activity id="1182" name="новый год 2017. 80-99" prompt="0" activitymode="4" activitytype="3" MinLevel="80" MaxLevel="99" />
+	<activity id="1183" name="новый год 2017. 100-110" prompt="0" activitymode="4" activitytype="3" MinLevel="100" MaxLevel="120" />
+	<activity id="1184" name="Соревнование рыбаков" prompt="0" activitymode="1" activitytype="5" weekday="6" starthour="19" startminute="1" endhour="20" endminute="00" MinLevel="40" MaxLevel="120" />
+	<activity id="1185" name="Арена Фронтира" prompt="0" activitymode="1" activitytype="5" weekday="6" starthour="13" startminute="2" endhour="15" endminute="0" MinLevel="80" MaxLevel="120" />
+	<!-- <activity id="1186" name="Ледовое побоище Регистрация" prompt="0" activitymode="1" activitytype="5" weekday="2" starthour="20" startminute="50" endhour="20" endminute="59" MinLevel="80" MaxLevel="120" />
+	<activity id="1187" name="Ледовое побоище Регистрация" prompt="0" activitymode="1" activitytype="5" weekday="4" starthour="20" startminute="50" endhour="20" endminute="59" MinLevel="80" MaxLevel="120" /> -->
+	<activity id="1188" name="Битва титанов Регистрация" prompt="0" activitymode="1" activitytype="5" weekday="1" starthour="20" startminute="50" endhour="21" endminute="00" MinLevel="80" MaxLevel="120" />
+	<activity id="1189" name="Битва титанов Регистрация" prompt="0" activitymode="1" activitytype="5" weekday="5" starthour="20" startminute="50" endhour="21" endminute="00" MinLevel="80" MaxLevel="120" />
+	<activity id="1190" name="статистика данжей" prompt="0" activitymode="4" activitytype="3" MinLevel="100" MaxLevel="120" />
+	<activity id="1191" name="Арена Фронтира" prompt="0" activitymode="1" activitytype="5" weekday="0" starthour="13" startminute="2" endhour="15" endminute="0" MinLevel="80" MaxLevel="120" />
+	<!-- <activity id="1193" name="Арена Фронтира" prompt="0" activitymode="1" activitytype="5" weekday="4" starthour="19" startminute="0" endhour="21" endminute="0" MinLevel="80" MaxLevel="120" /> -->
+	<activity id="1192" name="Арена Фронтира" prompt="0" activitymode="4" activitytype="3" MinLevel="80" MaxLevel="120" />
+	<activity id="1194" name="Статистика Дракона" prompt="0" activitymode="4" activitytype="3" MinLevel="50" MaxLevel="120" />
+	<activity id="1195" name="Статистика Дракона" prompt="0" activitymode="4" activitytype="3" MinLevel="50" MaxLevel="120" />
+	<activity id="1196" name="Цветочные грёзы" prompt="0" activitymode="1" activitytype="5" weekday="3" starthour="13" startminute="1" endhour="14" endminute="0" MinLevel="50" MaxLevel="120" />
+	<activity id="1197" name="Цветочные грёзы" prompt="0" activitymode="1" activitytype="5" weekday="3" starthour="16" startminute="1" endhour="17" endminute="0" MinLevel="50" MaxLevel="120" />
+	<activity id="1198" name="Цветочные грёзы" prompt="0" activitymode="1" activitytype="5" weekday="3" starthour="20" startminute="1" endhour="21" endminute="0" MinLevel="50" MaxLevel="120" />
+	<activity id="1199" name="Братья по оружию" prompt="0" activitymode="1" activitytype="5" weekday="6" starthour="13" startminute="1" endhour="14" endminute="0" MinLevel="50" MaxLevel="120" />
+	<activity id="1200" name="Братья по оружию" prompt="0" activitymode="1" activitytype="5" weekday="6" starthour="16" startminute="1" endhour="17" endminute="0" MinLevel="50" MaxLevel="120" />
+	<activity id="1201" name="Братья по оружию" prompt="0" activitymode="1" activitytype="5" weekday="6" starthour="20" startminute="2" endhour="21" endminute="0" MinLevel="50" MaxLevel="120" />
+	<activity id="1202" name="Ужас островов" prompt="0" activitymode="1" activitytype="5" weekday="6" starthour="21" startminute="1" endhour="22" endminute="0" MinLevel="50" MaxLevel="120" />
+	<activity id="1203" name="Гонка вагонеток" prompt="0" activitymode="1" activitytype="5" weekday="0" starthour="13" startminute="1" endhour="14" endminute="0" MinLevel="50" MaxLevel="120" />
+	<activity id="1204" name="Гонка вагонеток" prompt="0" activitymode="1" activitytype="5" weekday="0" starthour="16" startminute="1" endhour="17" endminute="0" MinLevel="50" MaxLevel="120" />
+	<activity id="1205" name="Гонка вагонеток" prompt="0" activitymode="1" activitytype="5" weekday="0" starthour="20" startminute="1" endhour="21" endminute="0" MinLevel="50" MaxLevel="120" />
+	<activity id="1206" name="Статистика Премиум подземелья" prompt="0" activitymode="4" activitytype="3" MinLevel="80" MaxLevel="120" />
+	<activity id="1207" name="Статистика Премиум подземелья" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" />
+	<activity id="1208" name="Аукцион" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" />
+	<activity id="1209" name="Заркан" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" />
+	<activity id="1210" name="Королевская битва Регистрация" prompt="0" activitymode="1" activitytype="5" weekday="3" starthour="18" startminute="20" endhour="18" endminute="28" MinLevel="80" MaxLevel="120" />
+	<activity id="1211" name="Королевская битва Регистрация" prompt="0" activitymode="1" activitytype="5" weekday="0" starthour="18" startminute="20" endhour="18" endminute="28" MinLevel="80" MaxLevel="120" />
+	<activity id="1212" name="Королевская битва" prompt="0" activitymode="1" activitytype="5" weekday="3" starthour="18" startminute="30" endhour="19" endminute="0" MinLevel="80" MaxLevel="120" />
+	<activity id="1213" name="Королевская битва" prompt="0" activitymode="1" activitytype="5" weekday="0" starthour="18" startminute="30" endhour="19" endminute="0" MinLevel="80" MaxLevel="120" />
+	<activity id="1214" name="новый год 2017. 80-99" prompt="0" activitymode="4" activitytype="3" MinLevel="80" MaxLevel="99" />
+	<activity id="1215" name="новый год 2017. 100-110" prompt="0" activitymode="4" activitytype="3" MinLevel="100" MaxLevel="120" />
+	<activity id="1216" name="Королевская битва" prompt="0" activitymode="1" activitytype="5" weekday="3" starthour="19" startminute="10" endhour="19" endminute="40" MinLevel="80" MaxLevel="120" />
+	<activity id="1217" name="Королевская битва" prompt="0" activitymode="1" activitytype="5" weekday="3" starthour="19" startminute="50" endhour="20" endminute="20" MinLevel="80" MaxLevel="120" />
+	<activity id="1218" name="Королевская битва" prompt="0" activitymode="1" activitytype="5" weekday="0" starthour="19" startminute="10" endhour="19" endminute="40" MinLevel="80" MaxLevel="120" />
+	<activity id="1219" name="Королевская битва" prompt="0" activitymode="1" activitytype="5" weekday="0" starthour="19" startminute="50" endhour="20" endminute="20" MinLevel="80" MaxLevel="120" />
+	<activity id="1220" name="Королевская битва Регистрация" prompt="0" activitymode="1" activitytype="5" weekday="3" starthour="19" startminute="2" endhour="19" endminute="8" MinLevel="80" MaxLevel="120" />
+	<activity id="1221" name="Королевская битва Регистрация" prompt="0" activitymode="1" activitytype="5" weekday="3" starthour="19" startminute="42" endhour="19" endminute="48" MinLevel="80" MaxLevel="120" />
+	<activity id="1222" name="Королевская битва Регистрация" prompt="0" activitymode="1" activitytype="5" weekday="0" starthour="19" startminute="2" endhour="19" endminute="8" MinLevel="80" MaxLevel="120" />
+	<activity id="1223" name="Королевская битва Регистрация" prompt="0" activitymode="1" activitytype="5" weekday="0" starthour="19" startminute="42" endhour="19" endminute="48" MinLevel="80" MaxLevel="120" />
+	<activity id="1224" name="Рейтинг Валентинок" prompt="0" activitymode="4" activitytype="3" MinLevel="80" MaxLevel="120" />
+	<activity id="1225" name="Рейтинг Последователи Заркана" prompt="0" activitymode="4" activitytype="3" MinLevel="90" MaxLevel="120" />
+	<activity id="1226" name="Демонион" prompt="0" activitymode="0" activitytype="2" starthour="17" startminute="0" endhour="18" endminute="0" MinLevel="20" MaxLevel="120" />
+	<activity id="1227" name="Данж на скорость" prompt="0" activitymode="4" activitytype="3" MinLevel="80" MaxLevel="120" />
+	<activity id="1228" name="Древняя крепость" prompt="0" activitymode="1" activitytype="5" weekday="0" starthour="19" startminute="59" endhour="21" endminute="0" MinLevel="31" MaxLevel="120" />
+	<activity id="1229" name="Древняя крепость" prompt="0" activitymode="1" activitytype="5" weekday="6" starthour="0" startminute="0" endhour="23" endminute="59" MinLevel="31" MaxLevel="120" />
+	<activity id="1230" name="Древняя крепость" prompt="0" activitymode="1" activitytype="5" weekday="0" starthour="0" startminute="0" endhour="19" endminute="58" MinLevel="31" MaxLevel="120" />
+	<activity id="1231" name="новый год 2019. 80-99" prompt="0" activitymode="4" activitytype="3" MinLevel="80" MaxLevel="99" />
+	<activity id="1232" name="новый год 2019. 100-110" prompt="0" activitymode="4" activitytype="3" MinLevel="100" MaxLevel="120" />
+	<activity id="1233" name="Древняя крепость" prompt="0" activitymode="1" activitytype="5" weekday="6" starthour="0" startminute="0" endhour="23" endminute="59" MinLevel="31" MaxLevel="120" />
+	<activity id="1234" name="Небесный остров" prompt="0" activitymode="4" activitytype="3" MinLevel="85" MaxLevel="120" />
+	<activity id="1235" name="АукционП" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" />
+	<activity id="1236" name="АукционН" prompt="0" activitymode="4" activitytype="3" MinLevel="20" MaxLevel="120" />
+	<activity id="1237" name="Аукцион" prompt="0" activitymode="0" activitytype="6" starthour="12" startminute="30" endhour="23" endminute="30" MinLevel="20" MaxLevel="120" />
+	<activity id="1238" name="Арена дракона" prompt="0" activitymode="1" activitytype="5" weekday="2" starthour="17" startminute="01" endhour="18" endminute="00" MinLevel="80" MaxLevel="120" />
+	<activity id="1239" name="Арена драконатопИ" prompt="0" activitymode="4" activitytype="3" MinLevel="80" MaxLevel="120" />
+	<activity id="1240" name="Арена драконатопО" prompt="0" activitymode="4" activitytype="3" MinLevel="80" MaxLevel="120" />
+	<activity id="1241" name="ГильдияЛисИ" prompt="0" activitymode="4" activitytype="3" MinLevel="80" MaxLevel="120" />
+	<activity id="1242" name="ГильдияЛисО" prompt="0" activitymode="4" activitytype="3" MinLevel="80" MaxLevel="120" />
+	<activity id="1243" name="Арена дракона" prompt="0" activitymode="1" activitytype="5" weekday="2" starthour="21" startminute="00" endhour="22" endminute="00" MinLevel="80" MaxLevel="120" />
+	<activity id="1244" name="Арена дракона" prompt="0" activitymode="1" activitytype="5" weekday="4" starthour="17" startminute="01" endhour="18" endminute="00" MinLevel="80" MaxLevel="120" />
+	<activity id="1245" name="Арена дракона" prompt="0" activitymode="1" activitytype="5" weekday="4" starthour="21" startminute="00" endhour="22" endminute="00" MinLevel="80" MaxLevel="120" />
+	<activity id="1246" name="ХелИ" prompt="0" activitymode="4" activitytype="3" MinLevel="90" MaxLevel="120" />
+	<activity id="1247" name="ХелО" prompt="0" activitymode="4" activitytype="3" MinLevel="90" MaxLevel="120" />
+	<activity id="1248" name="ГильдияЛисИ" prompt="0" activitymode="4" activitytype="3" MinLevel="80" MaxLevel="120" />
+	<activity id="1249" name="ГильдияЛисО" prompt="0" activitymode="4" activitytype="3" MinLevel="80" MaxLevel="120" />
+	<activity id="1250" name="ГильдияЛисИ" prompt="0" activitymode="4" activitytype="3" MinLevel="80" MaxLevel="120" />
+	<activity id="1251" name="ГильдияЛисО" prompt="0" activitymode="4" activitytype="3" MinLevel="80" MaxLevel="120" />
+	
+	<activity id="3000000" name="Абсолем" prompt="0" activitymode="1" activitytype="5" MinLevel="1" MaxLevel="120" />
+	<activity id="4000000" name="Пандора" prompt="0" activitymode="1" activitytype="5" MinLevel="1" MaxLevel="120" />
+	<activity id="8000000" name="Аскезис" prompt="0" activitymode="1" activitytype="5" MinLevel="1" MaxLevel="120" />
+	<activity id="9000000" name="Ромен" prompt="0" activitymode="1" activitytype="5" MinLevel="1" MaxLevel="120" />
+	<activity id="10000000" name="Орион" prompt="0" activitymode="1" activitytype="5" MinLevel="1" MaxLevel="120" />
+	<activity id="11000000" name="Фронтир" prompt="0" activitymode="1" activitytype="5" MinLevel="1" MaxLevel="120" />
+	<activity id="12000000" name="Мистерия" prompt="0" activitymode="1" activitytype="5" MinLevel="1" MaxLevel="120" />
+	<activity id="13000000" name="Селена" prompt="0" activitymode="1" activitytype="5" MinLevel="1" MaxLevel="120" />
+	<activity id="14000000" name="Марс" prompt="0" activitymode="1" activitytype="5" MinLevel="1" MaxLevel="120" />
+	<activity id="15000000" name="Аврора" prompt="0" activitymode="1" activitytype="5" MinLevel="1" MaxLevel="120" />
+	<activity id="16000000" name="Феникс" prompt="0" activitymode="1" activitytype="5" MinLevel="1" MaxLevel="120" />
+</root>

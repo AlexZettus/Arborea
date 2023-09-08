@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<posy_name id="1" name="Physical Strength.1"/>
+	<posy_name id="2" name="Physical Strength.2"/>
+	<posy_name id="3" name="Physical Strength.3"/>
+	<posy_name id="4" name="Physical Strength.4"/>
+	<posy_name id="5" name="Physical Strength.5"/>
+	<posy_name id="6" name="Physical Strength.6"/>
+	<posy_name id="7" name="Physical Strength.7"/>
+	<posy_name id="8" name="Physical Strength.8"/>
+	<posy_name id="9" name="Physical Strength.9"/>
+	<posy_name id="10" name="Physical Strength.10"/>
+	<posy_name id="11" name="Physical Strength.11"/>
+	<posy_name id="12" name="Physical Strength.12"/>
+	<posy_name id="13" name="Physical Strength.13"/>
+	<posy_name id="14" name="Physical Strength.14"/>
+	<posy_name id="15" name="Physical Strength.15"/>
+	<posy_name id="16" name="Physical Strength.16"/>
+	<posy_name id="17" name="Physical Strength.17"/>
+	<posy_name id="18" name="Physical Strength.18"/>
+	<posy_name id="19" name="Physical Strength.19"/>
+	<posy_name id="20" name="Physical Strength.Perfect"/>
+	<posy_name id="21" name="Physical Strength.1 (Divine)"/>
+	<posy_name id="22" name="Physical Strength.2 (Divine)"/>
+	<posy_name id="23" name="Physical Strength.3 (Divine)"/>
+	<posy_name id="24" name="Physical Strength.4 (Divine)"/>
+	<posy_name id="25" name="Physical Strength.5 (Divine)"/>
+	<posy_name id="26" name="Physical Strength.6 (Divine)"/>
+	<posy_name id="27" name="Physical Strength.7 (Divine)"/>
+	<posy_name id="28" name="Physical Strength.8 (Divine)"/>
+	<posy_name id="29" name="Physical Strength.9 (Divine)"/>
+	<posy_name id="30" name="Physical Strength.10 (Divine)"/>
+	<posy_name id="31" name="Physical Strength.11 (Divine)"/>
+	<posy_name id="32" name="Physical Strength.12 (Divine)"/>
+	<posy_name id="33" name="Physical Strength.13 (Divine)"/>
+	<posy_name id="34" name="Physical Strength.14 (Divine)"/>
+	<posy_name id="35" name="Physical Strength.15 (Divine)"/>
+	<posy_name id="36" name="Physical Strength.16 (Divine)"/>
+	<posy_name id="37" name="Physical Strength.17 (Divine)"/>
+	<posy_name id="38" name="Physical Strength.18 (Divine)"/>
+	<posy_name id="39" name="Physical Strength.19 (Divine)"/>
+	<posy_name id="40" name="Physical Strength.Perfect (Divine)"/>
+	<posy_name id="41" name="Courage. 1"/>
+	<posy_name id="42" name="Courage. 2"/>
+	<posy_name id="43" name="Courage. 3"/>
+	<posy_name id="44" name="Courage. 4"/>
+	<posy_name id="45" name="Courage. 5"/>
+	<posy_name id="46" name="Courage. 6"/>
+	<posy_name id="47" name="Courage. 7"/>
+	<posy_name id="48" name="Courage. 8"/>
+	<posy_name id="49" name="Courage. 9"/>
+	<posy_name id="50" name="Courage. 10"/>
+	<posy_name id="51" name="Courage. 11"/>
+	<posy_name id="52" name="Courage. 12"/>
+	<posy_name id="53" name="Courage. 13"/>
+	<posy_name id="54" name="Courage. 14"/>
+	<posy_name id="55" name="Courage. 15"/>
+	<posy_name id="56" name="Courage. 16"/>
+	<posy_name id="57" name="Courage. 17"/>
+	<posy_name id="58" name="Courage. 18"/>
+	<posy_name id="59" name="Courage. 19"/>
+	<posy_name id="60" name="Courage. Perfect"/>
+	<posy_name id="61" name="Courage. 1 (Divine)"/>
+	<posy_name id="62" name="Courage. 2 (Divine)"/>
+	<posy_name id="63" name="Courage. 3 (Divine)"/>
+	<posy_name id="64" name="Courage. 4 (Divine)"/>
+	<posy_name id="65" name="Courage. 5 (Divine)"/>
+	<posy_name id="66" name="Courage. 6(Divine)"/>
+	<posy_name id="67" name="Courage. 7 (Divine)"/>
+	<posy_name id="68" name="Courage. 8 (Divine)"/>
+	<posy_name id="69" name="Courage. 9 (Divine)"/>
+	<posy_name id="70" name="Courage. 10 (Divine)"/>
+	<posy_name id="71" name="Courage. 11 (Divine)"/>
+	<posy_name id="72" name="Courage. 12 (Divine)"/>
+	<posy_name id="73" name="Courage. 13 (Divine)"/>
+	<posy_name id="74" name="Courage. 14 (Divine)"/>
+	<posy_name id="75" name="Courage. 15 (Divine)"/>
+	<posy_name id="76" name="Courage. 16 (Divine)"/>
+	<posy_name id="77" name="Courage. 17 (Divine)"/>
+	<posy_name id="78" name="Courage. 18 (Divine)"/>
+	<posy_name id="79" name="Courage. 19 (Divine)"/>
+	<posy_name id="80" name="Courage. Perfect (Divine)"/>
+	<posy_name id="81" name="External Attack. 1"/>
+	<posy_name id="82" name="External Attack. 2"/>
+	<posy_name id="83" name="External Attack. 3"/>
+	<posy_name id="84" name="External Attack. 4"/>
+	<posy_name id="85" name="External Attack. 5"/>
+	<posy_name id="86" name="External Attack. 6"/>
+	<posy_name id="87" name="External Attack. 7"/>
+	<posy_name id="88" name="External Attack. 8"/>
+	<posy_name id="89" name="External Attack. 9"/>
+	<posy_name id="90" name="External Attack. 10"/>
+	<posy_name id="91" name="External Attack. 11"/>
+	<posy_name id="92" name="External Attack. 12"/>
+	<posy_name id="93" name="External Attack. 13"/>
+	<posy_name id="94" name="External Attack. 14"/>
+	<posy_name id="95" name="External Attack. 15"/>
+	<posy_name id="96" name="External Attack. 16"/>
+	<posy_name id="97" name="External Attack. 17"/>
+	<posy_name id="98" name="External Attack. 18"/>
+	<posy_name id="99" name="External Attack. 19"/>
+	<posy_name id="100" name="External Attack. 20"/>
+	<posy_name id="101" name="External Attack. 1 (Divine)"/>
+	<posy_name id="102" name="External Attack. 2 (Divine)"/>
+	<posy_name id="103" name="External Attack. 3 (Divine)"/>
+	<posy_name id="104" name="External Attack. 4 (Divine)"/>
+	<posy_name id="105" name="External Attack. 5 (Divine)"/>
+	<posy_name id="106" name="External Attack. 6 (Divine)"/>
+	<posy_name id="107" name="External Attack. 7 (Divine)"/>
+	<posy_name id="108" name="External Attack. 8 (Divine)"/>
+	<posy_name id="109" name="External Attack. 9 (Divine)"/>
+	<posy_name id="110" name="External Attack. 10 (Divine)"/>
+	<posy_name id="111" name="External Attack. 11 (Divine)"/>
+	<posy_name id="112" name="External Attack. 12 (Divine)"/>
+	<posy_name id="113" name="External Attack. 13 (Divine)"/>
+	<posy_name id="114" name="External Attack. 14 (Divine)"/>
+	<posy_name id="115" name="External Attack. 15 (Divine)"/>
+	<posy_name id="116" name="External Attack. 16 (Divine)"/>
+	<posy_name id="117" name="External Attack. 17 (Divine)"/>
+	<posy_name id="118" name="External Attack. 18 (Divine)"/>
+	<posy_name id="119" name="External Attack. 19 (Divine)"/>
+	<posy_name id="120" name="External Attack. Perfect (Divine)"/>
+	<posy_name id="121" name="Internal Attack. 1"/>
+	<posy_name id="122" name="External Attack. 2"/>
+	<posy_name id="123" name="Internal Attack. 3"/>
+	<posy_name id="124" name="External Attack. 4"/>
+	<posy_name id="125" name="External Attack. 5"/>
+	<posy_name id="126" name="Internal Attack. 6"/>
+	<posy_name id="127" name="External Attack. 7"/>
+	<posy_name id="128" name="Internal Attack. 8"/>
+	<posy_name id="129" name="Internal Attack. 9"/>
+	<posy_name id="130" name="External Attack. 10"/>
+	<posy_name id="131" name="Internal Attack. 11"/>
+	<posy_name id="132" name="Internal Attack. 12"/>
+	<posy_name id="133" name="Internal Attack. 13"/>
+	<posy_name id="134" name="Internal Attack. 14"/>
+	<posy_name id="135" name="Internal Attack. 15"/>
+	<posy_name id="136" name="Internal Attack. 16"/>
+	<posy_name id="137" name="Internal Attack. 17"/>
+	<posy_name id="138" name="Internal Attack. 18"/>
+	<posy_name id="139" name="Internal Attack. 19"/>
+	<posy_name id="140" name="Internal Attack. Perfect"/>
+	<posy_name id="141" name="Internal Attack. 1 (Divine)"/>
+	<posy_name id="142" name="Internal Attack. 2 (Divine)"/>
+	<posy_name id="143" name="Internal Attack. 3 (Divine)"/>
+	<posy_name id="144" name="Internal Attack. 4 (Divine)"/>
+	<posy_name id="145" name="Internal Attack. 5 (Divine)"/>
+	<posy_name id="146" name="Internal Attack. 6 (Divine)"/>
+	<posy_name id="147" name="Internal Attack. 7 (Divine)"/>
+	<posy_name id="148" name="Internal Attack. 8 (Divine)"/>
+	<posy_name id="149" name="Internal Attack. 9 (Divine)"/>
+	<posy_name id="150" name="Internal Attack. 10 (Divine)"/>
+	<posy_name id="151" name="Internal Attack. 11 (Divine)"/>
+	<posy_name id="152" name="Internal Attack. 12 (Divine)"/>
+	<posy_name id="153" name="Internal Attack. 13 (Divine)"/>
+	<posy_name id="154" name="Internal Attack. 14 (Divine)"/>
+	<posy_name id="155" name="Internal Attack. 15 (Divine)"/>
+	<posy_name id="156" name="Internal Attack. 16 (Divine)"/>
+	<posy_name id="157" name="Internal Attack. 17 (Divine)"/>
+	<posy_name id="158" name="Internal Attack. 18 (Divine)"/>
+	<posy_name id="159" name="Internal Attack. 19 (Divine)"/>
+	<posy_name id="160" name="Internal Attack. Perfect (Divine)"/>
+	<posy_name id="161" name="External Defense. 1"/>
+	<posy_name id="162" name="External Defense. 2"/>
+	<posy_name id="163" name="External Defense. 3"/>
+	<posy_name id="164" name="External Defense. 4"/>
+	<posy_name id="165" name="External Defense. 5"/>
+	<posy_name id="166" name="External Defense. 6"/>
+	<posy_name id="167" name="External Defense. 7"/>
+	<posy_name id="168" name="External Defense. 8"/>
+	<posy_name id="169" name="External Defense. 9"/>
+	<posy_name id="170" name="External Defense. 10"/>
+	<posy_name id="171" name="External Defense. 11"/>
+	<posy_name id="172" name="External Defense. 12"/>
+	<posy_name id="173" name="External Defense. 13"/>
+	<posy_name id="174" name="External Defense. 14"/>
+	<posy_name id="175" name="External Defense. 15"/>
+	<posy_name id="176" name="External Defense. 16"/>
+	<posy_name id="177" name="External Defense. 17"/>
+	<posy_name id="178" name="External Defense. 18"/>
+	<posy_name id="179" name="External Defense. 19"/>
+	<posy_name id="180" name="External Defense. Perfect"/>
+	<posy_name id="181" name="External Defense. 1 (Divine)"/>
+	<posy_name id="182" name="External Defense. 2 (Divine)"/>
+	<posy_name id="183" name="External Defense. 3 (Divine)"/>
+	<posy_name id="184" name="External Defense. 4 (Divine)"/>
+	<posy_name id="185" name="External Defense. 5 (Divine)"/>
+	<posy_name id="186" name="External Defense. 6 (Divine)"/>
+	<posy_name id="187" name="External Defense. 7 (Divine)"/>
+	<posy_name id="188" name="External Defense. 8 (Divine)"/>
+	<posy_name id="189" name="External Defense. 9 (Divine)"/>
+	<posy_name id="190" name="External Defense. 10 (Divine)"/>
+	<posy_name id="191" name="External Defense. 11 (Divine)"/>
+	<posy_name id="192" name="External Defense. 12 (Divine)"/>
+	<posy_name id="193" name="External Defense. 13 (Divine)"/>
+	<posy_name id="194" name="External Defense. 14 (Divine)"/>
+	<posy_name id="195" name="External Defense. 15 (Divine)"/>
+	<posy_name id="196" name="External Defense. 16 (Divine)"/>
+	<posy_name id="197" name="External Defense. 17 (Divine)"/>
+	<posy_name id="198" name="External Defense. 18 (Divine)"/>
+	<posy_name id="199" name="External Defense. 19 (Divine)"/>
+	<posy_name id="200" name="External Defense. Perfect (Divine)"/>
+	<posy_name id="201" name="Internal Defense. 1"/>
+	<posy_name id="202" name="Internal Defense. 2"/>
+	<posy_name id="203" name="Internal Defense. 3"/>
+	<posy_name id="204" name="Internal Defense. 4"/>
+	<posy_name id="205" name="Internal Defense. 5"/>
+	<posy_name id="206" name="Internal Defense. 6"/>
+	<posy_name id="207" name="Internal Defense. 7"/>
+	<posy_name id="208" name="Internal Defense. 8"/>
+	<posy_name id="209" name="Internal Defense. 9"/>
+	<posy_name id="210" name="Internal Defense. 10"/>
+	<posy_name id="211" name="Internal Defense. 11"/>
+	<posy_name id="212" name="Internal Defense. 12"/>
+	<posy_name id="213" name="Internal Defense. 13"/>
+	<posy_name id="214" name="Internal Defense. 14"/>
+	<posy_name id="215" name="Internal Defense. 15"/>
+	<posy_name id="216" name="Internal Defense. 15"/>
+	<posy_name id="217" name="Internal Defense. 17"/>
+	<posy_name id="218" name="Internal Defense. 18"/>
+	<posy_name id="219" name="Internal Defense. 19"/>
+	<posy_name id="220" name="Internal Defense. Perfect"/>
+	<posy_name id="221" name="Internal Defense. 1 (Divine)"/>
+	<posy_name id="222" name="Internal Defense. 2 (Divine)"/>
+	<posy_name id="223" name="Internal Defense. 3 (Divine)"/>
+	<posy_name id="224" name="Internal Defense. 4 (Divine)"/>
+	<posy_name id="225" name="Internal Defense. 5 (Divine)"/>
+	<posy_name id="226" name="Internal Defense. 6 (Divine)"/>
+	<posy_name id="227" name="Internal Defense. 7 (Divine)"/>
+	<posy_name id="228" name="Internal Defense. 8 (Divine)"/>
+	<posy_name id="229" name="Internal Defense. 9 (Divine)"/>
+	<posy_name id="230" name="Internal Defense. 10 (Divine)"/>
+	<posy_name id="231" name="Internal Defense. 11 (Divine)"/>
+	<posy_name id="232" name="Internal Defense. 12 (Divine)"/>
+	<posy_name id="233" name="Internal Defense. 13 (Divine)"/>
+	<posy_name id="234" name="Internal Defense. 14 (Divine)"/>
+	<posy_name id="235" name="Internal Defense. 15 (Divine)"/>
+	<posy_name id="236" name="Internal Defense. 16 (Divine)"/>
+	<posy_name id="237" name="Internal Defense. 17 (Divine)"/>
+	<posy_name id="238" name="Internal Defense. 18 (Divine)"/>
+	<posy_name id="239" name="Internal Defense. 19 (Divine)"/>
+	<posy_name id="240" name="Internal Defense. Perfect (Divine)"/>
+</root>

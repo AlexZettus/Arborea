@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="40045" />
+    <entry Name="Синее мифическое снаряжение" />
+    <entry Conditions="" />
+    <entry Overview="Избавьтесь от &lt;A&gt;&lt;L=s05, 1040046&gt;кровожадного повелителя&lt;/L&gt;&lt;/A&gt; и поговорите с \n&lt;D&gt;&lt;L=s02, 5011012&gt;инструктором Мирной&lt;/L&gt;&lt;/D&gt; в Тарио." />
+</quest-local>

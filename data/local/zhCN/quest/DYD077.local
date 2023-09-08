@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="52077" />
+    <entry Name="5. Поддержка ремесленников" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйся на дикую локацию или в подземелье своего уровня, чтобы добыть при убийстве монстров требуемые предметы." />
+</quest-local>

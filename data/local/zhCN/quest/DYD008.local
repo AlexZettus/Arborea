@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="52008" />
+    <entry Name="Захват Дворца Демонов" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйся во &lt;N&gt;Дворец Демонов&lt;/N&gt; и убей &lt;A&gt;элементарного посланника Рэя&lt;/A&gt;,  &lt;A&gt;Падшего ангела Лилит&lt;/A&gt;, &lt;A&gt;духа войны Альба&lt;/A&gt;. После выполнения вернись к &lt;D&gt;&lt;L=s02,1086099&gt;Фернану Магеллану&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

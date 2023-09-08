@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20023" />
+    <entry Name="Первая сделка" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйся к &lt;D&gt;&lt;L=s02, 5011005&gt;торговцу припасами Колману&lt;/L&gt;&lt;/D&gt; и купи у него Хлеб воина. После этого отправляйся к &lt;D&gt;&lt;L=s02, 5511013&gt;хозяину рынка Аветису&lt;/L&gt;&lt;/D&gt; для завершения задания.\n&#x0A;\n" />
+</quest-local>

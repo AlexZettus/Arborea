@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30709" />
+    <entry Name="Войны Сноулэнда" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь к &lt;N&gt;Горе Смерти&lt;/N&gt; и уничтожьте в &lt;N&gt;Штольне&lt;/N&gt; \n&lt;A&gt;&lt;L=d11, 1070012&gt;жреца-убийцу&lt;/L&gt;&lt;/A&gt;, а в &lt;N&gt;Деревне Зеленая гора&lt;/N&gt; - \n&lt;A&gt;&lt;L=s08, 1070005&gt;штормового грабителя&lt;/L&gt;&lt;/A&gt;. Затем вернитесь к \n&lt;D&gt;&lt;L=s02, 5600011&gt;Снегуле&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

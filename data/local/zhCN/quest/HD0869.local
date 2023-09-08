@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30869" />
+    <entry Name="Изготовить праздничную одежду" />
+    <entry Conditions="" />
+    <entry Overview="Идите в &lt;N&gt;Долину Грома&lt;/N&gt; и убейте несколько &lt;A&gt;&lt;L=s04,3040374&gt;лис&lt;/L&gt;&lt;/A&gt;. Соберите &lt;C&gt;20&lt;/C&gt; &lt;I&gt;лисьих шкур&lt;/I&gt;. После выполнения задания снова поговорите с &lt;D&gt;&lt;L=s02,6040022&gt;Посланником Весны&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

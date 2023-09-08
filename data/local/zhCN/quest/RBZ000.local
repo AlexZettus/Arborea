@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20300" />
+    <entry Name="Отправляйтесь в Сноулэнд" />
+    <entry Conditions="Отправляйтесь в Сноулэнд" />
+    <entry Overview="Отправляйтесь в &lt;N&gt;Сноулэнд&lt;/N&gt;.Там вас будет ждать \n&lt;D&gt;&lt;L=s05, 5010087&gt;Снежная Леди Элин&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

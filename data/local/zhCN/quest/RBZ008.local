@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20308" />
+    <entry Name="Логово Ящера" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь в &lt;N&gt;Логово Ящера&lt;/N&gt; и поговорите с &lt;D&gt;&lt;L=s05, 5010090&gt;Алексом&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

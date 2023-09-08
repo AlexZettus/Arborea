@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20501" />
+    <entry Name="Изменение Марша" />
+    <entry Conditions="" />
+    <entry Overview="Уничтожьте &lt;C&gt;85&lt;/C&gt; &lt;A&gt;&lt;L=s07, 1060004&gt;духов цветов Южных Топей&lt;/L&gt;&lt;/A&gt;, а затем вернитесь к &lt;D&gt;&lt;L=s07, 5010164&gt;повелителю деревьев Харлансу&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

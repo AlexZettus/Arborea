@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="52003" />
+    <entry Name="спасти военнопленного 2" />
+    <entry Conditions="" />
+    <entry Overview="Генерал Флейс внезапно был захвачен в плен бандой ненавистных мародеров，скорее идите устраните их。" />
+</quest-local>

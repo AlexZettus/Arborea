@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="29017" />
+    <entry Name="Учитель Альма" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь в &lt;N&gt;Библиотеку&lt;/N&gt; и найдите там &lt;color=0xffff0000&gt;Учителя Альму&lt;color=0xffffffff&gt;. После победы над ним поговорите с \n&lt;D&gt;&lt;L=s04,5510635&gt;директором семинарии Одли.&lt;/L&gt;&lt;/D&gt;&#x0A;\nПобедив &lt;N&gt;в Библиотеке&lt;/N&gt;&lt;color=0xffff0000&gt;Милку Порочную Всадницу&lt;color=0xffffffff&gt;, вы сможете наконец-то увидеть ведущего. Он может рассказать вам, как найти &lt;color=0xffff0000&gt;Альму.&lt;color=0xffffffff&gt;" />
+</quest-local>

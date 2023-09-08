@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20117" />
+    <entry Name="Тест варваров" />
+    <entry Conditions="" />
+    <entry Overview="Ответьте на вопросы \n&lt;D&gt;&lt;L=s03, 5010075&gt;Джека Сали&lt;/L&gt;&lt;/D&gt;, предводителя варваров.\n&lt;S&gt;[Ур. 21]&lt;/S&gt;Оковы: достигнув 21 Ур., вы можете выучить навык &lt;T&gt;Оковы.&lt;/T&gt;&#x0A;\n&lt;S&gt;[Ур. 21]&lt;/S&gt; Поймать эльфа: выучив навык Оковы, вы можете &lt;T&gt;поймать эльфа.&lt;/T&gt;&#x0A;" />
+</quest-local>

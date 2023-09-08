@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<root>
+    <group id="1" type_name="Вечный Ад(40-44)" group_type="2" scene_id="4" scene_name="Сноулэнд" />
+    <group id="2" type_name="Вечный Ад(45-49)" group_type="2" scene_id="4" scene_name="Сноулэнд" />
+    <group id="3" type_name="Вечный Ад(50-54)" group_type="2" scene_id="4" scene_name="Сноулэнд" />
+    <group id="4" type_name="Вечный Ад(55-59)" group_type="2" scene_id="4" scene_name="Сноулэнд" />
+    <group id="5" type_name="Вечный Ад(60-64)" group_type="2" scene_id="5" scene_name="Лес Теней" />
+    <group id="6" type_name="Вечный Ад(65-69)" group_type="2" scene_id="5" scene_name="Лес Теней" />
+    <group id="7" type_name="Вечный Ад(70-74)" group_type="2" scene_id="5" scene_name="Лес Теней" />
+    <group id="8" type_name="Вечный Ад(75-79)" group_type="2" scene_id="6" scene_name="Южные Топи" />
+    <group id="9" type_name="Вечный Ад(80-84)" group_type="2" scene_id="6" scene_name="Южные Топи" />
+    <group id="10" type_name="Вечный Ад(85-89)" group_type="2" scene_id="6" scene_name="Южные Топи" />
+    <group id="11" type_name="Вечный Ад(90-94)" group_type="2" scene_id="7" scene_name="Гора Смерти" />
+    <group id="12" type_name="Вечный Ад(95-100)" group_type="2" scene_id="7" scene_name="Гора Смерти" />
+    <group id="13" type_name="Вторжение монстров(Долина Грома)" group_type="2" scene_id="3" scene_name="Долина Грома" />
+    <group id="14" type_name="Вторжение монстров(Сноулэнд)" group_type="2" scene_id="4" scene_name="Сноулэнд" />
+    <group id="15" type_name="Вторжение монстров(Лес Теней)" group_type="2" scene_id="5" scene_name="Лес Теней" />
+    <group id="16" type_name="Вторжение монстров(Южные Топи)" group_type="2" scene_id="6" scene_name="Южные Топи" />
+    <group id="17" type_name="Вторжение монстров(Гора Смерти)" group_type="2" scene_id="7" scene_name="Гора Смерти" />
+    <group id="18" type_name="Логово зверя(30-34)" group_type="2" scene_id="3" scene_name="Долина Грома" />
+    <group id="19" type_name="Логово зверя(35-39)" group_type="2" scene_id="3" scene_name="Долина Грома" />
+    <group id="20" type_name="Логово зверя(40-44)" group_type="2" scene_id="4" scene_name="Сноулэнд" />
+    <group id="21" type_name="Логово зверя(45-49)" group_type="2" scene_id="4" scene_name="Сноулэнд" />
+    <group id="22" type_name="Логово зверя(50-54)" group_type="2" scene_id="4" scene_name="Сноулэнд" />
+    <group id="23" type_name="Логово зверя(55-59)" group_type="2" scene_id="4" scene_name="Сноулэнд" />
+    <group id="24" type_name="Логово зверя(60-64)" group_type="2" scene_id="5" scene_name="Лес Теней" />
+    <group id="25" type_name="Логово зверя(65-69)" group_type="2" scene_id="5" scene_name="Лес Теней" />
+    <group id="26" type_name="Логово зверя(70-74)" group_type="2" scene_id="5" scene_name="Лес Теней" />
+    <group id="27" type_name="Логово зверя(75-79)" group_type="2" scene_id="6" scene_name="Южные Топи" />
+    <group id="28" type_name="Логово зверя(80-84)" group_type="2" scene_id="6" scene_name="Южные Топи" />
+    <group id="29" type_name="Логово зверя(85-89)" group_type="2" scene_id="6" scene_name="Южные Топи" />
+    <group id="30" type_name="Логово зверя(90-94)" group_type="2" scene_id="7" scene_name="Гора Смерти" />
+    <group id="31" type_name="Логово зверя(95-100)" group_type="2" scene_id="7" scene_name="Гора Смерти" />
+    <group id="101" type_name="Библиотека" group_type="1" scene_id="3" scene_name="Долина Грома" />
+    <group id="102" type_name="Логово Тьмы" group_type="1" scene_id="4" scene_name="Сноулэнд" />
+    <group id="103" type_name="Обитель зла" group_type="1" scene_id="4" scene_name="Сноулэнд" />
+    <group id="104" type_name="Место власти" group_type="1" scene_id="5" scene_name="Лес Теней" />
+    <group id="105" type_name="Замок теней" group_type="1" scene_id="5" scene_name="Лес Теней" />
+    <group id="106" type_name="Замок ада" group_type="1" scene_id="6" scene_name="Южные Топи" />
+    <group id="107" type_name="Забытый храм" group_type="1" scene_id="6" scene_name="Южные Топи" />
+</root>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="40018" />
+    <entry Name="Камень усиления" />
+    <entry Conditions="" />
+    <entry Overview="Убейте &lt;D&gt;&lt;L=s04,1030004&gt;малого камнестража&lt;/L&gt;&lt;/D&gt; и добудьте &lt;C&gt;15&lt;/C&gt; &lt;I&gt;остатков горгулий&lt;/I&gt;. Затем вернитесь к &lt;D&gt;&lt;L=s04, 5010082&gt;мастеру усиления Сави&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

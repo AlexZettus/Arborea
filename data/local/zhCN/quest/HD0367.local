@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30367" />
+    <entry Name="Обмен 5 шт." />
+    <entry Conditions="" />
+    <entry Overview="У \n&lt;D&gt;&lt;L=s02,5610045&gt;менялы знаков веры&lt;/L&gt;&lt;/D&gt; поменяйте определенные предметы на &lt;I&gt;Серебро - Гнев веры&lt;/I&gt;." />
+</quest-local>

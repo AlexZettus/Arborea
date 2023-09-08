@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30821" />
+    <entry Name="Архидемон тьмы" />
+    <entry Conditions="" />
+    <entry Overview="Ежедневно, в 18:00 где-то в &lt;N&gt;Южных Топях&lt;/N&gt; в случайном месте может появиться Архидемон тьмы &lt;A&gt;Ситтл&lt;/A&gt;. Убейте его и вернитесь в Тарио к &lt;D&gt;&lt;L=s02,5516025&gt;раненому воину&lt;/L&gt;&lt;/D&gt; за наградой." />
+</quest-local>

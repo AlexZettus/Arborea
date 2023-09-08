@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="52132" />
+    <entry Name="Приключения в Библиотеке" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь в Библиотеку и поговорите с НИП Сновала." />
+</quest-local>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="29013" />
+    <entry Name="Правосудие в Забытом храме" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь в &lt;N&gt;Забытый храм&lt;/N&gt;, войдите внутрь, убейте &lt;A&gt;цветочных суккубов&lt;/A&gt; - &lt;C&gt;15&lt;/C&gt;, &lt;A&gt;рейксов королей джунглей&lt;/A&gt; - &lt;C&gt;10&lt;/C&gt;, &lt;A&gt;преторов Альсете&lt;/A&gt; - &lt;C&gt;8&lt;/C&gt;, а затем расправьтесь с  &lt;A&gt;Диктатором Альсете&lt;/A&gt;. После этого вернитесь к \n&lt;D&gt;&lt;L=s02, 5010227&gt;Судье Аусвейду&lt;/L&gt;&lt;/D&gt;. &#xA;" />
+</quest-local>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30722" />
+    <entry Name="Простое задание II" />
+    <entry Conditions="" />
+    <entry Overview="Помогите игрокам с уровнем от &lt;C&gt;30&lt;/C&gt; до &lt;C&gt;49&lt;/C&gt; уничтожить &lt;C&gt;200&lt;/C&gt; монстров и идите к \n&lt;M&gt;&lt;L=s05, 5510627&gt;эмиссару наград&lt;/L&gt;&lt;/M&gt;." />
+</quest-local>

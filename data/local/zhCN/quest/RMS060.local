@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20660" />
+    <entry Name="Торжественность Владыки Ада" />
+    <entry Conditions="" />
+    <entry Overview="Убейте &lt;color=0xffff0000&gt;&lt;L=s08, 1070089&gt;Владыку Ада&lt;/L&gt;&lt;color=0xffffffff&gt; и вернитесь к &lt;D&gt;&lt;L=s08, 5010210&gt;Уолтеру&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

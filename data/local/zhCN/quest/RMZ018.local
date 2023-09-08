@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20518" />
+    <entry Name="Поиск знака" />
+    <entry Conditions="" />
+    <entry Overview="Убейте &lt;color=0xffff6000&gt;&lt;L=s07, 1060043&gt;искаженных дикарей-посыльных&lt;/L&gt;&lt;color=0xffffffff&gt; и добудьте &lt;C&gt;20&lt;/C&gt; &lt;I&gt;знаков небесного бога&lt;/I&gt;. Затем вернитесь к &lt;D&gt;&lt;L=s07, 5010203&gt;Зефф&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

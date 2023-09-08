@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30720" />
+    <entry Name="Очистить Черный Грот" />
+    <entry Conditions="" />
+    <entry Overview="В &lt;N&gt;Сноулэнде&lt;/N&gt; найдите \n&lt;M&gt;&lt;L=s05, 5810004&gt;носителя кристаллов&lt;/L&gt;&lt;/M&gt;. В &lt;N&gt;Черном Гроте&lt;/N&gt; убивайте монстров, соберите &lt;C&gt;15&lt;/C&gt; &lt;I&gt;малых лавовых кристаллов&#x0A;&lt;/I&gt;, &lt;C&gt;6&lt;/C&gt; &lt;I&gt;средних лавовых кристаллов&#x0A;&lt;/I&gt; и &lt;C&gt;1&lt;/C&gt; &lt;I&gt;гигантский лавовый кристалл&lt;/I&gt;. Отнесите их \n&lt;M&gt;&lt;L=s05, 5510627&gt;эмиссару наград&lt;/L&gt;&lt;/M&gt;.\n Чтобы войти в Черный Грот, вам нужно объединиться с игроками от &lt;C&gt;30&lt;/C&gt; до &lt;C&gt;49&lt;/C&gt; уровня." />
+</quest-local>

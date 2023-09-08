@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30767" />
+    <entry Name="Новогодняя награда" />
+    <entry Conditions="" />
+    <entry Overview="Соберите &lt;C&gt;88&lt;/C&gt; &lt;I&gt;землекристаллов&lt;/I&gt; и &lt;C&gt;6&lt;/C&gt; &lt;I&gt;небокристаллов&lt;/I&gt;, чтобы получить особую награду." />
+</quest-local>

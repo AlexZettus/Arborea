@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="29012" />
+    <entry Name="Правосудие в Замке ада" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь в &lt;N&gt;&lt;Z=s08, 118051, 11351, 122700&gt;Замок ада&lt;/Z&gt;&lt;/N&gt;, войдите внутрь, убейте &lt;A&gt;Адских бессмертных&lt;/A&gt;&lt;C&gt;10&lt;/C&gt;штук, &lt;A&gt;Небесных духов&lt;/A&gt;&lt;C&gt;8&lt;/C&gt;штук, &lt;A&gt;Злых магических пикси &lt;/A&gt;&lt;C&gt;5&lt;/C&gt;штук,  &lt;A&gt;Асуру Нижнего мира&lt;/A&gt;, после выполнения заданий вернитесь к \n&lt;D&gt;&lt;L=s02, 5010227&gt;Судье Аусвейду&lt;/L&gt;&lt;/D&gt;. " />
+</quest-local>

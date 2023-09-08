@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30777" />
+    Line 4: <entry Name="Обмен искр заботы" />
+    <entry Conditions="" />
+    <entry Overview="Соберите &lt;C&gt;50&lt;/C&gt; &lt;I&gt;искр заботы&lt;/I&gt; и отдайте их \n&lt;D&gt;&lt;L=s52, 5600035&gt;меняле титулов Ромен&lt;/L&gt;&lt;/D&gt;, чтобы получить титул &lt;I&gt;Влюбленная&lt;/I&gt;." />
+</quest-local>

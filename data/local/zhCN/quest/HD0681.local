@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30681" />
+    <entry Name="Найдите индюшку!" />
+    <entry Conditions="" />
+    <entry Overview="&lt;D&gt;Король ветчины&lt;/D&gt; ненавидит индюшек и просит вас помочь ему расправиться с ними. Убейте в &lt;N&gt;Сноулэнде&lt;/N&gt; &lt;A&gt;индюка-дозорного&lt;/A&gt; или &lt;A&gt;безумного индюка&lt;/A&gt; и вернитесь к \n&lt;D&gt;&lt;L=s02, 5600017&gt;Королю ветчины&lt;/L&gt;&lt;/D&gt;. \n Необходимо убить &lt;C&gt;35&lt;/C&gt; уровня &lt;A&gt;индюка-дозорного&lt;/A&gt; или такого же &lt;A&gt;безумного индюка&lt;/A&gt;" />
+</quest-local>

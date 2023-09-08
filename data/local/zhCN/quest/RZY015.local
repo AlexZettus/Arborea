@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="40015" />
+    <entry Name="Сила" />
+    <entry Conditions="" />
+    <entry Overview="Поговорите с &lt;D&gt;&lt;L=s02, 5010034&gt;Коробейником&lt;/L&gt;&lt;/D&gt; и купите &lt;C&gt;1&lt;C&gt; &lt;I&gt;бланк рецепта&lt;/I&gt;. Затем продолжите разговор с \n&lt;D&gt;&lt;L=s02, 5010081&gt;повелительницей ремесел Элианой&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

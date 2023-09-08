@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30680" />
+    <entry Name="Снежная десятка" />
+    <entry Conditions="" />
+    <entry Overview="Получите &lt;C&gt;5&lt;/C&gt; &lt;I&gt;снежных десяток&lt;/I&gt;." />
+</quest-local>

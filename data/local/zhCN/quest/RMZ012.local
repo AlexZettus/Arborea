@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20512" />
+    <entry Name="Пещера Волка" />
+    <entry Conditions="" />
+    <entry Overview="Достигнув &lt;C&gt;72&lt;/C&gt; уровня, отправляйтесь в &lt;N&gt;Пещеру Волка&lt;/N&gt; и поговорите с &lt;D&gt;&lt;L=s07, 5010167&gt;Монатом&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

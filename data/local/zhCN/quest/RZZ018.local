@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="41018" />
+    <entry Name="Стрелок" />
+    <entry Conditions="" />
+    <entry Overview="Вы прошли испытание на получение класса &lt;color=0xff80ff00&gt;Стрелок&lt;color=0xffffffff&gt;. Расставьте ваши &lt;color=0xffff80ff&gt;очки навыков&lt;color=0xffffffff&gt; и возвращайтесь к \n&lt;D&gt;&lt;L=s02, 5010029&gt;королю Марсу&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

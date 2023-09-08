@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30669" />
+    <entry Name="Яростные войны Сноулэнда" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь в &lt;N&gt;Южные Топи&lt;/N&gt; и расправьтесь в &lt;N&gt;Пещере Волка&lt;/N&gt; с \n&lt;A&gt;&lt;L=d07, 1060040&gt;гигантским болотным медведем&lt;/L&gt;&lt;/A&gt;, а на &lt;N&gt;Горе Нефритового дракона&lt;/N&gt; - с  \n&lt;A&gt;&lt;L=s07, 1060042&gt;Яростным демоном-змеей&lt;/L&gt;&lt;/A&gt;. Затем поговорите со \n&lt;D&gt;&lt;L=s02, 5600011&gt;Снегулой&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

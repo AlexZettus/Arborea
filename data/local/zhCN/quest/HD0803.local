@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30803" />
+    <entry Name="Дорога бессмертия" />
+    <entry Conditions="" />
+    <entry Overview="В Тарио поговорите со стражем Храма Аскез &lt;D&gt;&lt;L=s02,5610047&gt;Экленцием.&lt;/L&gt;&lt;/D&gt;" />
+</quest-local>

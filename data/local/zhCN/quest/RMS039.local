@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20639" />
+    <entry Name="Контратака в Пещере песка" />
+    <entry Conditions="" />
+    <entry Overview="Убейте \n&lt;C&gt;100&lt;/C&gt; &lt;A&gt;&lt;L=d09, 1070030&gt;Секирщиков Пещеры лавы&lt;/L&gt;&lt;/A&gt;, \n&lt;C&gt;100&lt;/C&gt; &lt;A&gt;&lt;L=d09, 1070031&gt;разрушителей земли&lt;/L&gt;&lt;/A&gt;, &lt;C&gt;30&lt;/C&gt; &lt;color=0xffff6000&gt;&lt;L=d09, 1070061&gt;неботрясов&lt;/L&gt;&lt;color=0xffffffff&gt; и \n&lt;C&gt;1&lt;/C&gt; &lt;color=0xffff0000&gt;&lt;L=d09, 1070082&gt;Владыку Горы смерти&lt;/L&gt;&lt;color=0xffffffff&gt;. Затем вернитесь к &lt;D&gt;&lt;L=s08, 5010209&gt;Ротту&lt;/L&gt;&lt;/D&gt; и доложите об успехе." />
+</quest-local>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="40046" />
+    <entry Name="Оранжевое мифическое снаряжение" />
+    <entry Conditions="" />
+    <entry Overview="Уничтожьте \n&lt;A&gt;&lt;L=d04, 1040047&gt;духа змеи Дюсам&lt;/L&gt;&lt;/A&gt; и &lt;A&gt;&lt;L=d04, 1040048&gt;духа змеи Дюсара&lt;/L&gt;&lt;/A&gt;. Затем поговорите с \n&lt;D&gt;&lt;L=s02, 5011012&gt;инструктором Мирной&lt;/L&gt;&lt;/D&gt; в Тарио." />
+</quest-local>

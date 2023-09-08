@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="59013" />
+    <entry Name="Зельеваренье 3" />
+    <entry Conditions="" />
+    <entry Overview="Найдите ингредиенты для зелья и принесите их &lt;D&gt;&lt;Z=s02,48300,27095,51900&gt;Юге&lt;/L&gt;&lt;/D&gt;. Часть ингредиентов можно получить при убийстве Лешего, последний раз его видели в Долине грома." />
+</quest-local>

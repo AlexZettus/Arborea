@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="30001" />
+    <entry Name="Сбор ресурсов" />
+    <entry Conditions="" />
+    <entry Overview="Войдите в рудник из Пандоры и соберите 10 горстей &lt;D&gt;&lt;L=d10, 6010005&gt;выжженной земли&lt;/L&gt;&lt;/D&gt;. Отнесите их \n&lt;N&gt;&lt;L=s02, 5010053&gt;управляющему гильдиями&lt;/L&gt;&lt;/N&gt;. \nВыполнив задание, вы получите деньги, ресурсы и гильдейскую награду." />
+</quest-local>

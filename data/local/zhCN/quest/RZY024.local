@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="40024" />
+    <entry Name="Просьба Ромидая" />
+    <entry Conditions="" />
+    <entry Overview="Убейте &lt;C&gt;20&lt;/C&gt; \n&lt;D&gt;&lt;L=s06, 1050032&gt;больших привидений-колдунов&lt;/L&gt;&lt;/D&gt; и вернитесь к \n&lt;D&gt;&lt;L=s02, 5010083&gt;Ромидаю&lt;/L&gt;&lt;/D&gt;, чтобы получить от нее камни усиления и руны удачи." />
+</quest-local>

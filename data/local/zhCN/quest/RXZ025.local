@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <quest-local>
+ <entry ID="20425" />
+ <entry Name="Начинайте атаковать" />
+ <entry Conditions="" />
+ <entry Overview="Убейте <C>80</C> <A><L=s06, 1050044>привидений-убийц</L></A>. Затем вернитесь к \n<D><L=s06, 5010163>Анне</L></D>. " />
+ </quest-local>

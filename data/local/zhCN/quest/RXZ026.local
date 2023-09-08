@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20426" />
+    <entry Name="Пять Призраков появляются снова" />
+    <entry Conditions="" />
+    <entry Overview="Убейте &lt;C&gt;30&lt;/C&gt; &lt;A&gt;&lt;L=s06, 1050036&gt;больших привидений-убийц&lt;/L&gt;&lt;/A&gt;. Затем вернитесь к &lt;D&gt;&lt;L=s06, 5010163&gt;Анне&lt;/L&gt;&lt;/D&gt;.&#x0A;\nВнимание: достигнув &lt;C&gt;70&lt;/C&gt; Ур., вы сможете отправиться в подземелья &lt;N&gt;Замка Теней&lt;/N&gt; и получить там книгу навыка.&#xA;" />
+</quest-local>

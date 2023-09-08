@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20653" />
+    <entry Name="Кристаллическая душа" />
+    <entry Conditions="" />
+    <entry Overview="Поместите &lt;I&gt;кристаллическую душу&lt;/I&gt; в \n&lt;M&gt;&lt;L=s08, 6010026&gt;Джаггернаут&lt;/L&gt;&lt;/M&gt;, чтобы провести очищение. Затем вернитесь к &lt;D&gt;&lt;L=s08, 5010210&gt;Уолтеру&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="29001" />
+    <entry Name="Вход в Библиотеку" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь к &lt;D&gt;&lt;L=s04, 5510635&gt;Духовному лидеру Одли&lt;/L&gt;&lt;/D&gt; и поговорите с ним.\n&#x0A;\n" />
+</quest-local>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30834" />
+    <entry Name="Получение кристалла Абсолема" />
+    <entry Conditions="" />
+    <entry Overview="Найдите во &lt;N&gt;Фронтире&lt;/N&gt; с &lt;D&gt;Стражем Бастиона&lt;/D&gt; и получите &lt;S&gt;кристалл Абсолема&lt;/S&gt;." />
+</quest-local>

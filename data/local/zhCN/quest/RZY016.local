@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="40016" />
+    <entry Name="Рецепт" />
+    <entry Conditions="" />
+    <entry Overview="Используйте &lt;N&gt;производственный навык Портной&lt;/N&gt;, чтобы создать &lt;C&gt;1&lt;/C&gt; &lt;I&gt;рецепт доспеха [Уровень 20]&lt;/I&gt;. Затем обратитесь к &lt;D&gt;&lt;L=s02, 5010081&gt;мастеру ремесел Элиане&lt;/L&gt;&lt;/D&gt;.\n&lt;T&gt;Создание рецепта потребует один пустой рецепт, который можно купить у Коробейника&lt;/T&gt;." />
+</quest-local>

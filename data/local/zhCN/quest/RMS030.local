@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20630" />
+    <entry Name="Слуга Годкинга" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь в &lt;N&gt;Пустыню Солемн&lt;/N&gt;, и поговорите с \n&lt;D&gt;&lt;L=s08, 5010209&gt;Роттом&lt;/L&gt;&lt;/D&gt;.\n&#x0A;\n" />
+</quest-local>

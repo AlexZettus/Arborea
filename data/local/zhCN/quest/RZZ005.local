@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="41005" />
+    <entry Name="Высший класс: Повелитель" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь в &lt;N&gt;Лес Теней&lt;/N&gt;, ступите на Алтарь Возмездия и сразитесь со &lt;C&gt;100&lt;/C&gt; \n&lt;color=0xffff6000&gt;&lt;L=s06, 1050045&gt;стражами артефакта&lt;/L&gt;&lt;color=0xffffffff&gt;, победите \n&lt;color=0xffff0000&gt;&lt;L=s06, 1050046&gt;Древнюю душу&lt;/L&gt;&lt;color=0xffffffff&gt;. Затем отнесите священный контракт наемника \n&lt;D&gt;&lt;L=s02, 5010192&gt;Духу Копья&lt;/L&gt;&lt;/D&gt;. Вы перейдете в высший класс.&#xA;" />
+</quest-local>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20310" />
+    <entry Name="Затерявшийся во мраке-2" />
+    <entry Conditions="" />
+    <entry Overview="В &lt;N&gt;Логове Ящера&lt;/N&gt; убейте &lt;C&gt;10&lt;/C&gt; \n&lt;A&gt;&lt;L=d03,1040034&gt;Ледяных охотников&lt;/L&gt;&lt;/A&gt;. Затем вернитесь к &lt;D&gt;&lt;L=d03, 5010091&gt;Нилу&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30867" />
+    <entry Name="Поздравления" />
+    <entry Conditions="" />
+    <entry Overview="Поговорите с &lt;D&gt;&lt;L=s02,5010029&gt;Королем Марсом&lt;/L&gt;&lt;/D&gt;, &lt;D&gt;&lt;L=s02,5010027&gt;Оракулом Кираном&lt;/L&gt;&lt;/D&gt; и &lt;D&gt;&lt;L=s02,5010227&gt;Судьей Аусвейдом&lt;/L&gt;&lt;/D&gt;. После выполнения задания возвращайтесь к &lt;D&gt;&lt;L=s02,6040022&gt;Посланнику Весны&lt;/L&gt;&lt;/D&gt;. " />
+</quest-local>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20334" />
+    <entry Name="Гонка за сокровищами" />
+    <entry Conditions="" />
+    <entry Overview="Найдите &lt;A&gt;&lt;L=s05, 1040018&gt;беглого преступника&lt;/L&gt;&lt;/A&gt;, соберите &lt;C&gt;75&lt;/C&gt; частей &lt;I&gt;археологических материалов&lt;/I&gt; и сдайте их \n&lt;D&gt;&lt;L=s05, 5010097&gt;теологу Джеффу.&lt;/L&gt;&lt;/D&gt;" />
+</quest-local>

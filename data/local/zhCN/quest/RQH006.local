@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20106" />
+    <entry Name="Больше опыта" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь в &lt;N&gt;Танбурт&lt;/N&gt; и выполните задания \n&lt;D&gt;&lt;L=s03, 5010038&gt;Списка розыска&lt;/L&gt;&lt;/D&gt;. Достигнув &lt;C&gt;14&lt;/C&gt; уровня, отправляйтесь в &lt;N&gt;Тасрейн&lt;/N&gt; и поговорите с \n&lt;D&gt;&lt;L=s03, 5010074&gt;Фалансом&lt;/L&gt;&lt;/D&gt;.\n&#x0A;\n&lt;S&gt;[Ур. 11]&lt;/S&gt;Наградные задания: у списка розыска вы можете получать &lt;P&gt;наградные задания.&lt;/P&gt;&#x0A;\n&lt;S&gt;[Ур. 15]&lt;/S&gt;Эльф новичка: достигнув 15 Ур., вы можете получить &lt;A&gt;эльфа новичка.&lt;/A&gt;&#x0A;" />
+</quest-local>

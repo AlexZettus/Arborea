@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20431" />
+    <entry Name="Ослабить Призраков" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь в &lt;N&gt;Лес Тигриного рыка&lt;/N&gt; и убейте &lt;C&gt;80&lt;/C&gt; \n&lt;A&gt;&lt;L=s06, 1050005&gt;привидений-адептов&lt;/L&gt;&lt;/A&gt;. Затем вернитесь к &lt;D&gt;&lt;L=s06, 5511016&gt;Дебрасу&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

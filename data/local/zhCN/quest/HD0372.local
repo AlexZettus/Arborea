@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30372" />
+    <entry Name="Обмен больших рун опыта" />
+    <entry Conditions="" />
+    <entry Overview="Соберите &lt;C&gt;1&lt;/C&gt; &lt;I&gt;Светило&lt;/I&gt; и &lt;C&gt;1&lt;/C&gt; &lt;I&gt;Славную награду&lt;/I&gt;, передайте их \n&lt;D&gt;&lt;L=s02,5600057&gt;Меняле на дне труда&lt;/L&gt;&lt;/D&gt; и обменяйте на &lt;C&gt;1&lt;/C&gt; &lt;color=0xffff80ff&gt; Большую руну опыта [1 ч]&lt;color=0xffffffff&gt;.&#x0A;\n&lt;I&gt;Светило&lt;/I&gt;, &lt;I&gt;Почетную награду&lt;/I&gt; можно получить, убивая монстров во время ивента День Труда." />
+</quest-local>

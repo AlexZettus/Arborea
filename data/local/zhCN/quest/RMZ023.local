@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="20523" />
+    <entry Name="Недоуменный" />
+    <entry Conditions="" />
+    <entry Overview="Поговорите с &lt;D&gt;&lt;L=s07, 5010204&gt;сыном дьявола Редом&lt;/L&gt;&lt;/D&gt; еще раз." />
+</quest-local>

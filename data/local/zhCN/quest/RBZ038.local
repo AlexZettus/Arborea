@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20338" />
+    <entry Name="Этерхилл" />
+    <entry Conditions="" />
+    <entry Overview="Убейте &lt;C&gt;40&lt;/C&gt; &lt;A&gt;&lt;L=s05,1040026&gt;управляющих злых духов&lt;/L&gt;&lt;/A&gt; и \n&lt;C&gt;40&lt;/C&gt; &lt;A&gt;&lt;L=s05, 1040027&gt;безжалостных дробителей&lt;/L&gt;&lt;/A&gt;. Затем вернитесь в &lt;N&gt;Этерхилл&lt;/N&gt; и найдите &lt;D&gt;&lt;L=s05, 5010099&gt;охотника Вильгельма&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

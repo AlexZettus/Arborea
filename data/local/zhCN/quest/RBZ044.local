@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20344" />
+    <entry Name="Возвращение в город" />
+    <entry Conditions="" />
+    <entry Overview="Вернитесь в Тарио и найдите &lt;D&gt;&lt;L=s02, 5010029&gt;короля Марса&lt;/L&gt;&lt;/D&gt;" />
+</quest-local>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30796" />
+    <entry Name="Обновка" />
+    <entry Conditions="Поговорить с Эльзой" />
+    <entry Overview="Отнесите &lt;D&gt;&lt;L=s02,5610050&gt;Эльзе&lt;/L&gt;&lt;/D&gt; ее новое платье." />
+</quest-local>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="40050" />
+    <entry Name="Покормите эльфов" />
+    <entry Conditions="Особая сливовая конфета" />
+    <entry Overview="Возьмите &lt;I&gt;особую сливовую конфету&lt;/I&gt;, чтобы улучшить &lt;S&gt;настроение&lt;/S&gt; &lt;A&gt;эльфа&lt;/A&gt;. Если настроение &lt;A&gt;эльфа&lt;/A&gt; - &lt;S&gt;Поощрение&lt;/S&gt;, конфету давать не нужно." />
+</quest-local>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<root>
+    <wardrobe id="1" wardrobe_name="Выбранный наряд"  />
+    <wardrobe id="2" wardrobe_name="Винтаж" />
+    <wardrobe id="3" wardrobe_name="Винтаж" />
+    <wardrobe id="4" wardrobe_name="Свобода мечты" />
+    <wardrobe id="5" wardrobe_name="Свобода мечты" />
+    <wardrobe id="6" wardrobe_name="Крутой ковбой" />
+    <wardrobe id="7" wardrobe_name="Крутой ковбой" />
+    <wardrobe id="8" wardrobe_name="Алый элегантный наряд" />
+    <wardrobe id="9" wardrobe_name="Алый элегантный наряд" />
+    <wardrobe id="10" wardrobe_name="Кружевной наряд" />
+    <wardrobe id="11" wardrobe_name="Снеготканный наряд" />
+    <wardrobe id="12" wardrobe_name="Чистая грация" />
+    <wardrobe id="13" wardrobe_name="Милая полька" />
+    <wardrobe id="14" wardrobe_name="Игривые пузырьки" />
+    <wardrobe id="15" wardrobe_name="Озорной эльф" />
+    <wardrobe id="16" wardrobe_name="Благородный наряд" />
+    <wardrobe id="17" wardrobe_name="Мантия пантеона" />
+    <wardrobe id="18" wardrobe_name="Темный эльф" />
+    <wardrobe id="19" wardrobe_name="Повседневный наряд" />
+    <wardrobe id="20" wardrobe_name="Очарование тьмы" />
+    <wardrobe id="21" wardrobe_name="Роковое влечение" />
+    <wardrobe id="22" wardrobe_name="Рождественский наряд" />
+    <wardrobe id="23" wardrobe_name="Рождественский наряд" />
+    <wardrobe id="24" wardrobe_name="Медовый месяц" />
+    <wardrobe id="25" wardrobe_name="Медовый месяц" />
+    <wardrobe id="26" wardrobe_name="Романтик" />
+    <wardrobe id="27" wardrobe_name="Романтик" />
+    <wardrobe id="28" wardrobe_name="Розовый кролик" />
+    <wardrobe id="29" wardrobe_name="Сверкающий иней" />
+    <wardrobe id="30" wardrobe_name="Принцесса" />
+    <wardrobe id="31" wardrobe_name="Фантом" />
+    <wardrobe id="32" wardrobe_name="Орхидея" />
+    <wardrobe id="33" wardrobe_name="Роскошный букет" />
+    <wardrobe id="34" wardrobe_name="Разрушитель" />
+    <wardrobe id="35" wardrobe_name="Свадебное платье" />
+    <wardrobe id="36" wardrobe_name="Черный вихрь" />
+    <wardrobe id="37" wardrobe_name="Темный наряд" />
+    <wardrobe id="38" wardrobe_name="Откровение" />
+    <wardrobe id="39" wardrobe_name="Британский наряд" />
+    <wardrobe id="40" wardrobe_name="Военный марш" />
+    <wardrobe id="41" wardrobe_name="Наряд для отдыха" />
+    <wardrobe id="42" wardrobe_name="Черный наряд" />
+    <wardrobe id="43" wardrobe_name="Простой наряд" />
+    <wardrobe id="44" wardrobe_name="Наряд Соблазнительницы" />
+    <wardrobe id="45" wardrobe_name="Фиолетовый наряд" />
+    <wardrobe id="46" wardrobe_name="Розовый наряд" />
+    <wardrobe id="47" wardrobe_name="Британский стиль" />
+    <wardrobe id="48" wardrobe_name="Наряд наставницы" />
+    <wardrobe id="49" wardrobe_name="Роскошный наряд" />
+    <wardrobe id="50" wardrobe_name="Фиалковый наряд" />
+    <wardrobe id="51" wardrobe_name="Статус" />
+    <wardrobe id="52" wardrobe_name="Ярость демона" />
+    <wardrobe id="53" wardrobe_name="Изящный наряд" />
+    <wardrobe id="54" wardrobe_name="Наряд танцовщицы" />
+    <wardrobe id="55" wardrobe_name="Простой наряд" />
+    <wardrobe id="56" wardrobe_name="Языки пламени" />
+    <wardrobe id="57" wardrobe_name="Свободный стиль" />
+    <wardrobe id="58" wardrobe_name="Чистая вера" />
+    <wardrobe id="59" wardrobe_name="Черный рыцарь" />
+    <wardrobe id="60" wardrobe_name="Наряд вампира" />
+    <wardrobe id="61" wardrobe_name="Солнечный наряд" />
+    <wardrobe id="62" wardrobe_name="Сумрачный наряд" />
+    <wardrobe id="63" wardrobe_name="Власть демонов" />
+    <wardrobe id="64" wardrobe_name="Наряд превосходства" />
+    <wardrobe id="65" wardrobe_name="Райский наряд" />
+    <wardrobe id="66" wardrobe_name="Искусный наряд" />
+    <wardrobe id="67" wardrobe_name="Весенний наряд (пост.)" />
+    <wardrobe id="68" wardrobe_name="Весенний наряд (пост.)" />
+    <wardrobe id="69" wardrobe_name="Новогодний наряд (пост.)" />
+    <wardrobe id="70" wardrobe_name="Новогодний наряд (пост.)" />
+    <wardrobe id="71" wardrobe_name="Наряд Кунг-Фу Панды (пост.)" />
+    <wardrobe id="72" wardrobe_name="Наряд Кунг-Фу Панды (пост.)" />
+    <wardrobe id="73" wardrobe_name="Костюм капитана пиратов (пост.)" />
+    <wardrobe id="74" wardrobe_name="Костюм пиратки (пост.)" />
+    <wardrobe id="75" wardrobe_name="Пляжный наряд (пост.)" />
+    <wardrobe id="76" wardrobe_name="Пляжный наряд (пост.)" />
+    <wardrobe id="77" wardrobe_name="Костюм теней (пост.)" />
+    <wardrobe id="78" wardrobe_name="Костюм теней (пост.)" />
+    <wardrobe id="79" wardrobe_name="Торжественный (пост.)" />
+    <wardrobe id="80" wardrobe_name="Торжественный (пост.)" />
+	<wardrobe id="81" wardrobe_name="Пламенный костюм инкуба" />
+    <wardrobe id="82" wardrobe_name="Пламенный костюм суккубы" />
+	<wardrobe id="83" wardrobe_name="Набор Хэллоуина (пост.)" />
+    <wardrobe id="84" wardrobe_name="Набор Хэллоуина (пост.)" />
+	<wardrobe id="85" wardrobe_name="Меховой наряд" />
+    <wardrobe id="86" wardrobe_name="Меховой наряд" />
+	<wardrobe id="87" wardrobe_name="Маскарадный костюм" />
+    <wardrobe id="88" wardrobe_name="Маскарадный костюм" />
+	<wardrobe id="89" wardrobe_name="Летний стиль" />
+	<wardrobe id="90" wardrobe_name="Летний стиль" />
+	<wardrobe id="91" wardrobe_name="Морская волна" />
+	<wardrobe id="92" wardrobe_name="Морская волна" />
+	<wardrobe id="93" wardrobe_name="Лесной страж" />
+	<wardrobe id="94" wardrobe_name="Лесной страж" />
+	<wardrobe id="95" wardrobe_name="Лиловый рассвет" />
+	<wardrobe id="96" wardrobe_name="Лиловый рассвет" />
+	<wardrobe id="97" wardrobe_name="Наряд тусовщицы" />
+	<wardrobe id="98" wardrobe_name="Наряд тусовщика" />
+	<wardrobe id="99" wardrobe_name="Костюм цветка сакуры" />
+	<wardrobe id="100" wardrobe_name="Костюм уличного дракона" />
+	<wardrobe id="101" wardrobe_name="Костюм модельера" />
+	<wardrobe id="102" wardrobe_name="Костюм счастливого клевера" />
+	<wardrobe id="103" wardrobe_name="Новогоднее чудо" />
+	<wardrobe id="104" wardrobe_name="Новогоднее чудо" />
+	<wardrobe id="105" wardrobe_name="Изящный наряд золотого феникса" />
+	<wardrobe id="106" wardrobe_name="Наряд рыцаря дракона" />
+	<wardrobe id="107" wardrobe_name="Костюм бога огня (пост.)" />
+	<wardrobe id="108" wardrobe_name="Костюм богини огня (пост.)" />
+	<wardrobe id="109" wardrobe_name="Костюм аристократки" />
+	<wardrobe id="110" wardrobe_name="Костюм аристократа" />
+	<wardrobe id="111" wardrobe_name="Костюм спец. назначения" />
+	<wardrobe id="112" wardrobe_name="Костюм спец. назначения" />
+	<wardrobe id="113" wardrobe_name="Костюм кошки-мстительницы" />
+	<wardrobe id="114" wardrobe_name="Костюм ордена тени" />
+	<wardrobe id="115" wardrobe_name="Полосатый купальник" />
+	<wardrobe id="116" wardrobe_name="Красный купальник" />
+	<wardrobe id="117" wardrobe_name="Наряд русалки" />
+	<wardrobe id="118" wardrobe_name="Наряд хорошего настроения" />
+	<wardrobe id="119" wardrobe_name="Наряд спасателя" />
+	<wardrobe id="120" wardrobe_name="Прогулочный наряд" />
+	<wardrobe id="121" wardrobe_name="Убийца нежити" />
+	<wardrobe id="122" wardrobe_name="Рубиновая воительница" />
+	<wardrobe id="123" wardrobe_name="Сапфировая воительница" />
+	<wardrobe id="124" wardrobe_name="Изумрудная воительница" />
+	<wardrobe id="125" wardrobe_name="Красное коктейльное платье" />
+	<wardrobe id="126" wardrobe_name="Черное коктейльное платье" />
+	<wardrobe id="127" wardrobe_name="Белое коктейльное платье" />
+	<wardrobe id="128" wardrobe_name="Наряд бунтаря" />
+	<wardrobe id="129" wardrobe_name="Прогулочный стиль" />
+	<wardrobe id="130" wardrobe_name="Костюм шерифа" />
+	<wardrobe id="131" wardrobe_name="Наряд медсестры" />
+	<wardrobe id="132" wardrobe_name="Наряд авантюриста" />
+	<wardrobe id="133" wardrobe_name="Наряд с корсетом" />
+    <wardrobe id="134" wardrobe_name="Наряд авантюристки" />
+	<wardrobe id="135" wardrobe_name="Эксцентричный наряд" />
+	<wardrobe id="136" wardrobe_name="Костюм розовой пантеры" />
+	<wardrobe id="137" wardrobe_name="Элитный синий костюм" />
+	<wardrobe id="138" wardrobe_name="Походный костюм" />
+	<wardrobe id="139" wardrobe_name="Костюм герцогини" />
+	<wardrobe id="140" wardrobe_name="Костюм профессионала" />
+	<wardrobe id="141" wardrobe_name="Изящество дракона" />
+</root>

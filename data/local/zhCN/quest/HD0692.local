@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30692" />
+    <entry Name="Непримиримые войны Сноулэнда" />
+    <entry Conditions="" />
+    <entry Overview="В &lt;N&gt;&lt;Z=s05, 49485, 19284, 182512&gt;Обители зла&lt;/Z&gt;&lt;/N&gt; расправьтесь с &lt;A&gt;мятежным магом&lt;/A&gt;, &lt;A&gt;атаманом Шедоуфангом&lt;/A&gt; и &lt;A&gt;атаманом Френзером&lt;/A&gt;. Затем поговорите со \n&lt;D&gt;&lt;L=s02, 5600011&gt;Снегулой&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

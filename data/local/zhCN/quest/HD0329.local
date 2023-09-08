@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30329" />
+    <entry Name="Злобный эльф" />
+    <entry Conditions="" />
+    <entry Overview="&lt;D&gt;&lt;L=s54,5610002&gt;Злобному эльфу&lt;/L&gt;&lt;/D&gt; нужна &lt;I&gt;сонная пыль&lt;/I&gt;. Соберите &lt;C&gt;15&lt;/C&gt; мер и отдайте их ему, после чего вы сможете получить вознаграждение. &lt;T&gt;Это задание можно выполнять каждый день дважды, и каждый раз вы будете получать 150 ед. веры.&lt;/T&gt;" />
+</quest-local>

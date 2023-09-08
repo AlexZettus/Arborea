@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20406" />
+    <entry Name="Прополка" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь в &lt;N&gt;Лес тигриного рыка&lt;/C&gt;, убейте \n&lt;C&gt;40&lt;/C&gt; &lt;A&gt;&lt;L=s06, 1050008&gt;демонических лотосов&lt;/L&gt;&lt;/A&gt; и &lt;C&gt;40&lt;/C&gt; &lt;A&gt;&lt;L=s06, 1050006&gt;привидений&lt;/L&gt;&lt;/A&gt;.\nЗатем вернитесь к &lt;D&gt;&lt;L=s06, 5010101&gt;повелителю битвы Битти&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

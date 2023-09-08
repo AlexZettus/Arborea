@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<map_point id="1" type="1" show_name="Тарио" pos_x="11850" pos_y="13417" pos_z="44100"/>
+	<map_point id="2" type="1" show_name="Сноулэнд" pos_x="29100" pos_y="18532" pos_z="66750"/>
+	<map_point id="3" type="1" show_name="Гора Смерти" pos_x="66650" pos_y="19590" pos_z="18950"/>
+	<map_point id="4" type="1" show_name="Рудник" pos_x="35500" pos_y="14211" pos_z="53500"/>
+	<map_point id="5" type="1" show_name="Каменоломня" pos_x="49600" pos_y="16868" pos_z="16250"/>
+	<map_point id="6" type="1" show_name="Камень телепорта Хеопса" pos_x="36943" pos_y="14187" pos_z="51865"/>
+	<map_point id="7" type="1" show_name="Камень телепорта Щитовой долины" pos_x="65650" pos_y="18338" pos_z="16454"/>
+	<map_point id="8" type="1" show_name="Библиотека" pos_x="64000" pos_y="20565" pos_z="67250"/>
+	<map_point id="9" type="2" show_name="Кладовщик" pos_x="37978" pos_y="14174" pos_z="49356"/>
+	<map_point id="10" type="2" show_name="Мастер снаряжения" pos_x="37107" pos_y="14174" pos_z="48481"/>
+	<map_point id="11" type="2" show_name="Фармацевт(Щитовая Долина)" pos_x="59009" pos_y="17135" pos_z="9666"/>
+	<map_point id="12" type="2" show_name="Коробейник(Хеопс)" pos_x="37614" pos_y="14174" pos_z="49452"/>
+	<map_point id="13" type="2" show_name="Коробейник(Щитовая Долина)" pos_x="58649" pos_y="17139" pos_z="9494"/>
+	<map_point id="14" type="2" show_name="Продавец эльфийской еды(Хеопс)" pos_x="39201" pos_y="14130" pos_z="47171"/>
+	<map_point id="15" type="2" show_name="Продавец эльфийской еды(Щитовая Долина)" pos_x="59934" pos_y="17190" pos_z="10513"/>
+	<map_point id="16" type="2" show_name="Еда для эльфов(Хеопс)" pos_x="39208" pos_y="14100" pos_z="47588"/>
+	<map_point id="17" type="2" show_name="Еда для эльфов(Щитовая Долина)" pos_x="60214" pos_y="17170" pos_z="10695"/>
+	<map_point id="18" type="2" show_name="Аренда витрины" pos_x="37136" pos_y="14174" pos_z="49067"/>
+	<map_point id="19" type="2" show_name="Фармацевт(Хеопс)" pos_x="38633" pos_y="14174" pos_z="46697"/>
+</root>

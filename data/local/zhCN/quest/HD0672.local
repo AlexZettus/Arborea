@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30672" />
+    <entry Name="Войны Сноулэнда" />
+    <entry Conditions="" />
+    <entry Overview="Идите в &lt;N&gt;Сноулэнд&lt;/N&gt; и избавьтесь в &lt;N&gt;Логове Ящера&lt;/N&gt; от \n&lt;A&gt;&lt;L=d03, 1040007&gt;ледяного волка&lt;/L&gt;&lt;/A&gt;, а в &lt;N&gt;Долине Белого дракона&lt;/N&gt; - от \n&lt;A&gt;&lt;L=s05, 1040003&gt;снежного бандита&lt;/L&gt;&lt;/A&gt;. Затем поговорите со \n&lt;D&gt;&lt;L=s02, 5600011&gt;Снегулой&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20429" />
+    <entry Name="Сопротивление миссионерам" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь в Лес тигриного рыка и убивайте там &lt;A&gt;&lt;L=s06, 1050026&gt;привидений-милленариев&lt;/L&gt;&lt;/A&gt;, чтобы добыть &lt;C&gt;30&lt;/C&gt; &lt;M&gt;книг проповедей&lt;/M&gt;. Затем отнесите их &lt;D&gt;&lt;L=s06, 5511016&gt;Дебрасу.&lt;/L&gt;&lt;/D&gt;" />
+</quest-local>

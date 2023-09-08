@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30868" />
+    <entry Name="Покупка праздничных товаров" />
+    <entry Conditions="" />
+    <entry Overview="Поговорите с &lt;D&gt;&lt;L=s02,5010083&gt;Ромидаем&lt;/L&gt;&lt;/D&gt;. После выполнения задания возвращайтесь к &lt;D&gt;&lt;L=s02,6040022&gt;Посланнику Весны&lt;/L&gt;&lt;/D&gt;. " />
+</quest-local>

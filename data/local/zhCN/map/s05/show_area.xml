@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+	<maparea id="8219" title="Северная застава" />
+	<maparea id="8227" title="Древний город" />
+	<maparea id="8230" title="Святой город" />
+	<maparea id="8231" title="Южный предел" />
+	<maparea id="8232" title="Долина белого дракона" />
+	<maparea id="8235" title="Сноулэнд" />
+	<maparea id="8293" title="Заснеженная вершина" />
+	<maparea id="8294" title="Долина волчьих стай" />
+	<maparea id="8495" title="Северный караул" />
+	<maparea id="9456" title="Нефритовый пруд" />
+	<maparea id="12734" title="Останки великого дерева" />
+	<maparea id="12735" title="Астральная дорога" />
+	<maparea id="12736" title="Астральная гора" />
+	<maparea id="12738" title="Заснеженная гора" />
+	<maparea id="12739" title="Холм гигантского дракона" />
+	<maparea id="12740" title="Озеро темной воды" />
+	<maparea id="12741" title="Долина грозных медведей " />
+	<maparea id="12742" title="Южная заснеженная гора" />
+	<maparea id="12743" title="Ледяная дорога" />
+	<maparea id="12744" title="Заснеженное поле" />
+	<maparea id="12745" title="Заснеженный город" />
+</root>

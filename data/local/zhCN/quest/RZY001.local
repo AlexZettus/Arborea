@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="40001" />
+    <entry Name="Получение эльфа" />
+    <entry Conditions="" />
+    <entry Overview="Добудьте &lt;C&gt;8&lt;/C&gt; мер &lt;I&gt;порошка иллюзий&lt;/I&gt;, убивая \n&lt;A&gt;&lt;L=s03, 1020006&gt;колдовских пикси&lt;/L&gt;&lt;/A&gt;, и соберите &lt;C&gt;2&lt;/C&gt; \n&lt;M&gt;&lt;L=s03, 6010008&gt;остатка крови пикси&lt;/L&gt;&lt;/M&gt;. Затем вернитесь к \n&lt;D&gt;&lt;L=s03, 5010031&gt;мастеру иллюзий Карине&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

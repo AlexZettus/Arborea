@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20621" />
+    <entry Name="Смелый Саул" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь на юг и найдите там &lt;D&gt;&lt;L=s08,5010207&gt;Саула&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

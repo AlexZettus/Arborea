@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20433" />
+    <entry Name="Цветок Леса Теней" />
+    <entry Conditions="" />
+    <entry Overview="Соберите &lt;C&gt;20&lt;/C&gt; &lt;M&gt;&lt;L=s06, 6011021&gt;Цветков Леса Теней&lt;/L&gt;&lt;/M&gt;. После чего передайте их &lt;D&gt;&lt;L=s06, 5511016&gt;Дебрасу&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

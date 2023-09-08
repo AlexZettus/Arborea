@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="51003" />
+    <entry Name="Священный узор" />
+    <entry Conditions="" />
+    <entry Overview="&lt;M&gt;Священный узор&lt;/M&gt; это другой путь &lt;T&gt;развития&lt;/T&gt; святого духа. Скорее иди в небесный город Тарио, найди там &lt;D&gt;&lt;L=s02,6040030&gt;Мастера чудесных узоров&lt;/L&gt;&lt;/D&gt;!\n&#x0A;\n" />
+</quest-local>

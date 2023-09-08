@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="50045" />
+    <entry Name="Храм элементов" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйся в &lt;N&gt;храм элементов&lt;/N&gt; и собери &lt;C&gt;30&lt;/C&gt;основных элементов，которые затем передай Распорядителю Зала предков &lt;D&gt;&lt;L=s02,1085203&gt;Баркусу&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

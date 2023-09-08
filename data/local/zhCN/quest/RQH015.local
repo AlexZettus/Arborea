@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20115" />
+    <entry Name="Устаревшие сведения" />
+    <entry Conditions="" />
+    <entry Overview="Мир Теоса изменился и цель задания устарела. Вы можете только отказаться от задания." />
+</quest-local>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="40029" />
+    <entry Name="Кольцо эксперимента" />
+    <entry Conditions="" />
+    <entry Overview="Поговорите с &lt;D&gt;&lt;L=s02, 5010084&gt;инструктором душ Кареем&lt;/L&gt;&lt;/D&gt; еще раз и получите задачу для эксперимента.\n&#x0A;\n" />
+</quest-local>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<map_point id="1" type="1" show_name="Древесный солдат (север)" pos_x="132700" pos_y="10518" pos_z="182400"/>
+	<map_point id="2" type="1" show_name="Древесный солдат (восток)" pos_x="172600" pos_y="11361" pos_z="116700"/>
+	<map_point id="3" type="1" show_name="Древесный солдат (юг)" pos_x="173650" pos_y="11969" pos_z="66350"/>
+	<map_point id="4" type="2" show_name="Телепорт Ромен" pos_x="80100" pos_y="10608" pos_z="119250"/>
+	<map_point id="5" type="2" show_name="Телепорт Остров сомнений" pos_x="64450" pos_y="6709" pos_z="56400"/>
+</root>

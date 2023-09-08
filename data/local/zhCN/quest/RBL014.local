@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20214" />
+    <entry Name="Дитя дракона" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйся в округ Тасрейн и поговори с &lt;D&gt;&lt;L=s03,5010079&gt;Рори&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

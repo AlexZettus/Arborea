@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30726" />
+    <entry Name="[Привилегия] Договорной предмет" />
+    <entry Conditions="" />
+    <entry Overview="Соберите &lt;C&gt;10&lt;/C&gt; комков &lt;I&gt;северного снега&#x0A;&lt;/I&gt; и отнесите их &lt;M&gt;&lt;Z=s02, 31500, 23094, 33600&gt;хранителю наград новичков&lt;/Z&gt;&lt;/M&gt;." />
+</quest-local>

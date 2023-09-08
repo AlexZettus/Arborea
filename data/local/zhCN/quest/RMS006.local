@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20606" />
+    <entry Name="Священник с фейерверками" />
+    <entry Conditions="" />
+    <entry Overview="Повелитель мудрости просит вас зажечь &lt;C&gt;1&lt;/C&gt;&lt;I&gt;Фейерверк&lt;/I&gt;. Затем собрать &lt;I&gt;Сгоревшие фейерверки&lt;/I&gt; и отнести их &lt;D&gt;&lt;L=s08, 5010205&gt;Очилу&lt;/L&gt;&lt;/D&gt;. " />
+</quest-local>

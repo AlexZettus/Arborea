@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20602" />
+    <entry Name="Эффекты святой воды" />
+    <entry Conditions="" />
+    <entry Overview="Убейте &lt;C&gt;30&lt;/C&gt; &lt;color=0xffff6000&gt;&lt;L=s08,1070049&gt;элитных укротителей медведей&lt;/L&gt;&lt;color=0xffffffff&gt;, вернитесь и найдите &lt;D&gt;&lt;L=s08, 5010205&gt;Очила&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

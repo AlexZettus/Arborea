@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20635" />
+    <entry Name="Путь зла" />
+    <entry Conditions="" />
+    <entry Overview="Исследуйте &lt;M&gt;&lt;L=s08, 6010025&gt;необычный камень&lt;/L&gt;&lt;/M&gt; и получите &lt;C&gt;1&lt;/C&gt; &lt;I&gt;треснувший камень&lt;/I&gt;. Затем вернитесь к &lt;D&gt;&lt;L=s08, 5010209&gt;Ротту&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

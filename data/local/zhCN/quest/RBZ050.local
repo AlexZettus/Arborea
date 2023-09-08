@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20350" />
+    <entry Name="Следы в снегу" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь на &lt;N&gt;&lt;Z=s05, 66321, 17541, 43219&gt;Заснеженную вершину&lt;/Z&gt;&lt;/N&gt;, а затем расскажите о том, что увидели, &lt;D&gt;&lt;L=s05, 5010089&gt;Джастину&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

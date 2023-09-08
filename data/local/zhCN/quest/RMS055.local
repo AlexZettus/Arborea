@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20655" />
+    <entry Name="Небесные вестники жрецов" />
+    <entry Conditions="" />
+    <entry Overview="Убейте \n&lt;C&gt;200&lt;/C&gt; &lt;A&gt;&lt;L=d08, 1070041&gt;жриц-ведьм&lt;/L&gt;&lt;/A&gt;, \n&lt;C&gt;220&lt;/C&gt; &lt;A&gt;&lt;L=d08, 1070042&gt;стражей ужаса&lt;/L&gt;&lt;/A&gt;, \n&lt;C&gt;250&lt;/C&gt; &lt;A&gt;&lt;L=d08, 1070043&gt;жрецов-священников&lt;/L&gt;&lt;/A&gt;, \n&lt;C&gt;100&lt;/C&gt; &lt;A&gt;&lt;L=d08, 1070067&gt;элитных демонов-посыльных&lt;/L&gt;&lt;/A&gt;,  \n&lt;A&gt;&lt;L=d08, 1070087&gt;Левого Небесного глашатая&lt;/L&gt;&lt;/A&gt;, \n&lt;A&gt;&lt;L=s08, 1070088&gt;Правого Небесного глашатая&lt;/L&gt;&lt;/A&gt;.\nПосле завершения задания возвращайтесь к &lt;D&gt;&lt;L=s08, 5010210&gt;Уолтеру&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

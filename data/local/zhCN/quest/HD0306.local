@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30306" />
+    <entry Name="Меняла питомцев" />
+    <entry Conditions="" />
+    <entry Overview="Соберите &lt;C&gt;3&lt;/C&gt; &lt;I&gt;монеты питомца.&lt;/I&gt; Их можно обменять в &lt;N&gt;Святилище&lt;/N&gt; у &lt;D&gt;&lt;L=s54,5610002&gt;Злобного эльфа&lt;/L&gt;&lt;/D&gt; на &lt;I&gt;клетку случайного питомца.&lt;/I&gt;\n&lt;T&gt;Если на животное использовать навык Очищение души, то можно получить&lt;/T&gt; &lt;I&gt;печать сердца.&lt;/I&gt; &lt;T&gt;Собрав&lt;/T&gt; &lt;C&gt;10&lt;/C&gt; &lt;I&gt;печатей сердца&lt;/I&gt;, &lt;T&gt;можно обменять их на &lt;/T&gt;&lt;I&gt;1 монету питомца в день&lt;/I&gt; &lt;T&gt;у появляющегося при осмотре скульптуры эльфов&lt;/T&gt; &lt;D&gt;менялы монет питомца&lt;/D&gt;." />
+</quest-local>

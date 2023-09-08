@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30873" />
+    <entry Name="Спасти Ковчег -2" />
+    <entry Conditions="" />
+    <entry Overview="Войдите в &lt;N&gt;Ноев ковег&lt;/N&gt; и убейте &lt;A&gt;Странную панду&lt;/A&gt;, &lt;A&gt;Приверженца порока&lt;/A&gt;, &lt;A&gt;Бешеную панду&lt;/A&gt;, &lt;A&gt;Мрачную панду&lt;/A&gt; - всего &lt;C&gt;18&lt;/C&gt;. " />
+</quest-local>

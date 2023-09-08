@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<map_point id="1" type="1" show_name="Телепорт: Гора смерти" pos_x="27900" pos_y="5797" pos_z="57400"/>
+	<map_point id="2" type="1" show_name="Телепорт: Пустыня Аришат" pos_x="54400" pos_y="7120" pos_z="14350"/>
+	<map_point id="3" type="2" show_name="Гарт Мейдер" pos_x="36900" pos_y="5800" pos_z="60000"/>
+	<map_point id="4" type="2" show_name="Аренда витрины" pos_x="27950" pos_y="5801" pos_z="61650"/>
+	<map_point id="5" type="3" show_name="Список розыска(Предел забвения)" pos_x="23950" pos_y="5828" pos_z="65650"/>
+	<map_point id="6" type="3" show_name="Список розыска(Зараженный лес)" pos_x="65800" pos_y="5386" pos_z="65200"/>
+	<map_point id="7" type="3" show_name="Список розыска(Руины храма)" pos_x="64400" pos_y="6540" pos_z="37850"/>
+	<map_point id="8" type="4" show_name="Лесной страж(103)" pos_x="59400" pos_y="6248" pos_z="53850"/>
+	<map_point id="9" type="4" show_name="Древний энт(104)" pos_x="88200" pos_y="7380" pos_z="70550"/>
+	<map_point id="10" type="4" show_name="Проклятая ведьма(102)" pos_x="71950" pos_y="6423" pos_z="74850"/>
+	<map_point id="11" type="4" show_name="Забытый солдат(101)" pos_x="19350" pos_y="6503" pos_z="58100"/>
+	<map_point id="12" type="4" show_name="Ядовитая спора(105)" pos_x="63850" pos_y="6579" pos_z="34000"/>
+	<map_point id="13" type="1" show_name="Телепорт: Лабиринт Морока" pos_x="55350" pos_y="11587" pos_z="83850"/>
+	<map_point id="14" type="1" show_name="Телепорт: Темная башня" pos_x="26550" pos_y="6368" pos_z="26000"/>
+	<map_point id="15" type="4" show_name="Варгас(106)" pos_x="48500" pos_y="6591" pos_z="24950"/>
+	<map_point id="16" type="2" show_name="Кладовщик" pos_x="28250" pos_y="5804" pos_z="60450"/>
+	<map_point id="17" type="2" show_name="Мастер снаряжения" pos_x="31550" pos_y="5797" pos_z="61500"/>
+	<map_point id="18" type="2" show_name="Алхимик" pos_x="31750" pos_y="5789" pos_z="63200"/>
+	<map_point id="19" type="2" show_name="Гейл Провидец" pos_x="32550" pos_y="5791" pos_z="63550"/>
+	<map_point id="20" type="2" show_name="Эльфийская еда" pos_x="30150" pos_y="5806" pos_z="63550"/>
+	<map_point id="21" type="2" show_name="Кузнец" pos_x="29600" pos_y="5809" pos_z="63300"/>
+	<map_point id="22" type="2" show_name="Сын дьявола Ник" pos_x="25900" pos_y="5806" pos_z="64750"/>
+	<map_point id="23" type="2" show_name="Эмиссар наград" pos_x="25550" pos_y="5814" pos_z="67300"/>
+	<map_point id="24" type="2" show_name="Коробейник" pos_x="24150" pos_y="5834" pos_z="67100"/>
+	</root>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="41002" />
+    <entry Name="Класс - Стрелок" />
+    <entry Conditions="" />
+    <entry Overview="Если вы решили стать &lt;color=0xff80ff00&gt;стрелком&lt;color=0xffffffff&gt;, подпишите &lt;I&gt;контракт наемника&lt;/I&gt; с \n&lt;D&gt;&lt;L=s02, 5010193&gt;Духом лука&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30716" />
+    <entry Name="Слава победителя" />
+    <entry Conditions="" />
+    <entry Overview="Вы можете обменять &lt;C&gt;10&lt;/C&gt; &lt;I&gt;медалей мастера&lt;/I&gt;" />
+</quest-local>

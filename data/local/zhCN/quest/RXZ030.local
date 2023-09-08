@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20430" />
+    <entry Name="Дух Леса Теней" />
+    <entry Conditions="" />
+    <entry Overview="Убейте &lt;A&gt;&lt;L=s06, 1040051&gt;Духа Леса Теней&lt;/L&gt;&lt;/A&gt;. Затем вернитесь к \n&lt;D&gt;&lt;L=s06, 5010101&gt;Повелителю битвы Битти.&lt;/L&gt;&lt;/D&gt;" />
+</quest-local>

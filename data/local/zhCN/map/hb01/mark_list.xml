@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<map_point id="1" type="1" show_name="Меняла магической ткани" pos_x="32100" pos_y="6341" pos_z="89850"/>
+	<map_point id="2" type="1" show_name="Старейшина эльфийской деревни" pos_x="30700" pos_y="6300" pos_z="91150"/>
+	<map_point id="3" type="1" show_name="Колодец эльфийской деревни" pos_x="32850" pos_y="6331" pos_z="90400"/>
+	<map_point id="4" type="1" show_name="Колодец горной деревни" pos_x="18850" pos_y="5198" pos_z="111900"/>
+	<map_point id="5" type="1" show_name="Колодец западной долины" pos_x="19450" pos_y="647" pos_z="54350"/>
+	<map_point id="6" type="1" show_name="Колодец западной долины" pos_x="46600" pos_y="320" pos_z="44700"/>
+	<map_point id="7" type="1" show_name="Колодец восточной долины" pos_x="86300" pos_y="553" pos_z="38200"/>
+	<map_point id="8" type="1" show_name="Колодец восточной долины" pos_x="107600" pos_y="1223" pos_z="55950"/>
+	<map_point id="9" type="1" show_name="Колодец восточного ущелья" pos_x="98800" pos_y="0" pos_z="85300"/>
+</root>

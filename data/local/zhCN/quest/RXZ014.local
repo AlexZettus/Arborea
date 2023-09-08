@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20414" />
+    <entry Name="Путь святого знака" />
+    <entry Conditions="" />
+    <entry Overview="&lt;D&gt;&lt;L=s02, 5010024&gt;Работодатель Роос&lt;/L&gt;&lt;/D&gt; хочет рассказать кое-что о святых знаках. Отправляйтесь в &lt;N&gt;Тарио&lt;/N&gt; и найдите Рооса." />
+</quest-local>

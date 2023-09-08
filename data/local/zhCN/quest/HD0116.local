@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30116" />
+    <entry Name="5 поясов" />
+    <entry Conditions="" />
+    <entry Overview="Соберите &lt;C&gt;5&lt;/C&gt; &lt;I&gt;семейных цветастых поясов&lt;/I&gt;, передайте их \n&lt;D&gt;&lt;L=s02,5516012&gt;богине красоты Грациане&lt;/L&gt;&lt;/D&gt; и обменяйте на &lt;C&gt;1&lt;/C&gt; &lt;color=0xffff80ff&gt;красивый подарок&lt;color=0xffffffff&gt;.&#x0A;" />
+</quest-local>

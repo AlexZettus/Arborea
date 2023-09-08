@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30917" />
+    <entry Name="Получить магическую воду" />
+    <entry Conditions="" />
+    <entry Overview="Каждый день вы можете получить у &lt;D&gt;&lt;L=s61,5610095&gt;Св. Валентина&lt;/L&gt;&lt;/D&gt; &lt;A&gt;120&lt;/A&gt;капель&lt;I&gt;магической воды&lt;/I&gt;. Только обладая достаточным количеством &lt;I&gt;магической воды&lt;/I&gt;, вы можете приступить к заданию, связанному с &lt;M&gt;фигурами из песка&lt;/M&gt;!" />
+</quest-local>

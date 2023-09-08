@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="52004" />
+    <entry Name="Охрана Пиратской бухты" />
+    <entry Conditions="" />
+    <entry Overview="Один раз в день &lt;D&gt;&lt;Z=s06,28350,3500,87850&gt;Страж Пиратской бухты&lt;/L&gt;&lt;/D&gt; может выдать вам 3 специальных пропуска." />
+</quest-local>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="50001" />
+    <entry Name="Гигантский гриб на замену" />
+    <entry Conditions="" />
+    <entry Overview="Найдите &lt;C&gt;2&lt;/C&gt; &lt;I&gt;гриба гномов&lt;/I&gt; и поговорите со \n&lt;D&gt;&lt;L=s03, 5010197&gt;сборщиком грибов&lt;/L&gt;&lt;/D&gt;, чтобы получить &lt;C&gt;1&lt;/C&gt; &lt;I&gt;гигантский гриб&lt;/I&gt;." />
+</quest-local>

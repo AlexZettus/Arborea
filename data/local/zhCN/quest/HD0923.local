@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30923" />
+    <entry Name="Подарок-фейерверк на годовщину" />
+    <entry Conditions="" />
+    <entry Overview="Вернись&lt;D&gt;&lt;L=s02,6040305&gt;ко второй годовщине посланника Цин&lt;/L&gt;&lt;/D&gt;и сможешь получить подарок-фейерверк。" />
+</quest-local>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20343" />
+    <entry Name="Очистить холмы" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь на &lt;N&gt;Северный пост&lt;/N&gt;, убейте \n&lt;C&gt;70&lt;/C&gt; &lt;A&gt;&lt;L=s05, 1040030&gt;Сверкающих воинов&lt;/L&gt;&lt;/A&gt; и &lt;A&gt;&lt;L=s05, 1040049&gt;Императора Сноулэнда&lt;/L&gt;&lt;/A&gt;. Затем вернитесь к &lt;D&gt;&lt;L=s05, 5010100&gt;хранителю неба Лану&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

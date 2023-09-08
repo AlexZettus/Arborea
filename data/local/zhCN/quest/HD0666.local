@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30666" />
+    <entry Name="Яростные войны Сноулэнда" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь в &lt;N&gt;Сноулэнд&lt;/N&gt; и уничтожьте на &lt;N&gt;Тропе эльфов&lt;/N&gt; \n&lt;A&gt;&lt;L=s05, 1040038&gt;Снежного дикаря&lt;/L&gt;&lt;/A&gt;, а в &lt;N&gt;Пещере Льда&lt;/N&gt; - \n&lt;A&gt;&lt;L=d04, 1040040&gt;Большую ледяную змею&lt;/L&gt;&lt;/A&gt;. Затем поговорите со \n&lt;D&gt;&lt;L=s02, 5600011&gt;Снегулой&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

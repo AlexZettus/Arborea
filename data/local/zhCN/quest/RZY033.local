@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="40033" />
+    <entry Name="Сверло" />
+    <entry Conditions="" />
+    <entry Overview="Принесите &lt;C&gt;20&lt;/C&gt; &lt;I&gt;кусков необработанной руды&lt;/I&gt; для обмена на 1 &lt;I&gt;обычное сверло&lt;/I&gt; у &lt;D&gt;&lt;L=s02, 5010085&gt;Шеры&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

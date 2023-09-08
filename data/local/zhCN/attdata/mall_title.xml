@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<mall_title id="1" name1="Усиление"/>
+	<mall_title id="2" name1="Полезное"/>
+	<mall_title id="3" name1="PvP"/>
+	<mall_title id="4" name1="Персонаж"/>
+	<mall_title id="5" name1="Питомцы"/>
+	<mall_title id="6" name1="Премиум"/>
+	<mall_title id="7" name1="Купоны"/>
+	<mall_title id="8" name1="Бонусы"/>
+	<mall_title id="10" name1="Скидки"/>
+</root>

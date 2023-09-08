@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20108" />
+    <entry Name="Катастрофа огров" />
+    <entry Conditions="" />
+    <entry Overview="Убивайте &lt;A&gt;&lt;L=s03, 1020013&gt;красных огров&lt;/L&gt;&lt;/A&gt; и добудьте &lt;C&gt;5&lt;/C&gt; образцов лимфы красного огра. Затем отнесите их \nмастеру иллюзий &lt;D&gt;&lt;L=s03, 5010031&gt;Карине&lt;/L&gt;&lt;/D&gt; в &lt;N&gt;Танбурт&lt;/N&gt;.\n&#x0A;\n&lt;S&gt;[Ур. 11]&lt;/S&gt;Наградные задания: у списка розыска вы можете получать &lt;P&gt;наградные задания.&lt;/P&gt;&#x0A;\n&lt;S&gt;[Ур. 15]&lt;/S&gt;Эльф новичка: достигнув 15 Ур., вы можете получить &lt;A&gt;эльфа новичка.&lt;/A&gt;&#x0A;" />
+</quest-local>

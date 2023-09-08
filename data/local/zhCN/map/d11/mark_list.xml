@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+	<map_point id="1" type="1" show_name="Гора Смерти" pos_x="14985" pos_y="40" pos_z="8017" />
+	<map_point id="2" type="1" show_name="Список розыска" pos_x="13405" pos_y="40" pos_z="7851" />
+	<map_point id="3" type="2" show_name="Душа-мучитель" pos_x="12039" pos_y="40" pos_z="8176" />
+	<map_point id="4" type="2" show_name="Исчезающая душа" pos_x="7518" pos_y="40" pos_z="12774" />
+	<map_point id="5" type="2" show_name="Жрец-последователь" pos_x="15080" pos_y="40" pos_z="18491" />
+	<map_point id="6" type="2" show_name="Жрец-убийца" pos_x="17148" pos_y="40" pos_z="12574" />
+	<map_point id="7" type="2" show_name="Скорбящая душа" pos_x="8289" pos_y="40" pos_z="16500" />
+	<map_point id="8" type="2" show_name="Элитный жрец-адепт" pos_x="20876" pos_y="40" pos_z="10757" />
+	<map_point id="9" type="2" show_name="Майра Убийца тысячи" pos_x="21212" pos_y="40" pos_z="2332" />
+</root>

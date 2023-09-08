@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="52185" />
+    <entry Name="Юбилейный подарок" />
+    <entry Conditions="" />
+    <entry Overview="В честь дня рождения Blood and Soul вы получите праздничный титул." />
+</quest-local>

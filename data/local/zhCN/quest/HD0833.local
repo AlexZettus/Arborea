@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30833" />
+    <entry Name="Получение кристалла Элизиума" />
+    <entry Conditions="" />
+    <entry Overview="Поговорите во &lt;N&gt;Фронтире&lt;/N&gt; с &lt;D&gt;Стражем Кафедрала&lt;/D&gt; и получите &lt;S&gt;кристалл Элизиума&lt;/S&gt;." />
+</quest-local>

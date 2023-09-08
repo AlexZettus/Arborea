@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30841" />
+    <entry Name="Строительство пути" />
+    <entry Conditions="" />
+    <entry Overview="Соберите &lt;C&gt;1&lt;/C&gt; &lt;I&gt;магический кристалл&lt;/I&gt; и передайте &lt;D&gt;Стражу Кафедрала&lt;/D&gt;.\n \n(&lt;S&gt;После выполнения задания можно получить 100 ед. божественного духа&lt;/S&gt;)\n \n&lt;T&gt;Магическую пыль можно получить в Бастионе, используя магическую кирку.&lt;/T&gt;" />
+</quest-local>

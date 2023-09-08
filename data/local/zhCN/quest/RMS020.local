@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20620" />
+    <entry Name="Радостные слова" />
+    <entry Conditions="" />
+    <entry Overview="Для получения &lt;I&gt;Курицы гриль&lt;/I&gt; используйте &lt;I&gt;Огниво&lt;/I&gt;, которое вы получили. Затем снова поговорите с \n&lt;D&gt;&lt;L=s08, 5010206&gt;Дочерью Дьявола Йору&lt;/L&gt;&lt;/D&gt;. " />
+</quest-local>

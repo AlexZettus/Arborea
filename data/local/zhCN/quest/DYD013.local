@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="52013" />
+    <entry Name="Пропуск дьявольского ущелья" />
+    <entry Conditions="" />
+    <entry Overview="Поговорите с &lt;D&gt;&lt;Z=m10,8300,4175,42700&gt;Стражем Дьявольского ущелья&lt;/L&gt;&lt;/D&gt; и получите &lt;C&gt;3&lt;/C&gt;&lt;I&gt; пропуска в дьявольское ущелье&lt;/I&gt;" />
+</quest-local>

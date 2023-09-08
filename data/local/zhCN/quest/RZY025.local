@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="40025" />
+    <entry Name="Условия Ромидаи" />
+    <entry Conditions="" />
+    <entry Overview="Уничтожьте &lt;C&gt;50&lt;/C&gt;&lt;D&gt; &lt;L=s07, 1060012&gt;змей-охотников&lt;/L&gt;&lt;/D&gt; и &lt;C&gt;50&lt;/C&gt; \n&lt;D&gt;&lt;L=s07, 1060013&gt;голодных змей&lt;/L&gt;&lt;/D&gt;. Затем вернитесь к \n&lt;D&gt;&lt;L=s02, 5010083&gt;Ромидаю&lt;/L&gt;&lt;/D&gt; и получите камни усиления и руны удачи." />
+</quest-local>

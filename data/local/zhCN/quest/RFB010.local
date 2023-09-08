@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="29010" />
+    <entry Name="Правосудие в Библиотеке-2" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь в &lt;N&gt;&lt;Z=s04, 66229, 20830, 69706&gt;Библиотеку&lt;/Z&gt;&lt;/N&gt;, войдите внутрь, убейте &lt;A&gt;камнестражей&lt;/A&gt; - &lt;C&gt;5&lt;/C&gt;, &lt;A&gt;перевоплотившихся придворных&lt;/A&gt; - &lt;C&gt;5&lt;/C&gt; и &lt;A&gt;перевоплотившихся дев&lt;A&gt; - &lt;C&gt;5&lt;/C&gt;&#xA;. Затем расправьтесь с &lt;A&gt;Астратой Темной Ночью&lt;/A&gt;. После выполнения заданий вернитесь к \n&lt;D&gt;&lt;L=s02, 5010227&gt;Судье Аусвейду&lt;/L&gt;&lt;/D&gt;. &#xA;" />
+</quest-local>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20206" />
+    <entry Name="Образцы заражения" />
+    <entry Conditions="" />
+    <entry Overview="Уничтожай &lt;D&gt;&lt;L=s03,1030005&gt;Одержимых пикси&lt;/L&gt;&lt;/D&gt;, чтобы получить 14 Образцов заражения. После этого возвращайся к &lt;D&gt;&lt;L=s03,5010077&gt;Лесной дриаде&lt;/L&gt;&lt;/D&gt; за наградой." />
+</quest-local>

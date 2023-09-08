@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<root>
+    <awaken id="110001" step="1" type="1" atttype0="8" atttype_value0="2800" atttype1="0" atttype2="0" item="4810134" />
+    <awaken id="110002" step="1" type="1" atttype0="10" atttype_value0="280" atttype1="0" atttype2="0" item="4810134" />
+    <awaken id="110003" step="1" type="1" atttype0="12" atttype_value0="208" atttype1="0" atttype2="0" item="4810134" />
+    <awaken id="110004" step="1" type="1" atttype0="13" atttype_value0="160" atttype1="0" atttype2="0" item="4810134" />
+    <awaken id="110005" step="1" type="1" atttype0="14" atttype_value0="208" atttype1="0" atttype2="0" item="4810134" />
+    <awaken id="110006" step="1" type="1" atttype0="15" atttype_value0="160" atttype1="0" atttype2="0" item="4810134" />
+    <awaken id="110007" step="1" type="1" atttype0="16" atttype_value0="38" atttype1="0" atttype2="0" item="4810134" />
+    <awaken id="110008" step="1" type="1" atttype0="17" atttype_value0="22" atttype1="0" atttype2="0" item="4810134" />
+    <awaken id="110009" step="1" type="1" atttype0="134" atttype_value0="18" atttype1="0" atttype2="0" item="4810134" />
+    <awaken id="110010" step="1" type="1" atttype0="110" atttype_value0="3" atttype1="0" atttype2="0" item="4810134" />
+    <awaken id="110011" step="1" type="1" atttype0="123" atttype_value0="3" atttype1="0" atttype2="0" item="4810134" />
+    <awaken id="110012" step="1" type="1" atttype0="132" atttype_value0="34" atttype1="0" atttype2="0" item="4810134" />
+    <awaken id="110013" step="1" type="1" atttype0="131" atttype_value0="18" atttype1="0" atttype2="0" item="4810134" />
+    <awaken id="110014" step="1" type="1" atttype0="135" atttype_value0="18" atttype1="0" atttype2="0" item="4810134" />
+    <awaken id="110015" step="1" type="1" atttype0="137" atttype_value0="96" atttype1="0" atttype2="0" item="4810134" />
+    <awaken id="110016" step="1" type="1" atttype0="138" atttype_value0="39" atttype1="0" atttype2="0" item="4810134" />
+    <awaken id="110017" step="1" type="1" atttype0="139" atttype_value0="39" atttype1="0" atttype2="0" item="4810134" />
+    <awaken id="110018" step="1" type="1" atttype0="140" atttype_value0="20" atttype1="0" atttype2="0" item="4810134" />
+    <awaken id="110019" step="1" type="1" atttype0="141" atttype_value0="20" atttype1="0" atttype2="0" item="4810134" />
+    <awaken id="110020" step="1" type="1" atttype0="142" atttype_value0="20" atttype1="0" atttype2="0" item="4810134" />
+    <awaken id="110021" step="1" type="1" atttype0="84" atttype_value0="8" atttype1="0" atttype2="0" item="4810134" />
+    <awaken id="110022" step="1" type="1" atttype0="85" atttype_value0="8" atttype1="0" atttype2="0" item="4810134" />
+    <awaken id="110023" step="1" type="1" atttype0="86" atttype_value0="8" atttype1="0" atttype2="0" item="4810134" />
+    <awaken id="110024" step="1" type="1" atttype0="87" atttype_value0="8" atttype1="0" atttype2="0" item="4810134" />
+    <awaken id="110025" step="1" type="1" atttype0="88" atttype_value0="8" atttype1="0" atttype2="0" item="4810134" />
+    <awaken id="110026" step="1" type="1" atttype0="89" atttype_value0="8" atttype1="0" atttype2="0" item="4810134" />
+    <awaken id="110027" step="1" type="1" atttype0="90" atttype_value0="8" atttype1="0" atttype2="0" item="4810134" />
+    <awaken id="110028" step="1" type="1" atttype0="121" atttype_value0="5" atttype1="0" atttype2="0" item="4810134" />
+    <awaken id="110029" step="1" type="1" atttype0="122" atttype_value0="5" atttype1="0" atttype2="0" item="4810134" />
+    <awaken id="110030" step="1" type="1" atttype0="38" atttype_value0="5" atttype1="0" atttype2="0" item="4810134" />
+    <awaken id="110031" step="1" type="1" atttype0="39" atttype_value0="5" atttype1="0" atttype2="0" item="4810134" />
+    <awaken id="110032" step="1" type="1" atttype0="41" atttype_value0="5" atttype1="0" atttype2="0" item="4810134" />
+    <awaken id="110033" step="1" type="1" atttype0="42" atttype_value0="5" atttype1="0" atttype2="0" item="4810134" />
+    <awaken id="110034" step="1" type="1" atttype0="44" atttype_value0="5" atttype1="0" atttype2="0" item="4810134" />
+    <awaken id="110035" step="1" type="1" atttype0="45" atttype_value0="5" atttype1="0" atttype2="0" item="4810134" />
+    <awaken id="110036" step="1" type="1" atttype0="46" atttype_value0="5" atttype1="0" atttype2="0" item="4810134" />
+    <awaken id="110037" step="1" type="1" atttype0="136" atttype_value0="68" atttype1="0" atttype2="0" item="4810134" />
+    <awaken id="120001" step="3" type="1" atttype0="8" atttype_value0="4200" atttype1="0" atttype2="0" item="4810135" />
+    <awaken id="120002" step="3" type="1" atttype0="10" atttype_value0="420" atttype1="0" atttype2="0" item="4810135" />
+    <awaken id="120003" step="3" type="1" atttype0="12" atttype_value0="312" atttype1="0" atttype2="0" item="4810135" />
+    <awaken id="120004" step="3" type="1" atttype0="13" atttype_value0="240" atttype1="0" atttype2="0" item="4810135" />
+    <awaken id="120005" step="3" type="1" atttype0="14" atttype_value0="312" atttype1="0" atttype2="0" item="4810135" />
+    <awaken id="120006" step="3" type="1" atttype0="15" atttype_value0="240" atttype1="0" atttype2="0" item="4810135" />
+    <awaken id="120007" step="3" type="1" atttype0="16" atttype_value0="58" atttype1="0" atttype2="0" item="4810135" />
+    <awaken id="120008" step="3" type="1" atttype0="17" atttype_value0="34" atttype1="0" atttype2="0" item="4810135" />
+    <awaken id="120009" step="3" type="1" atttype0="134" atttype_value0="27" atttype1="0" atttype2="0" item="4810135" />
+    <awaken id="120010" step="3" type="1" atttype0="110" atttype_value0="5" atttype1="0" atttype2="0" item="4810135" />
+    <awaken id="120011" step="3" type="1" atttype0="123" atttype_value0="5" atttype1="0" atttype2="0" item="4810135" />
+    <awaken id="120012" step="3" type="1" atttype0="132" atttype_value0="50" atttype1="0" atttype2="0" item="4810135" />
+    <awaken id="120013" step="3" type="1" atttype0="131" atttype_value0="26" atttype1="0" atttype2="0" item="4810135" />
+    <awaken id="120014" step="3" type="1" atttype0="135" atttype_value0="26" atttype1="0" atttype2="0" item="4810135" />
+    <awaken id="120015" step="3" type="1" atttype0="137" atttype_value0="144" atttype1="0" atttype2="0" item="4810135" />
+    <awaken id="120016" step="3" type="1" atttype0="138" atttype_value0="58" atttype1="0" atttype2="0" item="4810135" />
+    <awaken id="120017" step="3" type="1" atttype0="142" atttype_value0="58" atttype1="0" atttype2="0" item="4810135" />
+    <awaken id="120018" step="3" type="1" atttype0="140" atttype_value0="29" atttype1="0" atttype2="0" item="4810135" />
+    <awaken id="120019" step="3" type="1" atttype0="141" atttype_value0="29" atttype1="0" atttype2="0" item="4810135" />
+    <awaken id="120020" step="3" type="1" atttype0="142" atttype_value0="29" atttype1="0" atttype2="0" item="4810135" />
+    <awaken id="120021" step="3" type="1" atttype0="84" atttype_value0="10" atttype1="0" atttype2="0" item="4810135" />
+    <awaken id="120022" step="3" type="1" atttype0="85" atttype_value0="10" atttype1="0" atttype2="0" item="4810135" />
+    <awaken id="120023" step="3" type="1" atttype0="86" atttype_value0="10" atttype1="0" atttype2="0" item="4810135" />
+    <awaken id="120024" step="3" type="1" atttype0="87" atttype_value0="10" atttype1="0" atttype2="0" item="4810135" />
+    <awaken id="120025" step="3" type="1" atttype0="88" atttype_value0="10" atttype1="0" atttype2="0" item="4810135" />
+    <awaken id="120026" step="3" type="1" atttype0="89" atttype_value0="10" atttype1="0" atttype2="0" item="4810135" />
+    <awaken id="120027" step="3" type="1" atttype0="90" atttype_value0="10" atttype1="0" atttype2="0" item="4810135" />
+    <awaken id="120028" step="3" type="1" atttype0="121" atttype_value0="8" atttype1="0" atttype2="0" item="4810135" />
+    <awaken id="120029" step="3" type="1" atttype0="122" atttype_value0="8" atttype1="0" atttype2="0" item="4810135" />
+    <awaken id="120030" step="3" type="1" atttype0="38" atttype_value0="8" atttype1="0" atttype2="0" item="4810135" />
+    <awaken id="120031" step="3" type="1" atttype0="39" atttype_value0="8" atttype1="0" atttype2="0" item="4810135" />
+    <awaken id="120032" step="3" type="1" atttype0="41" atttype_value0="8" atttype1="0" atttype2="0" item="4810135" />
+    <awaken id="120033" step="3" type="1" atttype0="42" atttype_value0="8" atttype1="0" atttype2="0" item="4810135" />
+    <awaken id="120034" step="3" type="1" atttype0="44" atttype_value0="8" atttype1="0" atttype2="0" item="4810135" />
+    <awaken id="120035" step="3" type="1" atttype0="45" atttype_value0="8" atttype1="0" atttype2="0" item="4810135" />
+    <awaken id="120036" step="3" type="1" atttype0="46" atttype_value0="8" atttype1="0" atttype2="0" item="4810135" />
+    <awaken id="120037" step="3" type="1" atttype0="136" atttype_value0="100" atttype1="0" atttype2="0" item="4810135" />
+    <awaken id="130001" step="2" type="1" atttype0="8" atttype_value0="10500" atttype1="0" atttype2="0" />
+    <awaken id="130002" step="2" type="1" atttype0="10" atttype_value0="1050" atttype1="0" atttype2="0" />
+    <awaken id="130003" step="2" type="1" atttype0="12" atttype_value0="780" atttype1="0" atttype2="0" />
+    <awaken id="130004" step="2" type="1" atttype0="13" atttype_value0="600" atttype1="0" atttype2="0" />
+    <awaken id="130005" step="2" type="1" atttype0="14" atttype_value0="780" atttype1="0" atttype2="0" />
+    <awaken id="130006" step="2" type="1" atttype0="15" atttype_value0="600" atttype1="0" atttype2="0" />
+    <awaken id="130007" step="2" type="1" atttype0="16" atttype_value0="144" atttype1="0" atttype2="0" />
+    <awaken id="130008" step="2" type="1" atttype0="17" atttype_value0="84" atttype1="0" atttype2="0" />
+    <awaken id="130009" step="2" type="1" atttype0="134" atttype_value0="66" atttype1="0" atttype2="0" />
+    <awaken id="130010" step="2" type="1" atttype0="110" atttype_value0="9" atttype1="0" atttype2="0" />
+    <awaken id="130011" step="2" type="1" atttype0="123" atttype_value0="9" atttype1="0" atttype2="0" />
+    <awaken id="130012" step="2" type="1" atttype0="132" atttype_value0="126" atttype1="0" atttype2="0" />
+    <awaken id="130013" step="2" type="1" atttype0="131" atttype_value0="66" atttype1="0" atttype2="0" />
+    <awaken id="130014" step="2" type="1" atttype0="135" atttype_value0="66" atttype1="0" atttype2="0" />
+    <awaken id="130015" step="2" type="1" atttype0="137" atttype_value0="360" atttype1="0" atttype2="0" />
+    <awaken id="130016" step="2" type="1" atttype0="138" atttype_value0="144" atttype1="0" atttype2="0" />
+    <awaken id="130017" step="2" type="1" atttype0="139" atttype_value0="144" atttype1="0" atttype2="0" />
+    <awaken id="130018" step="2" type="1" atttype0="140" atttype_value0="72" atttype1="0" atttype2="0" />
+    <awaken id="130019" step="2" type="1" atttype0="141" atttype_value0="72" atttype1="0" atttype2="0" />
+    <awaken id="130020" step="2" type="1" atttype0="142" atttype_value0="72" atttype1="0" atttype2="0" />
+    <awaken id="130021" step="2" type="1" atttype0="84" atttype_value0="24" atttype1="0" atttype2="0" />
+    <awaken id="130022" step="2" type="1" atttype0="85" atttype_value0="24" atttype1="0" atttype2="0" />
+    <awaken id="130023" step="2" type="1" atttype0="86" atttype_value0="24" atttype1="0" atttype2="0" />
+    <awaken id="130024" step="2" type="1" atttype0="87" atttype_value0="24" atttype1="0" atttype2="0" />
+    <awaken id="130025" step="2" type="1" atttype0="88" atttype_value0="24" atttype1="0" atttype2="0" />
+    <awaken id="130026" step="2" type="1" atttype0="89" atttype_value0="24" atttype1="0" atttype2="0" />
+    <awaken id="130027" step="2" type="1" atttype0="90" atttype_value0="24" atttype1="0" atttype2="0" />
+    <awaken id="130028" step="2" type="1" atttype0="121" atttype_value0="18" atttype1="0" atttype2="0" />
+    <awaken id="130029" step="2" type="1" atttype0="122" atttype_value0="18" atttype1="0" atttype2="0" />
+    <awaken id="130030" step="2" type="1" atttype0="38" atttype_value0="18" atttype1="0" atttype2="0" />
+    <awaken id="130031" step="2" type="1" atttype0="39" atttype_value0="18" atttype1="0" atttype2="0" />
+    <awaken id="130032" step="2" type="1" atttype0="41" atttype_value0="18" atttype1="0" atttype2="0" />
+    <awaken id="130033" step="2" type="1" atttype0="42" atttype_value0="18" atttype1="0" atttype2="0" />
+    <awaken id="130034" step="2" type="1" atttype0="44" atttype_value0="18" atttype1="0" atttype2="0" />
+    <awaken id="130035" step="2" type="1" atttype0="45" atttype_value0="18" atttype1="0" atttype2="0" />
+    <awaken id="130036" step="2" type="1" atttype0="46" atttype_value0="18" atttype1="0" atttype2="0" />
+    <awaken id="130037" step="2" type="1" atttype0="136" atttype_value0="252" atttype1="0" atttype2="0" />
+    <awaken id="140001" step="4" type="1" atttype0="8" atttype_value0="15750" atttype1="0" atttype2="0" />
+    <awaken id="140002" step="4" type="1" atttype0="10" atttype_value0="1575" atttype1="0" atttype2="0" />
+    <awaken id="140003" step="4" type="1" atttype0="12" atttype_value0="1170" atttype1="0" atttype2="0" />
+    <awaken id="140004" step="4" type="1" atttype0="13" atttype_value0="900" atttype1="0" atttype2="0" />
+    <awaken id="140005" step="4" type="1" atttype0="14" atttype_value0="1170" atttype1="0" atttype2="0" />
+    <awaken id="140006" step="4" type="1" atttype0="15" atttype_value0="900" atttype1="0" atttype2="0" />
+    <awaken id="140007" step="4" type="1" atttype0="16" atttype_value0="216" atttype1="0" atttype2="0" />
+    <awaken id="140008" step="4" type="1" atttype0="17" atttype_value0="126" atttype1="0" atttype2="0" />
+    <awaken id="140009" step="4" type="1" atttype0="134" atttype_value0="99" atttype1="0" atttype2="0" />
+    <awaken id="140010" step="4" type="1" atttype0="110" atttype_value0="14" atttype1="0" atttype2="0" />
+    <awaken id="140011" step="4" type="1" atttype0="123" atttype_value0="14" atttype1="0" atttype2="0" />
+    <awaken id="140012" step="4" type="1" atttype0="132" atttype_value0="189" atttype1="0" atttype2="0" />
+    <awaken id="140013" step="4" type="1" atttype0="131" atttype_value0="99" atttype1="0" atttype2="0" />
+    <awaken id="140014" step="4" type="1" atttype0="135" atttype_value0="99" atttype1="0" atttype2="0" />
+    <awaken id="140015" step="4" type="1" atttype0="137" atttype_value0="540" atttype1="0" atttype2="0" />
+    <awaken id="140016" step="4" type="1" atttype0="138" atttype_value0="216" atttype1="0" atttype2="0" />
+    <awaken id="140017" step="4" type="1" atttype0="139" atttype_value0="216" atttype1="0" atttype2="0" />
+    <awaken id="140018" step="4" type="1" atttype0="140" atttype_value0="108" atttype1="0" atttype2="0" />
+    <awaken id="140019" step="4" type="1" atttype0="141" atttype_value0="108" atttype1="0" atttype2="0" />
+    <awaken id="140020" step="4" type="1" atttype0="142" atttype_value0="108" atttype1="0" atttype2="0" />
+    <awaken id="140021" step="4" type="1" atttype0="84" atttype_value0="36" atttype1="0" atttype2="0" />
+    <awaken id="140022" step="4" type="1" atttype0="85" atttype_value0="36" atttype1="0" atttype2="0" />
+    <awaken id="140023" step="4" type="1" atttype0="86" atttype_value0="36" atttype1="0" atttype2="0" />
+    <awaken id="140024" step="4" type="1" atttype0="87" atttype_value0="36" atttype1="0" atttype2="0" />
+    <awaken id="140025" step="4" type="1" atttype0="88" atttype_value0="36" atttype1="0" atttype2="0" />
+    <awaken id="140026" step="4" type="1" atttype0="89" atttype_value0="36" atttype1="0" atttype2="0" />
+    <awaken id="140027" step="4" type="1" atttype0="90" atttype_value0="36" atttype1="0" atttype2="0" />
+    <awaken id="140028" step="4" type="1" atttype0="121" atttype_value0="27" atttype1="0" atttype2="0" />
+    <awaken id="140029" step="4" type="1" atttype0="122" atttype_value0="27" atttype1="0" atttype2="0" />
+    <awaken id="140030" step="4" type="1" atttype0="38" atttype_value0="27" atttype1="0" atttype2="0" />
+    <awaken id="140031" step="4" type="1" atttype0="39" atttype_value0="27" atttype1="0" atttype2="0" />
+    <awaken id="140032" step="4" type="1" atttype0="41" atttype_value0="27" atttype1="0" atttype2="0" />
+    <awaken id="140033" step="4" type="1" atttype0="42" atttype_value0="27" atttype1="0" atttype2="0" />
+    <awaken id="140034" step="4" type="1" atttype0="44" atttype_value0="27" atttype1="0" atttype2="0" />
+    <awaken id="140035" step="4" type="1" atttype0="45" atttype_value0="27" atttype1="0" atttype2="0" />
+    <awaken id="140036" step="4" type="1" atttype0="46" atttype_value0="27" atttype1="0" atttype2="0" />
+    <awaken id="140037" step="4" type="1" atttype0="136" atttype_value0="378" atttype1="0" atttype2="0" />
+</root>

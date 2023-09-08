@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20408" />
+    <entry Name="Изгнать Привидение" />
+    <entry Conditions="" />
+    <entry Overview="Войдите в &lt;N&gt;Пещеру Света&lt;/N&gt; и убейте по &lt;C&gt;25&lt;/C&gt; \n&lt;A&gt;&lt;L=d05, 1050010&gt;привидений-силачей&lt;/L&gt;&lt;/A&gt;, \n\n&lt;A&gt;&lt;L=d05, 1050011&gt;привидений-дикарок&lt;/L&gt;&lt;/A&gt;, \n\n&lt;A&gt;&lt;L=d05, 1050013&gt;привидений-ассасинов&lt;/L&gt;&lt;/A&gt; \nи \n&lt;A&gt;&lt;L=d05, 1050012&gt;привидений-колдунов&lt;/L&gt;&lt;/A&gt;. Затем вернитесь к \n&lt;D&gt;&lt;L=s06, 5010101&gt;повелителю битвы Битти.&lt;/L&gt;&lt;/D&gt;&#xA; \n&lt;color=0xffff0000&gt;&lt;color=0xffffffff&gt;\n&#x0A;\n " />
+</quest-local>

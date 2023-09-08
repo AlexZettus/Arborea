@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20603" />
+    <entry Name="Ответы призрачного бога" />
+    <entry Conditions="" />
+    <entry Overview="Поговорите с &lt;D&gt;&lt;L=s08,5010205&gt;повелителем мудрости Очилом&lt;/L&gt;&lt;/D&gt; вновь." />
+</quest-local>

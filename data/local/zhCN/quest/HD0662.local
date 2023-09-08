@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30662" />
+    <entry Name="Непримиримые войны Сноулэнда" />
+    <entry Conditions="" />
+    <entry Overview="В &lt;N&gt;&lt;Z=s07, 78266, 5730, 99098&gt;Замке теней&lt;/Z&gt;&lt;/N&gt; расправьтесь с &lt;A&gt;Безрассудным Альтой&lt;/A&gt;, &lt;A&gt;Охранником Тайноземья&lt;/A&gt; и &lt;A&gt;Нитери Алой феей&lt;/A&gt;. Затем поговорите со \n&lt;D&gt;&lt;L=s02, 5600011&gt;Снегулой&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

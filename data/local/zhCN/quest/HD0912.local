@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30912" />
+    <entry Name="Уста влюбленных" />
+    <entry Conditions="" />
+    <entry Overview="Возьмите &lt;I&gt;Карту поцелуя&lt;/I&gt;, поцелуйтесь 5 раз и получите за это 5&lt;I&gt;Влюбленных уст&lt;/I&gt;отнесити их в Ромен&lt;M&gt;&lt;L=s61,5610095&gt;Купидону&lt;/L&gt;&lt;/M&gt;\nЕсли на вас действует эффект 'Нежный поцелуй', то тогда невозможно получить&lt;I&gt;Влюбленные уста&lt;/I&gt;" />
+</quest-local>

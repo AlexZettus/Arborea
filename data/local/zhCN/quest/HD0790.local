@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30790" />
+    <entry Name="Обработка кристалла гнева" />
+    <entry Conditions="" />
+    <entry Overview="Соберите &lt;C&gt;1&lt;/C&gt; &lt;I&gt;Кристалл гнева &lt;/I&gt; и &lt;C&gt;55&lt;/C&gt; ед. &lt;I&gt;Необработанной руды&lt;/I&gt;. &lt;D&gt;&lt;Z=s02,25250,23510,37950&gt;Призыватель Джесс&lt;/Z&gt;&lt;/D&gt; создаст с помощью этих ресурсов &lt;I&gt;Волчий свисток&lt;/I&gt;. Этот предмет позволит вам призвать &lt;I&gt;Сбежавшего волка&lt;/I&gt;." />
+</quest-local>

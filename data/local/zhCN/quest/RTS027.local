@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="50027" />
+    <entry Name="Отношения" />
+    <entry Conditions="" />
+    <entry Overview="Соберите 3 &lt;M&gt;пути дружбы&lt;/M&gt; и отнесите их \n&lt;D&gt;&lt;L=s04, 5010200&gt;Бхадо&lt;/L&gt;&lt;/D&gt;.  Вы можете получить &lt;M&gt;путь дружбы&lt;/M&gt; даря друзьям &lt;M&gt;камни дружбы&lt;/M&gt;. Камни дружбы добываются у &lt;A&gt;гигантских каменных братьев&lt;/A&gt; в Долине Грома.&#xA;" />
+</quest-local>

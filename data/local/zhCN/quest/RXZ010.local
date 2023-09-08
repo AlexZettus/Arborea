@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20410" />
+    <entry Name="Уйти в Каменный город" />
+    <entry Conditions="" />
+    <entry Overview="Повысьте свой уровень до &lt;C&gt;58&lt;/C&gt;. Затем отправляйтесь в &lt;N&gt;Каменный город&lt;/N&gt; и найдите &lt;D&gt;&lt;L=s06, 5010102&gt;Барцеля&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

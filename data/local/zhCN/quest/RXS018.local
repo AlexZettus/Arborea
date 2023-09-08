@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20018" />
+    <entry Name="Тарио" />
+    <entry Conditions="" />
+    <entry Overview="Через портал на юго-востоке вы можете попасть в &lt;N&gt;Тарио&lt;/N&gt;. Найдите &lt;D&gt;&lt;L=s02,5010026&gt;Синиду&lt;/L&gt;&lt;/D&gt; после прибытия - она скажет, что делать дальше.\n&#x0A;\n&lt;S&gt;[Ур. 10]&lt;/S&gt;Конкурс знаний: достигнув 10 Ур., вы можете участвовать в &lt;P&gt;Конкурсе знаний.&lt;/P&gt;\n&#x0A;\n" />
+</quest-local>

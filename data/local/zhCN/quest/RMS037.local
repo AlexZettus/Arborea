@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20637" />
+    <entry Name="Грозная призрачная стрела" />
+    <entry Conditions="" />
+    <entry Overview="Убейте &lt;C&gt;50&lt;/C&gt; &lt;color=0xffff6000&gt;&lt;L=s08, 1070059&gt;безумных демонов-последователей&lt;/L&gt;&lt;color=0xffffffff&gt; и \n&lt;C&gt;1&lt;/C&gt; &lt;color=0xffff0000&gt;&lt;L=s08, 1070080&gt;призрачную стрелу&lt;/L&gt;&lt;color=0xffffffff&gt;. Затем вернитесь к &lt;D&gt;&lt;L=s08, 5010209&gt;Ротту&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

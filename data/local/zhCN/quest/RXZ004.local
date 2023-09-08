@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20404" />
+    <entry Name="Новые горизонты" />
+    <entry Conditions="" />
+    <entry Overview="Обратитесь к &lt;D&gt;&lt;L=s06, 5010101&gt;Повелителю битвы Битти&lt;/L&gt;&lt;/D&gt;, чтобы получить новые задания." />
+</quest-local>

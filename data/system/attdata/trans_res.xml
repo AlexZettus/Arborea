@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<trans id="1" face="UW3_face" hat="UW3_hat" upper="UW3_upper" lower="UW3_lower" glove_r="UW3_r_glove" glove_l="UW3_l_glove" boot="UW3_boot"/>
+	<trans id="2" face="UW3_face" hat="SFT19_hat" upper="SFY19_upper" lower="SFK19_lower" glove_r="SFW19_r_glove" glove_l="SFW19_l_glove" boot="SFX19_boot"/>
+	<trans id="3" face="UW3_face" hat="CSBT02_hat" upper="CSBY02_upper" lower="CSBK02_lower" glove_r="CSBW02_r_glove" glove_l="CSBW02_l_glove" boot="CSBX02_boot"/>
+	<trans id="4" face="UW3_face" hat="gm_hat" upper="gm_upper" lower="gm_lower" glove_r="gm_r_glove" glove_l="gm_l_glove" boot="gm_boot"/>
+	<trans id="5" face="UW3_face" hat="gf_hat" upper="gf_upper" lower="gf_lower" glove_r="gf_r_glove" glove_l="gf_l_glove" boot="gf_boot"/>
+</root>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20652" />
+    <entry Name="Вымирание клана жрецов" />
+    <entry Conditions="" />
+    <entry Overview="Убейте &lt;color=0xffff0000&gt;&lt;L=d08, 1070086&gt;небесного посредника&lt;/L&gt;&lt;color=0xffffffff&gt; и \n&lt;color=0xffff0000&gt;&lt;L=d08, 1070087&gt;левого небесного глашатая&lt;/L&gt;&lt;color=0xffffffff&gt;. Затем вернитесь к \n&lt;D&gt;&lt;L=s08, 5010210&gt;Уолтеру&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20516" />
+    <entry Name="Зефф из падших потомков" />
+    <entry Conditions="" />
+    <entry Overview="Достигнув &lt;C&gt;76&lt;/C&gt; уровня, отправляйтесь в &lt;N&gt;Холмы Раксанга&lt;/N&gt; и поговорите с &lt;D&gt;&lt;L=s07, 5010203&gt;Зефф&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

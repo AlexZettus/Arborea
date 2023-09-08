@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20318" />
+    <entry Name="Главный хранитель неба" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь на юг &lt;N&gt;Долины белого Дракона&lt;/N&gt; и убейте &lt;A&gt;&lt;L=s05, 1040044&gt;генерала Кайла&lt;/L&gt;&lt;/A&gt;. Вернитесь к &lt;D&gt;&lt;L=s05, 5010092&gt;Саэшу&lt;/L&gt;&lt;/D&gt; после завершения задания." />
+</quest-local>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20507" />
+    <entry Name="Появление жрецов" />
+    <entry Conditions="" />
+    <entry Overview="Исследуйте &lt;M&gt;&lt;L=s07, 6010021&gt;алтарь&lt;/L&gt;&lt;/M&gt; на &lt;N&gt;Древней Чайной горе&lt;/N&gt;. Дождитесь появления &lt;A&gt;жреца-колдуна&lt;/A&gt; и убейте его. Затем вернитесь к &lt;D&gt;&lt;L=s07, 5010165&gt;Иросаю&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20510" />
+    <entry Name="Змеиные неприятности" />
+    <entry Conditions="" />
+    <entry Overview="Убейте по &lt;C&gt;45&lt;/C&gt; &lt;A&gt;&lt;L=s07, 1060012&gt;змей-охотников&lt;/L&gt;&lt;/A&gt; и &lt;A&gt;&lt;L=s07, 1060013&gt;голодных змей&lt;/L&gt;&lt;/A&gt;, а затем вернитесь к &lt;D&gt;&lt;L=s07, 5010166&gt;Монару&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

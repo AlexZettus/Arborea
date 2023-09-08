@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+ <entry ID="30114" />
+ <entry Name="Колесо Судьбы 5" />
+ <entry Conditions="" />
+ <entry Overview="Отнесите <C>90</C> <I>Жемчужин</I> и <C>5</C> <I>Свитков судьбы</I> Стражу Колеса судьбы. Вы можете обменять их на <C>5</C> <color=0xffff80ff>Колес судьбы<color=0xffffffff>.\n<I>Жемчужины </I> выпадают из монстров, а <I>Свитки судьбы</I> можно купить в премиум-магазине." />
+</quest-local>

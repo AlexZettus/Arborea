@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="52002" />
+    <entry Name="Встречный бой на воде" />
+    <entry Conditions="" />
+    <entry Overview="Ненавистные пираты оккупировали наш военный корабль，скорее устраните их，выручите тяжелораненого капитана！" />
+</quest-local>

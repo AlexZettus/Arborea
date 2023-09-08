@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20216" />
+    <entry Name="Потерянная игрушка" />
+    <entry Conditions="" />
+    <entry Overview="Поговори с &lt;D&gt;&lt;L=s03,5010022&gt;Грибником&lt;/L&gt;&lt;/D&gt;, &lt;D&gt;&lt;L=s03,5010031&gt;Путником&lt;/L&gt;&lt;/D&gt; и &lt;D&gt;&lt;L=s03,5010021&gt;Стражем Теоса&lt;/L&gt;&lt;/D&gt;, чтобы найти потерянную игрушку." />
+</quest-local>

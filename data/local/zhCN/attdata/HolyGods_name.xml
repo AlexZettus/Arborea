@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<root>
+    <holygods id="9800001" name="Дух Наньдо" SeniorNomber="0" model_1="SL01_2" model_2="SL01_2" size="100" icon1="TSL01_2" icon2="TSL01_2" />
+    <holygods id="9800002" name="Дух Корради" SeniorNomber="0" model_1="SL02_2" model_2="SL02_2" size="100" icon1="TSL02_2" icon2="TSL02_2" />
+    <holygods id="9800003" name="Дух Тайси" SeniorNomber="0" model_1="SL03_2" model_2="SL03_2" size="100" icon1="TSL03_2" icon2="TSL03_2" />
+    <holygods id="9800004" name="Дух Доллис" SeniorNomber="0" model_1="SL04_2" model_2="SL04_2" size="100" icon1="TSL04_2" icon2="TSL04_2" />
+    <holygods id="9800101" name="Дух Наньдо [1 дн.]" SeniorNomber="0" model_1="SL01_2" model_2="SL01_2" size="100" icon1="TSL01_2" icon2="TSL01_2" />
+    <holygods id="9800102" name="Дух Корради [1 дн.]" SeniorNomber="0" model_1="SL02_2" model_2="SL02_2" size="100" icon1="TSL02_2" icon2="TSL02_2" />
+    <holygods id="9800103" name="Дух Тайси [1 дн.]" SeniorNomber="0" model_1="SL03_2" model_2="SL03_2" size="100" icon1="TSL03_2" icon2="TSL03_2" />
+    <holygods id="9800104" name="Дух Доллис [1 дн.]" SeniorNomber="0" model_1="SL04_2" model_2="SL04_2" size="100" icon1="TSL04_2" icon2="TSL04_2" />
+    <holygods id="9800111" name="Дух Наньдо [3 дн.]" SeniorNomber="0" model_1="SL01_2" model_2="SL01_2" size="100" icon1="TSL01_2" icon2="TSL01_2" />
+    <holygods id="9800112" name="Дух Корради [3 дн.]" SeniorNomber="0" model_1="SL02_2" model_2="SL02_2" size="100" icon1="TSL02_2" icon2="TSL02_2" />
+    <holygods id="9800113" name="Дух Тайси [3 дн.]" SeniorNomber="0" model_1="SL03_2" model_2="SL03_2" size="100" icon1="TSL03_2" icon2="TSL03_2" />
+    <holygods id="9800114" name="Дух Доллис [3 дн.]" SeniorNomber="0" model_1="SL04_2" model_2="SL04_2" size="100" icon1="TSL04_2" icon2="TSL04_2" />
+    <holygods id="9800201" name="Дух Наньдо (бешеный) [1 дн.]" SeniorNomber="0" model_1="SL01_2" model_2="SL01_2" size="100" icon1="TSL01_2" icon2="TSL01_2" />
+    <holygods id="9800202" name="Дух Корради (бешеный) [1 дн.]" SeniorNomber="0" model_1="SL02_2" model_2="SL02_2" size="100" icon1="TSL02_2" icon2="TSL02_2" />
+    <holygods id="9800203" name="Дух Тайси (бешеный)9800 [1 дн.]" SeniorNomber="0" model_1="SL03_2" model_2="SL03_2" size="100" icon1="TSL03_2" icon2="TSL03_2" />
+    <holygods id="9800204" name="Дух Доллис (бешеный) [1 дн.]" SeniorNomber="0" model_1="SL04_2" model_2="SL04_2" size="100" icon1="TSL04_2" icon2="TSL04_2" />
+    <holygods id="9800211" name="Дух Наньдо (бешеный) [3 дн.]" SeniorNomber="0" model_1="SL01_2" model_2="SL01_2" size="100" icon1="TSL01_2" icon2="TSL01_2" />
+    <holygods id="9800212" name="Дух Корради (бешеный) [3 дн.]" SeniorNomber="0" model_1="SL02_2" model_2="SL02_2" size="100" icon1="TSL02_2" icon2="TSL02_2" />
+    <holygods id="9800213" name="Дух Тайси (бешеный) [3 дн.]" SeniorNomber="0" model_1="SL03_2" model_2="SL03_2" size="100" icon1="TSL03_2" icon2="TSL03_2" />
+    <holygods id="9800214" name="Дух Доллис (бешеный) [3 дн.]" SeniorNomber="0" model_1="SL04_2" model_2="SL04_2" size="100" icon1="TSL04_2" icon2="TSL04_2" />
+	<holygods id="9800215" name="Дух Микаэла [7 дн.]" SeniorNomber="0" model_1="SL06_2" model_2="SL06_2" size="100" icon1="TSL06_1" icon2="TSL06_2" />
+	<holygods id="9800216" name="Дух Доллис [7 дн.]" SeniorNomber="0" model_1="SL04_2" model_2="SL04_2" size="100" icon1="TSL04_2" icon2="TSL04_2" />
+	<holygods id="9800217" name="Дух Корради [7 дн.]" SeniorNomber="0" model_1="SL02_2" model_2="SL02_2" size="100" icon1="TSL02_2" icon2="TSL02_2" />
+	<holygods id="9800218" name="Дух Наньдо (бешеный) [4 дн.]" SeniorNomber="0" model_1="SL01_2" model_2="SL01_2" size="100" icon1="TSL01_2" icon2="TSL01_2" />
+    <holygods id="9800219" name="Дух Корради (бешеный) [4 дн.]" SeniorNomber="0" model_1="SL02_2" model_2="SL02_2" size="100" icon1="TSL02_2" icon2="TSL02_2" />
+    <holygods id="9800220" name="Дух Тайси (бешеный) [4 дн.]" SeniorNomber="0" model_1="SL03_2" model_2="SL03_2" size="100" icon1="TSL03_2" icon2="TSL03_2" />
+    <holygods id="9800221" name="Дух Доллис (бешеный) [4 дн.]" SeniorNomber="0" model_1="SL04_2" model_2="SL04_2" size="100" icon1="TSL04_2" icon2="TSL04_2" />
+	<holygods id="9800222" name="Рыцарь правосудия Алнар" SeniorNomber="0" model_1="soul2" model_2="soul2" size="140" icon1="soul2_ico" icon2="soul2_ico" />
+    <holygods id="9800901" name="Дух Наньдо" SeniorNomber="0" model_1="SL01_2" model_2="SL01_2" size="100" icon1="TSL01_2" icon2="TSL01_2" />
+    <holygods id="9800902" name="Дух Корради" SeniorNomber="0" model_1="SL02_2" model_2="SL02_2" size="100" icon1="TSL02_2" icon2="TSL02_2" />
+    <holygods id="9800903" name="Дух Тайси" SeniorNomber="0" model_1="SL03_2" model_2="SL03_2" size="100" icon1="TSL03_2" icon2="TSL03_2" />
+    <holygods id="9800904" name="Дух Доллис" SeniorNomber="0" model_1="SL04_2" model_2="SL04_2" size="100" icon1="TSL04_2" icon2="TSL04_2" />
+    <holygods id="9800301" name="Дух Наньдо" SeniorNomber="0" model_1="SL01_2" model_2="SL01_2" size="100" icon1="TSL01_2" icon2="TSL01_2" />
+    <holygods id="9800302" name="Дух Корради" SeniorNomber="0" model_1="SL02_2" model_2="SL02_2" size="100" icon1="TSL02_2" icon2="TSL02_2" />
+    <holygods id="9800303" name="Дух Тайси" SeniorNomber="0" model_1="SL03_2" model_2="SL03_2" size="100" icon1="TSL03_2" icon2="TSL03_2" />
+    <holygods id="9800304" name="Дух Доллис" SeniorNomber="0" model_1="SL04_2" model_2="SL04_2" size="100" icon1="TSL04_2" icon2="TSL04_2" />
+	<holygods id="9800404" name="Дух божественного света Микаэла" SeniorNomber="0" model_1="SL06_2" model_2="SL06_2" size="100" icon1="TSL06_1" icon2="TSL06_2" />
+    <holygods id="9800405" name="Демон Микал" SeniorNomber="0" model_1="SL05_2" model_2="SL05_2" size="100" icon1="TSL05_1" icon2="TSL05_2" />
+	<holygods id="9899900" name="Лесной дух Мирта" SeniorNomber="0" model_1="SL08_1" model_2="SL08_1" size="100" icon1="sl08_ico" icon2="sl08_ico" />
+    <holygods id="9899901" name="Хранитель бездны Асмодей" SeniorNomber="0" model_1="SL07_1" model_2="SL07_1" size="30" icon1="sl07_ico" icon2="sl07_ico" />
+	<holygods id="9899902" name="Дух войны Градозор" SeniorNomber="0" model_1="warsoul" model_2="warsoul" size="100" icon1="warsoul_ico" icon2="warsoul_ico" />
+	<holygods id="9990001" name="Ледяной страж Адриэль" SeniorNomber="0" model_1="snowsoul" model_2="snowsoul" size="140" icon1="snowsoul_ico" icon2="snowsoul_ico" />
+	<holygods id="9990002" name="Страж праздника Илура" SeniorNomber="0" model_1="sl_hb1" model_2="sl_hb1" size="140" icon1="sl_hb1_ico" icon2="sl_hb1_ico" />
+	<holygods id="9990003" name="Дух вечности Харон" SeniorNomber="0" model_1="sl_hb2" model_2="sl_hb2" size="98" icon1="sl_hb2_ico" icon2="sl_hb2_ico" />
+	<holygods id="9990004" name="Ядовитый цветок Матильда" SeniorNomber="0" model_1="ps01" model_2="ps01" size="140" icon1="ps01_ico" icon2="ps01_ico" />
+	<holygods id="9990005" name="Морозная царица Зельда" SeniorNomber="0" model_1="zelda" model_2="zelda" size="140" icon1="zelda" icon2="zelda" />
+	<holygods id="9990006" name="Кровавая графиня Элиза" SeniorNomber="0" model_1="soul1" model_2="soul1" size="140" icon1="soul1" icon2="soul1" />
+	<holygods id="9990007" name="Ледяная дева Адель" SeniorNomber="0" model_1="adelsoul" model_2="adelsoul" size="140" icon1="adelsoul" icon2="adelsoul" />
+	<holygods id="9990008" name="Пустынный дух Клеопатра" SeniorNomber="0" model_1="egsoul" model_2="egsoul" size="140" icon1="egsoul_ico" icon2="egsoul_ico" />
+	<holygods id="9990009" name="Ангел мести Алеста" SeniorNomber="0" model_1="gothic" model_2="gothic" size="140" icon1="gothic_ico" icon2="gothic_ico" />
+	<holygods id="9990010" name="Рыцарь правосудия Алнар" SeniorNomber="0" model_1="soul2" model_2="soul2" size="140" icon1="soul2_ico" icon2="soul2_ico" />
+	<holygods id="9990011" name="Палач судного дня Риоку" SeniorNomber="0" model_1="ada" model_2="ada" size="105" icon1="ada_item" icon2="ada_item" />
+	<holygods id="9990012" name="Призрачный дух Китана" SeniorNomber="0" model_1="aka" model_2="aka" size="105" icon1="aka_ico" icon2="aka_ico" />
+	<holygods id="9990013" name="Морозный дух София" SeniorNomber="0" model_1="sofia" model_2="sofia" size="100" icon1="sofia_ico" icon2="sofia_ico" />
+	<holygods id="9990014" name="Легендарная Бьянка" SeniorNomber="0" model_1="spirit1" model_2="spirit1" size="100" icon1="bjanka_ico" icon2="bjanka_ico" />
+	<holygods id="9990015" name="Страж Темной Башни Абигор" SeniorNomber="0" model_1="am0036_2" model_2="am0036_2" size="100" icon1="soul3_ico" icon2="soul3_ico" />
+	<holygods id="9990016" name="Ночная фурия Катаплексия" SeniorNomber="0" model_1="am0022_1" model_2="am0022_1" size="115" icon1="am0022_1_ico" icon2="am0022_1_ico" />
+</root>

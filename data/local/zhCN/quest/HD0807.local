@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30807" />
+    <entry Name="Опыт путешестенникаIII" />
+    <entry Conditions="Собрав 2000 опыта" />
+    <entry Overview="Убивайте в Логове зверя &lt;A&gt;демонических вождей&lt;/A&gt;, а в Вечном аду &lt;A&gt;королей-призраков&lt;/A&gt;, чтобы заработать опыт.\nСобрав &lt;C&gt;2000&lt;/C&gt; ед. опыта, сдайте задание &lt;D&gt;заведующему операциями.&lt;/D" />
+</quest-local>

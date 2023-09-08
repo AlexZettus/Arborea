@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30687" />
+    <entry Name="Проклятая ветчина!" />
+    <entry Conditions="" />
+    <entry Overview="&lt;D&gt;Индюшиный повелитель&lt;/D&gt; терпеть не может ветчину. Уничтожьте в &lt;N&gt;Южных Топях&lt;/N&gt; &lt;A&gt;ветчину-девилиона&lt;/A&gt; или &lt;A&gt;гигантскую ветчину&lt;/A&gt;. Затем вернитесь к \n&lt;D&gt;&lt;L=s02, 5600018&gt;Индюшиному повелителю&lt;/L&gt;&lt;/D&gt;. \nНужно уничтожить &lt;C&gt;70&lt;/C&gt; уровня &lt;A&gt;ветчину-девилиона&lt;/A&gt; или &lt;A&gt;гигантскую ветчину&lt;/A&gt;" />
+</quest-local>

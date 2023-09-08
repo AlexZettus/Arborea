@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30818" />
+    <entry Name="Еще кое-что" />
+    <entry Conditions="" />
+    <entry Overview="Сделайте 1 &lt;I&gt;улучшенное сверло&lt;/I&gt; и отнесите его \n&lt;D&gt;&lt;L=s02,5610053&gt;Альфреду.&lt;/L&gt;&lt;/D&gt; [&lt;I&gt;Улучшенное сверло&lt;/I&gt; можно изготовить с помощью навыка кузнечного дела.]" />
+</quest-local>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30822" />
+    <entry Name="Хранитель природы" />
+    <entry Conditions="" />
+    <entry Overview="Ежедневно, в 18:00 в шелестящих лабиринтах &lt;N&gt;Лесов Теней&lt;/N&gt; в случайном месте может появиться Хранитель природы &lt;A&gt;Халл&lt;/A&gt;. Убейте его и вернитесь в Тарио к &lt;D&gt;&lt;L=s02,5516025&gt;раненому воину&lt;/L&gt;&lt;/D&gt; за наградой." />
+</quest-local>

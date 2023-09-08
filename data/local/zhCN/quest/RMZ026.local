@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20526" />
+    <entry Name="Вера в сердце" />
+    <entry Conditions="" />
+    <entry Overview="Убейте &lt;C&gt;50&lt;/C&gt; &lt;A&gt;&lt;L=s07, 1060031&gt;жрецов-хилиастов&lt;/L&gt;&lt;/A&gt;, &lt;C&gt;50&lt;/C&gt; &lt;A&gt;&lt;L=s07, 1060032&gt;жрецов-стражей&lt;/L&gt;&lt;/A&gt;, \n&lt;C&gt;15&lt;/C&gt; &lt;color=0xffff6000&gt;&lt;L=s07, 1060046&gt;элитных жрецов-хилиастов&lt;/L&gt;&lt;color=0xffffffff&gt; и \n&lt;color=0xffff0000&gt;&lt;L=s07, 1060055&gt;Главу болотных жрецов&lt;/L&gt;&lt;color=0xffffffff&gt;, чтобы добыть &lt;I&gt;письмо воеводы&lt;/I&gt;. Когда завершите все задания, вернитесь к \n&lt;D&gt;&lt;L=s02, 5010029&gt;королю Марсу&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="41015" />
+    <entry Name="Изменение класса - Маг" />
+    <entry Conditions="" />
+    <entry Overview="Возьмите один &lt;I&gt;знак класса&lt;/I&gt; и отнесите его \n&lt;D&gt;Духу артефакта&lt;/D&gt;. Вы сможете изменить свой класс на &lt;color=0xff80ff00&gt;мага&lt;color=0xffffffff&gt;." />
+</quest-local>

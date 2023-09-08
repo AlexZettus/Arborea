@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20513" />
+    <entry Name="Сокровище в пещере" />
+    <entry Conditions="" />
+    <entry Overview="Убейте &lt;C&gt;10&lt;/C&gt; &lt;color=0xffff6000&gt;&lt;L=d07, 1060039&gt;элитных дикарей-воинов&lt;/L&gt;&lt;color=0xffffffff&gt; и добудьте \n&lt;C&gt;80&lt;/C&gt; &lt;I&gt;грубых магических камней&lt;/I&gt; у \n&lt;A&gt;&lt;L=d07, 1060019&gt;южных болотных камнестражей&lt;/L&gt;&lt;/A&gt;&lt;N&gt; в Пещере Волка&lt;/N&gt;. Затем отнесите их &lt;D&gt;&lt;L=s07, 5010167&gt;Монату&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

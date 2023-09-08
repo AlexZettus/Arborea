@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30904" />
+    <entry Name="Новогодний свиток усиления [ежедневно]" />
+    <entry Conditions="" />
+    <entry Overview="В период празднования нового года каждый день вы можете у &lt;M&gt;&lt;L=s02,5600019&gt;новогодней елки&lt;/L&gt;&lt;/M&gt; в обмен на &lt;C&gt;50&lt;/C&gt;золотых монет получить &lt;C&gt;5&lt;/C&gt;&lt;I&gt;новогодних свитков усиления&lt;/I&gt;." />
+</quest-local>

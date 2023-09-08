@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30706" />
+    <entry Name="Войны Сноулэнда" />
+    <entry Conditions="" />
+    <entry Overview="Очистите &lt;N&gt;Лес Теней&lt;/N&gt; от \n&lt;A&gt;&lt;L=s06, 1050003&gt;пикси Леса Теней&lt;/L&gt;&lt;/A&gt; и \n&lt;A&gt;&lt;L=s06, 1050008&gt;демонического лотоса&lt;/L&gt;&lt;/A&gt;. Затем поговорите со \n&lt;D&gt;&lt;L=s02, 5600011&gt;Снегулой&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

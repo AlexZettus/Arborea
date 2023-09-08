@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20313" />
+    <entry Name="Новые приключения" />
+    <entry Conditions="" />
+    <entry Overview="Вернитесь к &lt;D&gt;&lt;L=s05, 5010089&gt;Джастину&lt;/L&gt;&lt;/D&gt;, чтобы продолжить приключение в Сноуленде." />
+</quest-local>

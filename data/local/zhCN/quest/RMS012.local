@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20612" />
+    <entry Name="Цветок покоя" />
+    <entry Conditions="" />
+    <entry Overview="Соберите &lt;A&gt;10&lt;/A&gt; &lt;M&gt;&lt;L=s08, 6010028&gt;цветков покоя&lt;/L&gt;&lt;/M&gt;. Затем вернитесь к \n&lt;D&gt;&lt;L=s08, 5010206&gt;Йору&lt;/L&gt;&lt;/D&gt;. " />
+</quest-local>

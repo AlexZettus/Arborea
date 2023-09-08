@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20319" />
+    <entry Name="Отправляйтесь в Святой город" />
+    <entry Conditions="" />
+    <entry Overview="Идите в &lt;N&gt;Святой город&lt;/N&gt; и найдите там &lt;D&gt;&lt;L=s05, 5010093&gt;Аллу&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

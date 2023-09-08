@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<entry id="1" name="Новичку"/>
+	<entry id="2" name="Гильдия"/>
+	<entry id="3" name="Питомец"/>
+	<entry id="4" name="Сокровища"/>
+	<entry id="5" name="Ивент"/>
+	<entry id="6" name="Премиум-магазин"/>
+	<entry id="7" name="Безопасность"/>
+</root>

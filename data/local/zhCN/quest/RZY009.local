@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="40009" />
+    <entry Name="Опыт кормления эльфа" />
+    <entry Conditions="Уровень эльфа достигает 60" />
+    <entry Overview="Повысьте уровень своего эльфа до &lt;C&gt;60&lt;/C&gt; и обратитесь к \n&lt;D&gt;&lt;L=s02, 5010023&gt;эмиссару душ Фене&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

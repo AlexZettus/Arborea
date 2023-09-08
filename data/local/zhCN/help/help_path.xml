@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<entry id="1" category="1" name="Основы" path="basicoperation\" picnum="2"/>
+	<entry id="2" category="1" name="Система" path="system\" picnum="1"/>
+	<entry id="3" category="1" name="Снаряжение" path="equipment\" picnum="1"/>
+	<entry id="4" category="1" name="Перемещение" path="walk\" picnum="1"/>
+	<entry id="5" category="1" name="Поиск пути" path="pathfinding\" picnum="3"/>
+	<entry id="6" category="1" name="Задания" path="quest\" picnum="4"/>
+	<entry id="7" category="1" name="Сражение" path="fight\" picnum="2"/>
+	<entry id="8" category="1" name="Персонаж" path="rolestate\" picnum="2"/>
+	<entry id="9" category="1" name="Навыки" path="skill\" picnum="3"/>
+	<entry id="10" category="1" name="Предметы" path="item\" picnum="2"/>
+	<entry id="11" category="1" name="Инвентарь" path="bags\" picnum="1"/>
+	<entry id="12" category="1" name="Чат" path="chat\" picnum="2"/>
+	<entry id="13" category="1" name="Друзья" path="friend\" picnum="3"/>
+	<entry id="14" category="1" name="Группа" path="team\" picnum="2"/>
+	<entry id="15" category="1" name="Обмен" path="transfer\" picnum="2"/>
+	<entry id="16" category="1" name="Торговля" path="dealandstall\" picnum="2"/>
+	<entry id="17" category="1" name="Магазин" path="store\" picnum="3"/>
+	<entry id="18" category="1" name="Создание и улучшение" path="compose\" picnum="5"/>
+	<entry id="19" category="1" name="Подземелья" path="instances\" picnum="2"/>
+	<entry id="20" category="1" name="Убийство игроков" path="pk\" picnum="2"/>
+	<entry id="21" category="2" name="Основы" path="guildbasic\" picnum="4"/>
+	<entry id="22" category="2" name="Управление гильдией" path="guildjob\" picnum="1"/>
+	<entry id="23" category="2" name="Услуги гильдии" path="guildfacilities\" picnum="1"/>
+	<entry id="24" category="2" name="Навыки гильдии" path="guildskill\" picnum="1"/>
+	<entry id="25" category="2" name="帮派跑商" path="guildrfb\" picnum="1"/>
+	<entry id="26" category="2" name="Задания гильдии" path="guildtask\" picnum="1"/>
+	<entry id="27" category="3" name="Основы" path="petbasic\" picnum="3"/>
+	<entry id="28" category="3" name="Управление питомцем" path="drivepet\" picnum="1"/>
+	<entry id="29" category="3" name="Обмен питомцами" path="pettrade\" picnum="1"/>
+	<entry id="30" category="4" name="Основы" path="digtreasurebasic\" picnum="1"/>
+	<entry id="31" category="5" name="Описание" path="dtasksystem\" picnum="1"/>
+	<entry id="32" category="5" name="星宿下凡" path="xingxiuxiafan\" picnum="1"/>
+	<entry id="33" category="5" name="Война" path="fenghuoliantian\" picnum="1"/>
+	<entry id="34" category="5" name="游龙戏凤" path="youlongxifeng\" picnum="1"/>
+	<entry id="35" category="5" name="五色炼炉" path="wuselianlu\" picnum="2"/>
+	<entry id="36" category="5" name="尘缘未了" path="chenyuanweiliao\" picnum="1"/>
+	<entry id="37" category="5" name="Поиск товаров" path="baixiaosheng\" picnum="1"/>
+	<entry id="38" category="5" name="Легендарные знаки" path="shengxiaochuanshuo\" picnum="1"/>
+	<entry id="39" category="5" name="三毒心魔" path="sanduxinmo\" picnum="1"/>
+	<entry id="40" category="6" name="Премиум-магазин" path="mallbuying\" picnum="3"/>
+	<entry id="41" category="6" name="Торги слитками" path="ingottrade\" picnum="2"/>
+	<entry id="42" category="7" name="Безопасность" path="safety\" picnum="2"/>
+	<entry id="43" category="5" name="Соло PvP" path="solopvp\" picnum="4"/>
+	<entry id="44" category="5" name="Групповое PvP" path="grouppvp\" picnum="4"/>
+	<entry id="45" category="5" name="承安之殿" path="chenganzhidian\" picnum="1"/>
+	<entry id="46" category="5" name="十殿阎罗" path="shidianyanluo\" picnum="1"/>
+</root>

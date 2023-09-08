@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20419" />
+    <entry Name="Вооружитесь" />
+    <entry Conditions="" />
+    <entry Overview="Повысьте свой уровень до &lt;C&gt;62&lt;/C&gt;. Затем отправляйтесь в &lt;N&gt;Лес Теней&lt;/N&gt; и поговорите с &lt;D&gt;&lt;L=s06, 5010162&gt;Синтией&lt;/L&gt;&lt;/D&gt;.&#xA;" />
+</quest-local>

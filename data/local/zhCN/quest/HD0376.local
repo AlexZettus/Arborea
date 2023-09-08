@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30376" />
+    <entry Name="Стрела Купидона" />
+    <entry Conditions="" />
+    <entry Overview="Соберите &lt;C&gt;10&lt;/C&gt; &lt;I&gt;Карт поцелуя&lt;/I&gt;, &lt;C&gt;10&lt;/C&gt;&lt;I&gt;Карт объятий&lt;/I&gt;, &lt;C&gt;10&lt;/C&gt; &lt;I&gt;Карт тепла&lt;/I&gt;, а также &lt;C&gt;1314&lt;/C&gt; золотых. Отдайте все собранные предметы \n&lt;D&gt;&lt;L=s02,5600058&gt;Купидону&lt;/L&gt;&lt;/D&gt;. В обмен он даст вам &lt;C&gt;1&lt;/C&gt; &lt;color=0xffff80ff&gt;стрелу Купидона&lt;color=0xffffffff&gt;.&#x0A;\n&lt;I&gt;Карты поцелуя&lt;/I&gt;, &lt;I&gt;Карты объятий&lt;/I&gt; и &lt;I&gt; Карты тепла&lt;/I&gt; можно получить на Острове мечты." />
+</quest-local>

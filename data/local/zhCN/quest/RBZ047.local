@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20347" />
+    <entry Name="Причина изменения" />
+    <entry Conditions="" />
+    <entry Overview="Убейте &lt;A&gt;&lt;L=s05, 1040038&gt;снежного дикаря&lt;/L&gt;&lt;/A&gt;, соберите &lt;C&gt;15&lt;/C&gt; &lt;M&gt;чертежей&lt;/M&gt; и сдайте их &lt;D&gt;&lt;L=s05, 5010099&gt;охотнику Вильгельму&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

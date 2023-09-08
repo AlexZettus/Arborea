@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30695" />
+    <entry Name="Непримиримые войны Сноулэнда" />
+    <entry Conditions="" />
+    <entry Overview="В &lt;N&gt;&lt;Z=s08, 118051, 11351, 122700&gt;Замке ада&lt;/Z&gt;&lt;/N&gt; избавьтесь от &lt;A&gt;мстителей Хриона&lt;/A&gt;, &lt;A&gt;главы ассасинов&lt;/A&gt; и &lt;A&gt;сына Гипериона&lt;/A&gt;. Затем поговорите со \n&lt;D&gt;&lt;L=s02, 5600011&gt;Снегулой&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

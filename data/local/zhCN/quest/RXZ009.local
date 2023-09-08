@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20409" />
+    <entry Name="Исчезновение привидения" />
+    <entry Conditions="" />
+    <entry Overview="Войдите в &lt;N&gt;Святую пещеру&lt;/N&gt;, убейте \n&lt;A&gt;&lt;L=d05, 1050039&gt;Госпожу битвы Мистмун&lt;/L&gt;&lt;/A&gt; и &lt;A&gt;&lt;L=d05, 1050040&gt;Госпожу магии Файнфрост&lt;/L&gt;&lt;/A&gt;. Затем вернитесь к &lt;D&gt;&lt;L=s06, 5010101&gt;Повелителю битвы Битти&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

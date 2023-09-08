@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30712" />
+    <entry Name="Новогодний подарок" />
+    <entry Conditions="" />
+    <entry Overview="Вы можете получить Новогодний подарок от \n&lt;M&gt;&lt;L=s02, 5600019&gt;новогодней елки&lt;/L&gt;&lt;/M&gt; во время новогодних праздников." />
+</quest-local>

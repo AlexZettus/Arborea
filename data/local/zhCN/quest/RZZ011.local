@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="41011" />
+    <entry Name="Высший класс: Апостол" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь в &lt;N&gt;Лес Теней&lt;/N&gt;, ступите на Алтарь Возмездия и сразитесь со &lt;C&gt;100&lt;/C&gt; \n&lt;color=0xffff6000&gt;&lt;L=s06, 1050045&gt;стражами артефакта&lt;/L&gt;&lt;color=0xffffffff&gt;. Победите \n&lt;color=0xffff0000&gt;&lt;L=s06, 1050048&gt;Древнего духа&lt;/L&gt;&lt;color=0xffffffff&gt;. Затем отнесите священный контракт наемника \n&lt;D&gt;&lt;L=s02, 5010194&gt;Духу Лиры&lt;/L&gt;&lt;/D&gt;. Вы перейдете в высший класс." />
+</quest-local>

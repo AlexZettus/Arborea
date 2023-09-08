@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30840" />
+    <entry Name="Разрушение планов Элизиума" />
+    <entry Conditions="" />
+    <entry Overview="Соберите &lt;C&gt;30&lt;/C&gt; порций &lt;I&gt;магической пыли&lt;/I&gt; и передайте &lt;D&gt;Стражу Бастиона&lt;/D&gt;.\n \n(&lt;S&gt;После выполнения задания можно получить 100 ед. демонического духа&lt;/S&gt;)\n \n&lt;T&gt;Магическую пыль можно получить в Бастионе, используя магическую кирку.&lt;/T&gt;" />
+</quest-local>

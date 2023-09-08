@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="40027" />
+    <entry Name="Просьба Ромидаи" />
+    <entry Conditions="" />
+    <entry Overview="Убейте &lt;C&gt;500&lt;/C&gt; \n&lt;D&gt;&lt;L=s08, 1070023&gt;драконов Горы смерти&lt;/L&gt;&lt;/D&gt;. Затем вернитесь к \n&lt;D&gt;&lt;L=s02, 5010083&gt;Ромидаю&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

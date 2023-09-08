@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<engrave_name id="1" name="Боевой урон·I"/>
+	<engrave_name id="2" name="Боевой урон·II"/>
+	<engrave_name id="3" name="Боевой урон·III"/>
+	<engrave_name id="4" name="Боевой урон·IV"/>
+	<engrave_name id="5" name="Боевой урон·V"/>
+	<engrave_name id="6" name="Боевой урон·VI"/>
+	<engrave_name id="7" name="Боевой урон·VII"/>
+	<engrave_name id="8" name="Боевой урон·VIII"/>
+	<engrave_name id="9" name="Боевой урон·IX"/>
+	<engrave_name id="10" name="Боевой урон·X"/>
+	<engrave_name id="11" name="Боевой урон·XI"/>
+	<engrave_name id="12" name="Боевой урон·XII"/>
+	<engrave_name id="13" name="Боевой урон·XIII"/>
+	<engrave_name id="14" name="Боевой урон·XIV"/>
+	<engrave_name id="15" name="Боевой урон·XV"/>
+	<engrave_name id="16" name="Боевой урон·XVI"/>
+	<engrave_name id="17" name="Боевой урон·XVII"/>
+	<engrave_name id="18" name="Боевой урон·XVIII"/>
+	<engrave_name id="19" name="Боевой урон·XIX"/>
+	<engrave_name id="20" name="Боевой урон·идеальный"/>
+	<engrave_name id="21" name="Боевой урон·I (Божественный)"/>
+	<engrave_name id="22" name="Боевой урон·II (Божественный)"/>
+	<engrave_name id="23" name="Боевой урон·III (Божественный)"/>
+	<engrave_name id="24" name="Боевой урон·IV (Божественный)"/>
+	<engrave_name id="25" name="Боевой урон·V (Божественный)"/>
+	<engrave_name id="26" name="Боевой урон·VI (Божественный)"/>
+	<engrave_name id="27" name="Боевой урон·VII (Божественный)"/>
+	<engrave_name id="28" name="Боевой урон·VIII (Божественный)"/>
+	<engrave_name id="29" name="Боевой урон·IX (Божественный)"/>
+	<engrave_name id="30" name="Боевой урон·X (Божественный)"/>
+	<engrave_name id="31" name="Боевой урон·XI (Божественный)"/>
+	<engrave_name id="32" name="Боевой урон·XII (Божественный)"/>
+	<engrave_name id="33" name="Боевой урон·XIII (Божественный)"/>
+	<engrave_name id="34" name="Боевой урон·XIV (Божественный)"/>
+	<engrave_name id="35" name="Боевой урон·XV (Божественный)"/>
+	<engrave_name id="36" name="Боевой урон·XVI (Божественный)"/>
+	<engrave_name id="37" name="Боевой урон·XVII (Божественный)"/>
+	<engrave_name id="38" name="Боевой урон·XVIII (Божественный)"/>
+	<engrave_name id="39" name="Боевой урон·XIX (Божественный)"/>
+	<engrave_name id="40" name="Боевой урон·идеальный (Божественный)"/>
+	<engrave_name id="41" name="Боевая душа·I"/>
+	<engrave_name id="42" name="Боевая душа·II"/>
+	<engrave_name id="43" name="Боевая душа·III"/>
+	<engrave_name id="44" name="Боевая душа·IV"/>
+	<engrave_name id="45" name="Боевая душа·V"/>
+	<engrave_name id="46" name="Боевая душа·VI"/>
+	<engrave_name id="47" name="Боевая душа·VII"/>
+	<engrave_name id="48" name="Боевая душа·VIII"/>
+	<engrave_name id="49" name="Боевая душа·IX"/>
+	<engrave_name id="50" name="Боевая душа·X"/>
+	<engrave_name id="51" name="Боевая душа·XI"/>
+	<engrave_name id="52" name="Боевая душа·XII"/>
+	<engrave_name id="53" name="Боевая душа·XIII"/>
+	<engrave_name id="54" name="Боевая душа·XIV"/>
+	<engrave_name id="55" name="Боевая душа·XV"/>
+	<engrave_name id="56" name="Боевая душа·XVI"/>
+	<engrave_name id="57" name="Боевая душа·XVII"/>
+	<engrave_name id="58" name="Боевая душа·XVIII"/>
+	<engrave_name id="59" name="Боевая душа·XIX"/>
+	<engrave_name id="60" name="Боевая душа·идеальная"/>
+	<engrave_name id="61" name="Боевая душа·I (Божественная)"/>
+	<engrave_name id="62" name="Боевая душа·II (Божественная)"/>
+	<engrave_name id="63" name="Боевая душа·III (Божественная)"/>
+	<engrave_name id="64" name="Боевая душа·IV (Божественная)"/>
+	<engrave_name id="65" name="Боевая душа·V (Божественная)"/>
+	<engrave_name id="66" name="Боевая душа·VI (Божественная)"/>
+	<engrave_name id="67" name="Боевая душа·VII (Божественная)"/>
+	<engrave_name id="68" name="Боевая душа·VIII (Божественная)"/>
+	<engrave_name id="69" name="Боевая душа·IX (Божественная)"/>
+	<engrave_name id="70" name="Боевая душа·X (Божественная)"/>
+	<engrave_name id="71" name="Боевая душа·XI (Божественная)"/>
+	<engrave_name id="72" name="Боевая душа·XII (Божественная)"/>
+	<engrave_name id="73" name="Боевая душа·XIII (Божественная)"/>
+	<engrave_name id="74" name="Боевая душа·XIV (Божественная)"/>
+	<engrave_name id="75" name="Боевая душа·XV (Божественная)"/>
+	<engrave_name id="76" name="Боевая душа·XVI (Божественная)"/>
+	<engrave_name id="77" name="Боевая душа·XVII (Божественная)"/>
+	<engrave_name id="78" name="Боевая душа·XVIII (Божественная)"/>
+	<engrave_name id="79" name="Боевая душа·XIX (Божественная)"/>
+	<engrave_name id="80" name="Боевая душа·идеальная (Божественная)"/>
+	<engrave_name id="81" name="Доспех·I"/>
+	<engrave_name id="82" name="Доспех·II"/>
+	<engrave_name id="83" name="Доспех·III"/>
+	<engrave_name id="84" name="Доспех·IV"/>
+	<engrave_name id="85" name="Доспех·V"/>
+	<engrave_name id="86" name="Доспех·VI"/>
+	<engrave_name id="87" name="Доспех·VII"/>
+	<engrave_name id="88" name="Доспех·VIII"/>
+	<engrave_name id="89" name="Доспех·IX"/>
+	<engrave_name id="90" name="Доспех·X"/>
+	<engrave_name id="91" name="Доспех·XI"/>
+	<engrave_name id="92" name="Доспех·XII"/>
+	<engrave_name id="93" name="Доспех·XIII"/>
+	<engrave_name id="94" name="Доспех·XIV"/>
+	<engrave_name id="95" name="Доспех·XV"/>
+	<engrave_name id="96" name="Доспех·XVI"/>
+	<engrave_name id="97" name="Доспех·XVII"/>
+	<engrave_name id="98" name="Доспех·XVIII"/>
+	<engrave_name id="99" name="Доспех·XIX"/>
+	<engrave_name id="100" name="Доспех·идеальный"/>
+	<engrave_name id="101" name="Доспех·I (Божественный)"/>
+	<engrave_name id="102" name="Доспех·II (Божественный)"/>
+	<engrave_name id="103" name="Доспех·III (Божественный)"/>
+	<engrave_name id="104" name="Доспех·IV (Божественный)"/>
+	<engrave_name id="105" name="Доспех·V (Божественный)"/>
+	<engrave_name id="106" name="Доспех·VI (Божественный)"/>
+	<engrave_name id="107" name="Доспех·VII (Божественный)"/>
+	<engrave_name id="108" name="Доспех·VIII (Божественный)"/>
+	<engrave_name id="109" name="Доспех·IX (Божественный)"/>
+	<engrave_name id="110" name="Доспех·X (Божественный)"/>
+	<engrave_name id="111" name="Доспех·XI (Божественный)"/>
+	<engrave_name id="112" name="Доспех·XII (Божественный)"/>
+	<engrave_name id="113" name="Доспех·XIII (Божественный)"/>
+	<engrave_name id="114" name="Доспех·XIV (Божественный)"/>
+	<engrave_name id="115" name="Доспех·XV (Божественный)"/>
+	<engrave_name id="116" name="Доспех·XVI (Божественный)"/>
+	<engrave_name id="117" name="Доспех·XVII (Божественный)"/>
+	<engrave_name id="118" name="Доспех·XVIII (Божественный)"/>
+	<engrave_name id="119" name="Доспех·XIX (Божественный)"/>
+	<engrave_name id="120" name="Доспех·идеальный (Божественный)"/>
+</root>

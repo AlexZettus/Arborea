@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30804" />
+    <entry Name="Учетная запись" />
+    <entry Conditions="" />
+    <entry Overview="В Тарио поговори со &lt;D&gt;&lt;L=s02,5513017&gt;Счетоводом.&lt;/L&gt;&lt;/D&gt;" />
+</quest-local>

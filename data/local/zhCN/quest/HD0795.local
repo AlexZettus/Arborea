@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30795" />
+    <entry Name="Всего пара минут" />
+    <entry Conditions="Поговорить с Альфредом" />
+    <entry Overview="Спросите у &lt;D&gt;&lt;L=s02,5610053&gt;Альфреда&lt;/L&gt;&lt;/D&gt;, какой получился наряд." />
+</quest-local>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="30401" />
+    <entry Name="Задание мастера" />
+    <entry Conditions="" />
+    <entry Overview="" />
+</quest-local>

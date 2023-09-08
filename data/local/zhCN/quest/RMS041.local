@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20641" />
+    <entry Name="Находки в лесу" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь в Низкую рощу и соберите &lt;C&gt;10&lt;/C&gt; \n&lt;M&gt;&lt;L=s08, 6010030&gt;диких фруктов&lt;/L&gt;&lt;/M&gt;, а затем отнесите их &lt;D&gt;&lt;L=s08, 5010209&gt;Ротту&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

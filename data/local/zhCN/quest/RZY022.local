@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="40022" />
+    <entry Name="Просьба Ромидая" />
+    <entry Conditions="" />
+    <entry Overview="Убейте &lt;D&gt;&lt;L=d04, 1040047&gt;духа змеи Дюсам&lt;/L&gt;&lt;/D&gt; и вернитесь к &lt;D&gt;&lt;L=s02, 5010083&gt;Ромидаю&lt;/L&gt;&lt;/D&gt;, чтобы получить камни усиления и руны удачи." />
+</quest-local>

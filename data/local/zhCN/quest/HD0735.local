@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30735" />
+    <entry Name="Обменять снаряжение(Магич.) IV" />
+    <entry Conditions="" />
+    <entry Overview="Отдайте &lt;C&gt;15&lt;/C&gt; &lt;I&gt;красочных нефритов&#x0A;&lt;/I&gt; \n&lt;M&gt;&lt;Z=s02, 31500, 23094, 33600&gt;хранителю привилегий новичков&lt;/Z&gt;&lt;/M&gt;, чтобы получить усиленное синее снаряжение &lt;C&gt;50&lt;/C&gt; уровня.\n[С &lt;I&gt;сундука небесного огня&lt;/I&gt; &lt;/I&gt;переплавьте&lt;P&gt; камень духов из монстров &lt;P&gt;Пандоры&lt;/P&gt;, &lt;P&gt;Грибного холма&lt;/P&gt;, &lt;P&gt;Долины Грома&lt;/P&gt;, &lt;P&gt;Сноулэнда&lt;/P&gt; и &lt;P&gt;Леса Теней&lt;/P&gt; в &lt;I&gt;красочный нефрит&lt;/I&gt;.]" />
+</quest-local>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="52073" />
+    <entry Name="1. Рецепт фейерверка" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйся на дикую локацию своего уровня и раздобудь 25 Камней проклятия." />
+</quest-local>

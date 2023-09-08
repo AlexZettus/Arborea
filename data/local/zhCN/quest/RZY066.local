@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="40066" />
+    <entry Name="Гейл Провидец" />
+    <entry Conditions="" />
+    <entry Overview="Королеве &lt;D&gt;&lt;L=s02,5010243&gt;Леоноре&lt;/L&gt;&lt;/D&gt; просит вас отправиться в &lt;P&gt;Долину Грома&lt;/P&gt; и узнать у \n&lt;D&gt;&lt;L=s04,5610001&gt;Гейла Провидца&lt;/L&gt;&lt;/D&gt;, каким образом &lt;M&gt;можно получить дополнительные очки веры.&lt;/M&gt;\n&#x0A;\n" />
+</quest-local>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<root>
+    <area id="1" name="Россия" />
+    <area id="2" name="Украина" />
+    <area id="3" name="Беларусь" />
+    <area id="4" name="Казахстан" />
+    <area id="5" name="Азербайджан" />
+    <area id="6" name="Армения" />
+    <area id="7" name="Грузия" />
+    <area id="8" name="Израиль" />
+    <area id="9" name="США" />
+	<area id="91" name="Германия" />
+	<area id="92" name="Латвия" />
+	<area id="93" name="Литва" />
+	<area id="94" name="Эстония" />
+	<area id="95" name="Молдова" />
+	<area id="96" name="Узбекистан" />
+	<area id="97" name="Другая" />
+</root>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30727" />
+    <entry Name="[Привилегия] Знак воителя" />
+    <entry Conditions="" />
+    <entry Overview="Выполните 1 ивент &lt;T&gt;Вечный ад&lt;/T&gt; и поговорите с \n&lt;M&gt;&lt;Z=s02, 31500, 23094, 33600&gt;хранителем наград новичков&lt;/Z&gt;&lt;/M&gt;, чтобы получить &lt;C&gt;6&lt;/C&gt;&lt;I&gt;знаков воителя&lt;/I&gt; 5 типов." />
+</quest-local>

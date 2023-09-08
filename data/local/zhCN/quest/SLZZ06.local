@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="51015" />
+    <entry Name="Кое-что о духах" />
+    <entry Conditions="" />
+    <entry Overview="Пришло время узнать кое-что важное о духах. Поговори с &lt;D&gt;&lt;L=s02,6040030&gt;Призывателем духа Кастор&lt;/L&gt;&lt;/D&gt;, который находится в Тарио (746, 1055)" />
+</quest-local>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="52005" />
+    <entry Name="Пропуск во дворец" />
+    <entry Conditions="" />
+    <entry Overview="Ответ&lt;D&gt;&lt;L=s02,1086099&gt;Фэну Магеллану&lt;/L&gt;&lt;/D&gt;，можете получить&lt;C&gt;3&lt;/C&gt;один&lt;I&gt;доступ во дворец&lt;/I&gt;。" />
+</quest-local>

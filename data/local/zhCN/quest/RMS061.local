@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="20661" />
+    <entry Name="Движение вверх" />
+    <entry Conditions="" />
+    <entry Overview="Поднимите свой уровень до &lt;C&gt;82&lt;/C&gt; и поговорите с повелителем мудрости &lt;D&gt;&lt;L=s08, 5010205&gt;Очилом&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

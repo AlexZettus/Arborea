@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="40051" />
+    <entry Name="Эльфийская деревня" />
+    <entry Conditions="" />
+    <entry Overview="&lt;D&gt;Фелиция&lt;/D&gt; просит вас о помощи. Отправляйтесь в &lt;N&gt;Эльфийскую деревню&lt;/N&gt;, найдите ее хозяина \n&lt;D&gt;&lt;L=hb01,5800075&gt;Эйола&lt;/L&gt;&lt;/D&gt; и спросите о &lt;C&gt;1&lt;/C&gt; &lt;I&gt;булке с джемом&lt;/I&gt;.\nНайдите в &lt;N&gt;Тарио&lt;/N&gt; \n&lt;D&gt;&lt;L=s02,5800085&gt;телепорт Эльфийской деревни&lt;/L&gt;&lt;/D&gt; и переместитесь с его помощью в &lt;N&gt;Эльфийскую деревню&lt;/N&gt;.&#x0A;" />
+</quest-local>

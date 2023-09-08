@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30787" />
+    <entry Name="Отвоевать ресурсы" />
+    <entry Conditions="" />
+    <entry Overview="Убивая различных монстров, соберите &lt;C&gt;50&lt;/C&gt; шт. &lt;I&gt;клейкого риса&lt;/I&gt; и передайте &lt;D&gt;&lt;Z=s02,25250,23510,37950&gt;Призыватель Джесс&lt;/Z&gt;&lt;/D&gt;.\nПодсказка: это задание можно выполнять ежедневно, макс. &lt;C&gt;3&lt;/C&gt; раза в день." />
+</quest-local>

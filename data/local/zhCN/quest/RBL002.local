@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20202" />
+    <entry Name="Услуга за услугу" />
+    <entry Conditions="" />
+	<entry Overview="Убивай &lt;D&gt;&lt;L=s03, 1030002&gt;драгоящеров&lt;/L&gt;&lt;/D&gt; на холме Кабутолин, чтобы получить 8 кусков свежего мяса. После этого возвращайся к &lt;D&gt;&lt;L=s03, 5010076&gt;Хранителю эльфов&lt;/L&gt;&lt;/D&gt; за наградой." />
+</quest-local>

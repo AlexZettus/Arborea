@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="29008" />
+    <entry Name="Правосудие в Обители зла" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь в &lt;N&gt;&lt;Z=s05, 49485, 19284, 182512&gt;Обитель зла&lt;/Z&gt;&lt;/N&gt;, войдите внутрь, убейте &lt;A&gt;бронированного шакала&lt;/A&gt; - &lt;C&gt;15&lt;/C&gt;, соберите &lt;C&gt;20&lt;/C&gt; кусочков &lt;M&gt;меха призрачной лисы&lt;/M&gt;, убейте  &lt;A&gt;стража замка&lt;/A&gt; - &lt;C&gt;10&lt;/C&gt;, убейте &lt;A&gt;Астрата Темную Ночь&lt;/A&gt;,  &lt;A&gt;Атамана Шедоуфанга&lt;/A&gt;, соберите &lt;C&gt;10&lt;/C&gt; частей &lt;M&gt;Грубого ледяного камня&lt;/M&gt;. После выполнения заданий вернитесь к \n&lt;D&gt;&lt;L=s02, 5010227&gt;Судье Аусвейду&lt;/L&gt;&lt;/D&gt;. " />
+</quest-local>

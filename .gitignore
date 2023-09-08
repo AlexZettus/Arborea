@@ -1,0 +1,12 @@
+#Ignore thumbnails created by Windows
+Thumbs.db
+/config
+/Log
+/temp
+/screenshot
+/client
+*.vs
+*.ps
+*.zip
+*.rar
+*.cpk

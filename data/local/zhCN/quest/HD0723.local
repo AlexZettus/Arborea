@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30723" />
+    <entry Name="Благословение Новогоднего кролика" />
+    <entry Conditions="" />
+    <entry Overview="Вы можете получить &lt;C&gt;150%&lt;/C&gt; опыта, когда завершите это задание." />
+</quest-local>

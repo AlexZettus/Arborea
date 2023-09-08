@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="40017" />
+    <entry Name="Кузнец Веланд" />
+    <entry Conditions="" />
+    <entry Overview="Поговорите с &lt;D&gt;&lt;L=s02, 5010107&gt;кузнецом Веландом&lt;/L&gt;&lt;/D&gt; и создайте &lt;I&gt;плащ Крепкое облачение пламени&lt;/I&gt;. Затем вернитесь к \n&lt;D&gt;&lt;L=s02, 5010081&gt;мастеру ремесел Элиане&lt;/L&gt;&lt;/D&gt;.\n&lt;T&gt;Кузнец Веланд попросит вас подготовить требуемые материалы и рецепт, чтобы создать снаряжение.&lt;/T&gt;" />
+</quest-local>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="50048" />
+    <entry Name="Памятный знак храма" />
+    <entry Conditions="" />
+    <entry Overview="Поговори с Распорядителем Зала предков &lt;D&gt;&lt;L=s02,1085203&gt;Баркусом&lt;/L&gt;&lt;/D&gt; и получишь &lt;C&gt;3&lt;/C&gt; &lt;I&gt;памятных знака храма&lt;/I&gt;.\n&#x0A;\n" />
+</quest-local>

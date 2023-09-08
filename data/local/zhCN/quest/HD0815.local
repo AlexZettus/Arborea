@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30815" />
+    <entry Name="Одна просьба" />
+    <entry Conditions="" />
+    <entry Overview="Найдите &lt;D&gt;&lt;L=s02,5610053&gt;Альфреда&lt;/L&gt;&lt;/D&gt; и попросите его помочь &lt;D&gt;Эльзе&lt;/D&gt; сделать наряд ко дню одиночек." />
+</quest-local>

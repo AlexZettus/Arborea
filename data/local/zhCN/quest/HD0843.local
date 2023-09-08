@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30843" />
+    <entry Name="Любовное письмо" />
+    <entry Conditions="" />
+    <entry Overview="Соберите &lt;C&gt;5&lt;/C&gt; карт (Карта объятия, Карта опоры, Карта тепла, Карта близости, Карта поцелуя) и передайте &lt;D&gt;&lt;Z=s02,25250,23510,37950&gt;Одиночке&lt;/Z&gt;&lt;/D&gt;, так вы сможете получить &lt;I&gt;Анонимное любовное письмо&lt;/I&gt;" />
+</quest-local>

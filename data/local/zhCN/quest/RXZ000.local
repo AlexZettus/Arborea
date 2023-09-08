@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20400" />
+    <entry Name="Лес Теней" />
+    <entry Conditions="" />
+    <entry Overview="&lt;D&gt;&lt;L=s02, 5010029&gt;Король Марс&lt;/L&gt;&lt;/D&gt; попросил вас поговорить с \n&lt;D&gt;&lt;L=s02, 5010059&gt;Перевозчиком Трайлокией&lt;/L&gt;&lt;/D&gt; и продолжить свои приключения в &lt;N&gt;Лесу Теней&lt;/N&gt;. Там вы найдете \n&lt;D&gt;&lt;L=s06, 5010101&gt;Повелителя битвы Битти.&lt;/L&gt;&lt;/D&gt;" />
+</quest-local>

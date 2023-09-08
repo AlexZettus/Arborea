@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30832" />
+    <entry Name="Ежедневный подарок" />
+    <entry Conditions="" />
+    <entry Overview="Во время праздника Независимости игроки с ур. 30 и выше могут ежедневно получать подарок в &lt;N&gt;Тарио&lt;/N&gt; у &lt;D&gt;Чудо-ребенка&lt;/D&gt;." />
+</quest-local>

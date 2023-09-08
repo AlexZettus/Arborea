@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20601" />
+    <entry Name="Бывший охотник" />
+    <entry Conditions="" />
+    <entry Overview="Повелитель мудрости Очил просит вас убить &lt;C&gt;100&lt;/C&gt; бешеных &lt;A&gt;&lt;L=s08,1070003&gt;укротителей толстокожих медведей&lt;/L&gt;&lt;/A&gt; и &lt;C&gt;100&lt;/C&gt; \n&lt;A&gt;&lt;L=s08, 1070002&gt;толстокожих медведей&lt;/L&gt;&lt;/A&gt;. Затем вернитесь к &lt;D&gt;&lt;L=s08, 5010205&gt;Очилу&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

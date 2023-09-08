@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="59041" />
+    <entry Name="Каждому по кексику!" />
+    <entry Conditions="" />
+    <entry Overview="Каждый герой Теоса может получить свой кексик в честь празднования дня рождения Blood and Soul." />
+</quest-local>

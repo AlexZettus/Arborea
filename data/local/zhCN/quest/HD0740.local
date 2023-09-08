@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30740" />
+    <entry Name="Сварить кашу (3)" />
+    <entry Conditions="" />
+    <entry Overview="Вам нужно собрать &lt;C&gt;10&lt;/C&gt; &lt;I&gt;ингредиентов для каши&lt;/I&gt;.\n&lt;I&gt;Ингредиенты для каши&lt;/I&gt; можно найти, убивая любых монстров." />
+</quest-local>

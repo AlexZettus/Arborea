@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<item name="Error" 			value="Ошибка" />
+	<item name="BadHostName" 		value="Ошибка подключения к %s ." />
+	<item name="TryConnect" 		value="Соединение с сервером" />
+	<item name="ConnectFail" 		value="Ошибка соединения" />
+	<item name="WaitForDownload" 		value="Ожидание соединения:" />
+	<item name="WriteFail" 			value="Ошибка записи" />
+	<item name="NotEnoughSpace" 		value="Требуется места на жестком диске:" />
+	<item name="PleaseFreeSpace" 		value="Освободите место на жестком диске." />
+	<item name="Warning" 			value="Внимание!" />
+	<item name="Downloading" 		value="Загрузка:%s" />
+	<item name="AbnormalDisconnect" 	value="Ошибка соединения" />
+	<item name="CheckingMD5" 		value="Проверка MD5..." />
+	<item name="Decompressing" 		value="Распаковка..." />
+	<item name="UpdateOK" 			value="Обновление завершено" />
+	<item name="ClientRunning" 		value="Завершите работу клиента игры!" />
+	<item name="ItemNotExistInCPK" 		value="Предмет не найден в CPK-файле" />
+	<item name="FailInOpenCPKItem" 		value="Ошибка при открытии CPK Item" />
+	<item name="CreateCPKFailed" 		value="Ошибка при создании CPK-файла" />
+	<item name="CreateFileFailed" 		value="Не удалось создать файл" />
+	<item name="FailInCheckCPKFile" 	value="Ошибка контрольной суммы CPK-файла" />
+	<item name="FailInWriteToCPK" 		value="Ошибка записи в CPK-файл" />
+	<item name="FailInAddFileToCPK" 	value="Ошибка CPK-файла AddFileTo:%s" />
+	<item name="OpenFileFailed" 		value="Не удалось открыть файл:%s" />
+	<item name="ReadFileFailed" 		value="Ошибка при чтении файла:%s" />
+	<item name="CreateFileMappingFailed" 	value="Ошибка FileMap при создании:%s" />
+	<item name="FileMappingAlreadyExist" 	value="File Mapping уже создан:%s" />
+	<item name="ReadCPKHeadFailed" 		value="Ошибка заголовка CPK-файла:%s" />
+	<item name="ReadCPKTableFailed" 	value="Ошибка чтения CPKTable:%s" />
+	<item name="UnknowCPKFormat" 		value="Неверный формат CPK-файла:%s" />
+	<item name="CPKSeekError" 		value="CPKSeekError %s, Позиция = %ld" />
+	<item name="NotEnoughMemoryForCreateFP" value="Не хватает памяти для создания FP" />
+	<item name="DecompressFailed" 		value="Ошибка при распаковке" />
+	<item name="TooLongFileName" 		value="Слишком длинное имя файла:%s" />
+	<item name="FileNotFound" 		value="Файл %s не найден" />
+	<item name="FindFreeCPKItemFailed" 	value="Не найден FreeCPK Item" />
+	<item name="DeleteFileFailed" 		value="Удаляется файл:%s" />
+	<item name="InvalidTableIndex" 		value="Значение %d отсутствует в CPK-файле" />
+	<item name="AlreadyRunning" 		value="Приложение уже запущено" />
+	<item name="PatchNotFound" 		value="Ошибка автом. обновления. Узнайте подробнее на https://vk.com/leadale_bs." />
+
+	<item name="AppName"			value="Лидейл — Лаунчер" />
+	<item name="StartGame"	 		value="Играть" />
+	<item name="ManualUpdate" 		value="Новости" />
+	<item name="GameSetup"	 		value="Настройка" />
+	<item name="UpdateInfo"	 		value="Отчет" />
+	<item name="Quit"	 		value="Выход" />
+	<item name="GameVersion"		value="Клиент: v%s" />
+	<item name="LauncherVersion" 		value="Загрузчик: v%s" />
+	<item name="LatestGameVersion"		value="Последняя версия: v%s" />
+	<item name="LatestLauncherVersion" 	value="Последняя версия: v%s" />
+	<item name="DownloadProgress" 		value="Скорость:%.2fMB/S  Осталось:%.2fMB" />
+	<item name="FontName" 			value="Arial" />
+	<item name="GameVideoSetup"		value="Настройки" />
+	<item name="GameVideoTips"		value="Совет: отключите эффекты на слабых компьютерах." />
+	<item name="WindowMode1"		value="Полный экран с панелью задач" />
+	<item name="WindowMode2"		value="Оконный режим" />
+	<item name="WindowMode3"		value="Полный экран" />
+	<item name="WindowMode4"		value="Полный экран поверх всех окон" />
+	<item name="VerticalSync"		value="Верт. синхронизация" />
+	<item name="TextureDetail"		value="Кач. текстуры" />
+	<item name="GroundPrecision"		value="Кач. карты" />
+	<item name="GPUAni"			value="Аппаратное уск." />
+	<item name="GroundHighLight"		value="Эффекты освещения" />
+	<item name="NormalMap"			value="Нормализация" />
+	<item name="Music"			value="Музыка" />
+	<item name="Sound"			value="Эффекты" />
+
+	<item name="AutoUpdateInfo"		value="Отчет о работе системы обновления" />
+
+</root>

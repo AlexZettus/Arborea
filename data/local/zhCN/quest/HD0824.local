@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30824" />
+    <entry Name="Долгие поиски" />
+    <entry Conditions="" />
+    <entry Overview="Соберите &lt;I&gt;милость света&lt;/I&gt;, &lt;I&gt;молитву мрака&lt;/I&gt;, &lt;I&gt;природный источник&lt;/I&gt; и &lt;I&gt;пожелание силы&lt;/I&gt;. Отнесите это всё &lt;D&gt;&lt;L=s02,5516025&gt;раненому воину.&lt;/L&gt;&lt;/D&gt;&#x0A;\nУбив &lt;A&gt;Хедилуса&lt;/A&gt;, можно получить &lt;I&gt;милость света.&lt;/I&gt;\nУбив &lt;A&gt;Ситтла&lt;/A&gt;, можно получить &lt;I&gt;молитву мрака.&lt;/I&gt;\nУбив &lt;A&gt;Халла&lt;/A&gt;, можно получить &lt;I&gt;природный источник.&lt;/I&gt;\nУбив &lt;A&gt;Амена&lt;/A&gt;, можно получить &lt;I&gt;пожелание силы.&lt;/I&gt;" />
+</quest-local>

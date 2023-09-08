@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20208" />
+    <entry Name="Королева цветов" />
+    <entry Conditions="" />
+    <entry Overview="Уничтожь &lt;D&gt;&lt;L=s03,1030018&gt;Королеву цветов&lt;/L&gt;&lt;/D&gt; и возвращайся к &lt;D&gt;&lt;L=s03,5010077&gt;Лесной дриаде&lt;/L&gt;&lt;/D&gt; за наградой." />
+</quest-local>

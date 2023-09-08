@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30793" />
+    <entry Name="Кое-какие материалы" />
+    <entry Conditions="" />
+    <entry Overview="Найдите материалы, чтобы сделать наряд: &lt;I&gt;пыльцу дивной пикси&lt;/I&gt; - &lt;C&gt;5&lt;/C&gt; ед. [у торговца редкостями Леса Теней], &lt;I&gt;снежки&lt;/I&gt; - &lt;C&gt;5&lt;/C&gt; шт. [у торговца редкостями Сноулэнда], &lt;I&gt;необработанную руду&lt;/I&gt; - &lt;C&gt;100&lt;/C&gt; шт., &lt;I&gt;золотые бриллианты рощи&lt;/I&gt; - &lt;C&gt;50&lt;/C&gt; шт. Отнесите это все &lt;D&gt;&lt;L=s02,5610053&gt;Альфреду.&lt;/L&gt;&lt;/D&gt;" />
+</quest-local>

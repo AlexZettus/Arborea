@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20600" />
+    <entry Name="Гора Смерти" />
+    <entry Conditions="" />
+    <entry Overview="Король Марс хочет, чтобы вы отправились к &lt;D&gt;перевозчику Трайлокии&lt;/D&gt;, попали на Землю&lt;N&gt; и нашли Гору Смерти&lt;/N&gt;. Там вы найдете Повелителя мудрости \n&lt;D&gt;&lt;L=s08, 5010205&gt;Очила&lt;/L&gt;&lt;/D&gt;. \n&#x0A;\n" />
+</quest-local>

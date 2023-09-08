@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20509" />
+    <entry Name="Попробуйте принять" />
+    <entry Conditions="" />
+    <entry Overview="Убейте &lt;C&gt;80&lt;/C&gt; &lt;A&gt;&lt;L=s07, 1060011&gt;джунглевых ассасинов&lt;/L&gt;&lt;/A&gt; и вернитесь к \n&lt;D&gt;&lt;L=s07, 5010166&gt;Монару&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

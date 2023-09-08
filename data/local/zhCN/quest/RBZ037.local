@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20337" />
+    <entry Name="Очистить путь" />
+    <entry Conditions="" />
+    <entry Overview="Убейте &lt;C&gt;80&lt;/C&gt; &lt;A&gt;&lt;L=s05, 1040020&gt;демонических сирен&lt;/L&gt;&lt;/A&gt;. Затем вернитесь к &lt;D&gt;&lt;L=s05, 5010098&gt;повелителю силы Гордону&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20307" />
+    <entry Name="Песцы" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь в &lt;N&gt;Долину Белого дракона&lt;/N&gt;, найдите \n&lt;A&gt;&lt;L=s05, 1040032&gt;песцов&lt;/L&gt;&lt;/A&gt;, соберите &lt;C&gt;10&lt;/C&gt; образцов меха песца и отнесите их &lt;D&gt;&lt;L=s05, 5010089&gt;Джастину&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

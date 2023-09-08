@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20402" />
+    <entry Name="Демонические пикси в лесу" />
+    <entry Conditions="" />
+    <entry Overview="Убейте &lt;C&gt;80&lt;/C&gt; &lt;A&gt;&lt;L=s06, 1050003&gt;Пикси Леса Теней&lt;/L&gt;&lt;/A&gt; и вернитесь к \n&lt;D&gt;&lt;L=s06, 5010101&gt;Повелителю битвы Битти&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

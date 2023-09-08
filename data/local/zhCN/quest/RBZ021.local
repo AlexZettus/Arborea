@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20321" />
+    <entry Name="Кровожадные оборотни" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь в &lt;N&gt;Южный предел&lt;/N&gt;, убейте 70 \n&lt;A&gt;&lt;L=s05, 1040022&gt;кровожадных оборотней&lt;/L&gt;&lt;/A&gt; и вернитесь к &lt;D&gt;&lt;L=s05, 5010093&gt;Аллу&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

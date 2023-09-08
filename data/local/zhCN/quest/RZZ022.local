@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="41022" />
+    <entry Name="Продвижение класса - Паладин" />
+    <entry Conditions="" />
+    <entry Overview="Отдайте &lt;I&gt;знак продвижения класса&lt;/I&gt; &lt;D&gt;Духу Копья&lt;/D&gt;, чтобы получить продвижение класса и стать &lt;color=0xff80ff00&gt;Паладином&lt;color=0xffffffff&gt;." />
+</quest-local>

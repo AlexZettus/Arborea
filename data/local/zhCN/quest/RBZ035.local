@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20335" />
+    <entry Name="Убить преступника" />
+    <entry Conditions="" />
+    <entry Overview="Найдите &lt;A&gt;&lt;L=s05, 1040045&gt;главаря бандитов&lt;/L&gt;&lt;/A&gt;, убейте его и вернитесь к &lt;D&gt;&lt;L=s05, 5010097&gt;теологу Джеффу&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

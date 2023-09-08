@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="40032" />
+    <entry Name="Резьба по камню" />
+    <entry Conditions="" />
+    <entry Overview="&lt;C&gt;20&lt;/C&gt; кусков &lt;I&gt;необработанной руды&lt;/I&gt; &lt;D&gt;&lt;L=s02, 5010085&gt;Шера&lt;/L&gt;&lt;/D&gt; обменяет на 1 &lt;I&gt;обычный шлифовальный камень&lt;I&gt;.\n&lt;T&gt;Шлифовальный камень также можно купить у Коробейника&lt;/T&gt;." />
+</quest-local>

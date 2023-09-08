@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30800" />
+    <entry Name="Желание богини" />
+    <entry Conditions="" />
+    <entry Overview="В Тарио поговори с властительницей трех миров &lt;D&gt;&lt;L=s02,5010243&gt;Леонорой.&lt;/L&gt;&lt;/D&gt;" />
+</quest-local>

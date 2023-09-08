@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30905" />
+    <entry Name="Посылка счастья" />
+    <entry Conditions="" />
+    <entry Overview="Соберите 10 &lt;I&gt;посылок счастья&lt;/I&gt; и обменяйте их в городе Тарио у посланца счастья&lt;M&gt;&lt;L=s02,5610094&gt;Бэйла&lt;/L&gt;&lt;/M&gt; на очки опыта." />
+</quest-local>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30789" />
+    <entry Name="Волчий вой" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь в &lt;N&gt;Библиотеку&lt;/N&gt;, убейте &lt;A&gt;Милку Порочную Всадницу&lt;/A&gt; и получите &lt;I&gt;Кристалл гнева&lt;/I&gt;,  &lt;D&gt;&lt;Z=s02,25250,23510,37950&gt;Призыватель Джесс&lt;/Z&gt;&lt;/D&gt; поможет вам заключить силу этого предмета в &lt;I&gt;Волчий свисток&lt;/I&gt;. После этого в &lt;N&gt;Логове Тьмы[620,474]&lt;/N&gt; используйте &lt;I&gt;Волчий свисток&lt;/I&gt; и убейте &lt;D&gt;Сбежавшего волка&lt;/D&gt;." />
+</quest-local>

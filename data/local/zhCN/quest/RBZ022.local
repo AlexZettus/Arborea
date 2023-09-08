@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20322" />
+    <entry Name="Новая миссия" />
+    <entry Conditions="" />
+    <entry Overview="Вернитесь в Тарио и поговорите с &lt;D&gt;&lt;L=s02, 5010085&gt;Шерой.&lt;/L&gt;&lt;/D&gt;" />
+</quest-local>

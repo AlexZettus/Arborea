@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="55001" />
+    <entry Name="Получение божественной души" />
+    <entry Conditions="" />
+    <entry Overview="С &lt;C&gt;10&lt;/C&gt; кусками &lt;I&gt; ур.3 легированного железа&lt;/I&gt; и &lt;C&gt;50&lt;/C&gt; золотыми &lt;A&gt;монетами&lt;/A&gt; найдите &lt;D&gt;&lt;Z=s02,25250,23510,37950&gt;Небесного консула&lt;/Z&gt;&lt;/D&gt; и получите взамен &lt;I&gt;божественную душу&lt;/I&gt;." />
+</quest-local>

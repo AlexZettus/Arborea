@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="52016" />
+    <entry Name="Задание Хьюлита" />
+    <entry Conditions="" />
+    <entry Overview="Нужно убить &lt;C&gt;15&lt;/C&gt;&lt;A&gt; исследователей пороха&lt;/A&gt; и &lt;C&gt;15 &lt;/C&gt;&lt;A&gt;стражей порохового склада&lt;/A&gt;，затем сдать задание &lt;D&gt;&lt;L=dmap1,1086576&gt;Хьюлиту&lt;/L&gt;&lt;/D&gt; После этого станет возможным вызвать &lt;A&gt;Огненного лиса серебряной горы&lt;/A&gt;." />
+</quest-local>

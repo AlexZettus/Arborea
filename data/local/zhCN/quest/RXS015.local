@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20015" />
+    <entry Name="Похвала мастера" />
+    <entry Conditions="" />
+    <entry Overview="Теперь ты можешь доложить о результатах своих тренировок &lt;D&gt;&lt;L=s01,5010019&gt;инструктору Григору&lt;/L&gt;&lt;/D&gt;. \n&#x0A;\n&lt;S&gt;[Ур. 15]&lt;/S&gt;Эльф новичка: достигнув 15 Ур., вы можете получить &lt;A&gt;эльфа новичка.&lt;/A&gt;\n&#x0A;\n" />
+</quest-local>

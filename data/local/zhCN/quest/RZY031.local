@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="40031" />
+    <entry Name="Необработанные камни" />
+    <entry Conditions="" />
+    <entry Overview="Помогите &lt;D&gt;&lt;L=s02, 5010085&gt;Шере&lt;/L&gt;&lt;/D&gt; убить &lt;C&gt;30&lt;/C&gt; &lt;D&gt;&lt;L=s05, 1040015&gt;коварных воров&lt;/L&gt;&lt;/D&gt;. Затем вернитесь и получите в награду необработанные камни." />
+</quest-local>

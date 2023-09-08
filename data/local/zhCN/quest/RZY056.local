@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="40056" />
+    <entry Name="Булка с джемом" />
+    <entry Conditions="" />
+    <entry Overview="Выберите &lt;I&gt;медонос&lt;/I&gt; в &lt;N&gt;Земле Эльфов&lt;/N&gt; на \n&lt;M&gt;&lt;L=s51, 5800077&gt;таблице смен блюд&lt;/L&gt;&lt;/M&gt; и приготовьте немного &lt;I&gt;фруктовой муки&lt;/I&gt;. Затем найдите \n&lt;M&gt;&lt;L=s51, 5800076&gt;большой горшок&lt;/L&gt;&lt;/M&gt; и приготовьте в нем &lt;I&gt;булку с джемом&lt;/I&gt;. Эту &lt;I&gt;булку с джемом&lt;/I&gt; отнесите голодному эльфу \n&lt;D&gt;&lt;L=s02, 5800084&gt;Фелиции&lt;/L&gt;&lt;/D&gt; в &lt;N&gt;Тарио&lt;/N&gt;." />
+</quest-local>

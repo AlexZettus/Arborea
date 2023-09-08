@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20646" />
+    <entry Name="Незнакомец из Дикарей" />
+    <entry Conditions="" />
+    <entry Overview="Найдите и убейте &lt;color=0xffff0000&gt;&lt;L=s08, 1070084&gt;стража Темное Перо&lt;/L&gt;&lt;color=0xffffffff&gt; и заберите &lt;I&gt;письмо демонов&lt;/I&gt;. Затем вернитесь к &lt;D&gt;&lt;L=s08, 5010209&gt;Ротту&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

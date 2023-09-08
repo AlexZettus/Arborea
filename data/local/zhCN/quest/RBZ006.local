@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20306" />
+    <entry Name="Долина белого дракона" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь в &lt;N&gt;Долину Белого дракона&lt;/N&gt;, убейте &lt;C&gt;30&lt;/C&gt; \n&lt;A&gt;&lt;L=s05, 1040003&gt;Снежных бандитов&lt;/L&gt;&lt;/A&gt;. Затем вернитесь к &lt;D&gt;&lt;L=s05, 5010089&gt;Джастину&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

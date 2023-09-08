@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30744" />
+    <entry Name="Любовный шоколад" />
+    <entry Conditions="" />
+    <entry Overview="Соберите &lt;C&gt;3&lt;/C&gt; плитки &lt;I&gt;любовного шоколада&lt;/I&gt; и отдайте их \n&lt;D&gt;&lt;L=s52, 5600029&gt;господину Больбо&lt;/L&gt;&lt;/D&gt;. &lt;I&gt;Любовный шоколад&lt;/I&gt; делают игроки женского пола. Его можно получить, подарив &lt;I&gt;любовную розу&lt;/I&gt; и немного обаяния. Задание можно выполнить &lt;C&gt;5&lt;/C&gt; раз." />
+</quest-local>

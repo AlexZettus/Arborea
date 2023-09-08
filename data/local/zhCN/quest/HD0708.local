@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30708" />
+    <entry Name="Войны Сноулэнда" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь в &lt;N&gt;Южные Топи&lt;/N&gt; и убейте в &lt;N&gt;Пещере Волка&lt;/N&gt; \n&lt;A&gt;&lt;L=d07, 1060016&gt;южную дикарку&lt;/L&gt;&lt;/A&gt;, а на &lt;N&gt;Горе Нефритового дракона&lt;/N&gt; - \n&lt;A&gt;&lt;L=s07, 1060023&gt;кровожадную змею&lt;/L&gt;&lt;/A&gt;. Затем вернитесь к \n&lt;D&gt;&lt;L=s02, 5600011&gt;Снегуле&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

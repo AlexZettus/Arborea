@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="30004" />
+    <entry Name="Больше ресурсов" />
+    <entry Conditions="" />
+    <entry Overview="Соберите 100 кристаллов и 10 камней усиления и отнесите их \n&lt;N&gt;&lt;L=s02, 5010053&gt;управляющему гильдиями&lt;/L&gt;&lt;/N&gt;. \nВыполнив задание, вы получите деньги, ресурсы и гильдейскую награду." />
+</quest-local>

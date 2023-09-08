@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="59015" />
+    <entry Name="С новым годом!" />
+    <entry Conditions="" />
+    <entry Overview="Обратитесь к &lt;D&gt;&lt;Z=s02,30700,22902,26150&gt;Артее (Тарио, 614 523)&lt;/L&gt;&lt;/D&gt; и получите небольшой новогодний подарок." />
+</quest-local>

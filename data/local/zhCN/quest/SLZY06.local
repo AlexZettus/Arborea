@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="51006" />
+    <entry Name="Троица III" />
+    <entry Conditions="" />
+    <entry Overview="&lt;T&gt;Священные Духи&lt;/T&gt; уже пришли в наш мир, найди \n&lt;D&gt;&lt;L=s02,6040030&gt;Призывателя духов&lt;/L&gt;&lt;/D&gt; и получи принадлежащего тебе третьего &lt;T&gt;духа&lt;/T&gt;!\n&#x0A;\n" />
+</quest-local>

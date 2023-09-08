@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20607" />
+    <entry Name="Покойся с миром" />
+    <entry Conditions="" />
+    <entry Overview="Повелитель мудрости просит вас установить &lt;I&gt;могильную плиту&lt;/I&gt; возле него. Затем собрать &lt;I&gt;могильную землю&lt;/I&gt; и сдать ее &lt;D&gt;&lt;L=s08, 5010205&gt;Очилу&lt;/L&gt;&lt;/D&gt;. " />
+</quest-local>

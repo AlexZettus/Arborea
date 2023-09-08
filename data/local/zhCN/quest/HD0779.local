@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30779" />
+    <entry Name="Звезда Ромен" />
+    <entry Conditions="" />
+    <entry Overview="Соберите &lt;C&gt;3&lt;/C&gt; &lt;I&gt;любовные розы&lt;/I&gt; и отнесите их \n&lt;D&gt;&lt;L=s52, 5600027&gt;госпоже Больбо&lt;/L&gt;&lt;/D&gt;, чтобы получить одну &lt;I&gt;звезду Ромен&lt;/I&gt;. &lt;I&gt;Любовные розы&lt;/I&gt; выращивают игроки мужского пола на плантации роз. Розу можно получить, подарив мужчине &lt;I&gt;любовный шоколад&lt;/I&gt; или немного обаяния." />
+</quest-local>

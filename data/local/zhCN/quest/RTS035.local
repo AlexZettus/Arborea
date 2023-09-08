@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="50035" />
+    <entry Name="Получение знака небес" />
+    <entry Conditions="" />
+    <entry Overview="Ежедневно у \n&lt;D&gt;&lt;L=s08, 5510627&gt;эмиссара наград&lt;/L&gt;&lt;/D&gt вы можете получить &lt;A&gt;5&lt;/A&gt; &lt;I&gt;знаков небес&lt;/I&gt;, которые используются для получения небесных заданий." />
+</quest-local>

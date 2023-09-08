@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="40038" />
+    <entry Name="Просьба Рамесы" />
+    <entry Conditions="" />
+    <entry Overview="Соберите &lt;C&gt;20&lt;/C&gt; &lt;I&gt;камней усиления&lt;/I&gt;. Затем вернитесь к \n&lt;D&gt;&lt;L=s02, 5010086&gt;мастеру знаков Рамесе&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

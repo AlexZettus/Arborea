@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30805" />
+    <entry Name="Опыт путешестенника I" />
+    <entry Conditions="Собрать 1000 опыта" />
+    <entry Overview="Убивайте в Логове зверя &lt;A&gt;демонических вождей,&lt;/A&gt; чтобы зарабатывать опыт.\nСобрав &lt;C&gt;1000&lt;/C&gt; ед. опыта, сдайте задание &lt;D&gt;заведующему операциями.&lt;/D&gt;" />
+</quest-local>

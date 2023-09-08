@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="52017" />
+    <entry Name="Задание Вильямса" />
+    <entry Conditions="" />
+    <entry Overview="Нужно убить<C> 15 </C><A> снежных людей</A> и <C>15 </C><A>синелапых куниц</A>，затем сдать задание <D><L=dmap1,1086577>Вильямсу</L></D>. После этого станет возможным вызвать <A>Метеора</A>" />
+</quest-local>

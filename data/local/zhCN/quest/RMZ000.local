@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20500" />
+    <entry Name="Южные Топи" />
+    <entry Conditions="" />
+    <entry Overview="Поговорите с &lt;D&gt;перевозчиком Трайлокией&lt;/D&gt; и отправляйтесь в &lt;N&gt;Южные Топи&lt;/N&gt;. Там идите в &lt;N&gt;Деревню Идо&lt;/N&gt; и найдите &lt;D&gt;&lt;L=s07, 5010164&gt;повелителя деревьев Харланса&lt;/L&gt;&lt;/D&gt;.\n&#x0A;\n" />
+</quest-local>

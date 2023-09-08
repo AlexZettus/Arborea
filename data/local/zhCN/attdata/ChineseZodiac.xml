@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<root>
+    <ChineseZodiac id="1" name="Крыса" />
+    <ChineseZodiac id="2" name="Бык" />
+    <ChineseZodiac id="3" name="Тигр" />
+    <ChineseZodiac id="4" name="Кролик" />
+    <ChineseZodiac id="5" name="Дракон" />
+    <ChineseZodiac id="6" name="Змея" />
+    <ChineseZodiac id="7" name="Лошадь" />
+    <ChineseZodiac id="8" name="Овца" />
+    <ChineseZodiac id="9" name="Обезьяна" />
+    <ChineseZodiac id="10" name="Петух" />
+    <ChineseZodiac id="11" name="Собака" />
+    <ChineseZodiac id="12" name="Свинья" />
+    <ChineseZodiac id="13" name="Закрыто" />
+</root>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<map_point id="1" type="1" show_name="Темница великого жреца" pos_x="6150" pos_y="1920" pos_z="9658"/>
+	<map_point id="2" type="1" show_name="Эльфийский проводник" pos_x="5637" pos_y="2009" pos_z="9649"/>
+	<map_point id="3" type="1" show_name="Выход из Мистерии" pos_x="8416" pos_y="2005" pos_z="6147"/>
+</root>

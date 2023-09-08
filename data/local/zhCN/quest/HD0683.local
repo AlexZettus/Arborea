@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30683" />
+    <entry Name="Найдите индюшку!" />
+    <entry Conditions="" />
+    <entry Overview="&lt;D&gt;Король ветчины&lt;/D&gt; ненавидит индюшек. Убейте в &lt;N&gt;Южных Топях&lt;/N&gt; &lt;A&gt;индюка-дозорного&lt;/A&gt; или &lt;A&gt;безумного индюка&lt&lt;/A&gt;. Затем вернитесь к \n&lt;D&gt;&lt;L=s02, 5600017&gt;Королю ветчины&lt;/L&gt;&lt;/D&gt;. \nНужно убить &lt;C&gt;70&lt;/C&gt; уровня &lt;A&gt;индюка-дозорного&lt;/A&gt; или &lt;A&gt;безумного индюка&lt;/A&gt;" />
+</quest-local>

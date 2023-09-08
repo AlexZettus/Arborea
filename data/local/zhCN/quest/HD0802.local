@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30802" />
+    <entry Name="Поиск любимого" />
+    <entry Conditions="" />
+    <entry Overview="В Тарио с &lt;D&gt;&lt;L=s02,5600058&gt;Купидоном&lt;/L&gt;&lt;/D&gt;поболтай. \nПрим.: выполнив задание, получишь опыта." />
+</quest-local>

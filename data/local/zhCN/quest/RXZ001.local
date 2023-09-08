@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20401" />
+    <entry Name="Кабанья печень" />
+    <entry Conditions="" />
+    <entry Overview="Убейте &lt;A&gt;&lt;L=s06, 1050001&gt;Кабана Леса Теней&lt;/L&gt;&lt;/A&gt; и добудьте &lt;C&gt;75&lt;/C&gt; кусков &lt;I&gt;кабаньей печени&lt;/I&gt; для &lt;D&gt;&lt;L=s06, 5010101&gt;Повелителя битвы Битти&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

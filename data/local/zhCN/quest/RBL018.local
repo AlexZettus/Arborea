@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20218" />
+    <entry Name="Ритуал защиты" />
+    <entry Conditions="" />
+    <entry Overview="Собери 4 &lt;D&gt;&lt;L=s03,9010643&gt;странных гриба&lt;/L&gt;&lt;/D&gt;, растущих в Пандоре, а также уничтожай &lt;D&gt;&lt;L=s03,1030009&gt;Диких огров&lt;/L&gt;&lt;/D&gt;, чтобы получить 18 Лимф огра." />
+</quest-local>

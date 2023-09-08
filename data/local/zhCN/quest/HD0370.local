@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30370" />
+    <entry Name="Наведение красоты" />
+    <entry Conditions="" />
+    <entry Overview="Купив &lt;C&gt;1&lt;/C&gt; &lt;I&gt;Карту красоты&lt;/I&gt; у косметолога \n&lt;D&gt;&lt;L=s02,5010247&gt;Марии&lt;/L&gt;&lt;/D&gt;, вы можете навести красоту." />
+</quest-local>

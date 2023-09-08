@@ -1,0 +1,2541 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<root>
+    <compose id="10009" name="Чугун [О]" produce_type="7" />
+    <compose id="10010" name="Легированное железо [О]" produce_type="7" />
+    <compose id="10011" name="Мифическое железо [О]" produce_type="7" />
+    <compose id="10012" name="Заколдованная сталь [О]" produce_type="7" />
+    <compose id="10013" name="Крепкое копье остроты" produce_type="3" />
+    <compose id="10014" name="Крепкий посох святости" produce_type="3" />
+    <compose id="10015" name="Крепкое копье пламени" produce_type="3" />
+    <compose id="10016" name="Крепкое копье стужи" produce_type="3" />
+    <compose id="10017" name="Крепкое копье молний" produce_type="3" />
+    <compose id="10018" name="Крепкое копье правосудия" produce_type="3" />
+    <compose id="10019" name="Крепкое копье шипов" produce_type="3" />
+    <compose id="10020" name="Крепкое копье крови" produce_type="3" />
+    <compose id="10021" name="Крепкий клинок отваги" produce_type="3" />
+    <compose id="10022" name="Крепкий лук искр" produce_type="3" />
+    <compose id="10023" name="Крепкий лук звезд" produce_type="3" />
+    <compose id="10024" name="Крепкий лук шепота" produce_type="3" />
+    <compose id="10025" name="Крепкий лук стража" produce_type="3" />
+    <compose id="10026" name="Крепкий лук лезвия" produce_type="3" />
+    <compose id="10027" name="Крепкий лук феникса" produce_type="3" />
+    <compose id="10028" name="Крепкий лук льдины" produce_type="3" />
+    <compose id="10029" name="Крепкий лук тумана" produce_type="3" />
+    <compose id="10030" name="Крепкий лук комет" produce_type="3" />
+    <compose id="10031" name="Крепкая лира софистики" produce_type="3" />
+    <compose id="10032" name="Крепкая лира жизни" produce_type="3" />
+    <compose id="10033" name="Крепкая лира ожога" produce_type="3" />
+    <compose id="10034" name="Крепкая лира стрекозы" produce_type="3" />
+    <compose id="10035" name="Крепкая лира божества" produce_type="3" />
+    <compose id="10036" name="Крепкая лира хаоса" produce_type="3" />
+    <compose id="10037" name="Крепкая лира тени" produce_type="3" />
+    <compose id="10038" name="Крепкая лира сказаний" produce_type="3" />
+    <compose id="10039" name="Крепкая лира благословения" produce_type="3" />
+    <compose id="10040" name="Крепкий артефакт возврата" produce_type="3" />
+    <compose id="10041" name="Крепкий артефакт демона" produce_type="3" />
+    <compose id="10042" name="Крепкий артефакт жар-птицы" produce_type="3" />
+    <compose id="10043" name="Крепкий артефакт провидца" produce_type="3" />
+    <compose id="10044" name="Крепкий артефакт пустоты" produce_type="3" />
+    <compose id="10045" name="Крепкий артефакт сияния" produce_type="3" />
+    <compose id="10046" name="Крепкий артефакт владыки" produce_type="3" />
+    <compose id="10047" name="Крепкий артефакт пожирателя" produce_type="3" />
+    <compose id="10048" name="Крепкий артефакт правосудия" produce_type="3" />
+	<compose id="10050" name="Крепкая кираса света" produce_type="5" />
+    <compose id="10051" name="Крепкий шлем дракона" produce_type="5" />
+    <compose id="10052" name="Крепкий шлем штурма" produce_type="5" />
+    <compose id="10053" name="Крепкий шлем берсерка" produce_type="5" />
+    <compose id="10054" name="Крепкий шлем истины" produce_type="5" />
+    <compose id="10055" name="Крепкий шлем поднебесья" produce_type="5" />
+    <compose id="10056" name="Крепкий шлем клыка" produce_type="5" />
+    <compose id="10057" name="Крепкий шлем вождя" produce_type="5" />
+	<compose id="10059" name="Крепкая сутана багрянца" produce_type="5" />
+    <compose id="10060" name="Крепкая корона полета" produce_type="5" />
+    <compose id="10061" name="Крепкая корона усердия" produce_type="5" />
+    <compose id="10062" name="Крепкая корона отваги" produce_type="5" />
+    <compose id="10063" name="Крепкая корона элементалей" produce_type="5" />
+    <compose id="10064" name="Крепкая корона возмездия" produce_type="5" />
+    <compose id="10065" name="Крепкая корона тайны" produce_type="5" />
+    <compose id="10066" name="Крепкая корона нечисти" produce_type="5" />
+    <compose id="10068" name="Крепкая кираса веры" produce_type="5" />
+    <compose id="10069" name="Крепкий нагрудник дракона" produce_type="5" />
+    <compose id="10070" name="Крепкий нагрудник штурма" produce_type="5" />
+    <compose id="10071" name="Крепкая кираса берсерка" produce_type="5" />
+    <compose id="10072" name="Крепкая кираса истины" produce_type="5" />
+    <compose id="10073" name="Крепкая кираса поднебесья" produce_type="5" />
+    <compose id="10074" name="Крепкая кираса клыка" produce_type="5" />
+    <compose id="10075" name="Крепкий нагрудник вождя" produce_type="5" />
+    <compose id="10077" name="Крепкая сутана волшебника" produce_type="5" />
+    <compose id="10078" name="Крепкая сутана полёта" produce_type="5" />
+    <compose id="10079" name="Крепкая сутана усердия" produce_type="5" />
+    <compose id="10080" name="Крепкая сутана отваги" produce_type="5" />
+    <compose id="10081" name="Крепкая сутана элементалей" produce_type="5" />
+    <compose id="10082" name="Крепкая сутана возмездия" produce_type="5" />
+    <compose id="10083" name="Крепкая сутана тайны" produce_type="5" />
+    <compose id="10084" name="Крепкая сутана нечисти" produce_type="5" />
+    <compose id="10085" name="Крепкие набедренники света" produce_type="5" />
+    <compose id="10086" name="Крепкие набедренники веры" produce_type="5" />
+    <compose id="10087" name="Крепкие набедренники дракона" produce_type="5" />
+    <compose id="10088" name="Крепкие набедренники штурма" produce_type="5" />
+    <compose id="10089" name="Крепкие набедренники берсерка" produce_type="5" />
+    <compose id="10090" name="Крепкие набедренники истины" produce_type="5" />
+    <compose id="10091" name="Крепкие набедренники поднебесья" produce_type="5" />
+    <compose id="10092" name="Крепкие набедренники клыка" produce_type="5" />
+    <compose id="10093" name="Крепкие набедренники вождя" produce_type="5" />
+    <compose id="10094" name="Крепкие штаны багрянца" produce_type="5" />
+    <compose id="10095" name="Крепкие штаны волшебника" produce_type="5" />
+    <compose id="10096" name="Крепкие штаны полета" produce_type="5" />
+    <compose id="10097" name="Крепкие штаны усердия" produce_type="5" />
+    <compose id="10098" name="Крепкие штаны отваги" produce_type="5" />
+    <compose id="10099" name="Крепкие штаны элементалей" produce_type="5" />
+    <compose id="10100" name="Крепкие штаны возмездия" produce_type="5" />
+    <compose id="10101" name="Крепкие штаны тайны" produce_type="5" />
+    <compose id="10102" name="Крепкие штаны нечисти" produce_type="5" />
+    <compose id="10103" name="Крепкие наручи света" produce_type="5" />
+    <compose id="10104" name="Крепкие наручи веры" produce_type="5" />
+    <compose id="10105" name="Крепкие наручи дракона" produce_type="5" />
+    <compose id="10106" name="Крепкие наручи штурма" produce_type="5" />
+    <compose id="10107" name="Крепкие наручи берсерка" produce_type="5" />
+    <compose id="10108" name="Крепкие наручи истины" produce_type="5" />
+    <compose id="10109" name="Крепкие наручи поднебесья" produce_type="5" />
+    <compose id="10110" name="Крепкие наручи клыка" produce_type="5" />
+    <compose id="10111" name="Крепкие наручи вождя" produce_type="5" />
+    <compose id="10112" name="Крепкие перчатки багрянца" produce_type="5" />
+    <compose id="10113" name="Крепкие перчатки волшебника" produce_type="5" />
+    <compose id="10114" name="Крепкие перчатки полета" produce_type="5" />
+    <compose id="10115" name="Крепкие перчатки усердия" produce_type="5" />
+    <compose id="10116" name="Крепкие перчатки отваги" produce_type="5" />
+    <compose id="10117" name="Крепкие перчатки элементалей" produce_type="5" />
+    <compose id="10118" name="Крепкие перчатки возмездия" produce_type="5" />
+    <compose id="10119" name="Крепкие перчатки тайны" produce_type="5" />
+    <compose id="10120" name="Крепкие перчатки нечисти" produce_type="5" />
+    <compose id="10121" name="Крепкие наголенники света" produce_type="5" />
+    <compose id="10122" name="Крепкие наголенники веры" produce_type="5" />
+    <compose id="10123" name="Крепкие наголенники дракона" produce_type="5" />
+    <compose id="10124" name="Крепкие наголенники штурма" produce_type="5" />
+    <compose id="10125" name="Крепкие наголенники берсерка" produce_type="5" />
+    <compose id="10126" name="Крепкие наголенники истины" produce_type="5" />
+    <compose id="10127" name="Крепкие наголенники поднебесья" produce_type="5" />
+    <compose id="10128" name="Крепкие наголенники клыка" produce_type="5" />
+    <compose id="10129" name="Крепкие наголенники вождя" produce_type="5" />
+    <compose id="10130" name="Крепкие ботинки багрянца" produce_type="5" />
+    <compose id="10131" name="Крепкие ботинки волшебника" produce_type="5" />
+    <compose id="10132" name="Крепкие ботинки полета" produce_type="5" />
+    <compose id="10133" name="Крепкие ботинки усердия" produce_type="5" />
+    <compose id="10134" name="Крепкие ботинки отваги" produce_type="5" />
+    <compose id="10135" name="Крепкие ботинки элементалей" produce_type="5" />
+    <compose id="10136" name="Крепкие ботинки возмездия" produce_type="5" />
+    <compose id="10137" name="Крепкие ботинки тайны" produce_type="5" />
+    <compose id="10138" name="Крепкие ботинки нечисти" produce_type="5" />
+    <compose id="10139" name="Крепкое облачение пламени" produce_type="5" />
+    <compose id="10140" name="Крепкий плащ правосудия" produce_type="5" />
+    <compose id="10141" name="Крепкий плащ защитника" produce_type="5" />
+    <compose id="10142" name="Крепкий плащ крови" produce_type="5" />
+    <compose id="10143" name="Крепкий плащ синевы" produce_type="5" />
+    <compose id="10144" name="Крепкий плащ сияния" produce_type="5" />
+    <compose id="10145" name="Крепкий плащ возмездия" produce_type="5" />
+    <compose id="10146" name="Крепкая накидка клыка" produce_type="5" />
+    <compose id="10147" name="Крепкая накидка вождя" produce_type="5" />
+    <compose id="10148" name="Крепкое кольцо света" produce_type="3" />
+    <compose id="10149" name="Крепкое кольцо веры" produce_type="3" />
+    <compose id="10150" name="Крепкое кольцо дракона" produce_type="3" />
+    <compose id="10151" name="Крепкое кольцо штурма" produce_type="3" />
+    <compose id="10152" name="Крепкое кольцо берсерка" produce_type="3" />
+    <compose id="10153" name="Крепкое кольцо истины" produce_type="3" />
+    <compose id="10154" name="Крепкое кольцо поднебесья" produce_type="3" />
+    <compose id="10155" name="Крепкое кольцо клыка" produce_type="3" />
+    <compose id="10156" name="Крепкое кольцо вождя" produce_type="3" />
+    <compose id="10157" name="Крепкое кольцо багрянца" produce_type="3" />
+    <compose id="10158" name="Крепкое кольцо волшебника" produce_type="3" />
+    <compose id="10159" name="Крепкое кольцо полета" produce_type="3" />
+    <compose id="10160" name="Крепкое кольцо усердия" produce_type="3" />
+    <compose id="10161" name="Крепкое кольцо отваги" produce_type="3" />
+    <compose id="10162" name="Крепкое кольцо элементалей" produce_type="3" />
+    <compose id="10163" name="Крепкое кольцо возмездия" produce_type="3" />
+    <compose id="10164" name="Крепкое кольцо тайны" produce_type="3" />
+    <compose id="10165" name="Крепкое кольцо нечисти" produce_type="3" />
+    <compose id="10166" name="Крепкое ожерелье света" produce_type="3" />
+    <compose id="10167" name="Крепкое ожерелье веры" produce_type="3" />
+    <compose id="10168" name="Крепкое ожерелье дракона" produce_type="3" />
+    <compose id="10169" name="Крепкое ожерелье штурма" produce_type="3" />
+    <compose id="10170" name="Крепкое ожерелье берсерка" produce_type="3" />
+    <compose id="10171" name="Крепкое ожерелье истины" produce_type="3" />
+    <compose id="10172" name="Крепкое ожерелье поднебесья" produce_type="3" />
+    <compose id="10173" name="Крепкое ожерелье клыка" produce_type="3" />
+    <compose id="10174" name="Крепкое ожерелье вождя" produce_type="3" />
+    <compose id="10175" name="Крепкое ожерелье багрянца" produce_type="3" />
+    <compose id="10176" name="Крепкое ожерелье волшебника" produce_type="3" />
+    <compose id="10177" name="Крепкое ожерелье полета" produce_type="3" />
+    <compose id="10178" name="Крепкое ожерелье усердия" produce_type="3" />
+    <compose id="10179" name="Крепкое ожерелье отваги" produce_type="3" />
+    <compose id="10180" name="Крепкое ожерелье элементалей" produce_type="3" />
+    <compose id="10181" name="Крепкое ожерелье воздаяния" produce_type="3" />
+    <compose id="10182" name="Крепкое ожерелье тайны" produce_type="3" />
+    <compose id="10183" name="Крепкое ожерелье нечисти" produce_type="3" />
+    <compose id="10184" name="Крепкий пояс пламени" produce_type="3" />
+    <compose id="10185" name="Крепкий пояс правосудия" produce_type="3" />
+    <compose id="10186" name="Крепкий кушак стража" produce_type="3" />
+    <compose id="10187" name="Крепкий пояс крови" produce_type="3" />
+    <compose id="10188" name="Крепкий пояс синевы" produce_type="3" />
+    <compose id="10189" name="Крепкий кушак сияния" produce_type="3" />
+    <compose id="10190" name="Крепкий кушак возмездия" produce_type="3" />
+    <compose id="10191" name="Крепкий кушак дракона" produce_type="3" />
+    <compose id="10192" name="Крепкий кушак феникса" produce_type="3" />
+    <compose id="10193" name="Обычное сверло" produce_type="3" />
+    <compose id="10194" name="Среднее сверло" produce_type="3" />
+    <compose id="10195" name="Улучшенное сверло" produce_type="3" />
+    <compose id="10196" name="Превосходное сверло" produce_type="3" />
+    <compose id="10197" name="Рецепт оружия [Ур. 20]" produce_type="3" />
+    <compose id="10198" name="Рецепт оружия [Ур. 30]" produce_type="3" />
+    <compose id="10199" name="Рецепт оружия [Ур. 40]" produce_type="3" />
+    <compose id="10200" name="Рецепт оружия [Ур. 50]" produce_type="3" />
+    <compose id="10201" name="Рецепт оружия [Ур. 60]" produce_type="3" />
+    <compose id="10202" name="Рецепт оружия [Ур. 70]" produce_type="3" />
+    <compose id="10203" name="Рецепт оружия [Ур. 80]" produce_type="3" />
+    <compose id="10204" name="Рецепт оружия [Ур. 90]" produce_type="3" />
+    <compose id="10205" name="Рецепт оружия [Ур. 100]" produce_type="3" />
+    <compose id="10206" name="Рецепт аксессуара [Ур. 25]" produce_type="3" />
+    <compose id="10207" name="Рецепт аксессуара [Ур. 35]" produce_type="3" />
+    <compose id="10208" name="Рецепт аксессуара [Ур. 45]" produce_type="3" />
+    <compose id="10209" name="Рецепт аксессуара [Ур. 55]" produce_type="3" />
+    <compose id="10210" name="Рецепт аксессуара [Ур. 65]" produce_type="3" />
+    <compose id="10211" name="Рецепт аксессуара [Ур. 75]" produce_type="3" />
+    <compose id="10212" name="Рецепт аксессуара [Ур. 85]" produce_type="3" />
+    <compose id="10213" name="Рецепт аксессуара [Ур. 95]" produce_type="3" />
+    <compose id="10214" name="Рецепт аксессуара [Ур. 100]" produce_type="3" />
+    <compose id="10215" name="Рецепт доспеха [Ур. 20]" produce_type="5" />
+    <compose id="10216" name="Рецепт доспеха [Ур. 30]" produce_type="5" />
+    <compose id="10217" name="Рецепт доспеха [Ур. 40]" produce_type="5" />
+    <compose id="10218" name="Рецепт доспеха [Ур. 50]" produce_type="5" />
+    <compose id="10219" name="Рецепт доспеха [Ур. 60]" produce_type="5" />
+    <compose id="10220" name="Рецепт доспеха [Ур. 70]" produce_type="5" />
+    <compose id="10221" name="Рецепт доспеха [Ур. 80]" produce_type="5" />
+    <compose id="10222" name="Рецепт доспеха [Ур. 90]" produce_type="5" />
+    <compose id="10223" name="Рецепт доспеха [Ур. 100]" produce_type="5" />
+    <compose id="10224" name="Страшный суд [Ур. 2]" produce_type="9" />
+    <compose id="10225" name="Страшный суд [Ур. 3]" produce_type="9" />
+    <compose id="10226" name="Страшный суд [Ур. 4]" produce_type="9" />
+    <compose id="10227" name="Страшный суд [Ур. 5]" produce_type="9" />
+    <compose id="10228" name="Священное возмездие [Ур. 2]" produce_type="9" />
+    <compose id="10229" name="Священное возмездие [Ур. 3]" produce_type="9" />
+    <compose id="10230" name="Священное возмездие [Ур. 4]" produce_type="9" />
+    <compose id="10231" name="Священное возмездие [Ур. 5]" produce_type="9" />
+    <compose id="10232" name="Священное наказание [Ур. 2]" produce_type="9" />
+    <compose id="10233" name="Священное наказание [Ур. 3]" produce_type="9" />
+    <compose id="10234" name="Священное наказание [Ур. 4]" produce_type="9" />
+    <compose id="10235" name="Священное наказание [Ур. 5]" produce_type="9" />
+    <compose id="10236" name="Священный символ [Ур. 2]" produce_type="9" />
+    <compose id="10237" name="Священный символ [Ур. 3]" produce_type="9" />
+    <compose id="10238" name="Священный символ [Ур. 4]" produce_type="9" />
+    <compose id="10239" name="Священный символ [Ур. 5]" produce_type="9" />
+    <compose id="10240" name="Священное сияние [Ур. 2]" produce_type="9" />
+    <compose id="10241" name="Священное сияние [Ур. 3]" produce_type="9" />
+    <compose id="10242" name="Священное сияние [Ур. 4]" produce_type="9" />
+    <compose id="10243" name="Священное сияние [Ур. 5]" produce_type="9" />
+    <compose id="10244" name="Священная стойкость [Ур. 2]" produce_type="9" />
+    <compose id="10245" name="Священная стойкость [Ур. 3]" produce_type="9" />
+    <compose id="10246" name="Священная стойкость [Ур. 4]" produce_type="9" />
+    <compose id="10247" name="Священная стойкость [Ур. 5]" produce_type="9" />
+    <compose id="10248" name="Священное убежище [Ур. 2]" produce_type="9" />
+    <compose id="10249" name="Священное убежище [Ур. 3]" produce_type="9" />
+    <compose id="10250" name="Священное убежище [Ур. 4]" produce_type="9" />
+    <compose id="10251" name="Священное убежище [Ур. 5]" produce_type="9" />
+    <compose id="10252" name="Священный хаос [Ур. 2]" produce_type="9" />
+    <compose id="10253" name="Священный хаос [Ур. 3]" produce_type="9" />
+    <compose id="10254" name="Священный хаос [Ур. 4]" produce_type="9" />
+    <compose id="10255" name="Священный хаос [Ур. 5]" produce_type="9" />
+    <compose id="10256" name="Священная чистота [Ур. 2]" produce_type="9" />
+    <compose id="10257" name="Священная чистота [Ур. 3]" produce_type="9" />
+    <compose id="10258" name="Священная чистота [Ур. 4]" produce_type="9" />
+    <compose id="10259" name="Священная чистота [Ур. 5]" produce_type="9" />
+    <compose id="10260" name="Священная судьба [Ур. 2]" produce_type="9" />
+    <compose id="10261" name="Священная судьба [Ур. 3]" produce_type="9" />
+    <compose id="10262" name="Священная судьба [Ур. 4]" produce_type="9" />
+    <compose id="10263" name="Священная судьба [Ур. 5]" produce_type="9" />
+    <compose id="10264" name="Священная мудрость [Ур. 2]" produce_type="9" />
+    <compose id="10265" name="Священная мудрость [Ур. 3]" produce_type="9" />
+    <compose id="10266" name="Священная мудрость [Ур. 4]" produce_type="9" />
+    <compose id="10267" name="Священная мудрость [Ур. 5]" produce_type="9" />
+    <compose id="10268" name="Священный свет [Ур. 2]" produce_type="9" />
+    <compose id="10269" name="Священный свет [Ур. 3]" produce_type="9" />
+    <compose id="10270" name="Священный свет [Ур. 4]" produce_type="9" />
+    <compose id="10271" name="Священный свет [Ур. 5]" produce_type="9" />
+    <compose id="10272" name="Солнцевик [Ур. 2]" produce_type="15" />
+    <compose id="10273" name="Солнцевик [Ур. 3]" produce_type="15" />
+    <compose id="10274" name="Солнцевик [Ур. 4]" produce_type="15" />
+    <compose id="10275" name="Солнцевик [Ур. 5]" produce_type="15" />
+    <compose id="10276" name="Солнцевик [Ур. 6]" produce_type="15" />
+    <compose id="10277" name="Солнцевик [Ур. 7]" produce_type="15" />
+    <compose id="10278" name="Солнцевик [Ур. 8]" produce_type="15" />
+    <compose id="10279" name="Лунник [Ур. 2]" produce_type="15" />
+    <compose id="10280" name="Лунник [Ур. 3]" produce_type="15" />
+    <compose id="10281" name="Лунник [Ур. 4]" produce_type="15" />
+    <compose id="10282" name="Лунник [Ур. 5]" produce_type="15" />
+    <compose id="10283" name="Лунник [Ур. 6]" produce_type="15" />
+    <compose id="10284" name="Лунник [Ур. 7]" produce_type="15" />
+    <compose id="10285" name="Лунник [Ур. 8]" produce_type="15" />
+    <compose id="10286" name="Александрит [Ур. 4]" produce_type="15" />
+    <compose id="10287" name="Александрит [Ур. 5]" produce_type="15" />
+    <compose id="10288" name="Александрит [Ур. 6]" produce_type="15" />
+    <compose id="10289" name="Александрит [Ур. 7]" produce_type="15" />
+    <compose id="10290" name="Александрит [Ур. 8]" produce_type="15" />
+    <compose id="10291" name="Большой шаровик [Ур. 4]" produce_type="15" />
+    <compose id="10292" name="Большой шаровик [Ур. 5]" produce_type="15" />
+    <compose id="10293" name="Большой шаровик [Ур. 6]" produce_type="15" />
+    <compose id="10294" name="Большой шаровик [Ур. 7]" produce_type="15" />
+    <compose id="10295" name="Большой шаровик [Ур. 8]" produce_type="15" />
+    <compose id="10296" name="Ляпис [Ур. 2]" produce_type="15" />
+    <compose id="10297" name="Ляпис [Ур. 3]" produce_type="15" />
+    <compose id="10298" name="Ляпис [Ур. 4]" produce_type="15" />
+    <compose id="10299" name="Ляпис [Ур. 5]" produce_type="15" />
+    <compose id="10300" name="Ляпис [Ур. 6]" produce_type="15" />
+    <compose id="10301" name="Ляпис [Ур. 7]" produce_type="15" />
+    <compose id="10302" name="Ляпис [Ур. 8]" produce_type="15" />
+    <compose id="10303" name="Гранат [Ур. 2]" produce_type="15" />
+    <compose id="10304" name="Гранат [Ур. 3]" produce_type="15" />
+    <compose id="10305" name="Гранат [Ур. 4]" produce_type="15" />
+    <compose id="10306" name="Гранат [Ур. 5]" produce_type="15" />
+    <compose id="10307" name="Гранат [Ур. 6]" produce_type="15" />
+    <compose id="10308" name="Гранат [Ур. 7]" produce_type="15" />
+    <compose id="10309" name="Гранат [Ур. 8]" produce_type="15" />
+    <compose id="10310" name="Яркий сапфир [Ур. 4]" produce_type="15" />
+    <compose id="10311" name="Яркий сапфир [Ур. 5]" produce_type="15" />
+    <compose id="10312" name="Яркий сапфир [Ур. 6]" produce_type="15" />
+    <compose id="10313" name="Яркий сапфир [Ур. 7]" produce_type="15" />
+    <compose id="10314" name="Яркий сапфир [Ур. 8]" produce_type="15" />
+    <compose id="10315" name="Топаз [Ур. 4]" produce_type="15" />
+    <compose id="10316" name="Топаз [Ур. 5]" produce_type="15" />
+    <compose id="10317" name="Топаз [Ур. 6]" produce_type="15" />
+    <compose id="10318" name="Топаз [Ур. 7]" produce_type="15" />
+    <compose id="10319" name="Топаз [Ур. 8]" produce_type="15" />
+    <compose id="10320" name="Циркон [Ур. 5]" produce_type="15" />
+    <compose id="10321" name="Циркон [Ур. 6]" produce_type="15" />
+    <compose id="10322" name="Циркон [Ур. 7]" produce_type="15" />
+    <compose id="10323" name="Циркон [Ур. 8]" produce_type="15" />
+    <compose id="10324" name="Янтарь [Ур. 5]" produce_type="15" />
+    <compose id="10325" name="Янтарь [Ур. 6]" produce_type="15" />
+    <compose id="10326" name="Янтарь [Ур. 7]" produce_type="15" />
+    <compose id="10327" name="Янтарь [Ур. 8]" produce_type="15" />
+    <compose id="10328" name="Бриллиант [Ур. 5]" produce_type="15" />
+    <compose id="10329" name="Бриллиант [Ур. 6]" produce_type="15" />
+    <compose id="10330" name="Бриллиант [Ур. 7]" produce_type="15" />
+    <compose id="10331" name="Бриллиант [Ур. 8]" produce_type="15" />
+    <compose id="10332" name="Рубин [Ур. 2]" produce_type="15" />
+    <compose id="10333" name="Рубин [Ур. 3]" produce_type="15" />
+    <compose id="10334" name="Рубин [Ур. 4]" produce_type="15" />
+    <compose id="10335" name="Рубин [Ур. 5]" produce_type="15" />
+    <compose id="10336" name="Рубин [Ур. 6]" produce_type="15" />
+    <compose id="10337" name="Рубин [Ур. 7]" produce_type="15" />
+    <compose id="10338" name="Рубин [Ур. 8]" produce_type="15" />
+    <compose id="10339" name="Сапфир [Ур. 2]" produce_type="15" />
+    <compose id="10340" name="Сапфир [Ур. 3]" produce_type="15" />
+    <compose id="10341" name="Сапфир [Ур. 4]" produce_type="15" />
+    <compose id="10342" name="Сапфир [Ур. 5]" produce_type="15" />
+    <compose id="10343" name="Сапфир [Ур. 6]" produce_type="15" />
+    <compose id="10344" name="Сапфир [Ур. 7]" produce_type="15" />
+    <compose id="10345" name="Сапфир [Ур. 8]" produce_type="15" />
+    <compose id="10346" name="Кровавый сапфир [Ур. 5]" produce_type="15" />
+    <compose id="10347" name="Кровавый сапфир [Ур. 6]" produce_type="15" />
+    <compose id="10348" name="Кровавый сапфир [Ур. 7]" produce_type="15" />
+    <compose id="10349" name="Кровавый сапфир [Ур. 8]" produce_type="15" />
+    <compose id="10350" name="Резной кристалл [Ур. 4]" produce_type="15" />
+    <compose id="10351" name="Резной кристалл [Ур. 5]" produce_type="15" />
+    <compose id="10352" name="Агат [Ур. 4]" produce_type="15" />
+    <compose id="10353" name="Агат [Ур. 5]" produce_type="15" />
+    <compose id="10354" name="Опал [Ур. 4]" produce_type="15" />
+    <compose id="10355" name="Опал [Ур. 5]" produce_type="15" />
+    <compose id="10356" name="Крепкое копье остроты" produce_type="11" />
+    <compose id="10357" name="Крепкий посох святости" produce_type="11" />
+    <compose id="10358" name="Крепкое копье пламени" produce_type="11" />
+    <compose id="10359" name="Крепкое копье стужи" produce_type="11" />
+    <compose id="10360" name="Крепкое копье молний" produce_type="11" />
+    <compose id="10361" name="Крепкое копье правосудия" produce_type="11" />
+    <compose id="10362" name="Крепкое копье шипов" produce_type="11" />
+    <compose id="10363" name="Крепкое копье крови" produce_type="11" />
+    <compose id="10364" name="Крепкий клинок отваги" produce_type="11" />
+    <compose id="10365" name="Крепкий лук искр" produce_type="11" />
+    <compose id="10366" name="Крепкий лук звезд" produce_type="11" />
+    <compose id="10367" name="Крепкий лук шепота" produce_type="11" />
+    <compose id="10368" name="Крепкий лук стража" produce_type="11" />
+    <compose id="10369" name="Крепкий лук лезвия" produce_type="11" />
+    <compose id="10370" name="Крепкий лук феникса" produce_type="11" />
+    <compose id="10371" name="Крепкий лук льдины" produce_type="11" />
+    <compose id="10372" name="Крепкий лук тумана" produce_type="11" />
+    <compose id="10373" name="Крепкий лук комет" produce_type="11" />
+    <compose id="10374" name="Крепкая лира софистики" produce_type="11" />
+    <compose id="10375" name="Крепкая лира жизни" produce_type="11" />
+    <compose id="10376" name="Крепкая лира ожога" produce_type="11" />
+    <compose id="10377" name="Крепкая лира стрекозы" produce_type="11" />
+    <compose id="10378" name="Крепкая лира божества" produce_type="11" />
+    <compose id="10379" name="Крепкая лира хаоса" produce_type="11" />
+    <compose id="10380" name="Крепкая лира тени" produce_type="11" />
+    <compose id="10381" name="Крепкая лира сказаний" produce_type="11" />
+    <compose id="10382" name="Крепкая лира благословения" produce_type="11" />
+    <compose id="10383" name="Крепкий артефакт возврата" produce_type="11" />
+    <compose id="10384" name="Крепкий артефакт демона" produce_type="11" />
+    <compose id="10385" name="Крепкий артефакт жар-птицы" produce_type="11" />
+    <compose id="10386" name="Крепкий артефакт провидца" produce_type="11" />
+    <compose id="10387" name="Крепкий артефакт пустоты" produce_type="11" />
+    <compose id="10388" name="Крепкий артефакт сияния" produce_type="11" />
+    <compose id="10389" name="Крепкий артефакт владыки" produce_type="11" />
+    <compose id="10390" name="Крепкий артефакт пожирателя" produce_type="11" />
+    <compose id="10391" name="Крепкий артефакт правосудия" produce_type="11" />
+    <compose id="10392" name="Крепкий шлем дракона" produce_type="11" />
+    <compose id="10393" name="Крепкий шлем штурма" produce_type="11" />
+    <compose id="10394" name="Крепкий шлем берсерка" produce_type="11" />
+    <compose id="10395" name="Крепкий шлем истины" produce_type="11" />
+    <compose id="10396" name="Крепкий шлем поднебесья" produce_type="11" />
+    <compose id="10397" name="Крепкий шлем клыка" produce_type="11" />
+    <compose id="10398" name="Крепкий шлем вождя" produce_type="11" />
+    <compose id="10399" name="Крепкая корона полета" produce_type="11" />
+    <compose id="10400" name="Крепкая корона усердия" produce_type="11" />
+    <compose id="10401" name="Крепкая корона отваги" produce_type="11" />
+    <compose id="10402" name="Крепкая корона элементалей" produce_type="11" />
+    <compose id="10403" name="Крепкая корона возмездия" produce_type="11" />
+    <compose id="10404" name="Крепкая корона тайны" produce_type="11" />
+    <compose id="10405" name="Крепкая корона нечисти" produce_type="11" />
+    <compose id="10406" name="Крепкая кираса света" produce_type="11" />
+    <compose id="10407" name="Крепкая кираса веры" produce_type="11" />
+    <compose id="10408" name="Крепкий нагрудник дракона" produce_type="11" />
+    <compose id="10409" name="Крепкий нагрудник штурма" produce_type="11" />
+    <compose id="10410" name="Крепкая кираса берсерка" produce_type="11" />
+    <compose id="10411" name="Крепкая кираса истины" produce_type="11" />
+    <compose id="10412" name="Крепкая кираса поднебесья" produce_type="11" />
+    <compose id="10413" name="Крепкая кираса клыка" produce_type="11" />
+    <compose id="10414" name="Крепкий нагрудник вождя" produce_type="11" />
+    <compose id="10415" name="Крепкая сутана багрянца" produce_type="11" />
+    <compose id="10416" name="Крепкая сутана волшебника" produce_type="11" />
+    <compose id="10417" name="Крепкая сутана полёта" produce_type="11" />
+    <compose id="10418" name="Крепкая сутана усердия" produce_type="11" />
+    <compose id="10419" name="Крепкая сутана отваги" produce_type="11" />
+    <compose id="10420" name="Крепкая сутана элементалей" produce_type="11" />
+    <compose id="10421" name="Крепкая сутана возмездия" produce_type="11" />
+    <compose id="10422" name="Крепкая сутана тайны" produce_type="11" />
+    <compose id="10423" name="Крепкая сутана нечисти" produce_type="11" />
+    <compose id="10424" name="Крепкие набедренники света" produce_type="11" />
+    <compose id="10425" name="Крепкие набедренники веры" produce_type="11" />
+    <compose id="10426" name="Крепкие набедренники дракона" produce_type="11" />
+    <compose id="10427" name="Крепкие набедренники штурма" produce_type="11" />
+    <compose id="10428" name="Крепкие набедренники берсерка" produce_type="11" />
+    <compose id="10429" name="Крепкие набедренники истины" produce_type="11" />
+    <compose id="10430" name="Крепкие набедренники поднебесья" produce_type="11" />
+    <compose id="10431" name="Крепкие набедренники клыка" produce_type="11" />
+    <compose id="10432" name="Крепкие набедренники вождя" produce_type="11" />
+    <compose id="10433" name="Крепкие штаны багрянца" produce_type="11" />
+    <compose id="10434" name="Крепкие штаны волшебника" produce_type="11" />
+    <compose id="10435" name="Крепкие штаны полета" produce_type="11" />
+    <compose id="10436" name="Крепкие штаны усердия" produce_type="11" />
+    <compose id="10437" name="Крепкие штаны отваги" produce_type="11" />
+    <compose id="10438" name="Крепкие штаны элементалей" produce_type="11" />
+    <compose id="10439" name="Крепкие штаны возмездия" produce_type="11" />
+    <compose id="10440" name="Крепкие штаны тайны" produce_type="11" />
+    <compose id="10441" name="Крепкие штаны нечисти" produce_type="11" />
+    <compose id="10442" name="Крепкие наручи света" produce_type="11" />
+    <compose id="10443" name="Крепкие наручи веры" produce_type="11" />
+    <compose id="10444" name="Крепкие наручи дракона" produce_type="11" />
+    <compose id="10445" name="Крепкие наручи штурма" produce_type="11" />
+    <compose id="10446" name="Крепкие наручи берсерка" produce_type="11" />
+    <compose id="10447" name="Крепкие наручи истины" produce_type="11" />
+    <compose id="10448" name="Крепкие наручи поднебесья" produce_type="11" />
+    <compose id="10449" name="Крепкие наручи клыка" produce_type="11" />
+    <compose id="10450" name="Крепкие наручи вождя" produce_type="11" />
+    <compose id="10451" name="Крепкие перчатки багрянца" produce_type="11" />
+    <compose id="10452" name="Крепкие перчатки волшебника" produce_type="11" />
+    <compose id="10453" name="Крепкие перчатки полета" produce_type="11" />
+    <compose id="10454" name="Крепкие перчатки усердия" produce_type="11" />
+    <compose id="10455" name="Крепкие перчатки отваги" produce_type="11" />
+    <compose id="10456" name="Крепкие перчатки элементалей" produce_type="11" />
+    <compose id="10457" name="Крепкие перчатки возмездия" produce_type="11" />
+    <compose id="10458" name="Крепкие перчатки тайны" produce_type="11" />
+    <compose id="10459" name="Крепкие перчатки нечисти" produce_type="11" />
+    <compose id="10460" name="Крепкие наголенники света" produce_type="11" />
+    <compose id="10461" name="Крепкие наголенники веры" produce_type="11" />
+    <compose id="10462" name="Крепкие наголенники дракона" produce_type="11" />
+    <compose id="10463" name="Крепкие наголенники штурма" produce_type="11" />
+    <compose id="10464" name="Крепкие наголенники берсерка" produce_type="11" />
+    <compose id="10465" name="Крепкие наголенники истины" produce_type="11" />
+    <compose id="10466" name="Крепкие наголенники поднебесья" produce_type="11" />
+    <compose id="10467" name="Крепкие наголенники клыка" produce_type="11" />
+    <compose id="10468" name="Крепкие наголенники вождя" produce_type="11" />
+    <compose id="10469" name="Крепкие ботинки багрянца" produce_type="11" />
+    <compose id="10470" name="Крепкие ботинки волшебника" produce_type="11" />
+    <compose id="10471" name="Крепкие ботинки полета" produce_type="11" />
+    <compose id="10472" name="Крепкие ботинки усердия" produce_type="11" />
+    <compose id="10473" name="Крепкие ботинки отваги" produce_type="11" />
+    <compose id="10474" name="Крепкие ботинки элементалей" produce_type="11" />
+    <compose id="10475" name="Крепкие ботинки возмездия" produce_type="11" />
+    <compose id="10476" name="Крепкие ботинки тайны" produce_type="11" />
+    <compose id="10477" name="Крепкие ботинки нечисти" produce_type="11" />
+    <compose id="10478" name="Крепкое облачение пламени" produce_type="11" />
+    <compose id="10479" name="Крепкий плащ правосудия" produce_type="11" />
+    <compose id="10480" name="Крепкий плащ защитника" produce_type="11" />
+    <compose id="10481" name="Крепкий плащ крови" produce_type="11" />
+    <compose id="10482" name="Крепкий плащ синевы" produce_type="11" />
+    <compose id="10483" name="Крепкая накидка сияния" produce_type="11" />
+    <compose id="10484" name="Крепкая накидка возмездия" produce_type="11" />
+    <compose id="10485" name="Крепкий плащ клыка" produce_type="11" />
+    <compose id="10486" name="Крепкий плащ вождя" produce_type="11" />
+    <compose id="10487" name="Крепкое кольцо света" produce_type="11" />
+    <compose id="10488" name="Крепкое кольцо веры" produce_type="11" />
+    <compose id="10489" name="Крепкое кольцо дракона" produce_type="11" />
+    <compose id="10490" name="Крепкое кольцо штурма" produce_type="11" />
+    <compose id="10491" name="Крепкое кольцо берсерка" produce_type="11" />
+    <compose id="10492" name="Крепкое кольцо истины" produce_type="11" />
+    <compose id="10493" name="Крепкое кольцо поднебесья" produce_type="11" />
+    <compose id="10494" name="Крепкое кольцо клыка" produce_type="11" />
+    <compose id="10495" name="Крепкое кольцо вождя" produce_type="11" />
+    <compose id="10496" name="Крепкое кольцо багрянца" produce_type="11" />
+    <compose id="10497" name="Крепкое кольцо волшебника" produce_type="11" />
+    <compose id="10498" name="Крепкое кольцо полета" produce_type="11" />
+    <compose id="10499" name="Крепкое кольцо усердия" produce_type="11" />
+    <compose id="10500" name="Крепкое кольцо отваги" produce_type="11" />
+    <compose id="10501" name="Крепкое кольцо элементалей" produce_type="11" />
+    <compose id="10502" name="Крепкое кольцо возмездия" produce_type="11" />
+    <compose id="10503" name="Крепкое кольцо тайны" produce_type="11" />
+    <compose id="10504" name="Крепкое кольцо нечисти" produce_type="11" />
+    <compose id="10505" name="Крепкое ожерелье света" produce_type="11" />
+    <compose id="10506" name="Крепкое ожерелье веры" produce_type="11" />
+    <compose id="10507" name="Крепкое ожерелье дракона" produce_type="11" />
+    <compose id="10508" name="Крепкое ожерелье штурма" produce_type="11" />
+    <compose id="10509" name="Крепкое ожерелье берсерка" produce_type="11" />
+    <compose id="10510" name="Крепкое ожерелье истины" produce_type="11" />
+    <compose id="10511" name="Крепкое ожерелье поднебесья" produce_type="11" />
+    <compose id="10512" name="Крепкое ожерелье клыка" produce_type="11" />
+    <compose id="10513" name="Крепкое ожерелье вождя" produce_type="11" />
+    <compose id="10514" name="Крепкое ожерелье багрянца" produce_type="11" />
+    <compose id="10515" name="Крепкое ожерелье волшебника" produce_type="11" />
+    <compose id="10516" name="Крепкое ожерелье полета" produce_type="11" />
+    <compose id="10517" name="Крепкое ожерелье усердия" produce_type="11" />
+    <compose id="10518" name="Крепкое ожерелье отваги" produce_type="11" />
+    <compose id="10519" name="Крепкое ожерелье элементалей" produce_type="11" />
+    <compose id="10520" name="Крепкое ожерелье воздаяния" produce_type="11" />
+    <compose id="10521" name="Крепкое ожерелье тайны" produce_type="11" />
+    <compose id="10522" name="Крепкое ожерелье нечисти" produce_type="11" />
+    <compose id="10523" name="Крепкий пояс пламени" produce_type="11" />
+    <compose id="10524" name="Крепкий пояс правосудия" produce_type="11" />
+    <compose id="10525" name="Крепкий кушак стража" produce_type="11" />
+    <compose id="10526" name="Крепкий пояс крови" produce_type="11" />
+    <compose id="10527" name="Крепкий пояс синевы" produce_type="11" />
+    <compose id="10528" name="Крепкий кушак сияния" produce_type="11" />
+    <compose id="10529" name="Крепкий кушак возмездия" produce_type="11" />
+    <compose id="10530" name="Крепкий кушак дракона" produce_type="11" />
+    <compose id="10531" name="Крепкий кушак феникса" produce_type="11" />
+	<compose id="10599" name="Обычный ловец душ" produce_type="10" />
+	<compose id="10600" name="Солнцевик 4 - рецепт" produce_type="5" />
+    <compose id="10601" name="Волшебный ловец душ" produce_type="10" />
+    <compose id="10602" name="Улучшенный ловец душ" produce_type="10" />
+    <compose id="10603" name="Мистический ловец душ" produce_type="10" />
+    <compose id="10604" name="Удаление камней [Ур. 1]" produce_type="3" />
+    <compose id="10605" name="Удаление камней [Ур. 2]" produce_type="3" />
+    <compose id="10606" name="Удаление камней [Ур. 3]" produce_type="3" />
+    <compose id="10607" name="Наждачная бумага I" produce_type="5" />
+    <compose id="10608" name="Наждачная бумага II" produce_type="5" />
+    <compose id="10609" name="Наждачная бумага III" produce_type="5" />
+    <compose id="10610" name="Наждачная бумага IV" produce_type="5" />
+    <compose id="10611" name="Обычное точило" produce_type="7" />
+    <compose id="10612" name="Улучшенное точило" produce_type="7" />
+    <compose id="10613" name="Мастерское точило" produce_type="7" />
+    <compose id="10614" name="Превосходное точило" produce_type="7" />
+    <compose id="10615" name="Солнцевик [Ур. 2] [Гран.]" produce_type="13" />
+    <compose id="10616" name="Солнцевик [Ур. 3] [Гран.]" produce_type="13" />
+    <compose id="10617" name="Солнцевик [Ур. 4] [Гран.]" produce_type="13" />
+    <compose id="10618" name="Солнцевик [Ур. 5] [Гран.]" produce_type="13" />
+    <compose id="10619" name="Солнцевик [Ур. 6] [Гран.]" produce_type="13" />
+    <compose id="10620" name="Солнцевик [Ур. 7] [Гран.]" produce_type="13" />
+    <compose id="10621" name="Солнцевик [Ур. 8] [Гран.]" produce_type="13" />
+    <compose id="10622" name="Лунник [Ур. 2] [Гран.]" produce_type="13" />
+    <compose id="10623" name="Лунник [Ур. 3] [Гран.]" produce_type="13" />
+    <compose id="10624" name="Лунник [Ур. 4] [Гран.]" produce_type="13" />
+    <compose id="10625" name="Лунник [Ур. 5] [Гран.]" produce_type="13" />
+    <compose id="10626" name="Лунник [Ур. 6] [Гран.]" produce_type="13" />
+    <compose id="10627" name="Лунник [Ур. 7] [Гран.]" produce_type="13" />
+    <compose id="10628" name="Лунник [Ур. 8] [Гран.]" produce_type="13" />
+	<compose id="10629" name="Ляпис [Ур. 2] [Гран.]" produce_type="13" />
+    <compose id="10630" name="Ляпис [Ур. 3] [Гран.]" produce_type="13" />
+    <compose id="10631" name="Ляпис [Ур. 4] [Гран.]" produce_type="13" />
+    <compose id="10632" name="Ляпис [Ур. 5] [Гран.]" produce_type="13" />
+    <compose id="10633" name="Ляпис [Ур. 6] [Гран.]" produce_type="13" />
+    <compose id="10634" name="Ляпис [Ур. 7] [Гран.]" produce_type="13" />
+    <compose id="10635" name="Ляпис [Ур. 8] [Гран.]" produce_type="13" />
+	<compose id="10636" name="Гранат [Ур. 2] [Гран.]" produce_type="13" />
+    <compose id="10637" name="Гранат [Ур. 3] [Гран.]" produce_type="13" />
+    <compose id="10638" name="Гранат [Ур. 4] [Гран.]" produce_type="13" />
+    <compose id="10639" name="Гранат [Ур. 5] [Гран.]" produce_type="13" />
+    <compose id="10640" name="Гранат [Ур. 6] [Гран.]" produce_type="13" />
+    <compose id="10641" name="Гранат [Ур. 7] [Гран.]" produce_type="13" />
+    <compose id="10642" name="Гранат [Ур. 8] [Гран.]" produce_type="13" />
+	<compose id="10643" name="Бриллиант [Ур. 4] [Гран.]" produce_type="13" />
+    <compose id="10644" name="Бриллиант [Ур. 5] [Гран.]" produce_type="13" />
+    <compose id="10645" name="Бриллиант [Ур. 6] [Гран.]" produce_type="13" />
+    <compose id="10646" name="Бриллиант [Ур. 7] [Гран.]" produce_type="13" />
+    <compose id="10647" name="Бриллиант [Ур. 8] [Гран.]" produce_type="13" />
+	<compose id="10648" name="Рубин [Ур. 2] [Гран.]" produce_type="13" />
+    <compose id="10649" name="Рубин [Ур. 3] [Гран.]" produce_type="13" />
+    <compose id="10650" name="Рубин [Ур. 4] [Гран.]" produce_type="13" />
+    <compose id="10651" name="Рубин [Ур. 5] [Гран.]" produce_type="13" />
+    <compose id="10652" name="Рубин [Ур. 6] [Гран.]" produce_type="13" />
+    <compose id="10653" name="Рубин [Ур. 7] [Гран.]" produce_type="13" />
+    <compose id="10654" name="Рубин [Ур. 8] [Гран.]" produce_type="13" />
+	<compose id="10655" name="Сапфир [Ур. 2] [Гран.]" produce_type="13" />
+    <compose id="10656" name="Сапфир [Ур. 3] [Гран.]" produce_type="13" />
+    <compose id="10657" name="Сапфир [Ур. 4] [Гран.]" produce_type="13" />
+    <compose id="10658" name="Сапфир [Ур. 5] [Гран.]" produce_type="13" />
+    <compose id="10659" name="Сапфир [Ур. 6] [Гран.]" produce_type="13" />
+    <compose id="10660" name="Сапфир [Ур. 7] [Гран.]" produce_type="13" />
+    <compose id="10661" name="Сапфир [Ур. 8] [Гран.]" produce_type="13" />
+	<compose id="10662" name="Кровавый сапфир [Ур. 4] [Гран.]" produce_type="13" />
+    <compose id="10663" name="Кровавый сапфир [Ур. 5] [Гран.]" produce_type="13" />
+    <compose id="10664" name="Кровавый сапфир [Ур. 6] [Гран.]" produce_type="13" />
+    <compose id="10665" name="Кровавый сапфир [Ур. 7] [Гран.]" produce_type="13" />
+    <compose id="10666" name="Кровавый сапфир [Ур. 8] [Гран.]" produce_type="13" />
+    <compose id="10712" name="Демонический рассвет" produce_type="12" />
+    <compose id="10713" name="Демонический приговор" produce_type="12" />
+    <compose id="10714" name="Демонический охотник" produce_type="12" />
+    <compose id="10715" name="Демонический сокрушитель" produce_type="12" />
+    <compose id="10716" name="Демоническая лира покоя" produce_type="12" />
+    <compose id="10717" name="Демоническая лира стона" produce_type="12" />
+    <compose id="10718" name="Демонический артефакт палача" produce_type="12" />
+    <compose id="10719" name="Демонический артефакт истинника" produce_type="12" />
+    <compose id="10720" name="Демонический шлем рассвета" produce_type="12" />
+    <compose id="10721" name="Демонический шлем приговора" produce_type="12" />
+    <compose id="10722" name="Демонический шлем охотника" produce_type="12" />
+    <compose id="10723" name="Демонический шлем огня" produce_type="12" />
+    <compose id="10724" name="Демоническая корона отваги" produce_type="12" />
+    <compose id="10725" name="Демоническая корона истинника" produce_type="12" />
+    <compose id="10726" name="Демоническая корона покоя" produce_type="12" />
+    <compose id="10727" name="Демонический браслет стона" produce_type="12" />
+    <compose id="10728" name="Демонический нагрудник рассвета" produce_type="12" />
+    <compose id="10729" name="Демонический нагрудник приговора" produce_type="12" />
+    <compose id="10730" name="Демоническая бригантина охотника" produce_type="12" />
+    <compose id="10731" name="Демоническая бригантина огня" produce_type="12" />
+    <compose id="10732" name="Демоническая сутана отваги" produce_type="12" />
+    <compose id="10733" name="Демоническая мантия истинника" produce_type="12" />
+    <compose id="10734" name="Демоническая мантия покоя" produce_type="12" />
+    <compose id="10735" name="Демоническая мантия стона" produce_type="12" />
+    <compose id="10736" name="Демонические поножи рассве" produce_type="12" />
+    <compose id="10737" name="Демонические поножи приговора" produce_type="12" />
+    <compose id="10738" name="Демонические штаны охотника" produce_type="12" />
+    <compose id="10739" name="Демонические набедренники огня" produce_type="12" />
+    <compose id="10740" name="Демонические штаны отваги" produce_type="12" />
+    <compose id="10741" name="Демонические бриджи истинника" produce_type="12" />
+    <compose id="10742" name="Демонический килт покоя" produce_type="12" />
+    <compose id="10743" name="Демонический килт стона" produce_type="12" />
+    <compose id="10744" name="Демонические краги рассвета" produce_type="12" />
+    <compose id="10745" name="Демонические краги приговора" produce_type="12" />
+    <compose id="10746" name="Демонические краги охотника" produce_type="12" />
+    <compose id="10747" name="Демонические краги огня" produce_type="12" />
+    <compose id="10748" name="Демонические перчатки отваги" produce_type="12" />
+    <compose id="10749" name="Демонические рукавицы истинника" produce_type="12" />
+    <compose id="10750" name="Демонические рукавицы покоя" produce_type="12" />
+    <compose id="10751" name="Демонические рукавицы стона" produce_type="12" />
+    <compose id="10752" name="Демонические сапоги рассвета" produce_type="12" />
+    <compose id="10753" name="Демонические сапоги приговора" produce_type="12" />
+    <compose id="10754" name="Демонические сапоги охотника" produce_type="12" />
+    <compose id="10755" name="Демонические сапоги огня" produce_type="12" />
+    <compose id="10756" name="Демонические ботинки отваги" produce_type="12" />
+    <compose id="10757" name="Демонические сандалии истинника" produce_type="12" />
+    <compose id="10758" name="Демонические сандалии покоя" produce_type="12" />
+    <compose id="10759" name="Демонические сандалии стона" produce_type="12" />
+    <compose id="10760" name="Демонический плащ рассвета" produce_type="12" />
+    <compose id="10761" name="Демонический плащ приговора" produce_type="12" />
+    <compose id="10762" name="Демонический плащ охотника" produce_type="12" />
+    <compose id="10763" name="Демонический плащ огня" produce_type="12" />
+    <compose id="10764" name="Демонический плащ палача" produce_type="12" />
+    <compose id="10765" name="Демонический плащ истинника" produce_type="12" />
+    <compose id="10766" name="Демонический плащ покоя" produce_type="12" />
+    <compose id="10767" name="Демонический плащ стона" produce_type="12" />
+    <compose id="10768" name="Демоническое кольцо удушья" produce_type="12" />
+    <compose id="10769" name="Демонический кольцо идеала" produce_type="12" />
+    <compose id="10770" name="Демоническое правосудие" produce_type="12" />
+    <compose id="10771" name="Демоническое искупление" produce_type="12" />
+    <compose id="10772" name="Демоническое солнце" produce_type="12" />
+    <compose id="10773" name="Демоническая звезда" produce_type="12" />
+    <compose id="10774" name="Демоническая платина" produce_type="12" />
+    <compose id="10775" name="Демоническая луна" produce_type="12" />
+    <compose id="10776" name="Демоническая жизнь" produce_type="12" />
+    <compose id="10777" name="Демоническое убежище" produce_type="12" />
+    <compose id="10778" name="Демонический кристалл маны" produce_type="12" />
+    <compose id="10779" name="Демоническое хранилище маны" produce_type="12" />
+    <compose id="10795" name="Филе рыбы" produce_type="20" />
+    <compose id="10796" name="Костная мука" produce_type="20" />
+    <compose id="10797" name="Рыбий жир" produce_type="20" />
+    <compose id="10798" name="Печень акулы" produce_type="20" />
+    <compose id="10799" name="Крабовое мясо" produce_type="20" />
+    <compose id="10800" name="Филе угря" produce_type="20" />
+    <compose id="10801" name="Жернов" produce_type="20" />
+    <compose id="10802" name="Манализатор" produce_type="20" />
+    <compose id="10803" name="Фруктовая мука" produce_type="20" />
+    <compose id="10804" name="Горячий джем" produce_type="20" />
+    <compose id="10805" name="Кукурузная мука" produce_type="20" />
+    <compose id="10806" name="Концентрат пшеницы" produce_type="20" />
+    <compose id="10807" name="Сливовая пудра" produce_type="20" />
+    <compose id="10808" name="Кокосовая пудра" produce_type="20" />
+    <!-- <compose id="10809" name="Сушенный аконит" produce_type="20" /> -->
+    <!-- <compose id="10810" name="Сладкая пудра" produce_type="20" /> -->
+    <!-- <compose id="10811" name="Сок тыквы" produce_type="20" /> -->
+    <!-- <compose id="10812" name="Эссенция сакуры" produce_type="20" /> -->
+    <compose id="10813" name="Булка с джемом" produce_type="21" />
+    <compose id="10814" name="Сашими" produce_type="21" />
+    <compose id="10816" name="Жженый сахар" produce_type="21" />
+    <compose id="10817" name="Рыбные чипсы" produce_type="21" />
+    <compose id="10818" name="Кукурузные хлопья" produce_type="21" />
+    <compose id="10819" name="Рафинад" produce_type="21" />
+    <compose id="10821" name="Фрикаделька" produce_type="21" />
+    <compose id="10823" name="Выпечка" produce_type="21" />
+    <compose id="10824" name="Сливянка" produce_type="21" />
+    <compose id="10825" name="Кукурузный суп" produce_type="21" />
+    <compose id="10826" name="Кокосовый пирог" produce_type="21" />
+    <compose id="10827" name="Рисовый шарик" produce_type="21" />
+    <compose id="10828" name="Свежая треска" produce_type="21" />
+    <!-- <compose id="10830" name="Карамелька" produce_type="21" /> -->
+    <!-- <compose id="10831" name="Кекс" produce_type="21" /> -->
+    <!-- <compose id="10832" name="Коктейль" produce_type="21" /> -->
+    <compose id="10833" name="Филе гринды" produce_type="21" />
+    <compose id="10834" name="Пирог с рыбьим жиром" produce_type="21" />
+    <compose id="10835" name="Кусочки угря" produce_type="21" />
+    <compose id="10836" name="Крабовая булочка" produce_type="21" />
+    <compose id="10838" name="Могучая душа огня [Ур. 2]" produce_type="23" />
+    <compose id="10839" name="Могучая душа огня [Ур. 3]" produce_type="23" />
+    <compose id="10840" name="Могучая душа огня [Ур. 4]" produce_type="23" />
+    <compose id="10841" name="Могучая душа огня [Ур. 5]" produce_type="23" />
+    <compose id="10842" name="Могучая душа огня [Ур. 6]" produce_type="23" />
+    <compose id="10843" name="Могучая душа огня [Ур. 7]" produce_type="23" />
+    <compose id="10844" name="Могучая душа огня [Ур. 8]" produce_type="23" />
+    <compose id="10845" name="Могучая душа огня [Ур. 9]" produce_type="23" />
+    <compose id="10846" name="Могучая душа огня [Ур. 10]" produce_type="23" />
+    <compose id="10847" name="Магическая душа тьмы [Ур. 2]" produce_type="23" />
+    <compose id="10848" name="Магическая душа тьмы [Ур. 3]" produce_type="23" />
+    <compose id="10849" name="Магическая душа тьмы [Ур. 4]" produce_type="23" />
+    <compose id="10850" name="Магическая душа тьмы [Ур. 5]" produce_type="23" />
+    <compose id="10851" name="Магическая душа тьмы [Ур. 6]" produce_type="23" />
+    <compose id="10852" name="Магическая душа тьмы [Ур. 7]" produce_type="23" />
+    <compose id="10853" name="Магическая душа тьмы [Ур. 8]" produce_type="23" />
+    <compose id="10854" name="Магическая душа тьмы [Ур. 9]" produce_type="23" />
+    <compose id="10855" name="Магическая душа тьмы [Ур. 10]" produce_type="23" />
+    <compose id="10856" name="Призрачная душа феи [Ур. 2]" produce_type="23" />
+    <compose id="10857" name="Призрачная душа феи [Ур. 3]" produce_type="23" />
+    <compose id="10858" name="Призрачная душа феи [Ур. 4]" produce_type="23" />
+    <compose id="10859" name="Призрачная душа феи [Ур. 5]" produce_type="23" />
+    <compose id="10860" name="Призрачная душа феи [Ур. 6]" produce_type="23" />
+    <compose id="10861" name="Призрачная душа феи [Ур. 7]" produce_type="23" />
+    <compose id="10862" name="Призрачная душа феи [Ур. 8]" produce_type="23" />
+    <compose id="10863" name="Призрачная душа феи [Ур. 9]" produce_type="23" />
+    <compose id="10864" name="Призрачная душа феи [Ур. 10]" produce_type="23" />
+    <compose id="10865" name="Душа защиты земли [Ур. 2]" produce_type="23" />
+    <compose id="10866" name="Душа защиты земли [Ур. 3]" produce_type="23" />
+    <compose id="10867" name="Душа защиты земли [Ур. 4]" produce_type="23" />
+    <compose id="10868" name="Душа защиты земли [Ур. 5]" produce_type="23" />
+    <compose id="10869" name="Душа защиты земли [Ур. 6]" produce_type="23" />
+    <compose id="10870" name="Душа защиты земли [Ур. 7]" produce_type="23" />
+    <compose id="10871" name="Душа защиты земли [Ур. 8]" produce_type="23" />
+    <compose id="10872" name="Душа защиты земли [Ур. 9]" produce_type="23" />
+    <compose id="10873" name="Душа защиты земли [Ур. 10]" produce_type="23" />
+    <compose id="10874" name="Святая душа жизни [Ур. 2]" produce_type="23" />
+    <compose id="10875" name="Святая душа жизни [Ур. 3]" produce_type="23" />
+    <compose id="10876" name="Святая душа жизни [Ур. 4]" produce_type="23" />
+    <compose id="10877" name="Святая душа жизни [Ур. 5]" produce_type="23" />
+    <compose id="10878" name="Святая душа жизни [Ур. 6]" produce_type="23" />
+    <compose id="10879" name="Святая душа жизни [Ур. 7]" produce_type="23" />
+    <compose id="10880" name="Святая душа жизни [Ур. 8]" produce_type="23" />
+    <compose id="10881" name="Святая душа жизни [Ур. 9]" produce_type="23" />
+    <compose id="10882" name="Святая душа жизни [Ур. 10]" produce_type="23" />
+    <compose id="10883" name="Святая душа маны [Ур. 2]" produce_type="23" />
+    <compose id="10884" name="Святая душа маны [Ур. 3]" produce_type="23" />
+    <compose id="10885" name="Святая душа маны [Ур. 4]" produce_type="23" />
+    <compose id="10886" name="Святая душа маны [Ур. 5]" produce_type="23" />
+    <compose id="10887" name="Святая душа маны [Ур. 6]" produce_type="23" />
+    <compose id="10888" name="Святая душа маны [Ур. 7]" produce_type="23" />
+    <compose id="10889" name="Святая душа маны [Ур. 8]" produce_type="23" />
+    <compose id="10890" name="Святая душа маны [Ур. 9]" produce_type="23" />
+    <compose id="10891" name="Святая душа маны [Ур. 10]" produce_type="23" />
+    <compose id="10892" name="Неистовая дивная душа [Ур. 2]" produce_type="23" />
+    <compose id="10893" name="Неистовая дивная душа [Ур. 3]" produce_type="23" />
+    <compose id="10894" name="Неистовая дивная душа [Ур. 4]" produce_type="23" />
+    <compose id="10895" name="Неистовая дивная душа [Ур. 5]" produce_type="23" />
+    <compose id="10896" name="Неистовая дивная душа [Ур. 6]" produce_type="23" />
+    <compose id="10897" name="Неистовая дивная душа [Ур. 7]" produce_type="23" />
+    <compose id="10898" name="Неистовая дивная душа [Ур. 8]" produce_type="23" />
+    <compose id="10899" name="Неистовая дивная душа [Ур. 9]" produce_type="23" />
+    <compose id="10900" name="Неистовая дивная душа [Ур. 10]" produce_type="23" />
+    <compose id="10901" name="Проворная дивная душа [Ур. 2]" produce_type="23" />
+    <compose id="10902" name="Проворная дивная душа [Ур. 3]" produce_type="23" />
+    <compose id="10903" name="Проворная дивная душа [Ур. 4]" produce_type="23" />
+    <compose id="10904" name="Проворная дивная душа [Ур. 5]" produce_type="23" />
+    <compose id="10905" name="Проворная дивная душа [Ур. 6]" produce_type="23" />
+    <compose id="10906" name="Проворная дивная душа [Ур. 7]" produce_type="23" />
+    <compose id="10907" name="Проворная дивная душа [Ур. 8]" produce_type="23" />
+    <compose id="10908" name="Проворная дивная душа [Ур. 9]" produce_type="23" />
+    <compose id="10909" name="Проворная дивная душа [Ур. 10]" produce_type="23" />
+    <compose id="10910" name="Душа сопр. земли [Ур. 2]" produce_type="23" />
+    <compose id="10911" name="Душа сопр. земли [Ур. 3]" produce_type="23" />
+    <compose id="10912" name="Душа сопр. земли [Ур. 4]" produce_type="23" />
+    <compose id="10913" name="Душа сопр. земли [Ур. 5]" produce_type="23" />
+    <compose id="10914" name="Душа сопр. земли [Ур. 6]" produce_type="23" />
+    <compose id="10915" name="Душа сопр. земли [Ур. 7]" produce_type="23" />
+    <compose id="10916" name="Душа сопр. земли [Ур. 8]" produce_type="23" />
+    <compose id="10917" name="Душа сопр. земли [Ур. 9]" produce_type="23" />
+    <compose id="10918" name="Душа сопр. земли [Ур. 10]" produce_type="23" />
+    <compose id="10919" name="Оранжевый леденец [30]" produce_type="22" />
+    <compose id="10920" name="Оранжевый леденец [40]" produce_type="22" />
+    <compose id="10921" name="Оранжевый леденец [50]" produce_type="22" />
+    <compose id="10922" name="Оранжевый леденец [60]" produce_type="22" />
+    <compose id="10923" name="Оранжевый леденец [70]" produce_type="22" />
+    <compose id="10924" name="Оранжевый леденец [80]" produce_type="22" />
+    <compose id="10925" name="Оранжевый венок [30]" produce_type="22" />
+    <compose id="10926" name="Оранжевый венок [40]" produce_type="22" />
+    <compose id="10927" name="Оранжевый венок [50]" produce_type="22" />
+    <compose id="10928" name="Оранжевый венок [60]" produce_type="22" />
+    <compose id="10929" name="Оранжевый венок [70]" produce_type="22" />
+    <compose id="10930" name="Оранжевый венок [80]" produce_type="22" />
+    <compose id="10931" name="Оранжевая брошь [30]" produce_type="22" />
+    <compose id="10932" name="Оранжевая брошь [40]" produce_type="22" />
+    <compose id="10933" name="Оранжевая брошь [50]" produce_type="22" />
+    <compose id="10934" name="Оранжевая брошь [60]" produce_type="22" />
+    <compose id="10935" name="Оранжевая брошь [70]" produce_type="22" />
+    <compose id="10936" name="Оранжевая брошь [80]" produce_type="22" />
+    <compose id="10937" name="Оранжевый колокольчик [30]" produce_type="22" />
+    <compose id="10938" name="Оранжевый колокольчик [40]" produce_type="22" />
+    <compose id="10939" name="Оранжевый колокольчик [50]" produce_type="22" />
+    <compose id="10940" name="Оранжевый колокольчик [60]" produce_type="22" />
+    <compose id="10941" name="Оранжевый колокольчик [70]" produce_type="22" />
+    <compose id="10942" name="Оранжевый колокольчик [80]" produce_type="22" />
+    <compose id="10943" name="Фиолетовый леденец [60]" produce_type="22" />
+    <compose id="10944" name="Фиолетовый леденец [70]" produce_type="22" />
+    <compose id="10945" name="Фиолетовый леденец [80]" produce_type="22" />
+    <compose id="10946" name="Фиолетовый венок [60]" produce_type="22" />
+    <compose id="10947" name="Фиолетовый венок [70]" produce_type="22" />
+    <compose id="10948" name="Фиолетовый венок [80]" produce_type="22" />
+    <compose id="10949" name="Фиолетовая брошь [60]" produce_type="22" />
+    <compose id="10950" name="Фиолетовая брошь [70]" produce_type="22" />
+    <compose id="10951" name="Фиолетовая брошь [80]" produce_type="22" />
+    <compose id="10952" name="Фиолетовый колокольчик [60]" produce_type="22" />
+    <compose id="10953" name="Фиолетовый колокольчик [70]" produce_type="22" />
+    <compose id="10954" name="Фиолетовый колокольчик [80]" produce_type="22" />
+    <compose id="10955" name="Руна удачи [+20]" produce_type="24" />
+    <compose id="10956" name="Мистический ловец душ" produce_type="24" />
+    <compose id="10957" name="Руна стража [+19]" produce_type="24" />
+    <compose id="10958" name="Руна стража [+21]" produce_type="24" />
+    <compose id="10961" name="Чистый эльфийский эликсир" produce_type="24" />
+    <compose id="10962" name="Руна удачи [+15]" produce_type="24" />
+    <compose id="10964" name="Улучшенный ловец душ" produce_type="24" />
+    <compose id="10965" name="Бриллиант [Ур. 4]" produce_type="24" />
+    <compose id="10970" name="Большая руна опыта" produce_type="24" />
+    <compose id="10971" name="Темный кристалл" produce_type="24" />
+    <compose id="10972" name="Камень демонического яда" produce_type="24" />
+    <compose id="10973" name="Солнцевик [Ур. 4]" produce_type="24" />
+    <compose id="10974" name="Лунник [Ур. 4]" produce_type="24" />
+    <compose id="10975" name="Ляпис [Ур. 4]" produce_type="24" />
+    <compose id="10976" name="Гранат [Ур. 4]" produce_type="24" />
+    <compose id="10977" name="Рубин [Ур. 4]" produce_type="24" />
+    <compose id="10978" name="Сапфир [Ур. 4]" produce_type="24" />
+    <compose id="10979" name="Элитное копье агрессии" produce_type="25" />
+    <compose id="10980" name="Элитный лук агрессии" produce_type="25" />
+    <compose id="10981" name="Элитный артефакт мелодии" produce_type="25" />
+    <compose id="10982" name="Элитная лира мелодии" produce_type="25" />
+    <compose id="10983" name="Элитный шлем агрессии" produce_type="25" />
+    <compose id="10984" name="Элитный нагрудник агрессии" produce_type="25" />
+    <compose id="10985" name="Элитные штаны агрессии" produce_type="25" />
+    <compose id="10986" name="Элитные перчатки агрессии" produce_type="25" />
+    <compose id="10987" name="Элитные ботинки агрессии" produce_type="25" />
+    <compose id="10988" name="Элитный плащ агрессии" produce_type="25" />
+    <compose id="10989" name="Элитная шляпа мелодии" produce_type="25" />
+    <compose id="10990" name="Элитная накидка мелодии" produce_type="25" />
+    <compose id="10991" name="Элитные штаны мелодии" produce_type="25" />
+    <compose id="10992" name="Элитные перчатки мелодии" produce_type="25" />
+    <compose id="10993" name="Элитные ботинки мелодии" produce_type="25" />
+    <compose id="10994" name="Элитный плащ мелодии" produce_type="25" />
+    <compose id="10995" name="Элитное кольцо агрессии" produce_type="25" />
+    <compose id="10996" name="Элитное ожерелье агрессии" produce_type="25" />
+    <compose id="10997" name="Элитный пояс агрессии" produce_type="25" />
+    <compose id="10998" name="Элитное кольцо мелодии" produce_type="25" />
+    <compose id="10999" name="Элитное ожерелье мелодии" produce_type="25" />
+    <compose id="11000" name="Элитный пояс мелодии" produce_type="25" />
+    <compose id="11001" name="Элитное копье славы" produce_type="26" />
+    <compose id="11002" name="Элитный лук славы" produce_type="26" />
+    <compose id="11003" name="Элитный артефакт гармонии" produce_type="26" />
+    <compose id="11004" name="Элитная лира гармонии" produce_type="26" />
+    <compose id="11005" name="Элитный шлем славы" produce_type="26" />
+    <compose id="11006" name="Элитная кираса славы" produce_type="26" />
+    <compose id="11007" name="Элитные штаны славы" produce_type="26" />
+    <compose id="11008" name="Элитные перчатки славы" produce_type="26" />
+    <compose id="11009" name="Элитные ботинки славы" produce_type="26" />
+    <compose id="11010" name="Элитный плащ славы" produce_type="26" />
+    <compose id="11011" name="Элитная шляпа гармонии" produce_type="26" />
+    <compose id="11012" name="Элитный доспех гармонии" produce_type="26" />
+    <compose id="11013" name="Элитные штаны гармонии" produce_type="26" />
+    <compose id="11014" name="Элитные перчатки гармонии" produce_type="26" />
+    <compose id="11015" name="Элитные ботинки гармонии" produce_type="26" />
+    <compose id="11016" name="Элитный плащ гармонии" produce_type="26" />
+    <compose id="11017" name="Элитное кольцо славы" produce_type="26" />
+    <compose id="11018" name="Элитное ожерелье славы" produce_type="26" />
+    <compose id="11019" name="Элитный пояс славы" produce_type="26" />
+    <compose id="11020" name="Элитное кольцо гармонии" produce_type="26" />
+    <compose id="11021" name="Элитное ожерелье гармонии" produce_type="26" />
+    <compose id="11022" name="Элитный пояс гармонии" produce_type="26" />
+    <compose id="11023" name="Элитное копье озарения" produce_type="27" />
+    <compose id="11024" name="Элитный лук озарения" produce_type="27" />
+    <compose id="11025" name="Элитный артефакт созвучия" produce_type="27" />
+    <compose id="11026" name="Элитная лира созвучия" produce_type="27" />
+    <compose id="11027" name="Элитный шлем озарения" produce_type="27" />
+    <compose id="11028" name="Элитный доспех озарения" produce_type="27" />
+    <compose id="11029" name="Элитные штаны озарения" produce_type="27" />
+    <compose id="11030" name="Элитные перчатки озарения" produce_type="27" />
+    <compose id="11031" name="Элитные ботинки озарения" produce_type="27" />
+    <compose id="11032" name="Элитный плащ озарения" produce_type="27" />
+    <compose id="11033" name="Элитная шляпа созвучия" produce_type="27" />
+    <compose id="11034" name="Элитный доспех созвучия" produce_type="27" />
+    <compose id="11035" name="Элитные штаны созвучия" produce_type="27" />
+    <compose id="11036" name="Элитные перчатки созвучия" produce_type="27" />
+    <compose id="11037" name="Элитные ботинки созвучия" produce_type="27" />
+    <compose id="11038" name="Элитный плащ созвучия" produce_type="27" />
+    <compose id="11039" name="Элитное кольцо озарения" produce_type="27" />
+    <compose id="11040" name="Элитное ожерелье озарения" produce_type="27" />
+    <compose id="11041" name="Элитный пояс озарения" produce_type="27" />
+    <compose id="11042" name="Элитное кольцо созвучия" produce_type="27" />
+    <compose id="11043" name="Элитное ожерелье созвучия" produce_type="27" />
+    <compose id="11044" name="Элитный пояс созвучия" produce_type="27" />
+    <compose id="11045" name="Святое копье радуги" produce_type="28" />
+    <compose id="11046" name="Святой шлем радуги" produce_type="28" />
+    <compose id="11047" name="Святой доспех радуги" produce_type="28" />
+    <compose id="11048" name="Святые штаны радуги" produce_type="28" />
+    <compose id="11049" name="Святые рукавицы радуги" produce_type="28" />
+    <compose id="11050" name="Святые сапоги радуги" produce_type="28" />
+    <compose id="11051" name="Святой плащ радуги" produce_type="28" />
+    <compose id="11052" name="Святое кольцо радуги" produce_type="28" />
+    <compose id="11053" name="Святой перстень радуги" produce_type="28" />
+    <compose id="11054" name="Святое ожерелье радуги" produce_type="28" />
+    <compose id="11055" name="Святой пояс радуги" produce_type="28" />
+    <compose id="11056" name="Святой лук грозы" produce_type="28" />
+    <compose id="11057" name="Святая шапка грозы" produce_type="28" />
+    <compose id="11058" name="Святой доспех грозы" produce_type="28" />
+    <compose id="11059" name="Святые штаны грозы" produce_type="28" />
+    <compose id="11060" name="Святые перчатки грозы" produce_type="28" />
+    <compose id="11061" name="Святые сапоги грозы" produce_type="28" />
+    <compose id="11062" name="Святой плащ грозы" produce_type="28" />
+    <compose id="11063" name="Святое кольцо грозы" produce_type="28" />
+    <compose id="11064" name="Святой перстень грозы" produce_type="28" />
+    <compose id="11065" name="Святое ожерелье грозы" produce_type="28" />
+    <compose id="11066" name="Святой пояс грозы" produce_type="28" />
+    <compose id="11067" name="Святой артефакт прохлады" produce_type="28" />
+    <compose id="11068" name="Святая шляпа прохлады" produce_type="28" />
+    <compose id="11069" name="Святая кираса прохлады" produce_type="28" />
+    <compose id="11070" name="Святые штаны прохлады" produce_type="28" />
+    <compose id="11071" name="Святые перчатки прохлады" produce_type="28" />
+    <compose id="11072" name="Святые ботинки прохлады" produce_type="28" />
+    <compose id="11073" name="Святая мантия прохлады" produce_type="28" />
+    <compose id="11074" name="Святое кольцо прохлады" produce_type="28" />
+    <compose id="11075" name="Святой перстень прохлады" produce_type="28" />
+    <compose id="11076" name="Святое ожерелье прохлады" produce_type="28" />
+    <compose id="11077" name="Святой пояс прохлады" produce_type="28" />
+    <compose id="11078" name="Святая лира небытия" produce_type="28" />
+    <compose id="11079" name="Святая шляпа небытия" produce_type="28" />
+    <compose id="11080" name="Святой камзол небытия" produce_type="28" />
+    <compose id="11081" name="Святые брюки небытия" produce_type="28" />
+    <compose id="11082" name="Святые перчатки небытия" produce_type="28" />
+    <compose id="11083" name="Святые ботинки небытия" produce_type="28" />
+    <compose id="11084" name="Святой плащ небытия" produce_type="28" />
+    <compose id="11085" name="Святое кольцо небытия" produce_type="28" />
+    <compose id="11086" name="Святой перстень небытия" produce_type="28" />
+    <compose id="11087" name="Святое ожерелье небытия" produce_type="28" />
+    <compose id="11088" name="Святой пояс небытия" produce_type="28" />
+    <compose id="11089" name="Святое копье императора" produce_type="28" />
+    <compose id="11090" name="Святой шлем императора" produce_type="28" />
+    <compose id="11091" name="Святой доспех императора" produce_type="28" />
+    <compose id="11092" name="Святые штаны императора" produce_type="28" />
+    <compose id="11093" name="Святые рукавицы императора" produce_type="28" />
+    <compose id="11094" name="Святые сапоги императора" produce_type="28" />
+    <compose id="11095" name="Святой плащ императора" produce_type="28" />
+    <compose id="11096" name="Святое кольцо императора" produce_type="28" />
+    <compose id="11097" name="Святой перстень императора" produce_type="28" />
+    <compose id="11098" name="Святое ожерелье императора" produce_type="28" />
+    <compose id="11099" name="Святой пояс императора" produce_type="28" />
+    <compose id="11100" name="Святой лук подвига" produce_type="28" />
+    <compose id="11101" name="Святая шапка подвига" produce_type="28" />
+    <compose id="11102" name="Святой доспех подвига" produce_type="28" />
+    <compose id="11103" name="Святые штаны подвига" produce_type="28" />
+    <compose id="11104" name="Святые перчатки подвига" produce_type="28" />
+    <compose id="11105" name="Святые сапоги подвига" produce_type="28" />
+    <compose id="11106" name="Святой плащ подвига" produce_type="28" />
+    <compose id="11107" name="Святое кольцо подвига" produce_type="28" />
+    <compose id="11108" name="Святой перстень подвига" produce_type="28" />
+    <compose id="11109" name="Святое ожерелье подвига" produce_type="28" />
+    <compose id="11110" name="Святой пояс подвига" produce_type="28" />
+    <compose id="11111" name="Святой артефакт мглы" produce_type="28" />
+    <compose id="11112" name="Святая шляпа мглы" produce_type="28" />
+    <compose id="11113" name="Святая кираса мглы" produce_type="28" />
+    <compose id="11114" name="Святые брюки мглы" produce_type="28" />
+    <compose id="11115" name="Святые перчатки мглы" produce_type="28" />
+    <compose id="11116" name="Святые ботинки мглы" produce_type="28" />
+    <compose id="11117" name="Святой плащ мглы" produce_type="28" />
+    <compose id="11118" name="Святое кольцо мглы" produce_type="28" />
+    <compose id="11119" name="Святой перстень мглы" produce_type="28" />
+    <compose id="11120" name="Святое ожерелье мглы" produce_type="28" />
+    <compose id="11121" name="Святой пояс мглы" produce_type="28" />
+    <compose id="11122" name="Святая лира любви" produce_type="28" />
+    <compose id="11123" name="Святая шляпа любви" produce_type="28" />
+    <compose id="11124" name="Святая кираса любви" produce_type="28" />
+    <compose id="11125" name="Святые брюки любви" produce_type="28" />
+    <compose id="11126" name="Святые перчатки любви" produce_type="28" />
+    <compose id="11127" name="Святые ботинки любви" produce_type="28" />
+    <compose id="11128" name="Святой плащ любви" produce_type="28" />
+    <compose id="11129" name="Святое кольцо любви" produce_type="28" />
+    <compose id="11130" name="Святой перстень любви" produce_type="28" />
+    <compose id="11131" name="Святое ожерелье любви" produce_type="28" />
+    <compose id="11132" name="Святой пояс любви" produce_type="28" />
+    <compose id="11139" name="Пламенное сердце[Ур. 5]" produce_type="23" />
+    <compose id="11140" name="Пламенное сердце[Ур. 6]" produce_type="23" />
+    <compose id="11141" name="Пламенное сердце[Ур. 7]" produce_type="23" />
+    <compose id="11142" name="Пламенное сердце[Ур. 8]" produce_type="23" />
+    <compose id="11143" name="Пламенное сердце[Ур. 9]" produce_type="23" />
+    <compose id="11144" name="Пламенное сердце[10 ур.]" produce_type="23" />
+    <compose id="11145" name="Горячее сердце[Ур. 5]" produce_type="23" />
+    <compose id="11146" name="Горячее сердце[Ур. 6]" produce_type="23" />
+    <compose id="11147" name="Горячее сердце[Ур. 7]" produce_type="23" />
+    <compose id="11148" name="Горячее сердце[Ур. 8]" produce_type="23" />
+    <compose id="11149" name="Горячее сердце[Ур. 9]" produce_type="23" />
+    <compose id="11150" name="Горячее сердце[10 ур.]" produce_type="23" />
+    <compose id="11151" name="Порочное сердце[Ур. 5]" produce_type="23" />
+    <compose id="11152" name="Порочное сердце[Ур. 6]" produce_type="23" />
+    <compose id="11153" name="Порочное сердце[Ур. 7]" produce_type="23" />
+    <compose id="11154" name="Порочное сердце[Ур. 8]" produce_type="23" />
+    <compose id="11155" name="Порочное сердце[Ур. 9]" produce_type="23" />
+    <compose id="11156" name="Порочное сердце[10 ур.]" produce_type="23" />
+    <compose id="11157" name="Сердце мрака[Ур. 5]" produce_type="23" />
+    <compose id="11158" name="Сердце мрака[Ур. 6]" produce_type="23" />
+    <compose id="11159" name="Сердце мрака[Ур. 7]" produce_type="23" />
+    <compose id="11160" name="Сердце мрака[Ур. 8]" produce_type="23" />
+    <compose id="11161" name="Сердце мрака[Ур. 9]" produce_type="23" />
+    <compose id="11162" name="Сердце мрака[10 ур.]" produce_type="23" />
+    <compose id="11163" name="Сердце защиты[Ур. 5]" produce_type="23" />
+    <compose id="11164" name="Сердце защиты[Ур. 6]" produce_type="23" />
+    <compose id="11165" name="Сердце защиты[Ур. 7]" produce_type="23" />
+    <compose id="11166" name="Сердце защиты[Ур. 8]" produce_type="23" />
+    <compose id="11167" name="Сердце защиты[Ур. 9]" produce_type="23" />
+    <compose id="11168" name="Сердце защиты[10 ур.]" produce_type="23" />
+    <compose id="11169" name="Невинное сердце[Ур. 5]" produce_type="23" />
+    <compose id="11170" name="Невинное сердце[Ур. 6]" produce_type="23" />
+    <compose id="11171" name="Невинное сердце[Ур. 7]" produce_type="23" />
+    <compose id="11172" name="Невинное сердце[Ур. 8]" produce_type="23" />
+    <compose id="11173" name="Невинное сердце[Ур. 9]" produce_type="23" />
+    <compose id="11174" name="Невинное сердце[10 ур.]" produce_type="23" />
+    <compose id="11175" name="Сердце жалости[Ур. 5]" produce_type="23" />
+    <compose id="11176" name="Сердце жалости[Ур. 6]" produce_type="23" />
+    <compose id="11177" name="Сердце жалости[Ур. 7]" produce_type="23" />
+    <compose id="11178" name="Сердце жалости[Ур. 8]" produce_type="23" />
+    <compose id="11179" name="Сердце жалости[Ур. 9]" produce_type="23" />
+    <compose id="11180" name="Сердце жалости[10 ур.]" produce_type="23" />
+    <compose id="11181" name="Тайное сердце[Ур. 5]" produce_type="23" />
+    <compose id="11182" name="Тайное сердце[Ур. 6]" produce_type="23" />
+    <compose id="11183" name="Тайное сердце[Ур. 7]" produce_type="23" />
+    <compose id="11184" name="Тайное сердце[Ур. 8]" produce_type="23" />
+    <compose id="11185" name="Тайное сердце[Ур. 9]" produce_type="23" />
+    <compose id="11186" name="Тайное сердце[10 ур.]" produce_type="23" />
+    <compose id="11187" name="Разобрать Неистовая дивная душа" produce_type="23" />
+    <compose id="11188" name="Разобрать Неистовая дивная душа" produce_type="23" />
+    <compose id="11189" name="Разобрать Неистовая дивная душа" produce_type="23" />
+    <compose id="11190" name="Разобрать Неистовая дивная душа" produce_type="23" />
+    <compose id="11191" name="Разобрать Неистовая дивная душа" produce_type="23" />
+    <compose id="11192" name="Разобрать Неистовая дивная душа" produce_type="23" />
+    <compose id="11193" name="Разобрать Неистовая дивная душа" produce_type="23" />
+    <compose id="11194" name="Разобрать Неистовая дивная душа" produce_type="23" />
+    <compose id="11195" name="Разобрать Неистовая дивная душа" produce_type="23" />
+    <compose id="11196" name="Разобрать Неистовая дивная душа" produce_type="23" />
+    <compose id="11197" name="Разобрать Призрачная душа феи" produce_type="23" />
+    <compose id="11198" name="Разобрать Призрачная душа феи" produce_type="23" />
+    <compose id="11199" name="Разобрать Призрачная душа феи" produce_type="23" />
+    <compose id="11200" name="Разобрать Призрачная душа феи" produce_type="23" />
+    <compose id="11201" name="Разобрать Призрачная душа феи" produce_type="23" />
+    <compose id="11202" name="Разобрать Призрачная душа феи" produce_type="23" />
+    <compose id="11203" name="Разобрать Призрачная душа феи" produce_type="23" />
+    <compose id="11204" name="Разобрать Призрачная душа феи" produce_type="23" />
+    <compose id="11205" name="Разобрать Призрачная душа феи" produce_type="23" />
+    <compose id="11206" name="Разобрать Призрачная душа феи" produce_type="23" />
+    <compose id="11207" name="Разобрать Проворная дивная душа" produce_type="23" />
+    <compose id="11208" name="Разобрать Проворная дивная душа" produce_type="23" />
+    <compose id="11209" name="Разобрать Проворная дивная душа" produce_type="23" />
+    <compose id="11210" name="Разобрать Проворная дивная душа" produce_type="23" />
+    <compose id="11211" name="Разобрать Проворная дивная душа" produce_type="23" />
+    <compose id="11212" name="Разобрать Проворная дивная душа" produce_type="23" />
+    <compose id="11213" name="Разобрать Проворная дивная душа" produce_type="23" />
+    <compose id="11214" name="Разобрать Проворная дивная душа" produce_type="23" />
+    <compose id="11215" name="Разобрать Проворная дивная душа" produce_type="23" />
+    <compose id="11216" name="Разобрать Проворная дивная душа" produce_type="23" />
+    <compose id="11217" name="Разобрать Святая душа жизни" produce_type="23" />
+    <compose id="11218" name="Разобрать Святая душа жизни" produce_type="23" />
+    <compose id="11219" name="Разобрать Святая душа жизни" produce_type="23" />
+    <compose id="11220" name="Разобрать Святая душа жизни" produce_type="23" />
+    <compose id="11221" name="Разобрать Святая душа жизни" produce_type="23" />
+    <compose id="11222" name="Разобрать Святая душа жизни" produce_type="23" />
+    <compose id="11223" name="Разобрать Святая душа жизни" produce_type="23" />
+    <compose id="11224" name="Разобрать Святая душа жизни" produce_type="23" />
+    <compose id="11225" name="Разобрать Святая душа жизни" produce_type="23" />
+    <compose id="11226" name="Разобрать Святая душа жизни" produce_type="23" />
+    <compose id="11227" name="Разобрать Святая душа маны" produce_type="23" />
+    <compose id="11228" name="Разобрать Святая душа маны" produce_type="23" />
+    <compose id="11229" name="Разобрать Святая душа маны" produce_type="23" />
+    <compose id="11230" name="Разобрать Святая душа маны" produce_type="23" />
+    <compose id="11231" name="Разобрать Святая душа маны" produce_type="23" />
+    <compose id="11232" name="Разобрать Святая душа маны" produce_type="23" />
+    <compose id="11233" name="Разобрать Святая душа маны" produce_type="23" />
+    <compose id="11234" name="Разобрать Святая душа маны" produce_type="23" />
+    <compose id="11235" name="Разобрать Святая душа маны" produce_type="23" />
+    <compose id="11236" name="Разобрать Святая душа маны" produce_type="23" />
+    <compose id="11237" name="Магическое ожерелье +11" produce_type="3" />
+    <compose id="11238" name="Магическое ожерелье +12" produce_type="3" />
+    <compose id="11239" name="Магическое ожерелье +13" produce_type="3" />
+    <compose id="11240" name="Магическое ожерелье +14" produce_type="3" />
+    <compose id="11241" name="Магическое ожерелье +15" produce_type="3" />
+    <compose id="11242" name="Магическое ожерелье +16" produce_type="3" />
+    <compose id="11243" name="Магическое ожерелье +17" produce_type="3" />
+    <compose id="11244" name="Магическое ожерелье +18" produce_type="3" />
+    <compose id="11245" name="Магическое ожерелье +19" produce_type="3" />
+    <compose id="11246" name="Магическое ожерелье +20" produce_type="3" />
+    <compose id="11251" name="Лечебное зелье [бол.]" produce_type="7" />
+    <compose id="11252" name="Сильное лечебное зелье [бол.]" produce_type="7" />
+    <compose id="11253" name="Особое лечебное зелье [бол.]" produce_type="7" />
+    <compose id="11254" name="Гигантское лечебное зелье [бол]" produce_type="7" />
+    <compose id="11255" name="Зелье маны [бол.]" produce_type="7" />
+    <compose id="11256" name="Сильное зелье маны [бол.]" produce_type="7" />
+    <compose id="11257" name="Особое зелье маны [бол.]" produce_type="7" />
+    <compose id="11258" name="Гигантское зелье маны [бол.]" produce_type="7" />
+    <compose id="11259" name="Эссенция эфира 2 ур." produce_type="7" />
+    <compose id="11260" name="Эссенция эфира 3 ур." produce_type="7" />
+    <compose id="11261" name="Эссенция эфира 4 ур." produce_type="7" />
+    <compose id="11262" name="Эссенция эфира 5 ур." produce_type="7" />
+    <compose id="11263" name="Чудесное копье шипов" produce_type="3" />
+    <compose id="11264" name="Чудесный лук льдины" produce_type="3" />
+    <compose id="11265" name="Чудесная музыка тени" produce_type="3" />
+    <compose id="11266" name="Чудесный артефакт владыки" produce_type="3" />
+    <compose id="11267" name="Астральный шлем поднебесья" produce_type="5" />
+    <compose id="11268" name="Астральная корона возмездия" produce_type="5" />
+    <compose id="11269" name="Астральная кираса поднебесья" produce_type="5" />
+    <compose id="11270" name="Астральная сутана возмездия" produce_type="5" />
+    <compose id="11271" name="Астрал. набедренники поднебесья" produce_type="5" />
+    <compose id="11272" name="Астральные штаны возмездия" produce_type="5" />
+    <compose id="11273" name="Астральные наручи поднебесья" produce_type="5" />
+    <compose id="11274" name="Астральные перчатки возмездия" produce_type="5" />
+    <compose id="11275" name="Астрал. наголенники поднебесья" produce_type="5" />
+    <compose id="11276" name="Астральные ботинки возмездия" produce_type="5" />
+    <compose id="11277" name="Астральная накидка хаоса [Маг]" produce_type="5" />
+    <compose id="11278" name="Чудесное кольцо поднебесья" produce_type="3" />
+    <compose id="11279" name="Чудесное кольцо возмездия" produce_type="3" />
+    <compose id="11280" name="Чудесное ожерелье поднебесья" produce_type="3" />
+    <compose id="11281" name="Чудесное ожерелье возмездия" produce_type="3" />
+    <compose id="11282" name="Чудесный пояс хаоса [Физ]" produce_type="3" />
+    <compose id="11283" name="Чудесный пояс хаоса [Маг]" produce_type="3" />
+	<compose id="11284" name="Астральная накидка хаоса [Физ]" produce_type="5" />
+    <compose id="11285" name="Священный шлем вождя" produce_type="5" />
+    <compose id="11286" name="Священная шапка зодиака" produce_type="5" />
+    <compose id="11287" name="Священная корона предателя" produce_type="5" />
+    <compose id="11288" name="Священная корона истины" produce_type="5" />
+    <compose id="11289" name="Священный доспех вождя" produce_type="5" />
+    <compose id="11290" name="Священная кираса зодиака" produce_type="5" />
+    <compose id="11291" name="Священная сутана предателя" produce_type="5" />
+    <compose id="11292" name="Священная сутана истины" produce_type="5" />
+    <compose id="11293" name="Священные поножи вождя" produce_type="5" />
+    <compose id="11294" name="Священные штаны зодиака" produce_type="5" />
+    <compose id="11295" name="Священные штаны предателя" produce_type="5" />
+    <compose id="11296" name="Священные штаны истины" produce_type="5" />
+    <compose id="11297" name="Священные краги вождя" produce_type="5" />
+    <compose id="11298" name="Священные перчатки зодиака" produce_type="5" />
+    <compose id="11299" name="Священные перчатки предателя" produce_type="5" />
+    <compose id="11300" name="Священные перчатки истины" produce_type="5" />
+    <compose id="11301" name="Священные сапоги вождя" produce_type="5" />
+    <compose id="11302" name="Священные ботинки зодиака" produce_type="5" />
+    <compose id="11303" name="Священные ботинки предателя" produce_type="5" />
+    <compose id="11304" name="Священные ботинки истины" produce_type="5" />
+    <compose id="11305" name="Священный плащ вождя" produce_type="5" />
+    <compose id="11306" name="Священный плащ зодиака" produce_type="5" />
+    <compose id="11307" name="Священная мантия предателя" produce_type="5" />
+    <compose id="11308" name="Священный плащ истины" produce_type="5" />
+    <compose id="11309" name="Выносливость Тардии" produce_type="3" />
+    <compose id="11310" name="Сердце Офены" produce_type="3" />
+    <compose id="11311" name="Погибель Аши" produce_type="3" />
+    <compose id="11312" name="Благословление Ройффина" produce_type="3" />
+    <compose id="11313" name="Вера Тардии" produce_type="3" />
+    <compose id="11314" name="Дух Офены" produce_type="3" />
+    <compose id="11315" name="Обольщение Аши" produce_type="3" />
+    <compose id="11316" name="Очищение Ройффина" produce_type="3" />
+    <compose id="11317" name="Защита Тардии" produce_type="3" />
+    <compose id="11318" name="Свет Офены" produce_type="3" />
+    <compose id="11319" name="Предсказание Аши" produce_type="3" />
+    <compose id="11320" name="Чистота Ройффина" produce_type="3" />
+    <compose id="11333" name="Солнцевик [Ур. 9]" produce_type="15" />
+    <compose id="11334" name="Лунник [Ур. 9]" produce_type="15" />
+    <compose id="11335" name="Александрит [Ур. 9]" produce_type="15" />
+    <compose id="11336" name="Большой шаровик [Ур. 9]" produce_type="15" />
+    <compose id="11337" name="Ляпис [Ур. 9]" produce_type="15" />
+    <compose id="11338" name="Гранат [Ур. 9]" produce_type="15" />
+    <compose id="11339" name="Яркий сапфир [Ур. 9]" produce_type="15" />
+    <compose id="11340" name="Бриллиант [Ур. 9]" produce_type="15" />
+    <compose id="11341" name="Рубин [Ур. 9]" produce_type="15" />
+    <compose id="11342" name="Сапфир [Ур. 9]" produce_type="15" />
+    <compose id="11343" name="Кровавый сапфир [Ур. 9]" produce_type="15" />
+    <compose id="11344" name="Топаз [Ур. 9]" produce_type="15" />
+    <compose id="11345" name="Циркон [Ур. 9]" produce_type="15" />
+    <compose id="11346" name="Янтарь [Ур. 9]" produce_type="15" />
+    <compose id="11347" name="Солнцевик [Ур.9] [Гран.]" produce_type="13" />
+    <compose id="11348" name="Лунник [Ур.9] [Гран.]" produce_type="13" />
+    <compose id="11349" name="Ляпис [Ур. 9] [Гран.]" produce_type="13" />
+    <compose id="11350" name="Гранат [Ур. 9] [Гран.]" produce_type="13" />
+    <compose id="11351" name="Бриллиант [Ур. 9] [Гран.]" produce_type="13" />
+    <compose id="11352" name="Рубин [Ур. 9] [Гран.]" produce_type="13" />
+    <compose id="11353" name="Сапфир [Ур. 9] [Гран.]" produce_type="13" />
+    <compose id="11354" name="Кровавый сапфир [Ур. 9] [Гран.]" produce_type="13" />
+    <compose id="11355" name="Диамант [Ур. 9] [Гран.]" produce_type="13" />
+    <!-- <compose id="11356" name="Могучая огненная душа Ур. 8 [+]" produce_type="39" /> -->
+    <!-- <compose id="11357" name="Могучая огненная душа Ур. 9 [+]" produce_type="39" /> -->
+    <!-- <compose id="11358" name="Дивная душа [+]" produce_type="39" /> -->
+    <!-- <compose id="11359" name="Магическая темная душа Ур. 8 [+]" produce_type="39" /> -->
+    <!-- <compose id="11360" name="Магическая темная душа Ур. 9 [+]" produce_type="39" /> -->
+    <!-- <compose id="11361" name="Демоническая душа [+]" produce_type="39" /> -->
+    <!-- <compose id="11362" name="Дивная призрачная душа Ур. 8 [+]" produce_type="39" /> -->
+    <!-- <compose id="11363" name="Дивная призрачная душа Ур. 9 [+]" produce_type="39" /> -->
+    <!-- <compose id="11364" name="Душа феи [+]" produce_type="39" /> -->
+    <!-- <compose id="11365" name="Душа защиты земли Ур. 8 [+]" produce_type="39" /> -->
+    <!-- <compose id="11366" name="Душа защиты земли Ур. 9 [+]" produce_type="39" /> -->
+    <!-- <compose id="11367" name="Душа воина-защитника [+]" produce_type="39" /> -->
+    <!-- <compose id="11368" name="Святая душа жизни Ур. 8 [+]" produce_type="39" /> -->
+    <!-- <compose id="11369" name="Святая душа жизни Ур. 9 [+]" produce_type="39" /> -->
+    <!-- <compose id="11370" name="Живая душа [+]" produce_type="39" /> -->
+    <!-- <compose id="11371" name="Святая душа маны Ур. 8 [+]" produce_type="39" /> -->
+    <!-- <compose id="11372" name="Святая душа маны Ур. 9 [+]" produce_type="39" /> -->
+    <!-- <compose id="11373" name="Душа маны [+]" produce_type="39" /> -->
+    <!-- <compose id="11374" name="Неистовая дивная душа Ур. 8 [+]" produce_type="39" /> -->
+    <!-- <compose id="11375" name="Неистовая дивная душа Ур. 9 [+]" produce_type="39" /> -->
+    <!-- <compose id="11376" name="Демоническая душа [+]" produce_type="39" /> -->
+    <!-- <compose id="11377" name="Проворная дивная душа Ур. 8 [+]" produce_type="39" /> -->
+    <!-- <compose id="11378" name="Проворная дивная душа Ур. 9 [+]" produce_type="39" /> -->
+    <!-- <compose id="11379" name="Мифическая душа [+]" produce_type="39" /> -->
+    <!-- <compose id="11380" name="Душа сопр. земли Ур. 8 [+]" produce_type="39" /> -->
+    <!-- <compose id="11381" name="Душа сопр. земли Ур. 9 [+]" produce_type="39" /> -->
+    <!-- <compose id="11382" name="Душа сопротивления [+]" produce_type="39" /> -->
+    <compose id="11383" name="[Огонь] Душа мага" produce_type="39" />
+    <compose id="11384" name="[Вода] Духовная благодать низкого уровня" produce_type="39" />
+    <compose id="11385" name="[Вода] Духовная благодать среднего уровня" produce_type="39" />
+    <compose id="11386" name="[Вода] Духовная благодать высокого уровня" produce_type="39" />
+    <compose id="11387" name="[Земля] Душа воина" produce_type="39" />
+    <compose id="11388" name="[Ветер] Дыхание ветра низкого уровня" produce_type="39" />
+    <compose id="11389" name="[Ветер] Дыхание ветра среднего уровня" produce_type="39" />
+    <compose id="11390" name="[Ветер] Дыхание ветра высокого уровня" produce_type="39" />
+    <compose id="11391" name="[Свет] Страж света I" produce_type="39" />
+    <compose id="11392" name="[Свет] Страж света II" produce_type="39" />
+    <compose id="11393" name="[Свет] Страж света III" produce_type="39" />
+    <compose id="11394" name="[Свет] Страж света IV" produce_type="39" />
+    <compose id="11395" name="[Свет] Страж света V" produce_type="39" />
+    <compose id="11396" name="[Тьма] Страж зла I" produce_type="39" />
+    <compose id="11397" name="[Тьма] Страж зла II" produce_type="39" />
+    <compose id="11398" name="[Тьма] Страж зла III" produce_type="39" />
+    <compose id="11399" name="[Тьма] Страж зла IV" produce_type="39" />
+    <compose id="11400" name="[Тьма] Страж зла V" produce_type="39" />
+    <compose id="11401" name="Сердце жалости духов [Ур. 8]" produce_type="23" />
+    <compose id="11402" name="Сердце жалости духов [Ур. 9]" produce_type="23" />
+    <compose id="11403" name="Сердце жалости духов [Ур. 10]" produce_type="23" />
+    <compose id="11404" name="Горячее сердце духов [Ур. 8]" produce_type="23" />
+    <compose id="11405" name="Горячее сердце духов [Ур. 9]" produce_type="23" />
+    <compose id="11406" name="Горячее сердце духов [Ур. 10]" produce_type="23" />
+    <compose id="11407" name="Пламенное сердце духов [Ур. 8]" produce_type="23" />
+    <compose id="11408" name="Пламенное сердце духов [Ур. 9]" produce_type="23" />
+    <compose id="11409" name="Пламенное сердце духов [Ур. 10]" produce_type="23" />
+    <compose id="11410" name="Порочное сердце духов [Ур. 8]" produce_type="23" />
+    <compose id="11411" name="Порочное сердце духов [Ур. 9]" produce_type="23" />
+    <compose id="11412" name="Порочное сердце духов [Ур. 10]" produce_type="23" />
+    <compose id="11413" name="Сердце мрака духов [Ур. 8]" produce_type="23" />
+    <compose id="11414" name="Сердце мрака духов [Ур. 9]" produce_type="23" />
+    <compose id="11415" name="Сердце мрака духов [Ур. 10]" produce_type="23" />
+    <compose id="11416" name="Сердце защиты духов [Ур. 8]" produce_type="23" />
+    <compose id="11417" name="Сердце защиты духов [Ур. 9]" produce_type="23" />
+    <compose id="11418" name="Сердце защиты духов [Ур. 10]" produce_type="23" />
+    <compose id="11419" name="Невинное сердце духов [Ур. 8]" produce_type="23" />
+    <compose id="11420" name="Невинное сердце духов [Ур. 9]" produce_type="23" />
+    <compose id="11421" name="Невинное сердце духов [Ур. 10]" produce_type="23" />
+    <compose id="11422" name="Тайное сердце духов [Ур. 8]" produce_type="23" />
+    <compose id="11423" name="Тайное сердце духов [Ур. 9]" produce_type="23" />
+    <compose id="11424" name="Тайное сердце духов [Ур. 10]" produce_type="23" />
+    <compose id="11425" name="Королевский меч" produce_type="41" />
+    <compose id="11426" name="Королевский лук" produce_type="41" />
+    <compose id="11427" name="Королевский топор" produce_type="41" />
+    <compose id="11428" name="Королевский захват" produce_type="41" />
+    <compose id="11429" name="Королевский артефакт" produce_type="41" />
+    <compose id="11430" name="Королевский печать" produce_type="41" />
+    <compose id="11431" name="Королевский щит" produce_type="41" />
+    <compose id="11432" name="Королевское сердце" produce_type="41" />
+    <compose id="11433" name="Королевский крыло" produce_type="41" />
+    <compose id="11434" name="Королевский шлем" produce_type="41" />
+    <compose id="11435" name="Шлем небесного воина" produce_type="41" />
+    <compose id="11436" name="Панцирь небесный воина" produce_type="41" />
+    <compose id="11437" name="Поножи небесного воина" produce_type="41" />
+    <compose id="11438" name="Карающий меч" produce_type="41" />
+    <compose id="11439" name="Наручи собирателя звезд" produce_type="41" />
+    <compose id="11440" name="Шлем собирателя звезд" produce_type="41" />
+    <compose id="11441" name="Панцирь собирателя звезд" produce_type="41" />
+    <compose id="11442" name="Лук мастера-стрелка" produce_type="41" />
+    <compose id="11443" name="Шлем песнопения" produce_type="41" />
+    <compose id="11444" name="Наручи песнопения" produce_type="41" />
+    <compose id="11445" name="Поножи песнопения" produce_type="41" />
+    <compose id="11446" name="Увядающий мир снов" produce_type="41" />
+    <compose id="11447" name="Пояс из черного железа" produce_type="41" />
+    <compose id="11448" name="Кинжал из черного железа" produce_type="41" />
+    <compose id="11449" name="Плах из призрачной стали" produce_type="41" />
+    <compose id="11450" name="Поножи из призрачной стали" produce_type="41" />
+    <compose id="11451" name="Шлем убийцы духов" produce_type="41" />
+    <compose id="11452" name="Панцирь убийцы духов" produce_type="41" />
+    <compose id="11453" name="Щит убийцы духов" produce_type="41" />
+    <compose id="11454" name="Сломанный осколок" produce_type="41" />
+    <compose id="11455" name="Душа хранителя духов" produce_type="41" />
+    <compose id="11456" name="Сущность хранителя духов" produce_type="41" />
+    <compose id="11457" name="Сердце хранителя духов" produce_type="41" />
+    <compose id="11458" name="Маска хранителя духов" produce_type="41" />
+    <compose id="11459" name="Шлем звуков природы" produce_type="41" />
+    <compose id="11460" name="Поножи звуков природы" produce_type="41" />
+    <compose id="11461" name="Рубашка звуков природы" produce_type="41" />
+    <compose id="11462" name="Крылья Духа" produce_type="41" />
+    <compose id="11463" name="Поножи суеверия" produce_type="41" />
+    <compose id="11464" name="Шлем суеверия" produce_type="41" />
+    <compose id="11465" name="Панцирь суеверия" produce_type="41" />
+    <compose id="11466" name="Когти мрака" produce_type="41" />
+    <compose id="11467" name="Наручи гибели рода" produce_type="41" />
+    <compose id="11468" name="Крылья Гибель рода" produce_type="41" />
+    <compose id="11469" name="Защита Гибель рода" produce_type="41" />
+    <compose id="11470" name="Суд Гибель рода" produce_type="41" />
+    <compose id="11471" name="Крылья Феникса" produce_type="41" />
+    <compose id="11472" name="Клюв Феникса" produce_type="41" />
+    <compose id="11473" name="Чистый камень души сред. ур." produce_type="41" />
+    <compose id="11474" name="Чистый камень души выс. ур." produce_type="41" />
+    <compose id="11475" name="Золотой чистый камень" produce_type="41" />
+    <compose id="11476" name="Чистый кристалл души" produce_type="41" />
+    <compose id="11477" name="Таинственный кристалл" produce_type="41" />
+    <compose id="11478" name="Кристалл особой силы" produce_type="41" />
+    <compose id="11479" name="Сломанный драгоценный камень" produce_type="41" />
+    <compose id="11480" name="Дефектный драгоценный камень" produce_type="41" />
+    <compose id="11481" name="Совершенный драгоценный камень" produce_type="41" />
+    <compose id="11482" name="Осколок фиолетового камня" produce_type="41" />
+    <compose id="11483" name="Ядро души эльфа [100]" produce_type="42" />
+    <compose id="11496" name="Жемчуг [Ур. 7] [Гран.]" produce_type="13" />
+    <compose id="11497" name="Жемчуг [Ур. 8] [Гран.]" produce_type="13" />
+    <compose id="11498" name="Жемчуг [Ур. 9] [Гран.]" produce_type="13" />
+    <compose id="11505" name="Меч из булатной стали" produce_type="43" />
+    <compose id="11506" name="Меч палача" produce_type="43" />
+    <compose id="11507" name="Копье цветка груши" produce_type="43" />
+    <compose id="11508" name="Меч из черного железа" produce_type="43" />
+    <compose id="11509" name="Меч Песнь феникса" produce_type="43" />
+    <compose id="11510" name="Копье демона" produce_type="43" />
+    <compose id="11511" name="Мощь Титанов" produce_type="43" />
+    <compose id="11512" name="Клинок Судного дня" produce_type="43" />
+    <compose id="11513" name="Пригоршня неба" produce_type="43" />
+    <compose id="11514" name="Огненный посох" produce_type="43" />
+    <compose id="11515" name="Книга черной магии" produce_type="43" />
+    <compose id="11516" name="Сила расстворения" produce_type="43" />
+    <compose id="11517" name="Ослепительный посох" produce_type="43" />
+    <compose id="11518" name="Книга Кая" produce_type="43" />
+    <compose id="11519" name="Темная кость" produce_type="43" />
+    <compose id="11520" name="Волшебная палочка мороза" produce_type="43" />
+    <compose id="11521" name="Канон разрушения" produce_type="43" />
+    <compose id="11522" name="Магическая реликвия" produce_type="43" />
+    <compose id="11523" name="Железный эфес" produce_type="43" />
+    <compose id="11524" name="Терновый эфес" produce_type="43" />
+    <compose id="11525" name="Эфес кракена" produce_type="43" />
+    <compose id="11526" name="Эфес из чистой стали" produce_type="43" />
+    <compose id="11527" name="Пламенный эфес" produce_type="43" />
+    <compose id="11528" name="Кристальный эфес" produce_type="43" />
+    <compose id="11529" name="Драгоценный форт" produce_type="43" />
+    <compose id="11530" name="Оберег на руку" produce_type="43" />
+    <compose id="11531" name="Защита Титанов" produce_type="43" />
+    <compose id="11532" name="Рубашка из волчьей шкуры" produce_type="43" />
+    <compose id="11533" name="Призрачная пряжа" produce_type="43" />
+    <compose id="11534" name="Рубашка для рукопашной" produce_type="43" />
+    <compose id="11535" name="Красная шуба" produce_type="43" />
+    <compose id="11536" name="Снежное одеяние" produce_type="43" />
+    <compose id="11537" name="Рубашка для сильной атаки" produce_type="43" />
+    <compose id="11538" name="Звериный доспех" produce_type="43" />
+    <compose id="11539" name="Радужная одежда" produce_type="43" />
+    <compose id="11540" name="Боевая одежда" produce_type="43" />
+    <compose id="11541" name="Поножи из булатной стали" produce_type="43" />
+    <compose id="11542" name="Юбка из тигриной шкуры" produce_type="43" />
+    <compose id="11543" name="Поножи наёмника" produce_type="43" />
+    <compose id="11544" name="Поножи из чистой стали" produce_type="43" />
+    <compose id="11545" name="Юбка Феникса" produce_type="43" />
+    <compose id="11546" name="Рыцарские поножи" produce_type="43" />
+    <compose id="11547" name="Криптонитовые поножи" produce_type="43" />
+    <compose id="11548" name="Пыльная красивая юбка" produce_type="43" />
+    <compose id="11549" name="Княжеские поножи" produce_type="43" />
+    <compose id="11550" name="Шлем из булатной стали" produce_type="43" />
+    <compose id="11551" name="Золотая шляпа" produce_type="43" />
+    <compose id="11552" name="Соболиная шляпа" produce_type="43" />
+    <compose id="11553" name="Бриллиантовый шлем" produce_type="43" />
+    <compose id="11554" name="Корона традиций" produce_type="43" />
+    <compose id="11555" name="Шляпа зеленого удава" produce_type="43" />
+    <compose id="11556" name="Железный шлем зла" produce_type="43" />
+    <compose id="11557" name="Шлем из булатной стали" produce_type="43" />
+    <compose id="11558" name="Капюшон метеора" produce_type="43" />
+    <compose id="11559" name="Пояс силы" produce_type="43" />
+    <compose id="11560" name="Пояс из льда" produce_type="43" />
+    <compose id="11561" name="Пояс угасания духа" produce_type="43" />
+    <compose id="11562" name="Сапоги из чистой стали" produce_type="43" />
+    <compose id="11563" name="Сапоги питона" produce_type="43" />
+    <compose id="11564" name="Нога небесного воина" produce_type="43" />
+    <compose id="11565" name="Ожерелье скелета" produce_type="43" />
+    <compose id="11566" name="Святой талисман" produce_type="43" />
+    <compose id="11567" name="Небесная реликвия" produce_type="43" />
+    <compose id="11568" name="Стальное копье измельчения" produce_type="43" />
+    <compose id="11569" name="Книга Ящерицы" produce_type="43" />
+    <compose id="11570" name="Защита старшего брата" produce_type="43" />
+    <compose id="11571" name="Кольцо порочного духа" produce_type="43" />
+    <compose id="11572" name="Око сансары" produce_type="43" />
+    <compose id="11573" name="Жемчужина душ" produce_type="43" />
+    <compose id="11574" name="Копье яркой души" produce_type="43" />
+    <compose id="11575" name="Посох яркой души" produce_type="43" />
+    <compose id="11576" name="Наручи яркой души" produce_type="43" />
+    <compose id="11577" name="Кираса яркой души" produce_type="43" />
+    <compose id="11578" name="Поножи яркой души" produce_type="43" />
+    <compose id="11579" name="Шлем яркой души" produce_type="43" />
+    <compose id="11580" name="Копье кровавого духа" produce_type="43" />
+    <compose id="11581" name="Посох кровавого духа" produce_type="43" />
+    <compose id="11582" name="Наручи кровавого духа" produce_type="43" />
+    <compose id="11583" name="Кираса кровавого духа" produce_type="43" />
+    <compose id="11584" name="Поножи кровавого духа" produce_type="43" />
+    <compose id="11585" name="Шлем кровавого духа" produce_type="43" />
+    <compose id="11586" name="Яркий сапфир [Ур. 3] [Гран.]" produce_type="13" />
+    <compose id="11587" name="Яркий сапфир [Ур. 4] [Гран.]" produce_type="13" />
+    <compose id="11588" name="Яркий сапфир [Ур. 5] [Гран.]" produce_type="13" />
+    <compose id="11589" name="Яркий сапфир [Ур. 6] [Гран.]" produce_type="13" />
+    <compose id="11590" name="Яркий сапфир [Ур. 7] [Гран.]" produce_type="13" />
+    <compose id="11591" name="Яркий сапфир [Ур. 8] [Гран.]" produce_type="13" />
+    <compose id="11592" name="Яркий сапфир [Ур. 9] [Гран.]" produce_type="13" />
+    <compose id="11593" name="Топаз [Ур. 3] [Гран.]" produce_type="13" />
+    <compose id="11594" name="Топаз [Ур. 4] [Гран.]" produce_type="13" />
+    <compose id="11595" name="Топаз [Ур. 5] [Гран.]" produce_type="13" />
+    <compose id="11596" name="Топаз [Ур. 6] [Гран.]" produce_type="13" />
+    <compose id="11597" name="Топаз [Ур. 7] [Гран.]" produce_type="13" />
+    <compose id="11598" name="Топаз [Ур. 8] [Гран.]" produce_type="13" />
+    <compose id="11599" name="Топаз [Ур. 9] [Гран.]" produce_type="13" />
+    <compose id="11603" name="Божественно Копье" produce_type="44" />
+    <compose id="11604" name="Божественный Лук" produce_type="44" />
+    <compose id="11605" name="Божественная Лира" produce_type="44" />
+    <compose id="11606" name="Божественный Артефакт " produce_type="44" />
+    <compose id="11607" name="Шлем управления [муж.]" produce_type="44" />
+    <compose id="11608" name="Шлем души [муж.]" produce_type="44" />
+    <compose id="11609" name="Корона ссылки [муж.]" produce_type="44" />
+    <compose id="11610" name="Корона Смелости неба [муж.]" produce_type="44" />
+    <compose id="11611" name="Кираса управления [муж.]" produce_type="44" />
+    <compose id="11612" name="Кираса души [муж.]" produce_type="44" />
+    <compose id="11613" name="Мантия ссылки [муж.]" produce_type="44" />
+    <compose id="11614" name="Нагрудник Смелости неба [муж.]" produce_type="44" />
+    <compose id="11615" name="Поножи управления [муж.]" produce_type="44" />
+    <compose id="11616" name="Поножи души [муж.]" produce_type="44" />
+    <compose id="11617" name="Штаны ссылки [муж.]" produce_type="44" />
+    <compose id="11618" name="Штаны Смелости неба [муж.]" produce_type="44" />
+    <compose id="11619" name="Наручи управления [муж.]" produce_type="44" />
+    <compose id="11620" name="Наручи души [муж.]" produce_type="44" />
+    <compose id="11621" name="Наручи ссылки [муж.]" produce_type="44" />
+    <compose id="11622" name="Наручи Смелости неба [муж.]" produce_type="44" />
+    <compose id="11623" name="Сапоги управления [муж.]" produce_type="44" />
+    <compose id="11624" name="Сапоги души [муж.]" produce_type="44" />
+    <compose id="11625" name="Сандалии ссылки [муж.]" produce_type="44" />
+    <compose id="11626" name="Сандалии Смелости неба [муж.]" produce_type="44" />
+    <compose id="11627" name="Плащ Руководства" produce_type="44" />
+    <compose id="11628" name="Плащ Пернатого духа" produce_type="44" />
+    <compose id="11629" name="Плащ Изгнанника" produce_type="44" />
+    <compose id="11630" name="Плащ Взгляда в небо" produce_type="44" />
+    <compose id="11631" name="Дьявольское Копье" produce_type="44" />
+    <compose id="11632" name="Дьявольский Лук" produce_type="44" />
+    <compose id="11633" name="Дьявольская Лира" produce_type="44" />
+    <compose id="11634" name="Дьявольский Артефакт" produce_type="44" />
+    <compose id="11635" name="Шлем устрашения [муж.]" produce_type="44" />
+    <compose id="11636" name="Шлем раздора [муж.]" produce_type="44" />
+    <compose id="11637" name="Корона уничтожения [муж.]" produce_type="44" />
+    <compose id="11638" name="Корона мольбы [муж.]" produce_type="44" />
+    <compose id="11639" name="Кираса устрашения [муж.]" produce_type="44" />
+    <compose id="11640" name="Кираса раздора [муж.]" produce_type="44" />
+    <compose id="11641" name="Нагрудник уничтожения [муж.]" produce_type="44" />
+    <compose id="11642" name="Нагрудник мольбы [муж.]" produce_type="44" />
+    <compose id="11643" name="Поножи устрашения [муж.]" produce_type="44" />
+    <compose id="11644" name="Поножи раздора [муж.]" produce_type="44" />
+    <compose id="11645" name="Штаны уничтожения [муж.]" produce_type="44" />
+    <compose id="11646" name="Штаны мольбы [муж.]" produce_type="44" />
+    <compose id="11647" name="Наручи устрашения [муж.]" produce_type="44" />
+    <compose id="11648" name="Наручи раздора [муж.]" produce_type="44" />
+    <compose id="11649" name="Наручи уничтожения [муж.]" produce_type="44" />
+    <compose id="11650" name="Наручи мольбы [муж.]" produce_type="44" />
+    <compose id="11651" name="Сапоги устрашения [муж.]" produce_type="44" />
+    <compose id="11652" name="Сапоги раздора [муж.]" produce_type="44" />
+    <compose id="11653" name="Сандалии уничтожения [муж.]" produce_type="44" />
+    <compose id="11654" name="Сандалии мольбы [муж.]" produce_type="44" />
+    <compose id="11655" name="Плащ Угрозы" produce_type="44" />
+    <compose id="11656" name="Плащ Распада" produce_type="44" />
+    <compose id="11657" name="Плащ Истребления" produce_type="44" />
+    <compose id="11658" name="Плащ Молитвы духа" produce_type="44" />
+    <compose id="11660" name="Шлем души [жен.]" produce_type="44" />
+    <compose id="11661" name="Корона ссылки [жен.]" produce_type="44" />
+    <compose id="11662" name="Корона Смелости неба [жен.]" produce_type="44" />
+    <compose id="11663" name="Кираса управления [жен.]" produce_type="44" />
+    <compose id="11664" name="Кираса души [жен.]" produce_type="44" />
+    <compose id="11665" name="Мантия ссылки [жен.]" produce_type="44" />
+    <compose id="11666" name="Мантия Смелости неба [жен.]" produce_type="44" />
+    <compose id="11667" name="Поножи управления [жен.]" produce_type="44" />
+    <compose id="11668" name="Поножи души [жен.]" produce_type="44" />
+    <compose id="11669" name="Штаны ссылки [жен.]" produce_type="44" />
+    <compose id="11670" name="Штаны Смелости неба [жен.]" produce_type="44" />
+    <compose id="11671" name="Наручи управления [жен.]" produce_type="44" />
+    <compose id="11672" name="Наручи души [жен.]" produce_type="44" />
+    <compose id="11673" name="Наручи ссылки [жен.]" produce_type="44" />
+    <compose id="11674" name="Наручи Смелости неба [жен.]" produce_type="44" />
+    <compose id="11675" name="Сапоги управления [жен.]" produce_type="44" />
+    <compose id="11676" name="Сапоги души [жен.]" produce_type="44" />
+    <compose id="11677" name="Сандалии ссылки [жен.]" produce_type="44" />
+    <compose id="11678" name="Сандалии Смелости неба [жен.]" produce_type="44" />
+    <compose id="11679" name="Шлем устрашения [жен.]" produce_type="44" />
+    <compose id="11680" name="Шлем раздора [жен.]" produce_type="44" />
+    <compose id="11681" name="Корона уничтожения [жен.]" produce_type="44" />
+    <compose id="11682" name="Корона мольбы [жен.]" produce_type="44" />
+    <compose id="11683" name="Кираса устрашения [жен.]" produce_type="44" />
+    <compose id="11684" name="Кираса раздора [жен.]" produce_type="44" />
+    <compose id="11685" name="Мантия уничтожения [жен.]" produce_type="44" />
+    <compose id="11686" name="Мантия мольбы [жен.]" produce_type="44" />
+    <compose id="11687" name="Поножи устрашения [жен.]" produce_type="44" />
+    <compose id="11688" name="Поножи раздора [жен.]" produce_type="44" />
+    <compose id="11689" name="Штаны уничтожения [жен.]" produce_type="44" />
+    <compose id="11690" name="Штаны мольбы [жен.]" produce_type="44" />
+    <compose id="11691" name="Наручи устрашения [жен.]" produce_type="44" />
+    <compose id="11692" name="Наручи раздора [жен.]" produce_type="44" />
+    <compose id="11693" name="Наручи уничтожения [жен.]" produce_type="44" />
+    <compose id="11694" name="Наручи мольбы [жен.]" produce_type="44" />
+    <compose id="11695" name="Сапоги устрашения [жен.]" produce_type="44" />
+    <compose id="11696" name="Сапоги раздора [жен.]" produce_type="44" />
+    <compose id="11697" name="Сандалии уничтожения [жен.]" produce_type="44" />
+    <compose id="11698" name="Сандалии мольбы [жен.]" produce_type="44" />
+	<compose id="11827" name="Солнцевик [Ур. 10]" produce_type="15" />
+    <compose id="11828" name="Лунник [Ур. 10]" produce_type="15" />
+    <compose id="11829" name="Александрит [Ур. 10]" produce_type="15" />
+    <compose id="11830" name="Большой шаровик [Ур. 10]" produce_type="15" />
+    <compose id="11831" name="Ляпис [Ур. 10]" produce_type="15" />
+    <compose id="11832" name="Гранат [Ур. 10]" produce_type="15" />
+    <compose id="11833" name="Яркий сапфир [Ур. 10]" produce_type="15" />
+    <compose id="11834" name="Бриллиант [Ур. 10]" produce_type="15" />
+    <compose id="11835" name="Рубин [Ур. 10]" produce_type="15" />
+    <compose id="11836" name="Сапфир [Ур. 10]" produce_type="15" />
+    <compose id="11837" name="Кровавый сапфир [Ур. 10]" produce_type="15" />
+    <compose id="11838" name="Топаз [Ур. 10]" produce_type="15" />
+    <compose id="11839" name="Циркон [Ур. 10]" produce_type="15" />
+    <compose id="11840" name="Янтарь [Ур. 10]" produce_type="15" />
+    <compose id="11841" name="Жемчуг [Ур. 10]" produce_type="15" />
+    <compose id="11842" name="Солнцевик [Ур. 11]" produce_type="15" />
+    <compose id="11843" name="Лунник [Ур. 11]" produce_type="15" />
+    <compose id="11844" name="Александрит [Ур. 11]" produce_type="15" />
+    <compose id="11845" name="Большой шаровик [Ур. 11]" produce_type="15" />
+    <compose id="11846" name="Ляпис [Ур. 11]" produce_type="15" />
+    <compose id="11847" name="Гранат [Ур. 11]" produce_type="15" />
+    <compose id="11848" name="Яркий сапфир [Ур. 11]" produce_type="15" />
+    <compose id="11849" name="Бриллиант [Ур. 11]" produce_type="15" />
+    <compose id="11850" name="Рубин [Ур. 11]" produce_type="15" />
+    <compose id="11851" name="Сапфир [Ур. 11]" produce_type="15" />
+    <compose id="11852" name="Кровавый сапфир [Ур. 11]" produce_type="15" />
+    <compose id="11853" name="Топаз [Ур. 11]" produce_type="15" />
+    <compose id="11854" name="Циркон [Ур. 11]" produce_type="15" />
+    <compose id="11855" name="Янтарь [Ур. 11]" produce_type="15" />
+    <compose id="11856" name="Жемчуг [Ур. 11]" produce_type="15" />
+    <compose id="11857" name="Солнцевик [Ур. 10] [Гран.]" produce_type="13" />
+    <compose id="11858" name="Лунник [Ур. 10] [Гран.]" produce_type="13" />
+    <compose id="11859" name="Ляпис [Ур. 10] [Гран.]" produce_type="13" />
+    <compose id="11860" name="Гранат [Ур. 10] [Гран.]" produce_type="13" />
+    <compose id="11861" name="Бриллиант [Ур. 10] [Гран.]" produce_type="13" />
+    <compose id="11862" name="Рубин [Ур. 10] [Гран.]" produce_type="13" />
+    <compose id="11863" name="Сапфир [Ур. 10] [Гран.]" produce_type="13" />
+    <compose id="11864" name="Кровавый сапфир [Ур. 10] [Гран.]" produce_type="13" />
+    <compose id="11865" name="Диамант [Ур. 10] [Гран.]" produce_type="13" />
+    <compose id="11866" name="Жемчуг [Ур. 10] [Гран.]" produce_type="13" />
+    <compose id="11867" name="Яркий сапфир [Ур. 10] [Гран.]" produce_type="13" />
+    <compose id="11868" name="Топаз [Ур. 10] [Гран.]" produce_type="13" />
+    <compose id="11869" name="Солнцевик [Ур. 11] [Гран.]" produce_type="13" />
+    <compose id="11870" name="Лунник [Ур. 11] [Гран.]" produce_type="13" />
+    <compose id="11871" name="Ляпис [Ур. 11] [Гран.]" produce_type="13" />
+    <compose id="11872" name="Гранат [Ур. 11] [Гран.]" produce_type="13" />
+    <compose id="11873" name="Бриллиант [Ур. 11] [Гран.]" produce_type="13" />
+    <compose id="11874" name="Рубин [Ур. 11] [Гран.]" produce_type="13" />
+    <compose id="11875" name="Сапфир [Ур. 11] [Гран.]" produce_type="13" />
+    <compose id="11876" name="Кровавый сапфир [Ур. 11] [Гран.]" produce_type="13" />
+    <compose id="11878" name="Жемчуг [Ур. 11] [Гран.]" produce_type="13" />
+    <compose id="11879" name="Яркий сапфир [Ур. 11] [Гран.]" produce_type="13" />
+    <compose id="11880" name="Топаз [Ур. 11] [Гран.]" produce_type="13" />
+	<compose id="11881" name="Александрит [Ур. 3] [Гран.]" produce_type="13" />
+	<compose id="11882" name="Александрит [Ур. 4] [Гран.]" produce_type="13" />
+	<compose id="11883" name="Александрит [Ур. 5] [Гран.]" produce_type="13" />
+	<compose id="11884" name="Александрит [Ур. 6] [Гран.]" produce_type="13" />
+	<compose id="11885" name="Александрит [Ур. 7] [Гран.]" produce_type="13" />
+	<compose id="11886" name="Александрит [Ур. 8] [Гран.]" produce_type="13" />
+	<compose id="11887" name="Александрит [Ур. 9] [Гран.]" produce_type="13" />
+	<compose id="11888" name="Александрит [Ур. 10] [Гран.]" produce_type="13" />
+	<compose id="11889" name="Александрит [Ур. 11] [Гран.]" produce_type="13" />
+	<compose id="11890" name="Большой шаровик [Ур. 3] [Гран.]" produce_type="13" />
+	<compose id="11891" name="Большой шаровик [Ур. 4] [Гран.]" produce_type="13" />
+	<compose id="11892" name="Большой шаровик [Ур. 5] [Гран.]" produce_type="13" />
+	<compose id="11893" name="Большой шаровик [Ур. 6] [Гран.]" produce_type="13" />
+	<compose id="11894" name="Большой шаровик [Ур. 7] [Гран.]" produce_type="13" />
+	<compose id="11895" name="Большой шаровик [Ур. 8] [Гран.]" produce_type="13" />
+	<compose id="11896" name="Большой шаровик [Ур. 9] [Гран.]" produce_type="13" />
+	<compose id="11897" name="Большой шаровик [Ур. 10] [Гран.]" produce_type="13" />
+	<compose id="11898" name="Большой шаровик [Ур. 11] [Гран.]" produce_type="13" />
+	<compose id="11899" name="Лазурит [Ур. 3] [Гран.]" produce_type="13" />
+	<compose id="11900" name="Лазурит [Ур. 4] [Гран.]" produce_type="13" />
+	<compose id="11901" name="Лазурит [Ур. 5] [Гран.]" produce_type="13" />
+	<compose id="11902" name="Лазурит [Ур. 6] [Гран.]" produce_type="13" />
+	<compose id="11903" name="Лазурит [Ур. 7] [Гран.]" produce_type="13" />
+	<compose id="11904" name="Лазурит [Ур. 8] [Гран.]" produce_type="13" />
+	<compose id="11905" name="Лазурит [Ур. 9] [Гран.]" produce_type="13" />
+	<compose id="11906" name="Лазурит [Ур. 10] [Гран.]" produce_type="13" />
+	<compose id="11907" name="Лазурит [Ур. 11] [Гран.]" produce_type="13" />
+	<compose id="11908" name="Аметист [Ур. 3] [Гран.]" produce_type="13" />
+	<compose id="11909" name="Аметист [Ур. 4] [Гран.]" produce_type="13" />
+	<compose id="11910" name="Аметист [Ур. 5] [Гран.]" produce_type="13" />
+	<compose id="11911" name="Аметист [Ур. 6] [Гран.]" produce_type="13" />
+	<compose id="11912" name="Аметист [Ур. 7] [Гран.]" produce_type="13" />
+	<compose id="11913" name="Аметист [Ур. 8] [Гран.]" produce_type="13" />
+	<compose id="11914" name="Аметист [Ур. 9] [Гран.]" produce_type="13" />
+	<compose id="11915" name="Аметист [Ур. 10] [Гран.]" produce_type="13" />
+	<compose id="11916" name="Аметист [Ур. 11] [Гран.]" produce_type="13" />
+	<compose id="11917" name="Малахит [Ур. 3] [Гран.]" produce_type="13" />
+	<compose id="11918" name="Малахит [Ур. 4] [Гран.]" produce_type="13" />
+	<compose id="11919" name="Малахит [Ур. 5] [Гран.]" produce_type="13" />
+	<compose id="11920" name="Малахит [Ур. 6] [Гран.]" produce_type="13" />
+	<compose id="11921" name="Малахит [Ур. 7] [Гран.]" produce_type="13" />
+	<compose id="11922" name="Малахит [Ур. 8] [Гран.]" produce_type="13" />
+	<compose id="11923" name="Малахит [Ур. 9] [Гран.]" produce_type="13" />
+	<compose id="11924" name="Малахит [Ур. 10] [Гран.]" produce_type="13" />
+	<compose id="11925" name="Малахит [Ур. 11] [Гран.]" produce_type="13" />
+	<compose id="11926" name="Циркон [Ур. 4] [Гран.]" produce_type="13" />
+	<compose id="11927" name="Циркон [Ур. 5] [Гран.]" produce_type="13" />
+	<compose id="11928" name="Циркон [Ур. 6] [Гран.]" produce_type="13" />
+	<compose id="11929" name="Циркон [Ур. 7] [Гран.]" produce_type="13" />
+	<compose id="11930" name="Циркон [Ур. 8] [Гран.]" produce_type="13" />
+	<compose id="11931" name="Циркон [Ур. 9] [Гран.]" produce_type="13" />
+	<compose id="11932" name="Циркон [Ур. 10] [Гран.]" produce_type="13" />
+	<compose id="11933" name="Циркон [Ур. 11] [Гран.]" produce_type="13" />
+	<compose id="11934" name="Янтарь [Ур. 4] [Гран.]" produce_type="13" />
+	<compose id="11935" name="Янтарь [Ур. 5] [Гран.]" produce_type="13" />
+	<compose id="11936" name="Янтарь [Ур. 6] [Гран.]" produce_type="13" />
+	<compose id="11937" name="Янтарь [Ур. 7] [Гран.]" produce_type="13" />
+	<compose id="11938" name="Янтарь [Ур. 8] [Гран.]" produce_type="13" />
+	<compose id="11939" name="Янтарь [Ур. 9] [Гран.]" produce_type="13" />
+	<compose id="11940" name="Янтарь [Ур. 10] [Гран.]" produce_type="13" />
+	<compose id="11941" name="Янтарь [Ур. 11] [Гран.]" produce_type="13" />
+	<compose id="11944" name="Филе рыбы х50" produce_type="20" />
+    <compose id="11945" name="Костная мука х50" produce_type="20" />
+    <compose id="11946" name="Рыбий жир х50" produce_type="20" />
+    <compose id="11947" name="Печень акулы х50" produce_type="20" />
+    <compose id="11948" name="Крабовое мясо х50" produce_type="20" />
+    <compose id="11949" name="Филе угря х50" produce_type="20" />
+    <compose id="11950" name="Жернов х50" produce_type="20" />
+    <compose id="11951" name="Манализатор х50" produce_type="20" />
+    <compose id="12594" name="Жемчуг [Ур. 4] [Гран.]" produce_type="13" />
+    <compose id="12595" name="Жемчуг [Ур. 5] [Гран.]" produce_type="13" />
+    <compose id="12596" name="Жемчуг [Ур. 6] [Гран.]" produce_type="13" />
+	<compose id="10667" name="Рог единорога" produce_type="14" />
+	<compose id="10668" name="Когти химеры" produce_type="14" />
+	<compose id="10669" name="Крылья феникса" produce_type="14" />
+	<compose id="10670" name="Струны души дракона" produce_type="14" />
+	<compose id="10671" name="Воля единорога" produce_type="14" />
+	<compose id="10672" name="Ярость химеры" produce_type="14" />
+	<compose id="10673" name="Гнев феникса" produce_type="14" />
+	<compose id="10674" name="Песнь дракона" produce_type="14" />	
+	<compose id="10675" name="Колье единорога" produce_type="14" />
+	<compose id="10676" name="Ошейник химеры" produce_type="14" />
+	<compose id="10677" name="Подвеска феникса" produce_type="14" />
+	<compose id="10678" name="Медальон дракона" produce_type="14" />
+	<compose id="10679" name="Пояс единорога" produce_type="14" />
+	<compose id="10680" name="Пояс химеры" produce_type="14" />
+	<compose id="10681" name="Пояс феникса" produce_type="14" />
+	<compose id="10682" name="Пояс дракона" produce_type="14" />
+	<compose id="11133" name="Диамант [Ур. 3] [Гран.]" produce_type="13" />
+	<compose id="11134" name="Диамант [Ур. 4] [Гран.]" produce_type="13" />
+	<compose id="11135" name="Диамант [Ур. 5] [Гран.]" produce_type="13" />
+	<compose id="11136" name="Диамант [Ур. 6] [Гран.]" produce_type="13" />
+	<compose id="11137" name="Диамант [Ур. 7] [Гран.]" produce_type="13" />
+	<compose id="11138" name="Диамант [Ур. 8] [Гран.]" produce_type="13" />
+	<compose id="11659" name="Шлем управления [жен.]" produce_type="44" />
+	<compose id="11699" name="Бриллиант [Ур. 5]" produce_type="24" />
+	<compose id="11700" name="Бриллиант [Ур. 6]" produce_type="24" />
+	<compose id="11701" name="Бриллиант [Ур. 7]" produce_type="24" />
+	<compose id="11702" name="Бриллиант [Ур. 8]" produce_type="24" />
+	<compose id="11703" name="Бриллиант [Ур. 9]" produce_type="24" />
+	<compose id="11704" name="Кровавый сапфир [Ур. 4]" produce_type="24" />
+	<compose id="11705" name="Кровавый сапфир [Ур. 5]" produce_type="24" />
+	<compose id="11706" name="Кровавый сапфир [Ур. 6]" produce_type="24" />
+	<compose id="11707" name="Кровавый сапфир [Ур. 7]" produce_type="24" />
+	<compose id="11708" name="Кровавый сапфир [Ур. 8]" produce_type="24" />
+	<compose id="11709" name="Кровавый сапфир [Ур. 9]" produce_type="24" />
+	<compose id="11710" name="Очищенный камень" produce_type="7" />
+	<compose id="11711" name="Обычная наживка" produce_type="7" />
+	<compose id="11877" name="Диамант [Ур. 11] [Гран.]" produce_type="13" />
+	<compose id="12593" name="Жемчуг [Ур. 3] [Гран.]" produce_type="13" />
+	<compose id="12600" name="Диамант [Ур. 9]" produce_type="15" />
+	<compose id="12601" name="Лазурит [Ур. 9]" produce_type="15" />
+	<compose id="12602" name="Аметист [Ур. 9]" produce_type="15" />
+	<compose id="12603" name="Малахит [Ур. 9]" produce_type="15" />
+	<compose id="12604" name="Жемчуг [Ур. 9]" produce_type="15" />
+	<compose id="12605" name="Диамант [Ур. 8]" produce_type="15" />
+	<compose id="12606" name="Лазурит [Ур. 8]" produce_type="15" />
+	<compose id="12607" name="Аметист [Ур. 8]" produce_type="15" />
+	<compose id="12608" name="Малахит [Ур. 8]" produce_type="15" />
+	<compose id="12609" name="Жемчуг [Ур. 8]" produce_type="15" />
+	<compose id="12610" name="Диамант [Ур. 7]" produce_type="15" />
+	<compose id="12611" name="Лазурит [Ур. 7]" produce_type="15" />
+	<compose id="12612" name="Аметист [Ур. 7]" produce_type="15" />
+	<compose id="12613" name="Малахит [Ур. 7]" produce_type="15" />
+	<compose id="12614" name="Жемчуг [Ур. 7]" produce_type="15" />
+	<compose id="12615" name="Диамант [Ур. 6]" produce_type="15" />
+	<compose id="12616" name="Лазурит [Ур. 6]" produce_type="15" />
+	<compose id="12617" name="Аметист [Ур. 6]" produce_type="15" />
+	<compose id="12618" name="Малахит [Ур. 6]" produce_type="15" />
+	<compose id="12619" name="Жемчуг [Ур. 6]" produce_type="15" />
+	<compose id="12620" name="Диамант [Ур. 5]" produce_type="15" />
+	<compose id="12621" name="Лазурит [Ур. 5]" produce_type="15" />
+	<compose id="12622" name="Аметист [Ур. 5]" produce_type="15" />
+	<compose id="12623" name="Малахит [Ур. 5]" produce_type="15" />
+	<compose id="12624" name="Жемчуг [Ур. 5]" produce_type="15" />
+	<compose id="12625" name="Диамант [Ур. 4]" produce_type="15" />
+	<compose id="12626" name="Лазурит [Ур. 4]" produce_type="15" />
+	<compose id="12627" name="Аметист [Ур. 4]" produce_type="15" />
+	<compose id="12628" name="Малахит [Ур. 4]" produce_type="15" />
+	<compose id="12629" name="Жемчуг [Ур. 4]" produce_type="15" />
+	<compose id="12630" name="Дух Наньдо" produce_type="3" />
+	<compose id="12631" name="Дух Корради" produce_type="3" />
+	<compose id="12632" name="Дух Тайси" produce_type="3" />
+	<compose id="12633" name="Дух Доллис" produce_type="3" />
+	<compose id="12634" name="Дух божественного света Микаэла" produce_type="3" />
+	<compose id="12635" name="Демон Микал" produce_type="3" />
+	<compose id="12636" name="Яростный меч воителя" produce_type="14" />
+	<compose id="12637" name="Губительный самострел охотника" produce_type="14" />
+	<compose id="12638" name="Стихийная реликвия архимага" produce_type="14" />
+	<compose id="12639" name="Изящная муза проповедника" produce_type="14" />
+	<compose id="12640" name="Яростная алебарда воителя" produce_type="14" />
+	<compose id="12641" name="Губительный лук охотника" produce_type="14" />
+	<compose id="12642" name="Стихийный артефакт архимага" produce_type="14" />
+	<compose id="12643" name="Изящная арфа проповедника" produce_type="14" />
+	<compose id="12644" name="Яростный шлем воителя" produce_type="14" />
+	<compose id="12645" name="Губительный шлем охотника" produce_type="14" />
+	<compose id="12646" name="Стихийная корона архимага" produce_type="14" />
+	<compose id="12647" name="Изящная корона проповедника" produce_type="14" />
+	<compose id="12648" name="Яростные перчатки воителя" produce_type="14" />
+	<compose id="12649" name="Губительные перчатки охотника" produce_type="14" />
+	<compose id="12650" name="Стихийные перчатки архимага" produce_type="14" />
+	<compose id="12651" name="Изящные перчатки проповедника" produce_type="14" />
+	<compose id="12652" name="Яростная кираса воителя" produce_type="14" />
+	<compose id="12653" name="Губительная кираса охотника" produce_type="14" />
+	<compose id="12654" name="Стихийная мантия архимага" produce_type="14" />
+	<compose id="12655" name="Изящная мантия проповедника" produce_type="14" />
+	<compose id="12656" name="Яростные поножи воителя" produce_type="14" />
+	<compose id="12657" name="Губительные поножи охотника" produce_type="14" />
+	<compose id="12658" name="Стихийные набедренники архимага" produce_type="14" />
+	<compose id="12659" name="Изящные поножи проповедника" produce_type="14" />
+	<compose id="12660" name="Яростные ботинки воителя" produce_type="14" />
+	<compose id="12661" name="Губительные ботинки охотника" produce_type="14" />
+	<compose id="12662" name="Стихийные ботинки архимага" produce_type="14" />
+	<compose id="12663" name="Изящные ботинки проповедника" produce_type="14" />
+	<compose id="12664" name="Яростный плащ воителя" produce_type="14" />
+	<compose id="12665" name="Губительный плащ охотника" produce_type="14" />
+	<compose id="12666" name="Стихийный плащ архимага" produce_type="14" />
+	<compose id="12667" name="Изящный плащ проповедника" produce_type="14" />
+	<compose id="12668" name="Яростный пояс воителя" produce_type="14" />
+	<compose id="12669" name="Губительный пояс охотника" produce_type="14" />
+	<compose id="12670" name="Стихийный пояс архимага" produce_type="14" />
+	<compose id="12671" name="Изящный пояс проповедника" produce_type="14" />
+	<compose id="12672" name="Яростное ожерелье воителя" produce_type="14" />
+	<compose id="12673" name="Губительное ожерелье охотника" produce_type="14" />
+	<compose id="12674" name="Стихийное ожерелье архимага" produce_type="14" />
+	<compose id="12675" name="Изящное ожерелье проповедника" produce_type="14" />
+	<compose id="12676" name="Яростное кольцо воителя" produce_type="14" />
+	<compose id="12677" name="Губительное кольцо охотника" produce_type="14" />
+	<compose id="12678" name="Стихийное кольцо архимага" produce_type="14" />
+	<compose id="12679" name="Изящное кольцо проповедника" produce_type="14" />
+	<compose id="12680" name="Яростный перстень воителя" produce_type="14" />
+	<compose id="12681" name="Губительный перстень охотника" produce_type="14" />
+	<compose id="12682" name="Стихийный перстень архимага" produce_type="14" />
+	<compose id="12683" name="Изящный перстень проповедника" produce_type="14" />
+	<compose id="12684" name="Защита Тардии" produce_type="40" />
+	<compose id="12685" name="Свет Офены" produce_type="40" />
+	<compose id="12686" name="Предсказание Аши" produce_type="40" />
+	<compose id="12687" name="Чистота Ройффина" produce_type="40" />
+	<compose id="12688" name="Вера Тардии" produce_type="40" />
+	<compose id="12689" name="Дух Офены" produce_type="40" />
+	<compose id="12690" name="Обольщение Аши" produce_type="40" />
+	<compose id="12691" name="Очищение Ройффина" produce_type="40" />
+	<compose id="12692" name="Могущество Тардии" produce_type="40" />
+	<compose id="12693" name="Душа Офены" produce_type="40" />
+	<compose id="12694" name="Падение Аши" produce_type="40" />
+	<compose id="12695" name="Слеза Ройффина" produce_type="40" />
+	<compose id="12696" name="Выносливость Тардии" produce_type="40" />
+	<compose id="12697" name="Сердце Офены" produce_type="40" />
+	<compose id="12698" name="Погибель Аши" produce_type="40" />
+	<compose id="12699" name="Благословление Ройффина" produce_type="40" />
+	<compose id="12700" name="Бриллиант [Ур. 10]" produce_type="24" />
+	<compose id="12701" name="Бриллиант [Ур. 11]" produce_type="24" />
+	<compose id="12702" name="Кровавый сапфир [Ур. 10]" produce_type="24" />
+	<compose id="12703" name="Кровавый сапфир [Ур. 11]" produce_type="24" />
+	<compose id="12704" name="Диамант [Ур. 10]" produce_type="15" />
+	<compose id="12705" name="Диамант [Ур. 11]" produce_type="15" />
+	<compose id="12706" name="Лазурит [Ур. 10]" produce_type="15" />
+	<compose id="12707" name="Лазурит [Ур. 11]" produce_type="15" />
+	<compose id="12708" name="Аметист [Ур. 10]" produce_type="15" />
+	<compose id="12709" name="Аметист [Ур. 11]" produce_type="15" />
+	<compose id="12710" name="Малахит [Ур. 10]" produce_type="15" />
+	<compose id="12711" name="Малахит [Ур. 11]" produce_type="15" />
+	<compose id="12712" name="Темная башня: Пояс Тардии" produce_type="40" />
+	<compose id="12713" name="Темная башня: Пояс Офены" produce_type="40" />
+	<compose id="12714" name="Темная башня: Пояс Аши" produce_type="40" />
+	<compose id="12715" name="Темная башня: Пояс Ройффина" produce_type="40" />
+	<compose id="12716" name="Темная башня: Ожерелье Тардии" produce_type="40" />
+	<compose id="12717" name="Темная башня: Ожерелье Офены" produce_type="40" />
+	<compose id="12718" name="Темная башня: Ожерелье Аши" produce_type="40" />
+	<compose id="12719" name="Темная башня: Ожерелье Ройффина" produce_type="40" />
+	<compose id="12720" name="Темная башня: Кольцо Тардии" produce_type="40" />
+	<compose id="12721" name="Темная башня: Кольцо Офены" produce_type="40" />
+	<compose id="12722" name="Темная башня: Кольцо Аши" produce_type="40" />
+	<compose id="12723" name="Темная башня: Кольцо Ройффина" produce_type="40" />
+	<compose id="12724" name="Темная башня: Перстень Тардии" produce_type="40" />
+	<compose id="12725" name="Темная башня: Перстень Офены" produce_type="40" />
+	<compose id="12726" name="Темная башня: Перстень Аши" produce_type="40" />
+	<compose id="12727" name="Темная башня: Перстень Ройффина" produce_type="40" />
+	<compose id="13000" name="Меч кровавой жатвы" produce_type="14" />
+	<compose id="13001" name="Лук  драконьей клятвы" produce_type="14" />
+	<compose id="13002" name="Посох ледяного шторма" produce_type="14" />
+	<compose id="13003" name="Струны резонанса душ" produce_type="14" />
+	<compose id="13004" name="Шлем кровавой жатвы" produce_type="14" />
+	<compose id="13005" name="Шлем драконьей клятвы" produce_type="14" />
+	<compose id="13006" name="Шлем ледяного шторма" produce_type="14" />
+	<compose id="13007" name="Шлем резонанса душ" produce_type="14" />
+	<compose id="13008" name="Наручи кровавой жатвы" produce_type="14" />
+	<compose id="13009" name="Наручи драконьей клятвы" produce_type="14" />
+	<compose id="13010" name="Наручи ледяного шторма" produce_type="14" />
+	<compose id="13011" name="Наручи резонанса душ" produce_type="14" />
+	<compose id="13012" name="Нагрудник кровавой жатвы" produce_type="14" />
+	<compose id="13013" name="Нагрудник драконьей клятвы" produce_type="14" />
+	<compose id="13014" name="Нагрудник ледяного шторма" produce_type="14" />
+	<compose id="13015" name="Нагрудник резонанса душ" produce_type="14" />
+	<compose id="13016" name="Поножи кровавой жатвы" produce_type="14" />
+	<compose id="13017" name="Поножи драконьей клятвы" produce_type="14" />
+	<compose id="13018" name="Поножи ледяного шторма" produce_type="14" />
+	<compose id="13019" name="Поножи резонанса душ" produce_type="14" />
+	<compose id="13020" name="Сапоги кровавой жатвы" produce_type="14" />
+	<compose id="13021" name="Сапоги драконьей клятвы" produce_type="14" />
+	<compose id="13022" name="Сапоги ледяного шторма" produce_type="14" />
+	<compose id="13023" name="Сапоги резонанса душ" produce_type="14" />
+	<compose id="13024" name="Плащ кровавой жатвы" produce_type="14" />
+	<compose id="13025" name="Плащ драконьей клятвы" produce_type="14" />
+	<compose id="13026" name="Плащ ледяного шторма" produce_type="14" />
+	<compose id="13027" name="Плащ резонанса душ" produce_type="14" />
+	<compose id="13028" name="Пояс кровавой жатвы" produce_type="14" />
+	<compose id="13029" name="Пояс драконьей клятвы" produce_type="14" />
+	<compose id="13030" name="Пояс ледяного шторма" produce_type="14" />
+	<compose id="13031" name="Пояс резонанса душ" produce_type="14" />
+	<compose id="13032" name="Ожерелье кровавой жатвы" produce_type="14" />
+	<compose id="13033" name="Ожерелье драконьей клятвы" produce_type="14" />
+	<compose id="13034" name="Ожерелье ледяного шторма" produce_type="14" />
+	<compose id="13035" name="Ожерелье резонанса душ" produce_type="14" />
+	<compose id="13036" name="Кольцо кровавой жатвы" produce_type="14" />
+	<compose id="13037" name="Кольцо драконьей клятвы" produce_type="14" />
+	<compose id="13038" name="Кольцо ледяного шторма" produce_type="14" />
+	<compose id="13039" name="Кольцо резонанса душ" produce_type="14" />
+	<compose id="13040" name="Перстень кровавой жатвы" produce_type="14" />
+	<compose id="13041" name="Перстень драконьей клятвы" produce_type="14" />
+	<compose id="13042" name="Перстень ледяного шторма" produce_type="14" />
+	<compose id="13043" name="Перстень резонанса душ" produce_type="14" />
+	<compose id="13044" name="Легендарное точило" produce_type="7" />
+	<compose id="13045" name="Точило вечности" produce_type="7" />
+	<compose id="13046" name="Удаление камней [Ур. 4]" produce_type="3" />
+	<compose id="13047" name="Удаление камней [Ур. 5]" produce_type="3" />
+	<compose id="13048" name="Удаление камней [Ур. 6]" produce_type="3" />
+    <compose id="13049" name="Наждачная бумага V" produce_type="5" />
+	<compose id="13050" name="Лесной дух Мирта" produce_type="3" />
+	<compose id="13051" name="Хранитель бездны Асмодей" produce_type="3" />
+	<compose id="13052" name="Костные лепешки" produce_type="21" />
+	<compose id="13053" name="Рыбный блин" produce_type="21" />
+	<compose id="13054" name="Запеченный карась" produce_type="21" />
+	<compose id="13055" name="Сэндвич с рыбой" produce_type="21" />
+	<compose id="13056" name="Наваристая уха" produce_type="21" />
+	<compose id="13057" name="Рыбная запеканка" produce_type="21" />
+	<compose id="13058" name="Плотва в соусе" produce_type="21" />
+	<compose id="13059" name="Маринованный карп" produce_type="21" />
+	<compose id="13060" name="Солёное печенье" produce_type="21" />
+	<compose id="13061" name="Вкусный язь" produce_type="21" />
+	<compose id="13062" name="Акулье фуа-гра" produce_type="21" />
+	<compose id="13063" name="Акулий суп" produce_type="21" />
+	<compose id="13064" name="Селедка под шубой" produce_type="21" />
+	<compose id="13065" name="Жареная рыба" produce_type="21" />
+	<compose id="13066" name="Крабовый салат" produce_type="21" />
+	<compose id="13067" name="Крабовый жюльен" produce_type="21" />
+	<compose id="13068" name="Крабовый суп" produce_type="21" />
+	<compose id="13069" name="Сладкое филе" produce_type="21" />
+	<compose id="13070" name="Пицца с креветками" produce_type="21" />
+	<compose id="13071" name="Котлета из креветок" produce_type="21" />
+	<compose id="13072" name="Крабовый блин" produce_type="21" />
+	<compose id="13073" name="Царский краб" produce_type="21" />
+	<compose id="13074" name="Стружка угря" produce_type="21" />
+	<compose id="13075" name="Острый гарнир" produce_type="21" />
+	<compose id="13076" name="Унаги маки" produce_type="21" />
+	<compose id="13077" name="Круассан" produce_type="21" />
+	<compose id="13078" name="Филе лосося" produce_type="21" />
+	<compose id="13079" name="Сушеная вобла" produce_type="21" />
+	<compose id="13080" name="Ароматная самса" produce_type="21" />
+	<compose id="13081" name="Суп Посейдона" produce_type="21" />
+    <compose id="13082" name="Страшный суд [Ур. 6]" produce_type="9" />
+	<compose id="13083" name="Священное возмездие [Ур. 6]" produce_type="9" />
+    <compose id="13084" name="Священное наказание [Ур. 6]" produce_type="9" />
+	<compose id="13085" name="Священный символ [Ур. 6]" produce_type="9" />
+	<compose id="13086" name="Священная стойкость [Ур. 6]" produce_type="9" />
+    <compose id="13087" name="Священное убежище [Ур. 6]" produce_type="9" />
+    <compose id="13088" name="Священный хаос [Ур. 6]" produce_type="9" />
+    <compose id="13089" name="Священная чистота [Ур. 6]" produce_type="9" />
+    <compose id="13090" name="Священная судьба [Ур. 6]" produce_type="9" />
+    <compose id="13091" name="Священная мудрость [Ур. 6]" produce_type="9" />
+	<compose id="13092" name="Священное сияние [Ур. 6]" produce_type="9" />
+    <compose id="13094" name="Священный свет [Ур. 6]" produce_type="9" />
+	<compose id="13095" name="Страшный суд [Ур. 7]" produce_type="9" />
+	<compose id="13096" name="Священное возмездие [Ур. 7]" produce_type="9" />
+    <compose id="13097" name="Священное наказание [Ур. 7]" produce_type="9" />
+	<compose id="13098" name="Священный символ [Ур. 7]" produce_type="9" />
+	<compose id="13099" name="Священная стойкость [Ур. 7]" produce_type="9" />
+	<compose id="13100" name="Священное убежище [Ур. 7]" produce_type="9" />
+	<compose id="13101" name="Священный хаос [Ур. 7]" produce_type="9" />
+	<compose id="13102" name="Священная чистота [Ур. 7]" produce_type="9" />
+	<compose id="13103" name="Священная судьба [Ур. 7]" produce_type="9" />
+	<compose id="13104" name="Священная мудрость [Ур. 7]" produce_type="9" />
+	<compose id="13105" name="Священное сияние [Ур. 7]" produce_type="9" />
+	<compose id="13106" name="Священный свет [Ур. 7]" produce_type="9" />
+	<compose id="13107" name="Ледяной страж Адриэль" produce_type="3" />
+	<compose id="13108" name="Дух войны Градозор" produce_type="3" />
+	<compose id="13109" name="Ядовитый цветок Матильда" produce_type="3" />
+	<compose id="13110" name="Дух вечности Харон" produce_type="3" />
+	<compose id="13111" name="Страж праздника Илура" produce_type="3" />
+	<compose id="13112" name="Морозная царица Зельда" produce_type="3" />
+	<compose id="13113" name="Кровавая графиня Элиза" produce_type="3" />
+	<compose id="13114" name="Черная дыра" produce_type="3" />
+	<compose id="13115" name="Ледяная дева Адель" produce_type="3" />
+	<compose id="13116" name="Страшный суд [Ур. 8]" produce_type="9" />
+	<compose id="13117" name="Священное возмездие [Ур. 8]" produce_type="9" />
+    <compose id="13118" name="Священное наказание [Ур. 8]" produce_type="9" />
+	<compose id="13119" name="Священный символ [Ур. 8]" produce_type="9" />
+	<compose id="13120" name="Священная стойкость [Ур. 8]" produce_type="9" />
+	<compose id="13121" name="Священное убежище [Ур. 8]" produce_type="9" />
+	<compose id="13122" name="Священный хаос [Ур. 8]" produce_type="9" />
+	<compose id="13123" name="Священная чистота [Ур. 8]" produce_type="9" />
+	<compose id="13124" name="Священная судьба [Ур. 8]" produce_type="9" />
+	<compose id="13125" name="Священная мудрость [Ур. 8]" produce_type="9" />
+	<compose id="13126" name="Священное сияние [Ур. 8]" produce_type="9" />
+	<compose id="13127" name="Священный свет [Ур. 8]" produce_type="9" />
+	<compose id="13128" name="Пустынный дух Клеопатра" produce_type="3" />
+	<compose id="13129" name="Ангел мести Алеста" produce_type="3" />
+	<compose id="13130" name="Рыцарь правосудия Алнар" produce_type="3" />
+	<compose id="13131" name="Палач судного дня Риоку" produce_type="3" />
+	<compose id="13132" name="Призрачный дух Китана" produce_type="3" />
+	<compose id="13133" name="Морозный дух София" produce_type="3" />
+	<compose id="13134" name="Легендарная Бьянка" produce_type="3" />
+	<compose id="13135" name="Страж Темной Башни Абигор" produce_type="3" />
+	<compose id="13136" name="Ночная фурия Катаплексия" produce_type="3" />
+	<compose id="13200" name="[Огонь] Щит маны" produce_type="39" />
+	<compose id="13201" name="[Огонь] Лавовый дождь" produce_type="39" />
+	<compose id="13202" name="[Вода] Малая духовная сила" produce_type="39" />
+	<compose id="13203" name="[Вода] Средняя духовная сила" produce_type="39" />
+	<compose id="13204" name="[Вода] Большая духовная сила" produce_type="39" />
+	<compose id="13205" name="[Вода] Жизненная сущность II" produce_type="39" />
+	<compose id="13206" name="[Вода] Сущность маны II" produce_type="39" />
+	<compose id="13207" name="[Земля] Зеркальный договор" produce_type="39" />
+	<compose id="13208" name="[Ветер] Зоркий глаз I" produce_type="39" />
+	<compose id="13209" name="[Ветер] Зоркий глаз II" produce_type="39" />
+	<compose id="13210" name="[Ветер] Зоркий глаз III" produce_type="39" />
+	<compose id="13211" name="[Ветер] Знамя свободы" produce_type="39" />
+	<compose id="13212" name="[Ветер] Эффект бабочки" produce_type="39" />
+	<compose id="13213" name="[Земля] Чешуя дракона" produce_type="39" />
+	<compose id="13214" name="[Свет] Танец жизни I" produce_type="39" />
+	<compose id="13215" name="[Свет] Танец жизни II" produce_type="39" />
+	<compose id="13216" name="[Свет] Танец жизни III" produce_type="39" />
+	<compose id="13217" name="[Свет] Танец жизни IV" produce_type="39" />
+	<compose id="13218" name="[Свет] Танец жизни V" produce_type="39" />
+	<compose id="13219" name="[Тьма] Сила скверны I" produce_type="39" />
+	<compose id="13220" name="[Тьма] Сила скверны II" produce_type="39" />
+	<compose id="13221" name="[Тьма] Сила скверны III" produce_type="39" />
+	<compose id="13222" name="[Тьма] Сила скверны IV" produce_type="39" />
+	<compose id="13223" name="[Тьма] Сила скверны V" produce_type="39" />
+	<compose id="13225" name="Лунник 4 - рецепт" produce_type="5" />
+	<compose id="13226" name="Диамант 4 - рецепт" produce_type="5" />
+	<compose id="13227" name="Рубин 4 - рецепт" produce_type="5" />
+	<compose id="13228" name="Кровавый сапфир 4 - рецепт" produce_type="5" />
+	<compose id="13229" name="Яркий сапфир 4 - рецепт" produce_type="5" />
+	<compose id="13230" name="Топаз 4 - рецепт" produce_type="5" />
+	<compose id="13231" name="Жемчуг 4 - рецепт" produce_type="5" />
+	<compose id="13232" name="Александрит 4 - рецепт" produce_type="5" />
+	<compose id="13233" name="Большой шаровик 4 - рецепт" produce_type="5" />
+	<compose id="13234" name="Лазурит 4 - рецепт" produce_type="5" />
+	<compose id="13235" name="Аметист 4 - рецепт" produce_type="5" />
+	<compose id="13236" name="Малахит 4 - рецепт" produce_type="5" />
+	<compose id="13237" name="Бриллиант 4 - рецепт" produce_type="5" />
+	<compose id="13238" name="Циркон 4 - рецепт" produce_type="5" />
+	<compose id="13239" name="Янтарь 4 - рецепт" produce_type="5" />
+	<compose id="13240" name="Солнцевик 5 - рецепт" produce_type="5" />
+	<compose id="13241" name="Лунник 5 - рецепт" produce_type="5" />
+	<compose id="13242" name="Диамант 5 - рецепт" produce_type="5" />
+	<compose id="13243" name="Рубин 5 - рецепт" produce_type="5" />
+	<compose id="13244" name="Кровавый сапфир 5 - рецепт" produce_type="5" />
+	<compose id="13245" name="Яркий сапфир 5 - рецепт" produce_type="5" />
+	<compose id="13246" name="Топаз 5 - рецепт" produce_type="5" />
+	<compose id="13247" name="Жемчуг 5 - рецепт" produce_type="5" />
+	<compose id="13248" name="Александрит 5 - рецепт" produce_type="5" />
+	<compose id="13249" name="Большой шаровик 5 - рецепт" produce_type="5" />
+	<compose id="13250" name="Лазурит 5 - рецепт" produce_type="5" />
+	<compose id="13251" name="Аметист 5 - рецепт" produce_type="5" />
+	<compose id="13252" name="Малахит 5 - рецепт" produce_type="5" />
+	<compose id="13253" name="Бриллиант 5 - рецепт" produce_type="5" />
+	<compose id="13254" name="Циркон 5 - рецепт" produce_type="5" />
+	<compose id="13255" name="Янтарь 5 - рецепт" produce_type="5" />
+	<compose id="13256" name="Солнцевик 6 - рецепт" produce_type="5" />
+	<compose id="13257" name="Лунник 6 - рецепт" produce_type="5" />
+	<compose id="13258" name="Диамант 6 - рецепт" produce_type="5" />
+	<compose id="13259" name="Рубин 6 - рецепт" produce_type="5" />
+	<compose id="13260" name="Кровавый сапфир 6 - рецепт" produce_type="5" />
+	<compose id="13261" name="Яркий сапфир 6 - рецепт" produce_type="5" />
+	<compose id="13262" name="Топаз 6 - рецепт" produce_type="5" />
+	<compose id="13263" name="Жемчуг 6 - рецепт" produce_type="5" />
+	<compose id="13264" name="Александрит 6 - рецепт" produce_type="5" />
+	<compose id="13265" name="Большой шаровик 6 - рецепт" produce_type="5" />
+	<compose id="13266" name="Лазурит 6 - рецепт" produce_type="5" />
+	<compose id="13267" name="Аметист 6 - рецепт" produce_type="5" />
+	<compose id="13268" name="Малахит 6 - рецепт" produce_type="5" />
+	<compose id="13269" name="Бриллиант 6 - рецепт" produce_type="5" />
+	<compose id="13270" name="Циркон 6 - рецепт" produce_type="5" />
+	<compose id="13271" name="Янтарь 6 - рецепт" produce_type="5" />
+	<compose id="13272" name="Солнцевик 7 - рецепт" produce_type="5" />
+	<compose id="13273" name="Лунник 7 - рецепт" produce_type="5" />
+	<compose id="13274" name="Диамант 7 - рецепт" produce_type="5" />
+	<compose id="13275" name="Рубин 7 - рецепт" produce_type="5" />
+	<compose id="13276" name="Кровавый сапфир 7 - рецепт" produce_type="5" />
+	<compose id="13277" name="Яркий сапфир 7 - рецепт" produce_type="5" />
+	<compose id="13278" name="Топаз 7 - рецепт" produce_type="5" />
+	<compose id="13279" name="Жемчуг 7 - рецепт" produce_type="5" />
+	<compose id="13280" name="Александрит 7 - рецепт" produce_type="5" />
+	<compose id="13281" name="Большой шаровик 7 - рецепт" produce_type="5" />
+	<compose id="13282" name="Лазурит 7 - рецепт" produce_type="5" />
+	<compose id="13283" name="Аметист 7 - рецепт" produce_type="5" />
+	<compose id="13284" name="Малахит 7 - рецепт" produce_type="5" />
+	<compose id="13285" name="Бриллиант 7 - рецепт" produce_type="5" />
+	<compose id="13286" name="Циркон 7 - рецепт" produce_type="5" />
+	<compose id="13287" name="Янтарь 7 - рецепт" produce_type="5" />
+	<compose id="13288" name="Солнцевик 8 - рецепт" produce_type="5" />
+	<compose id="13289" name="Лунник 8 - рецепт" produce_type="5" />
+	<compose id="13290" name="Диамант 8 - рецепт" produce_type="5" />
+	<compose id="13291" name="Рубин 8 - рецепт" produce_type="5" />
+	<compose id="13292" name="Кровавый сапфир 8 - рецепт" produce_type="5" />
+	<compose id="13293" name="Яркий сапфир 8 - рецепт" produce_type="5" />
+	<compose id="13294" name="Топаз 8 - рецепт" produce_type="5" />
+	<compose id="13295" name="Жемчуг 8 - рецепт" produce_type="5" />
+	<compose id="13296" name="Александрит 8 - рецепт" produce_type="5" />
+	<compose id="13297" name="Большой шаровик 8 - рецепт" produce_type="5" />
+	<compose id="13298" name="Лазурит 8 - рецепт" produce_type="5" />
+	<compose id="13299" name="Аметист 8 - рецепт" produce_type="5" />
+	<compose id="13300" name="Малахит 8 - рецепт" produce_type="5" />
+	<compose id="13301" name="Бриллиант 8 - рецепт" produce_type="5" />
+	<compose id="13302" name="Циркон 8 - рецепт" produce_type="5" />
+	<compose id="13303" name="Янтарь 8 - рецепт" produce_type="5" />
+	<compose id="13304" name="Солнцевик 9 - рецепт" produce_type="5" />
+	<compose id="13305" name="Лунник 9 - рецепт" produce_type="5" />
+	<compose id="13306" name="Диамант 9 - рецепт" produce_type="5" />
+	<compose id="13307" name="Рубин 9 - рецепт" produce_type="5" />
+	<compose id="13308" name="Кровавый сапфир 9 - рецепт" produce_type="5" />
+	<compose id="13309" name="Яркий сапфир 9 - рецепт" produce_type="5" />
+	<compose id="13310" name="Топаз 9 - рецепт" produce_type="5" />
+	<compose id="13311" name="Жемчуг 9 - рецепт" produce_type="5" />
+	<compose id="13312" name="Александрит 9 - рецепт" produce_type="5" />
+	<compose id="13313" name="Большой шаровик 9 - рецепт" produce_type="5" />
+	<compose id="13314" name="Лазурит 9 - рецепт" produce_type="5" />
+	<compose id="13315" name="Аметист 9 - рецепт" produce_type="5" />
+	<compose id="13316" name="Малахит 9 - рецепт" produce_type="5" />
+	<compose id="13317" name="Бриллиант 9 - рецепт" produce_type="5" />
+	<compose id="13318" name="Циркон 9 - рецепт" produce_type="5" />
+	<compose id="13319" name="Янтарь 9 - рецепт" produce_type="5" />
+	<compose id="13320" name="Магическое ожерелье +21" produce_type="3" />
+	<compose id="13321" name="Магическое ожерелье +22" produce_type="3" />
+	<compose id="13322" name="Магическое ожерелье +23" produce_type="3" />
+	<compose id="13323" name="Магическое ожерелье +24" produce_type="3" />
+	<compose id="13324" name="Магическое ожерелье +25" produce_type="3" />
+	<compose id="13325" name="Магическое ожерелье +26" produce_type="3" />
+	<compose id="13326" name="Магическое ожерелье +27" produce_type="3" />
+	<compose id="13327" name="Магическое ожерелье +28" produce_type="3" />
+	<compose id="13328" name="Магическое ожерелье +29" produce_type="3" />
+	<compose id="13329" name="Магическое ожерелье +30" produce_type="3" />
+	<compose id="13330" name="Крылья Игнис" produce_type="3" />
+	<compose id="13331" name="Сопр. кровотечению [Ур. 2]" produce_type="7" />
+	<compose id="13332" name="Сопр. ослаблению [Ур. 2]" produce_type="7" />
+	<compose id="13333" name="Cопр. контролю [Ур. 2]" produce_type="7" />
+	<compose id="13334" name="Сопр. замедлению [Ур. 2]" produce_type="7" />
+	<compose id="13335" name="Сопр. кровотечению [Ур. 3]" produce_type="7" />
+	<compose id="13336" name="Сопр. ослаблению [Ур. 3]" produce_type="7" />
+	<compose id="13337" name="Cопр. контролю [Ур. 3]" produce_type="7" />
+	<compose id="13338" name="Сопр. замедлению [Ур. 3]" produce_type="7" />
+	<compose id="13339" name="Сопр. кровотечению [Ур. 4]" produce_type="7" />
+	<compose id="13340" name="Сопр. ослаблению [Ур. 4]" produce_type="7" />
+	<compose id="13341" name="Cопр. контролю [Ур. 4]" produce_type="7" />
+	<compose id="13342" name="Сопр. замедлению [Ур. 4]" produce_type="7" />
+	<compose id="13343" name="Эликсир жизни [Ур. 2]" produce_type="7" />
+	<compose id="13344" name="Эликсир воеводы [Ур. 2]" produce_type="7" />
+	<compose id="13345" name="Эликсир архимага [Ур. 2]" produce_type="7" />
+	<compose id="13346" name="Эликсир стойкости [Ур. 2]" produce_type="7" />
+	<compose id="13347" name="Эликсир жизни [Ур. 3]" produce_type="7" />
+	<compose id="13348" name="Эликсир воеводы [Ур. 3]" produce_type="7" />
+	<compose id="13349" name="Эликсир архимага [Ур. 3]" produce_type="7" />
+	<compose id="13350" name="Эликсир стойкости [Ур. 3]" produce_type="7" />
+	<compose id="13351" name="Эликсир жизни [Ур. 4]" produce_type="7" />
+	<compose id="13352" name="Эликсир воеводы [Ур. 4]" produce_type="7" />
+	<compose id="13353" name="Эликсир архимага [Ур. 4]" produce_type="7" />
+	<compose id="13354" name="Эликсир стойкости [Ур. 4]" produce_type="7" />
+	<compose id="13355" name="Древнее лечебное зелье [бол]" produce_type="7" />
+	<compose id="13356" name="Древнее зелье маны [бол]" produce_type="7" />
+	<compose id="13357" name="Книга опыта" produce_type="5" />
+	<compose id="13358" name="Камень раздора [Ур. 1]" produce_type="7" />
+	<compose id="13359" name="Камень раздора [Ур. 2]" produce_type="7" />
+	<compose id="13360" name="Камень раздора [Ур. 3]" produce_type="7" />
+	<compose id="13361" name="Камень раздора [Ур. 4]" produce_type="7" />
+	<compose id="13362" name="Камень раздора [Ур. 5]" produce_type="7" />
+	<compose id="13363" name="Камень раздора [Ур. 6]" produce_type="7" />
+	<compose id="13364" name="Камень раздора [Ур. 7]" produce_type="7" />
+	<compose id="13365" name="Редкий узор Расплата" produce_type="5" />
+	<compose id="13366" name="Редкий узор Бастион" produce_type="5" />
+	<compose id="13367" name="Редкий узор Берсерк" produce_type="5" />
+	<compose id="13368" name="Меч разрушителя миров" produce_type="3" />
+	<compose id="13369" name="Лук тысячи стрел" produce_type="3" />
+	<compose id="13370" name="Посох ледяного дракона" produce_type="3" />
+	<compose id="13371" name="Лира песни русалки" produce_type="3" />
+	<compose id="13372" name="Солнцевик [Ур. 12] [Гран.]" produce_type="13" />
+	<compose id="13373" name="Лунник [Ур. 12] [Гран.]" produce_type="13" />
+	<compose id="13374" name="Ляпис [Ур. 12] [Гран.]" produce_type="13" />
+	<compose id="13375" name="Гранат [Ур. 12] [Гран.]" produce_type="13" />
+	<compose id="13376" name="Бриллиант [Ур. 12] [Гран.]" produce_type="13" />
+	<compose id="13377" name="Рубин [Ур. 12] [Гран.]" produce_type="13" />
+	<compose id="13378" name="Сапфир [Ур. 12] [Гран.]" produce_type="13" />
+	<compose id="13379" name="Кровавый сапфир [Ур. 12] [Гран.]" produce_type="13" />
+	<compose id="13380" name="Диамант [Ур. 12] [Гран.]" produce_type="13" />
+	<compose id="13381" name="Жемчуг [Ур. 12] [Гран.]" produce_type="13" />
+	<compose id="13382" name="Яркий сапфир [Ур. 12] [Гран.]" produce_type="13" />
+	<compose id="13383" name="Топаз [Ур. 12] [Гран.]" produce_type="13" />
+	<compose id="13384" name="Александрит [Ур. 12] [Гран.]" produce_type="13" />
+	<compose id="13385" name="Большой шаровик [Ур. 12] [Гран.]" produce_type="13" />
+	<compose id="13386" name="Лазурит [Ур. 12] [Гран.]" produce_type="13" />
+	<compose id="13387" name="Аметист [Ур. 12] [Гран.]" produce_type="13" />
+	<compose id="13388" name="Малахит [Ур. 12] [Гран.]" produce_type="13" />
+	<compose id="13389" name="Циркон [Ур. 12] [Гран.]" produce_type="13" />
+	<compose id="13390" name="Янтарь [Ур. 12] [Гран.]" produce_type="13" />
+	<compose id="13391" name="Берилл [Ур. 12] [Гран.]" produce_type="13" />
+	<compose id="13392" name="Берилл [Ур. 4] [Гран.]" produce_type="13" />
+	<compose id="13393" name="Берилл [Ур. 5] [Гран.]" produce_type="13" />
+	<compose id="13394" name="Берилл [Ур. 6] [Гран.]" produce_type="13" />
+	<compose id="13395" name="Берилл [Ур. 7] [Гран.]" produce_type="13" />
+	<compose id="13396" name="Берилл [Ур. 8] [Гран.]" produce_type="13" />
+	<compose id="13397" name="Берилл [Ур. 9] [Гран.]" produce_type="13" />
+	<compose id="13398" name="Берилл [Ур. 10] [Гран.]" produce_type="13" />
+	<compose id="13399" name="Берилл [Ур. 11] [Гран.]" produce_type="13" />
+	<compose id="13400" name="Бриллиант [Ур. 12]" produce_type="24" />
+	<compose id="13401" name="Кровавый сапфир [Ур. 12]" produce_type="24" />
+	<compose id="13402" name="Удаление камней [Ур. 7]" produce_type="3" />
+	<compose id="13403" name="Эликсир целителя [Ур. 2]" produce_type="7" />
+	<compose id="13404" name="Эликсир целителя [Ур. 3]" produce_type="7" />
+	<compose id="13405" name="Эликсир целителя [Ур. 4]" produce_type="7" />
+	<compose id="13406" name="Берилл 4 - рецепт" produce_type="5" />
+	<compose id="13407" name="Берилл 5 - рецепт" produce_type="5" />
+	<compose id="13408" name="Берилл 6 - рецепт" produce_type="5" />
+	<compose id="13409" name="Берилл 7 - рецепт" produce_type="5" />
+	<compose id="13410" name="Берилл 8 - рецепт" produce_type="5" />
+	<compose id="13411" name="Берилл 9 - рецепт" produce_type="5" />
+	<compose id="13412" name="Эликсир молниеносности [Ур. 1]" produce_type="34" />
+	<compose id="13413" name="Эликсир молниеносности [Ур. 1]" produce_type="35" />
+	<compose id="13414" name="Эликсир молниеносности [Ур. 1]" produce_type="900" />
+	<compose id="13415" name="Эликсир молниеносности [Ур. 2]" produce_type="35" />
+	<compose id="13416" name="Эликсир молниеносности [Ур. 2]" produce_type="900" />
+	<compose id="13417" name="Эликсир молниеносности [Ур. 3]" produce_type="900" />
+	<compose id="13418" name="Эликсир пустоты маны [Ур. 1]" produce_type="34" />
+	<compose id="13419" name="Эликсир пустоты маны [Ур. 1]" produce_type="35" />
+	<compose id="13420" name="Эликсир пустоты маны [Ур. 1]" produce_type="900" />
+	<compose id="13421" name="Эликсир пустоты маны [Ур. 2]" produce_type="35" />
+	<compose id="13422" name="Эликсир пустоты маны [Ур. 2]" produce_type="900" />
+	<compose id="13423" name="Эликсир пустоты маны [Ур. 3]" produce_type="900" />
+	<compose id="13424" name="Эликсир обмана смерти [Ур. 1]" produce_type="34" />
+	<compose id="13425" name="Эликсир обмана смерти [Ур. 1]" produce_type="35" />
+	<compose id="13426" name="Эликсир обмана смерти [Ур. 1]" produce_type="900" />
+	<compose id="13427" name="Эликсир обмана смерти [Ур. 2]" produce_type="35" />
+	<compose id="13428" name="Эликсир обмана смерти [Ур. 2]" produce_type="900" />
+	<compose id="13429" name="Эликсир обмана смерти [Ур. 3]" produce_type="900" />
+	<compose id="13430" name="Эликсир ослабления [Ур. 1]" produce_type="34" />
+	<compose id="13431" name="Эликсир ослабления [Ур. 1]" produce_type="35" />
+	<compose id="13432" name="Эликсир ослабления [Ур. 1]" produce_type="900" />
+	<compose id="13433" name="Эликсир ослабления [Ур. 2]" produce_type="35" />
+	<compose id="13434" name="Эликсир ослабления [Ур. 2]" produce_type="900" />
+	<compose id="13435" name="Эликсир ослабления [Ур. 3]" produce_type="900" />
+	<compose id="13436" name="Эликсир хватки земли [Ур. 1]" produce_type="34" />
+	<compose id="13437" name="Эликсир хватки земли [Ур. 1]" produce_type="35" />
+	<compose id="13438" name="Эликсир хватки земли [Ур. 1]" produce_type="900" />
+	<compose id="13439" name="Эликсир хватки земли [Ур. 2]" produce_type="35" />
+	<compose id="13440" name="Эликсир хватки земли [Ур. 2]" produce_type="900" />
+	<compose id="13441" name="Эликсир хватки земли [Ур. 3]" produce_type="900" />
+	<compose id="13442" name="Эликсир вампира [Ур. 1]" produce_type="34" />
+	<compose id="13443" name="Эликсир вампира [Ур. 1]" produce_type="35" />
+	<compose id="13444" name="Эликсир вампира [Ур. 1]" produce_type="900" />
+	<compose id="13445" name="Эликсир вампира [Ур. 2]" produce_type="35" />
+	<compose id="13446" name="Эликсир вампира [Ур. 2]" produce_type="900" />
+	<compose id="13447" name="Эликсир вампира [Ур. 3]" produce_type="900" />
+	<compose id="13448" name="Эликсир сглаза [Ур. 1]" produce_type="34" />
+	<compose id="13449" name="Эликсир сглаза [Ур. 1]" produce_type="35" />
+	<compose id="13450" name="Эликсир сглаза [Ур. 1]" produce_type="900" />
+	<compose id="13451" name="Эликсир сглаза [Ур. 2]" produce_type="35" />
+	<compose id="13452" name="Эликсир сглаза [Ур. 2]" produce_type="900" />
+	<compose id="13453" name="Эликсир сглаза [Ур. 3]" produce_type="900" />
+	<compose id="13454" name="Эликсир защиты от чар [Ур. 1]" produce_type="34" />
+	<compose id="13455" name="Эликсир защиты от чар [Ур. 1]" produce_type="35" />
+	<compose id="13456" name="Эликсир защиты от чар [Ур. 1]" produce_type="900" />
+	<compose id="13457" name="Эликсир защиты от чар [Ур. 2]" produce_type="35" />
+	<compose id="13458" name="Эликсир защиты от чар [Ур. 2]" produce_type="900" />
+	<compose id="13459" name="Эликсир защиты от чар [Ур. 3]" produce_type="900" />
+	<compose id="13460" name="Эликсир немоты [Ур. 1]" produce_type="34" />
+	<compose id="13461" name="Эликсир немоты [Ур. 1]" produce_type="35" />
+	<compose id="13462" name="Эликсир немоты [Ур. 1]" produce_type="900" />
+	<compose id="13463" name="Эликсир немоты [Ур. 2]" produce_type="35" />
+	<compose id="13464" name="Эликсир немоты [Ур. 2]" produce_type="900" />
+	<compose id="13465" name="Эликсир немоты [Ур. 3]" produce_type="900" />
+	<compose id="13466" name="Копье пустынного волка" produce_type="3" />
+	<compose id="13467" name="Коготь пустынного волка" produce_type="3" />
+	<compose id="13468" name="Лук охотника на драконов" produce_type="3" />
+	<compose id="13469" name="Самострел охотника на драконов" produce_type="3" />
+	<compose id="13470" name="Посох повелителя бурь" produce_type="3" />
+	<compose id="13471" name="Артефакт повелителя бурь" produce_type="3" />
+	<compose id="13472" name="Лира песни света" produce_type="3" />
+	<compose id="13473" name="Муза песни света" produce_type="3" />
+	<compose id="13474" name="Пояс пустынного волка" produce_type="3" />
+	<compose id="13475" name="Ожерелье пустынного волка" produce_type="3" />
+	<compose id="13476" name="Кольцо пустынного волка" produce_type="3" />
+	<compose id="13477" name="Перстень пустынного волка" produce_type="3" />
+	<compose id="13478" name="Пояс охотника на драконов" produce_type="3" />
+	<compose id="13479" name="Ожерелье охотника на драконов" produce_type="3" />
+	<compose id="13480" name="Кольцо охотника на драконов" produce_type="3" />
+	<compose id="13481" name="Перстень охотника на драконов" produce_type="3" />
+	<compose id="13482" name="Пояс повелителя бурь" produce_type="3" />
+	<compose id="13483" name="Ожерелье повелителя бурь" produce_type="3" />
+	<compose id="13484" name="Кольцо повелителя бурь" produce_type="3" />
+	<compose id="13485" name="Перстень повелителя бурь" produce_type="3" />
+	<compose id="13486" name="Пояс песни света" produce_type="3" />
+	<compose id="13487" name="Ожерелье песни света" produce_type="3" />
+	<compose id="13488" name="Кольцо песни света" produce_type="3" />
+	<compose id="13489" name="Перстень песни света" produce_type="3" />
+	<compose id="13490" name="Шлем пустынного волка" produce_type="5" />
+	<compose id="13491" name="Нагрудник пустынного волка" produce_type="5" />
+	<compose id="13492" name="Перчатки пустынного волка" produce_type="5" />
+	<compose id="13493" name="Поножи пустынного волка" produce_type="5" />
+	<compose id="13494" name="Ботинки пустынного волка" produce_type="5" />
+	<compose id="13495" name="Плащ пустынного волка" produce_type="5" />
+	<compose id="13496" name="Шлем охотника на драконов" produce_type="5" />
+	<compose id="13497" name="Нагрудник охотника на драконов" produce_type="5" />
+	<compose id="13498" name="Перчатки охотника на драконов" produce_type="5" />
+	<compose id="13499" name="Поножи охотника на драконов" produce_type="5" />
+	<compose id="13500" name="Ботинки охотника на драконов" produce_type="5" />
+	<compose id="13501" name="Плащ охотника на драконов" produce_type="5" />
+	<compose id="13502" name="Шлем повелителя бурь" produce_type="5" />
+	<compose id="13503" name="Нагрудник повелителя бурь" produce_type="5" />
+	<compose id="13504" name="Перчатки повелителя бурь" produce_type="5" />
+	<compose id="13505" name="Поножи повелителя бурь" produce_type="5" />
+	<compose id="13506" name="Ботинки повелителя бурь" produce_type="5" />
+	<compose id="13507" name="Плащ повелителя бурь" produce_type="5" />
+	<compose id="13508" name="Шлем песни света" produce_type="5" />
+	<compose id="13509" name="Нагрудник песни света" produce_type="5" />
+	<compose id="13510" name="Перчатки песни света" produce_type="5" />
+	<compose id="13511" name="Поножи песни света" produce_type="5" />
+	<compose id="13512" name="Ботинки песни света" produce_type="5" />
+	<compose id="13513" name="Плащ песни света" produce_type="5" />
+	<compose id="13514" name="Суть земли" produce_type="24" />
+	<compose id="13515" name="Суть небес" produce_type="24" />
+	<compose id="13516" name="Пояс звездной ловкости" produce_type="14" />
+	<compose id="13517" name="Плащ звездной ловкости" produce_type="14" />
+	<compose id="13518" name="Плащ звездной точности" produce_type="14" />
+	<compose id="13519" name="Циркон [Ур. 4]" produce_type="15" />
+	<compose id="13520" name="Янтарь [Ур. 4]" produce_type="15" />
+	<compose id="13521" name="Эликсир универсальности [Ур. 1]" produce_type="7" />
+	<compose id="13522" name="Эликсир универсальности [Ур. 2]" produce_type="7" />
+	<compose id="13523" name="Эликсир универсальности [Ур. 3]" produce_type="7" />
+	<compose id="13524" name="Эликсир универсальности [Ур. 4]" produce_type="7" />
+	<compose id="13525" name="Сопр. воздействиям [Ур. 1]" produce_type="7" />
+	<compose id="13526" name="Сопр. воздействиям [Ур. 2]" produce_type="7" />
+	<compose id="13527" name="Сопр. воздействиям [Ур. 3]" produce_type="7" />
+	<compose id="13528" name="Сопр. воздействиям [Ур. 4]" produce_type="7" />
+	<compose id="13529" name="Мистическое лечебное зелье [бол]" produce_type="7" />
+	<compose id="13530" name="Мистическое зелье маны [бол]" produce_type="7" />
+	<compose id="13531" name="Берилл [Ур. 5]" produce_type="15" />
+    <compose id="13532" name="Берилл [Ур. 6]" produce_type="15" />
+    <compose id="13533" name="Берилл [Ур. 7]" produce_type="15" />
+    <compose id="13534" name="Берилл [Ур. 8]" produce_type="15" />
+	<compose id="13535" name="Берилл [Ур. 9]" produce_type="15" />
+	<compose id="13536" name="Берилл [Ур. 10]" produce_type="15" />
+	<compose id="13537" name="Берилл [Ур. 11]" produce_type="15" />
+	<compose id="13538" name="Солнцевик[Ур. 13][Гран.]" produce_type="13" />
+	<compose id="13539" name="Лунник[Ур. 13][Гран.]" produce_type="13" />
+	<compose id="13540" name="Ляпис[Ур. 13][Гран.]" produce_type="13" />
+	<compose id="13541" name="Гранат[Ур. 13][Гран.]" produce_type="13" />
+	<compose id="13542" name="Бриллиант[Ур. 13][Гран.]" produce_type="13" />
+	<compose id="13543" name="Рубин[Ур. 13][Гран.]" produce_type="13" />
+	<compose id="13544" name="Сапфир[Ур. 13][Гран.]" produce_type="13" />
+	<compose id="13545" name="Кровавый сапфир[Ур. 13][Гран.]" produce_type="13" />
+	<compose id="13546" name="Диамант[Ур. 13][Гран.]" produce_type="13" />
+	<compose id="13547" name="Жемчуг[Ур. 13][Гран.]" produce_type="13" />
+	<compose id="13548" name="Яркий сапфир[Ур. 13][Гран.]" produce_type="13" />
+	<compose id="13549" name="Топаз[Ур. 13][Гран.]" produce_type="13" />
+	<compose id="13550" name="Александрит[Ур. 13][Гран.]" produce_type="13" />
+	<compose id="13551" name="Большой шаровик[Ур. 13][Гран.]" produce_type="13" />
+	<compose id="13552" name="Лазурит[Ур. 13][Гран.]" produce_type="13" />
+	<compose id="13553" name="Аметист[Ур. 13][Гран.]" produce_type="13" />
+	<compose id="13554" name="Малахит[Ур. 13][Гран.]" produce_type="13" />
+	<compose id="13555" name="Циркон[Ур. 13][Гран.]" produce_type="13" />
+	<compose id="13556" name="Янтарь[Ур. 13][Гран.]" produce_type="13" />
+	<compose id="13557" name="Берилл[Ур. 13][Гран.]" produce_type="13" />
+	<compose id="13558" name="Бриллиант [Ур. 13]" produce_type="24" />
+	<compose id="13559" name="Кровавый сапфир [Ур. 13]" produce_type="24" />
+	
+	<compose id="13560" name="Солнцевик [Ур. 12]" produce_type="15" />
+	<compose id="13561" name="Лунник [Ур. 12]" produce_type="15" />
+	<compose id="13562" name="Александрит [Ур. 12]" produce_type="15" />
+	<compose id="13563" name="Большой шаровик [Ур. 12]" produce_type="15" />
+	<compose id="13564" name="Ляпис [Ур. 12]" produce_type="15" />
+	<compose id="13565" name="Гранат [Ур. 12]" produce_type="15" />
+	<compose id="13566" name="Яркий сапфир [Ур. 12]" produce_type="15" />
+	<compose id="13567" name="Бриллиант [Ур. 12]" produce_type="15" />
+	<compose id="13568" name="Рубин [Ур. 12]" produce_type="15" />
+	<compose id="13569" name="Сапфир [Ур. 12]" produce_type="15" />
+	<compose id="13570" name="Кровавый сапфир [Ур. 12]" produce_type="15" />
+	<compose id="13571" name="Топаз [Ур. 12]" produce_type="15" />
+	<compose id="13572" name="Циркон [Ур. 12]" produce_type="15" />
+	<compose id="13573" name="Янтарь [Ур. 12]" produce_type="15" />
+	<compose id="13574" name="Жемчуг [Ур. 12]" produce_type="15" />
+	<compose id="13575" name="Диамант [Ур. 12]" produce_type="15" />
+	<compose id="13576" name="Лазурит [Ур. 12]" produce_type="15" />
+	<compose id="13577" name="Аметист [Ур. 12]" produce_type="15" />
+	<compose id="13578" name="Малахит [Ур. 12]" produce_type="15" />
+	<compose id="13579" name="Берилл [Ур. 12]" produce_type="15" />
+	<compose id="13580" name="Яйцо в тосте" produce_type="32" />
+	<compose id="13581" name="Свежий сок" produce_type="32" />
+	<compose id="13582" name="Биточки из свинины" produce_type="32" />
+	<compose id="13583" name="Яйцо в тосте" produce_type="33" />
+	<compose id="13584" name="Свежий сок" produce_type="33" />
+	<compose id="13585" name="Биточки из свинины" produce_type="33" />
+	<compose id="13586" name="Омлет с пряными травами" produce_type="33" />
+	<compose id="13587" name="Осветленный нектар" produce_type="33" />
+	<compose id="13588" name="Басма" produce_type="33" />
+	<compose id="13589" name="Яйцо в тосте" produce_type="38" />
+	<compose id="13590" name="Свежий сок" produce_type="38" />
+	<compose id="13591" name="Биточки из свинины" produce_type="38" />
+	<compose id="13592" name="Омлет с пряными травами" produce_type="38" />
+	<compose id="13593" name="Осветленный нектар" produce_type="38" />
+	<compose id="13594" name="Басма" produce_type="38" />
+	<compose id="13595" name="Яичница-болтунья" produce_type="38" />
+	<compose id="13596" name="Волшебный нектар" produce_type="38" />
+	<compose id="13597" name="Буженина" produce_type="38" />
+	<compose id="13598" name="Копье бесконечности" produce_type="3" />
+	<compose id="13599" name="Лук бесконечности" produce_type="3" />
+	<compose id="13600" name="Посох бесконечности" produce_type="3" />
+	<compose id="13601" name="Лира бесконечности" produce_type="3" />
+	<compose id="13602" name="Страшный суд [Ур. 9]" produce_type="9" />
+	<compose id="13603" name="Священное возмездие [Ур. 9]" produce_type="9" />
+    <compose id="13604" name="Священное наказание [Ур. 9]" produce_type="9" />
+	<compose id="13605" name="Священный символ [Ур. 9]" produce_type="9" />
+	<compose id="13606" name="Священная стойкость [Ур. 9]" produce_type="9" />
+	<compose id="13607" name="Священное убежище [Ур. 9]" produce_type="9" />
+	<compose id="13608" name="Священный хаос [Ур. 9]" produce_type="9" />
+	<compose id="13609" name="Священная чистота [Ур. 9]" produce_type="9" />
+	<compose id="13610" name="Священная судьба [Ур. 9]" produce_type="9" />
+	<compose id="13611" name="Священная мудрость [Ур. 9]" produce_type="9" />
+	<compose id="13612" name="Священное сияние [Ур. 9]" produce_type="9" />
+	<compose id="13613" name="Священный свет [Ур. 9]" produce_type="9" />
+	<compose id="13614" name="Плейона х1" produce_type="3" />
+	<compose id="13615" name="Плейона х2" produce_type="3" />
+	<compose id="13616" name="Плейона х4" produce_type="3" />
+	<compose id="13617" name="Золотая плейона" produce_type="3" />
+	<compose id="13618" name="Звездная ловкость для плаща" produce_type="3" />
+	<compose id="13619" name="Звездная точность для плаща" produce_type="3" />
+	<compose id="13620" name="Звездная ловкость для пояса" produce_type="3" />
+	<compose id="13621" name="Ядро души эльфа [100]" produce_type="3" />
+	
+	<compose id="13622" name="Зачарованный шлем рассвета" produce_type="11" />
+	<compose id="13623" name="Зачарованный нагрудник рассвета" produce_type="11" />
+	<compose id="13624" name="Зачарованные поножи рассвета" produce_type="11" />
+	<compose id="13625" name="Зачарованные краги рассвета" produce_type="11" />
+	<compose id="13626" name="Зачарованные сапоги рассвета" produce_type="11" />
+	<compose id="13627" name="Зачарованный плащ рассвета" produce_type="11" />
+	<compose id="13628" name="Зачарованный шлем охотника" produce_type="11" />
+	<compose id="13629" name="Зачарованный нагрудник охотника" produce_type="11" />
+	<compose id="13630" name="Зачарованные поножи охотника" produce_type="11" />
+	<compose id="13631" name="Зачарованные краги охотника" produce_type="11" />
+	<compose id="13632" name="Зачарованные сапоги охотника" produce_type="11" />
+	<compose id="13633" name="Зачарованный плащ охотника" produce_type="11" />
+	<compose id="13634" name="Зачарованная корона палача" produce_type="11" />
+	<compose id="13635" name="Зачарованная мантия палача" produce_type="11" />
+	<compose id="13636" name="Зачарованные бриджи палача" produce_type="11" />
+	<compose id="13637" name="Зачарованные рукавицы палача" produce_type="11" />
+	<compose id="13638" name="Зачарованные сандалии палача" produce_type="11" />
+	<compose id="13639" name="Зачарованный плащ палача" produce_type="11" />
+	<compose id="13640" name="Зачарованная корона покоя" produce_type="11" />
+	<compose id="13641" name="Зачарованная мантия покоя" produce_type="11" />
+	<compose id="13642" name="Зачарованные бриджи покоя" produce_type="11" />
+	<compose id="13643" name="Зачарованные рукавицы покоя" produce_type="11" />
+	<compose id="13644" name="Зачарованные сандалии покоя" produce_type="11" />
+	<compose id="13645" name="Зачарованный плащ покоя" produce_type="11" />
+	<compose id="13646" name="Зачарованное копье рассвета" produce_type="11" />
+	<compose id="13647" name="Зачарованный лук охотника" produce_type="11" />
+	<compose id="13648" name="Зачарованная лира покоя" produce_type="11" />
+	<compose id="13649" name="Зачарованный артефакт палача" produce_type="11" />
+	<compose id="13650" name="Зачарованное кольцо облака" produce_type="11" />
+	<compose id="13651" name="Зачарованное ожерелье солнца" produce_type="11" />
+	<compose id="13652" name="Кристалл жизни" produce_type="11" />
+	<compose id="13653" name="Зачарованное кольцо осуждения" produce_type="11" />
+	<compose id="13654" name="Зачарованное ожерелье платины" produce_type="11" />
+	<compose id="13655" name="Зачарованный пояс" produce_type="11" />
+	<compose id="13656" name="Зачарованный шлем приговора" produce_type="11" />
+	<compose id="13657" name="Зачарован. нагрудник приговора" produce_type="11" />
+	<compose id="13658" name="Зачарованные поножи приговора" produce_type="11" />
+	<compose id="13659" name="Зачарованные краги приговора" produce_type="11" />
+	<compose id="13660" name="Зачарованные сапоги приговора" produce_type="11" />
+	<compose id="13661" name="Зачарованный плащ приговора" produce_type="11" />
+	<compose id="13662" name="Зачарованный шлем огня" produce_type="11" />
+	<compose id="13663" name="Зачарован. нагрудник огня" produce_type="11" />
+	<compose id="13664" name="Зачарованные поножи огня" produce_type="11" />
+	<compose id="13665" name="Зачарованные краги огня" produce_type="11" />
+	<compose id="13666" name="Зачарованные сапоги огня" produce_type="11" />
+	<compose id="13667" name="Зачарованный плащ огня" produce_type="11" />
+	<compose id="13668" name="Зачарованная корона истинника" produce_type="11" />
+	<compose id="13669" name="Зачарованная мантия истинника" produce_type="11" />
+	<compose id="13670" name="Зачарованные бриджи истинника" produce_type="11" />
+	<compose id="13671" name="Зачарованные рукавицы истинника" produce_type="11" />
+	<compose id="13672" name="Зачарованные сандалии истинника" produce_type="11" />
+	<compose id="13673" name="Зачарованный плащ истинника" produce_type="11" />
+	<compose id="13674" name="Зачарованная корона стона" produce_type="11" />
+	<compose id="13675" name="Зачарованная мантия стона" produce_type="11" />
+	<compose id="13676" name="Зачарованные бриджи стона" produce_type="11" />
+	<compose id="13677" name="Зачарованные рукавицы стона" produce_type="11" />
+	<compose id="13678" name="Зачарованные сандалии стона" produce_type="11" />
+	<compose id="13679" name="Зачарованный плащ стона" produce_type="11" />
+	<compose id="13680" name="Зачарованное копье приговора" produce_type="11" />
+	<compose id="13681" name="Зачарованный лук сокрушителя" produce_type="11" />
+	<compose id="13682" name="Зачарованный артефакт истинника" produce_type="11" />
+	<compose id="13683" name="Зачарованная лира стона" produce_type="11" />
+	<compose id="13684" name="Зачарованное кольцо идеала" produce_type="11" />
+	<compose id="13685" name="Зачарованное ожерелье звезды" produce_type="11" />
+	<compose id="13686" name="Хранилище жизни" produce_type="11" />
+	<compose id="13687" name="Зачарованное кольцо искупления" produce_type="11" />
+	<compose id="13688" name="Зачарованное ожерелье луны" produce_type="11" />
+	<compose id="13689" name="Хранилище маны" produce_type="11" />
+	<compose id="13690" name="Зачарованный шлем гнева" produce_type="11" />
+	<compose id="13691" name="Зачарованный нагрудник гнева" produce_type="11" />
+	<compose id="13692" name="Зачарованные поножи гнева" produce_type="11" />
+	<compose id="13693" name="Зачарованные краги гнева" produce_type="11" />
+	<compose id="13694" name="Зачарованные сапоги гнева" produce_type="11" />
+	<compose id="13695" name="Зачарованный плащ гнева" produce_type="11" />
+	<compose id="13696" name="Зачарованный шлем оборотня" produce_type="11" />
+	<compose id="13697" name="Зачарованный нагрудник оборотня" produce_type="11" />
+	<compose id="13698" name="Зачарованные поножи оборотня" produce_type="11" />
+	<compose id="13699" name="Зачарованные краги оборотня" produce_type="11" />
+	<compose id="13700" name="Зачарованные сапоги оборотня" produce_type="11" />
+	<compose id="13701" name="Зачарованный плащ оборотня" produce_type="11" />
+	<compose id="13702" name="Зачарованная корона вихря" produce_type="11" />
+	<compose id="13703" name="Зачарованная мантия вихря" produce_type="11" />
+	<compose id="13704" name="Зачарованные бриджи вихря" produce_type="11" />
+	<compose id="13705" name="Зачарованные рукавицы вихря" produce_type="11" />
+	<compose id="13706" name="Зачарованные сандалии вихря" produce_type="11" />
+	<compose id="13707" name="Зачарованный плащ вихря" produce_type="11" />
+	<compose id="13708" name="Зачарованная корона кошмара" produce_type="11" />
+	<compose id="13709" name="Зачарованная мантия кошмара" produce_type="11" />
+	<compose id="13710" name="Зачарованные бриджи кошмара" produce_type="11" />
+	<compose id="13711" name="Зачарованные рукавицы кошмара" produce_type="11" />
+	<compose id="13712" name="Зачарованные сандалии кошмара" produce_type="11" />
+	<compose id="13713" name="Зачарованный плащ кошмара" produce_type="11" />
+	<compose id="13714" name="Зачарованное копье гнева" produce_type="11" />
+	<compose id="13715" name="Зачарованный лук оборотня" produce_type="11" />
+	<compose id="13716" name="Зачарованный артефакт вихря" produce_type="11" />
+	<compose id="13717" name="Зачарованная лира кошмара" produce_type="11" />
+	<compose id="13718" name="Зачарованное кольцо хватки" produce_type="11" />
+	<compose id="13719" name="Зачарованное ожерелье владыки" produce_type="11" />
+	<compose id="13720" name="Росток жизни" produce_type="11" />
+	<compose id="13721" name="Зачарованное кольцо милосердия" produce_type="11" />
+	<compose id="13722" name="Зачарованное ожерелье демона" produce_type="11" />
+	<compose id="13723" name="Росток маны" produce_type="11" />
+	<compose id="13724" name="Обычный ловец душ" produce_type="3" />
+	<compose id="13725" name="Волшебный ловец душ" produce_type="3" />
+	<compose id="13726" name="Улучшенный ловец душ" produce_type="3" />
+	<compose id="13727" name="Мистический ловец душ" produce_type="3" />
+	<compose id="13728" name="Магическая ткань" produce_type="24" />
+	<compose id="13729" name="Золотой шелк" produce_type="24" />
+	<compose id="13730" name="Билет Неба и Земли" produce_type="24" />
+	<compose id="13731" name="Бессмертный кристалл" produce_type="7" />
+	<compose id="13732" name="Богоподобный кристалл" produce_type="7" />
+	<compose id="13733" name="Священная кровь [1 ур.]" produce_type="7" />
+	<compose id="13734" name="Священная кровь [2 ур.]" produce_type="7" />
+	<compose id="13735" name="Священная кровь [3 ур]" produce_type="7" />
+	<compose id="13736" name="Священная кровь [4 ур]" produce_type="7" />
+	<compose id="13737" name="Средний талисман удачи" produce_type="7" />
+	<compose id="13738" name="Большой талисман удачи" produce_type="7" />
+	<compose id="13739" name="Священная кровь [5 ур]" produce_type="7" />
+	<compose id="13740" name="Священная кровь [6 ур]" produce_type="7" />
+	<compose id="13741" name="Солнцевик[Ур. 14][Гран.]" produce_type="13" />
+	<compose id="13742" name="Лунник[Ур. 14][Гран.]" produce_type="13" />
+	<compose id="13743" name="Ляпис[Ур. 14][Гран.]" produce_type="13" />
+	<compose id="13744" name="Гранат[Ур. 14][Гран.]" produce_type="13" />
+	<compose id="13745" name="Бриллиант[Ур. 14][Гран.]" produce_type="13" />
+	<compose id="13746" name="Рубин[Ур. 14][Гран.]" produce_type="13" />
+	<compose id="13747" name="Сапфир[Ур. 14][Гран.]" produce_type="13" />
+	<compose id="13748" name="Кровавый сапфир[Ур. 14][Гран.]" produce_type="13" />
+	<compose id="13749" name="Диамант[Ур. 14][Гран.]" produce_type="13" />
+	<compose id="13750" name="Жемчуг[Ур. 14][Гран.]" produce_type="13" />
+	<compose id="13751" name="Яркий сапфир[Ур. 14][Гран.]" produce_type="13" />
+	<compose id="13752" name="Топаз[Ур. 14][Гран.]" produce_type="13" />
+	<compose id="13753" name="Александрит[Ур. 14][Гран.]" produce_type="13" />
+	<compose id="13754" name="Большой шаровик[Ур. 14][Гран.]" produce_type="13" />
+	<compose id="13755" name="Лазурит[Ур. 14][Гран.]" produce_type="13" />
+	<compose id="13756" name="Аметист[Ур. 14][Гран.]" produce_type="13" />
+	<compose id="13757" name="Малахит[Ур. 14][Гран.]" produce_type="13" />
+	<compose id="13758" name="Циркон[Ур. 14][Гран.]" produce_type="13" />
+	<compose id="13759" name="Янтарь[Ур. 14][Гран.]" produce_type="13" />
+	<compose id="13760" name="Берилл[Ур. 14][Гран.]" produce_type="13" />
+	<compose id="13761" name="Бриллиант [Ур. 14]" produce_type="24" />
+	<compose id="13762" name="Кровавый сапфир [Ур. 14]" produce_type="24" />
+	<compose id="13763" name="Священная кровь [7 ур]" produce_type="7" />
+	
+	<compose id="13764" name="Солнцевик[Ур. 15][Гран.]" produce_type="13" />
+	<compose id="13765" name="Лунник[Ур. 15][Гран.]" produce_type="13" />
+	<compose id="13766" name="Ляпис[Ур. 15][Гран.]" produce_type="13" />
+	<compose id="13767" name="Гранат[Ур. 15][Гран.]" produce_type="13" />
+	<compose id="13768" name="Бриллиант[Ур. 15][Гран.]" produce_type="13" />
+	<compose id="13769" name="Рубин[Ур. 15][Гран.]" produce_type="13" />
+	<compose id="13770" name="Сапфир[Ур. 15][Гран.]" produce_type="13" />
+	<compose id="13771" name="Кровавый сапфир[Ур. 15][Гран.]" produce_type="13" />
+	<compose id="13772" name="Диамант[Ур. 15][Гран.]" produce_type="13" />
+	<compose id="13773" name="Жемчуг[Ур. 15][Гран.]" produce_type="13" />
+	<compose id="13774" name="Яркий сапфир[Ур. 15][Гран.]" produce_type="13" />
+	<compose id="13775" name="Топаз[Ур. 15][Гран.]" produce_type="13" />
+	<compose id="13776" name="Александрит[Ур. 15][Гран.]" produce_type="13" />
+	<compose id="13777" name="Большой шаровик[Ур. 15][Гран.]" produce_type="13" />
+	<compose id="13778" name="Лазурит[Ур. 15][Гран.]" produce_type="13" />
+	<compose id="13779" name="Аметист[Ур. 15][Гран.]" produce_type="13" />
+	<compose id="13780" name="Малахит[Ур. 15][Гран.]" produce_type="13" />
+	<compose id="13781" name="Циркон[Ур. 15][Гран.]" produce_type="13" />
+	<compose id="13782" name="Янтарь[Ур. 15][Гран.]" produce_type="13" />
+	<compose id="13783" name="Берилл[Ур. 15][Гран.]" produce_type="13" />
+	<compose id="13784" name="Бриллиант [Ур. 15]" produce_type="24" />
+	<compose id="13785" name="Кровавый сапфир [Ур. 15]" produce_type="24" />
+	<compose id="13786" name="Солнцевик [Ур. 13]" produce_type="15" />
+	<compose id="13787" name="Лунник [Ур. 13]" produce_type="15" />
+	<compose id="13788" name="Александрит [Ур. 13]" produce_type="15" />
+	<compose id="13789" name="Большой шаровик [Ур. 13]" produce_type="15" />
+	<compose id="13790" name="Ляпис [Ур. 13]" produce_type="15" />
+	<compose id="13791" name="Гранат [Ур. 13]" produce_type="15" />
+	<compose id="13792" name="Яркий сапфир [Ур. 13]" produce_type="15" />
+	<compose id="13793" name="Бриллиант [Ур. 13]" produce_type="15" />
+	<compose id="13794" name="Рубин [Ур. 13]" produce_type="15" />
+	<compose id="13795" name="Сапфир [Ур. 13]" produce_type="15" />
+	<compose id="13796" name="Кровавый сапфир [Ур. 13]" produce_type="15" />
+	<compose id="13797" name="Топаз [Ур. 13]" produce_type="15" />
+	<compose id="13798" name="Циркон [Ур. 13]" produce_type="15" />
+	<compose id="13799" name="Янтарь [Ур. 13]" produce_type="15" />
+	<compose id="13800" name="Жемчуг [Ур. 13]" produce_type="15" />
+	<compose id="13801" name="Диамант [Ур. 13]" produce_type="15" />
+	<compose id="13802" name="Лазурит [Ур. 13]" produce_type="15" />
+	<compose id="13803" name="Аметист [Ур. 13]" produce_type="15" />
+	<compose id="13804" name="Малахит [Ур. 13]" produce_type="15" />
+	<compose id="13805" name="Берилл [Ур. 13]" produce_type="15" />
+</root>

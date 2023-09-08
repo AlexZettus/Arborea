@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20407" />
+    <entry Name="Пещера света" />
+    <entry Conditions="" />
+    <entry Overview="Поговорите с &lt;D&gt;&lt;L=s06, 5010101&gt;повелителем битвы Битти&lt;/L&gt;&lt;/D&gt;, чтобы получить еще задания." />
+</quest-local>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20520" />
+    <entry Name="Сердце потрошителя" />
+    <entry Conditions="" />
+    <entry Overview="Достигнув &lt;C&gt;78&lt;/C&gt; уровня, уничтожьте \n&lt;color=0xffff6000&gt;&lt;L=s07, 1060044&gt;элитного потрошителя&lt;/L&gt;&lt;color=0xffffffff&gt;, добудьте &lt;C&gt;20&lt;/C&gt; &lt;I&gt;сердец элитного потрошителя&lt;/I&gt;. Затем вернитесь в Болото слез и поговорите с &lt;D&gt;&lt;L=s07, 5010204&gt;Редом&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

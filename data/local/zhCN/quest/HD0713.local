@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30713" />
+    <entry Name="Новогоднее благословение" />
+    <entry Conditions="" />
+    <entry Overview="Вы можете получать Новогоднее благословение от \n&lt;M&gt;&lt;L=s02, 5600019&gt;новогодней елки&lt;/L&gt;&lt;/M&gt; каждый день в течение новогодних праздников. \n Новогоднее благословение ждет вас каждые &lt;C&gt;2&lt;/C&gt; часа." />
+</quest-local>

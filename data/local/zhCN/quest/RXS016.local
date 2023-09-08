@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20016" />
+    <entry Name="Путь домой" />
+    <entry Conditions="" />
+    <entry Overview="Проводник &lt;D&gt;&lt;L=s01,5510608&gt;Розали&lt;/L&gt;&lt;/D&gt; покажет тебе дорогу в город. Отправляйся к ней за дальнейшими указаниями.\n&#x0A;\n&lt;S&gt;[Ур. 15]&lt;/S&gt;Эльф новичка: достигнув 15 Ур., вы можете получить &lt;A&gt;эльфа новичка.&lt;/A&gt;\n&#x0A;\n" />
+</quest-local>

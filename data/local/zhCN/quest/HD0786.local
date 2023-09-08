@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30786" />
+    <entry Name="Получите инструмент резчика" />
+    <entry Conditions="" />
+    <entry Overview="Вы можете попросить \n&lt;D&gt;&lt;L=s52, 5600027&gt;госпожу Больбо&lt;/L&gt;&lt;/D&gt; дать вам &lt;C&gt;5&lt;/C&gt; &lt;I&gt;инструментов резчика&lt;/I&gt; на день." />
+</quest-local>

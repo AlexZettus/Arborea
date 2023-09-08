@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20633" />
+    <entry Name="Использование когтя" />
+    <entry Conditions="" />
+    <entry Overview="Найдите &lt;C&gt;1&lt;/C&gt; &lt;color=0xffff0000&gt;&lt;L=s08, 1070079&gt;коготь Потрошителя земли&lt;/L&gt;&lt;color=0xffffffff&gt; &lt;I&gt;&lt;/I&gt; и \n&lt;C&gt;30&lt;/C&gt; &lt;color=0xffff6000&gt;&lt;L=s08, 1070058&gt;когтей большого кровавого волка&lt;/L&gt;&lt;color=0xffffffff&gt; &lt;I&gt;&lt;/I&gt;. Отнесите их \n&lt;D&gt;&lt;L=s08, 5010209&gt;Ротту&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

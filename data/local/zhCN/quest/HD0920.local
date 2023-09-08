@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30920" />
+    <entry Name="Получение привилегий" />
+    <entry Conditions="" />
+    <entry Overview="Идти сражаться в небесный город найти привилегированных послов для получения карты привилегий。" />
+</quest-local>

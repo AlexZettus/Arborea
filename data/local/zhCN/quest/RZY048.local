@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="40048" />
+    <entry Name="Настроения эльфа" />
+    <entry Conditions="" />
+    <entry Overview="Пусть &lt;D&gt;&lt;L=s05, 5511027&gt;эльфовед Фиэлла&lt;/L&gt;&lt;/D&gt; расскажет вам побольше о настроениях эльфов.\n&#x0A;\n " />
+</quest-local>

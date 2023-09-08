@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="53003" />
+    <entry Name="Поздравь меня полностью" />
+    <entry Conditions="" />
+    <entry Overview="В этот же день у Мастера Енота день рождения. Вы можете поздравить его в социальных сетях с хештегом #BloodandSoul и после этого завершить задание." />
+</quest-local>

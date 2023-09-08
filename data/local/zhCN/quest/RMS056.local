@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20656" />
+    <entry Name="Без колебаний" />
+    <entry Conditions="" />
+    <entry Overview="Вернитесь в &lt;N&gt;Тарио&lt;/N&gt; и сразитесь с &lt;D&gt;&lt;L=s02, 5010029&gt;королем Марсом&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

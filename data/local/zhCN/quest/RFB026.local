@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="29026" />
+    <entry Name="Правосудие в Лабиринте Морока" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь в &lt;N&gt;Лабиринт Морока&lt;/N&gt;, войдите внутрь, убейте &lt;A&gt;ликантропов-охотников&lt;/A&gt; - &lt;C&gt;50&lt;/C&gt;, &lt;A&gt;ликантропов-разрушителей&lt;/A&gt; - &lt;C&gt;50&lt;/C&gt;, а затем расправьтесь с &lt;A&gt;Мороком&lt;/A&gt;. После этого вернитесь к \n&lt;D&gt;&lt;L=s02, 5010227&gt;Судье Аусвейду&lt;/L&gt;&lt;/D&gt;. &#xA;" />
+</quest-local>

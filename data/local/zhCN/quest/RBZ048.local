@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20348" />
+    <entry Name="Отдохните" />
+    <entry Conditions="" />
+    <entry Overview="Поговорите с &lt;D&gt;&lt;L=s02, 5010085&gt;Шерой&lt;/L&gt;&lt;/D&gt;, ответьте на вопросы и продолжайте путешествие." />
+</quest-local>

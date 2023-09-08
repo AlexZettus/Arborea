@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="29025" />
+    <entry Name="Поход на Логово Тьмы" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь в &lt;N&gt;Логово Тьмы&lt;/N&gt;, убейте \n&lt;A&gt;&lt;L=f02, 3040008&gt;Альтуса-пустышку&lt;/L&gt;&lt;/A&gt;, &lt;A&gt;&lt;L=f02, 3040009&gt;Рональда Привратника&lt;/L&gt;&lt;/A&gt;, \n&lt;A&gt;&lt;L=f02, 3040010&gt;Неистового Альтру&lt;/L&gt;&lt;/A&gt;, &lt;A&gt;&lt;L=f02, 3040011&gt;Альда Заступника&lt;/L&gt;&lt;/A&gt;, после этого доложите &lt;D&gt;&lt;L=s05,5010094&gt;Фьюми.&lt;/L&gt;&lt;/D&gt;" />
+</quest-local>

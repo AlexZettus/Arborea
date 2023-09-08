@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30690" />
+    <entry Name="Непримиримые войны Сноулэнда" />
+    <entry Conditions="" />
+    <entry Overview="В &lt;N&gt;&lt;Z=s04, 66229, 20830, 69706&gt;Библиотеке&lt;/Z&gt;&lt;/N&gt; убейте &lt;A&gt;Тресондру Призванного Злодея&lt;/A&gt;, &lt;A&gt;Милку Порочную Всадницу&lt;/A&gt; и &lt;A&gt;магического мини-голема&lt;/A&gt;. Затем поговорите со \n&lt;D&gt;&lt;L=s02, 5600011&gt;Снегулой&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

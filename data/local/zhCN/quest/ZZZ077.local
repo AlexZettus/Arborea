@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="52110" />
+    <entry Name="Семейная печать" />
+    <entry Conditions="" />
+    <entry Overview="Принесите мне 100 золота, чтобы получить от 1 до 3 семейных печатей. При помощи этого предмета можно тренировать семейного эльфа." />
+</quest-local>

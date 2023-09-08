@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+	<maparea id="8839" title="Лес Теней" />
+	<maparea id="8840" title="Лес феникса" />
+	<maparea id="8841" title="Каменный город" />
+	<maparea id="8842" title="Окраины Каменного города" />
+	<maparea id="8843" title="Мирные холмы" />
+	<maparea id="8844" title="Пруд лотосов" />
+	<maparea id="8845" title="Земля небесных пиков" />
+	<maparea id="8846" title="Лес драконов" />
+	<maparea id="8847" title="Лес тигриного рыка" />
+	<maparea id="8849" title="Аквамариновый пик" />
+	<maparea id="8850" title="Забытая реликвия" />
+</root>

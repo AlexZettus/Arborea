@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20650" />
+    <entry Name="Опустошение Строма" />
+    <entry Conditions="" />
+    <entry Overview="Вам нужно убить &lt;C&gt;100&lt;/C&gt; &lt;A&gt;&lt;L=s08, 1070037&gt;штормовых рыцарей&lt;/L&gt;&lt;/A&gt; и \n&lt;C&gt;100&lt;/C&gt; &lt;A&gt;&lt;L=s08, 1070038&gt;штормовых воинов тени&lt;/L&gt;&lt;/A&gt;. Затем вернитесь к \n&lt;D&gt;&lt;L=s08, 5010210&gt;Уолтеру&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

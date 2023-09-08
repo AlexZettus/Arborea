@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30668" />
+    <entry Name="Яростные войны Сноулэнда" />
+    <entry Conditions="" />
+    <entry Overview="В &lt;N&gt;Лесу Теней&lt;/N&gt; избавьтесь от \n&lt;A&gt;&lt;L=s06, 1050034&gt;сильного привидения-убийцы&lt;/L&gt;&lt;/A&gt; и  \n&lt;A&gt;&lt;L=s06, 1050036&gt;большого привидения-убийцы&lt;/L&gt;&lt;/A&gt;. Затем поговорите со \n&lt;D&gt;&lt;L=s02, 5600011&gt;Снегулой&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20325" />
+    <entry Name="Сёстры-духи змеи" />
+    <entry Conditions="" />
+    <entry Overview="В Пещере льда найдите &lt;A&gt;&lt;L=d04, 1040047&gt;Духа змеи Дюсам&lt;/L&gt;&lt;/A&gt; и\n&lt;A&gt;&lt;L=d04, 1040048&gt;Духа змеи Дюсара&lt;/L&gt;&lt;/A&gt;, убейте их и возвращайтесь к \n&lt;D&gt;&lt;L=s05, 5010094&gt;Фьюми&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

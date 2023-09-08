@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20219" />
+    <entry Name="Каменный голем" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйся в округ Чериан и уничтожь &lt;D&gt;&lt;L=s03,1030019&gt;Каменного голема&lt;/L&gt;&lt;/D&gt;. После этого поговори с &lt;D&gt;&lt;L=s03,5010077&gt;Лесной дриадой&lt;/L&gt;&lt;/D&gt; для получения награды." />
+</quest-local>

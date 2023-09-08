@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20217" />
+    <entry Name="Возвращение к хранителю" />
+    <entry Conditions="" />
+    <entry Overview="Поговори с &lt;D&gt;&lt;L=s03,5010076&gt;Хранителем эльфов&lt;/L&gt;&lt;/D&gt; в лагере Танбурт для завершения задания." />
+</quest-local>

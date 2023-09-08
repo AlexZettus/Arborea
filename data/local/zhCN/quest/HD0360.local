@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30360" />
+    <entry Name="Профессия III" />
+    <entry Conditions="" />
+    <entry Overview="Соберите &lt;C&gt;50&lt;/C&gt; &lt;I&gt;Кристаллов бездны&lt;/I&gt;, &lt;C&gt;4&lt;/C&gt; &lt;I&gt;Камня судьбы&lt;/I&gt; и &lt;C&gt;4&lt;/C&gt; &lt;I&gt;Камня Авалона&lt;/I&gt;. Передайте их \n&lt;D&gt;&lt;L=s02,5010243&gt;Королеве Леоноре&lt;/L&gt;&lt;/D&gt;. После выполнения вы сможете повысить уровни специальных божественных навыков для своего класса. Если вы получили эти навыки ранее, задание выполнять необязательно." />
+</quest-local>

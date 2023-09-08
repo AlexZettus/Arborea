@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30801" />
+    <entry Name="Регистратор семей" />
+    <entry Conditions="" />
+    <entry Overview="В Тарио поговорите с регистратором семей &lt;D&gt;&lt;L=s02,5610022&gt;Кириллом.&lt;/L&gt;&lt;/D&gt;" />
+</quest-local>

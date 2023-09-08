@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20525" />
+    <entry Name="Во имя справедливости" />
+    <entry Conditions="" />
+    <entry Overview="Поговорите с &lt;D&gt;&lt;L=s07, 5010204&gt;сыном дьявола Редом&lt;/L&gt;&lt;/D&gt; еще раз.\n&#x0A;\n" />
+</quest-local>

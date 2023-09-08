@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="52172" />
+    <entry Name="Мастер арены" />
+    <entry Conditions="" />
+    <entry Overview="Дважды одержать победу на Арене дракона. Когда справишься, возвращайся к Агнии (Тарио, 364 164 или 728 778) за наградой." />
+</quest-local>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20333" />
+    <entry Name="В Древний город" />
+    <entry Conditions="" />
+    <entry Overview="Идите в Древний город и найдите &lt;D&gt;&lt;L=s05, 5010097&gt;Теолога Джеффа&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

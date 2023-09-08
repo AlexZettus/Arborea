@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20627" />
+    <entry Name="Лавовый великан" />
+    <entry Conditions="" />
+    <entry Overview="Убейте &lt;C&gt;100&lt;/C&gt; &lt;A&gt;&lt;L=s08, 1070020&gt;бешеных лав&lt;/L&gt;&lt;/A&gt; и &lt;C&gt;100&lt;/C&gt; &lt;A&gt;&lt;L=s08, 1070021&gt;яростных лав&lt;/L&gt;&lt;/A&gt;. Затем вернитесь к &lt;D&gt;&lt;L=s08, 5010208&gt;Алиси&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

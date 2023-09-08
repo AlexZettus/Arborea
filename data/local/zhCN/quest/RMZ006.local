@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20506" />
+    <entry Name="Страшные находки" />
+    <entry Conditions="" />
+    <entry Overview="Уничтожьте &lt;A&gt;&lt;L=s07, 1060009&gt;завораживающий цветок&lt;/L&gt;&lt;/A&gt; или \n&lt;A&gt;&lt;L=s07, 1060010&gt;завораживающую фею&lt;/L&gt;&lt;/A&gt;, добудьте &lt;C&gt;100&lt;/C&gt; &lt;I&gt;печатей Небесного бога&lt;/I&gt; и идите к &lt;D&gt;&lt;L=s07, 5010165&gt;Иросаю&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

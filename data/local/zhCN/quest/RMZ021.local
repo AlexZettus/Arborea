@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20521" />
+    <entry Name="Испытание Реда" />
+    <entry Conditions="" />
+    <entry Overview="Убейте \n&lt;C&gt;100&lt;/C&gt; &lt;A&gt;&lt;L=s07, 1060028&gt;гигантских болотных крокодилов&lt;/L&gt;&lt;/A&gt;, \n&lt;C&gt;100&lt;/C&gt; &lt;A&gt;&lt;L=s07, 1060029&gt;гигантских людоедов&lt;/L&gt;&lt;/A&gt;, \n&lt;C&gt;100&lt;/C&gt; &lt;A&gt;&lt;L=s07, 1060030&gt;гигантских ядовитых цветков&lt;/L&gt;&lt;/A&gt; и \n&lt;C&gt;30&lt;/C&gt; &lt;color=0xffff6000&gt;&lt;L=s07, 1060045&gt;Дементоров, &lt;/L&gt;&lt;color=0xffffffff&gt; а затем вернитесь к &lt;D&gt;&lt;L=s07, 5010204&gt;Реду&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20324" />
+    <entry Name="Убить демонов в Пещере Льда" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь в Пещеру Льда, убейте &lt;C&gt;75&lt;/C&gt; \n&lt;A&gt;&lt;L=d04, 1040025&gt;ледяных змей&lt;/L&gt;&lt;/A&gt;. Затем вернитесь к &lt;D&gt;&lt;L=s05, 5010094&gt;Фьюми&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30816" />
+    <entry Name="Печаль светла" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь на &lt;N&gt;Гору Смерти&lt;/N&gt;, чтобы убить там &lt;C&gt;200&lt;/C&gt; &lt;A&gt;&lt;L=s08,1070005&gt;штормовых грабителей&lt;/L&gt;&lt;/A&gt; и &lt;C&gt;200&lt;/C&gt; &lt;A&gt;&lt;L=s08,1070004&gt;штормовых бандитов.&lt;/L&gt;&lt;/A&gt; Затем идите к &lt;D&gt;&lt;L=s02,5610053&gt;Альфреду.&lt;/L&gt;&lt;/D&gt;" />
+</quest-local>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30855" />
+    <entry Name="Пельменный банкет" />
+    <entry Conditions="" />
+    <entry Overview="Соберите &lt;C&gt;5&lt;/C&gt;&lt;I&gt; Супов с пельменями&lt;/I&gt; и отнесите их &lt;D&gt;Кипящей кострюле&lt;/D&gt;. Это ваш вклад в организацию Пельменного банкета!&#x0A;" />
+</quest-local>

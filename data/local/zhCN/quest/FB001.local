@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="29000" />
+    <entry Name="Спасти гражданских" />
+    <entry Conditions="" />
+    <entry Overview="Спасите мирных жителей от босса.\n&#x0A;\nЗадание берётся автоматически в локации Логово Тьмы. Для завершения квеста, найдите \n&lt;D&gt;&lt;L=f02, 5100001&gt;Заключенного&lt;/L&gt;&lt;/D&gt;.\n&#x0A;\n" />
+</quest-local>

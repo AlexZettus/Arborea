@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="20663" />
+    <entry Name="Ограничение уровня" />
+    <entry Conditions="" />
+    <entry Overview="Поднимите свой уровень до &lt;C&gt;95&lt;/C&gt; и поговорите с \n&lt;D&gt;&lt;L=s08, 5010209&gt;Роттом&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

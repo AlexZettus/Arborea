@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30781" />
+    <entry Name="Пламенная роза" />
+    <entry Conditions="" />
+    <entry Overview="Возьмите &lt;C&gt;1&lt;/C&gt; &lt;I&gt;пламенную розу&lt;/I&gt; и отдайте ее \n&lt;D&gt;&lt;L=s52, 5600027&gt;госпоже Больбо&lt;/L&gt;&lt;/D&gt;. Вы можете обменять на &lt;C&gt;3&lt;/C&gt; &lt;I&gt;знака Ромен&lt;/I&gt;. &lt;I&gt;Пламенную розу&lt;/I&gt; может получить игрок мужского пола, вырастив ее на плантации роз. Он также может подарить ее игроку женского пола, &lt;D&gt;госпоже Больбо&lt;/D&gt; или обменять его на &lt;I&gt;знак Ромен&lt;/I&gt;." />
+</quest-local>

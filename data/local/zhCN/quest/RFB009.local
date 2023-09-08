@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="29009" />
+    <entry Name="Правосудие в Месте Власти" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь в  &lt;N&gt;&lt;Z=s06, 108724, 3000, 76926&gt;Место Власти&lt;/Z&gt;&lt;/N&gt;, войдите внутрь, убейте &lt;A&gt;Гнев ветра&lt;/A&gt;&lt;C&gt;10&lt;/C&gt;штук, &lt;A&gt;Ситну&lt;/A&gt;, убейте &lt;A&gt;Старейшину племени Мор&lt;/A&gt;, &lt;A&gt;Разведчицу племени Мор&lt;/A&gt;&lt;C&gt;5&lt;/C&gt;штук, после выполнения заданий вернитесь к \n&lt;D&gt;&lt;L=s02, 5010227&gt;Судье Аусвейду&lt;/L&gt;&lt;/D&gt;. " />
+</quest-local>

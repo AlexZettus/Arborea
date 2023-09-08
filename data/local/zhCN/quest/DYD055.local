@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="52055" />
+    <entry Name="Гранит науки" />
+    <entry Conditions="" />
+    <entry Overview="Соберите пятерки по всем 5 предметам и вернитесь к НИП Директор для получения награды (Тарио 617 539)." />
+</quest-local>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30691" />
+    <entry Name="Непримиримые войны Сноулэнда" />
+    <entry Conditions="" />
+    <entry Overview="В &lt;N&gt;&lt;Z=s05, 76484, 19283, 140211&gt;Логове Тьмы&lt;/Z&gt;&lt;/N&gt; убейте &lt;A&gt;отталкивающего зомби&lt;/A&gt;, &lt;A&gt;Альтуса-пустышку&lt;/A&gt; и &lt;A&gt;Альда Заступника&lt;/A&gt;. Затем поговорите со \n&lt;D&gt;&lt;L=s02, 5600011&gt;Снегулой&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

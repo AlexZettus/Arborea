@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<title id="0" name="Годовщина BS" visible="0" bpicture="1" pic_title="L_MTtitle01" desc="С 1-м Днем Рождения BS!" />
+	<title id="1" name="766" visible="0" bpicture="1" pic_title="L_MTtitle02" desc="766" />
+	<title id="2" name="Люблю" visible="0" bpicture="1" pic_title="L_MTtitle03" desc="Люблю" />
+	<title id="3" name="Она меня любит" visible="0" bpicture="1" pic_title="L_MTtitle04" desc="Она меня любит" />
+	<title id="4" name="На Берлин!" visible="0" bpicture="1" pic_title="L_MTtitle05" desc="С Днем Великой Победы!" />
+	<title id="5" name="Помним" visible="0" bpicture="1" pic_title="L_MTtitle06" desc="С Днем Великой Победы!" />
+	<title id="6" name="Тусовщик" visible="0" bpicture="1" pic_title="L_MTtitle07" desc="Тусовщик" />
+	<title id="7" name="Он меня любит" visible="0" bpicture="1" pic_title="L_MTtitle08" desc="Он меня любит" />
+	<title id="8" name="Первопроходец" visible="0" bpicture="1" pic_title="L_MTtitle09" desc="Первопроходец" />
+	<title id="9" name="Узы любви" visible="0" bpicture="1" pic_title="L_MTtitle10" desc="Узы любви" />
+	<title id="10" name="Журналист" visible="0" bpicture="1" pic_title="L_MTtitle11" desc="Журналист" />
+	<title id="11" name="Радужный ангел" visible="0" bpicture="1" pic_title="L_GHtitle01" desc="Радужный ангел" />
+	<title id="12" name="Сетевой рыцарь" visible="0" bpicture="1" pic_title="L_GHtitle02" desc="Сетевой рыцарь" />
+	<title id="13" name="Храмовник" visible="0" bpicture="1" pic_title="L_GHtitle03" desc="Храмовник" />
+	<title id="14" name="Безмятежный бродяга" visible="0" bpicture="1" pic_title="L_GHtitle04" desc="Безмятежный бродяга" />
+	<title id="15" name="Завоеватель" visible="0" bpicture="1" pic_title="L_GHtitle05" desc="Завоеватель" />
+	<title id="16" name="Легендарная гильдия" visible="0" bpicture="1" pic_title="L_GHtitle06" desc="Легендарная гильдия" />
+	<title id="17" name="Гильдия DK" visible="0" bpicture="1" pic_title="L_GHtitle07" desc="Гильдия DK" />
+	<title id="18" name="Убийца мечтаний" visible="0" bpicture="1" pic_title="L_GHtitle08" desc="Убийца мечтаний" />
+	<title id="19" name="Братство волка" visible="0" bpicture="1" pic_title="L_GHtitle09" desc="Братство волка" />
+	<title id="20" name="Гильдия Xfire" visible="0" bpicture="1" pic_title="L_GHtitle10" desc="Гильдия Xfire" />
+	<title id="21" name="Особая гильдия" visible="0" bpicture="1" pic_title="L_GHtitle11" desc="Особая гильдия" />
+	<title id="22" name="Покинутые небеса" visible="0" bpicture="1" pic_title="L_GHtitle12" desc="Покинутые небеса" />
+	<title id="23" name="Гильдия DOD" visible="0" bpicture="1" pic_title="L_GHtitle13" desc="Гильдия DOD" />
+	<title id="24" name="Волчья стая" visible="0" bpicture="1" pic_title="L_GHtitle14" desc="Волчья стая" />
+	<title id="25" name="Гильдия полуночников" visible="0" bpicture="1" pic_title="L_GHtitle15" desc="Гильдия полуночников" />
+	<title id="26" name="Танцевальный клуб" visible="0" bpicture="1" pic_title="L_GHtitle16" desc="Танцевальный клуб" />
+	<title id="27" name="Небесный саммит" visible="0" bpicture="1" pic_title="L_GHtitle17" desc="Небесный саммит" />
+	<title id="28" name="Общественный альянс" visible="0" bpicture="1" pic_title="L_GHtitle18" desc="Общественный альянс" />
+	<title id="29" name="Альянс нападающих" visible="0" bpicture="1" pic_title="L_GHtitle19" desc="Альянс нападающих" />
+	<title id="30" name="Альянс королей" visible="0" bpicture="1" pic_title="L_GHtitle20" desc="Альянс королей" />
+	<title id="31" name="Лунный альянс" visible="0" bpicture="1" pic_title="L_GHtitle21" desc="Лунный альянс" />
+	<title id="32" name="Храм смерти" visible="0" bpicture="1" pic_title="L_GHtitle22" desc="Храм смерти" />
+	<title id="33" name="Авангард" visible="0" bpicture="1" pic_title="L_HDtitle01" desc="Авангард" />
+	<title id="34" name="Благодетель" visible="0" bpicture="1" pic_title="L_HDtitle02" desc="Благодетель" />
+	<title id="35" name="Воин света" visible="0" bpicture="1" pic_title="L_HDtitle03" desc="Воин света" />
+	<title id="36" name="Дуэлянт" visible="0" bpicture="1" pic_title="L_HDtitle04" desc="Дуэлянт" />
+	<title id="37" name="Одиночка" visible="0" bpicture="1" pic_title="L_HDtitle05" desc="Одиночка" />
+	<title id="38" name="Ангел" visible="0" bpicture="1" pic_title="L_HDtitle06" desc="Ангел" />
+	<title id="39" name="Бессмертный" visible="0" bpicture="1" pic_title="L_HDtitle07" desc="Бессмертный" />
+	<title id="40" name="Странник" visible="0" bpicture="1" pic_title="L_HDtitle08" desc="Странник" />
+	<title id="41" name="Странница" visible="0" bpicture="1" pic_title="L_HDtitle09" desc="Странница" />
+	<title id="42" name="Бессмертная" visible="0" bpicture="1" pic_title="L_HDtitle10" desc="Бессмертная" />
+	<title id="43" name="Серебряный VIP" visible="0" bpicture="1" pic_title="L_HDtitle11" desc="Серебряный VIP" />
+	<title id="44" name="Золотой VIP" visible="0" bpicture="1" pic_title="L_HDtitle12" desc="Золотой VIP" />
+	<title id="45" name="Премиум" visible="0" bpicture="1" pic_title="L_HDtitle13" desc="Премиум" />
+    <title id="46" name="Дух Рождества" visible="0" bpicture="1" pic_title="L_HDtitle15" desc="Дух Рождества" />
+    <title id="47" name="С новым годом!" visible="0" bpicture="1" pic_title="L_HDtitle14" desc="С новым годом!" />
+	<title id="48" name="Мастер кулинарии" visible="0" bpicture="1" pic_title="L_HDtitle16" desc="Мастер кулинарии" />
+	<title id="49" name="С Рождеством!" visible="0" bpicture="1" pic_title="L_HDtitle17" desc="С Рождеством!" />
+	<title id="50" name="Баголов" visible="0" bpicture="1" pic_title="L_HDtitle18" desc="Баголов" />
+	<title id="51" name="2 года BS" visible="0" bpicture="1" pic_title="L_MTtitle12" desc="2 года Blood and Soul" />
+	<title id="52" name="Воин божий" visible="0" bpicture="1" pic_title="L_MTtitle13" desc="Воин божий" />
+	<title id="53" name="Контртеррорист" visible="0" bpicture="1" pic_title="L_MTtitle14" desc="Контртеррорист" />
+	<title id="54" name="Влюбленный" visible="0" bpicture="1" pic_title="L_HDtitle19" desc="Влюбленный" />
+	<title id="55" name="Влюбленная" visible="0" bpicture="1" pic_title="L_HDtitle22" desc="Влюбленная" />
+	<title id="56" name="Дон Жуан" visible="0" bpicture="1" pic_title="L_HDtitle20" desc="Дон Жуан" />
+	<title id="57" name="Красотка" visible="0" bpicture="1" pic_title="L_HDtitle21" desc="Красотка" />
+	<title id="58" name="Элита ЗБТ" visible="0" bpicture="1" pic_title="L_TWtitle01" desc="Бонус: Физ. и маг. защита +50" />
+	<title id="59" name="Мастер усиления" visible="0" bpicture="1" pic_title="L_TWtitle02" desc="Бонус: Макс. ОЗ +1000" />
+	<title id="60" name="Бешенная прокачка" visible="0" bpicture="1" pic_title="L_TWtitle03" desc="Бонус: Атака +2% и скорость +5%" />
+	<title id="61" name="Лучшая гильдия" visible="0" bpicture="1" pic_title="L_TWtitle04" desc="Бонус: Получаемый опыт +1%" />
+	<title id="62" name="ГМ" visible="0" bpicture="1" pic_title="L_TWtitle05" />
+	<title id="63" name="Официальный ГМ" visible="0" bpicture="1" pic_title="L_TWtitle05" />
+	<title id="64" name="Элита ОБТ" visible="0" bpicture="1" pic_title="L_TWtitle06" desc="Бонус: Физ. и маг. защита +50" />
+	<title id="65" name="Магистр" visible="0" bpicture="1" pic_title="L_MTtitle15" desc="Только лучшие учителя достойны звания Магистр!" />
+	<title id="66" name="Безответная любовь" visible="0" bpicture="1" pic_title="L_HDtitle23" desc="Безответная любовь" />
+	<title id="67" name="Счастливая мать" visible="0" bpicture="1" pic_title="L_HDtitle24" desc="Счастливая мать" />
+	<title id="68" name="Защитник пирожков" visible="0" bpicture="1" pic_title="L_HDtitle25" desc="Защитник пирожков" />
+	<title id="69" name="Гуляка" visible="0" bpicture="1" pic_title="L_HDtitle26" desc="Гуляка" />
+	<title id="70" name="Аполлон" visible="0" bpicture="1" pic_title="L_title01" desc="Аполлон" />
+	<title id="71" name="Неотразимая" visible="0" bpicture="1" pic_title="L_title07" desc="Неотразимая" />
+	<title id="72" name="Фаворит" visible="0" bpicture="1" pic_title="L_title02" desc="Фаворит" />
+	<title id="73" name="Гламурная" visible="0" bpicture="1" pic_title="L_title08" desc="Гламурная" />
+	<title id="74" name="Казанова" visible="0" bpicture="1" pic_title="L_title03" desc="Казанова" />
+	<title id="75" name="Желанная" visible="0" bpicture="1" pic_title="L_title09" desc="Желанная" />
+	<title id="76" name="Качок" visible="0" bpicture="1" pic_title="L_title04" desc="Качок" />
+	<title id="77" name="Кокетка" visible="0" bpicture="1" pic_title="L_title10" desc="Кокетка" />
+	<title id="78" name="Атлет" visible="0" bpicture="1" pic_title="L_title05" desc="Атлет" />
+	<title id="79" name="Милашка" visible="0" bpicture="1" pic_title="L_title11" desc="Милашка" />
+	<title id="80" name="Лидер" visible="0" bpicture="1" pic_title="L_title06" desc="Лидер" />
+	<title id="81" name="Модель" visible="0" bpicture="1" pic_title="L_title12" desc="Модель" />
+	<title id="82" name="Знаменитость" visible="0" bpicture="1" pic_title="L_title13" desc="Знаменитость" />
+	<title id="83" name="Очарование" visible="0" bpicture="1" pic_title="L_title14" desc="Очарование" />
+	<title id="84" name="Звезда" visible="0" bpicture="1" pic_title="L_title15" desc="Звезда" />
+	<title id="85" name="Гуру моды" visible="0" bpicture="1" pic_title="L_title16" desc="Гуру моды" />
+    <title id="86" name="Сердце Битвы" visible="0" bpicture="1" pic_title="L_TWtitle17" desc="Макс. ОЗ +1%\nПараметры снаряжения не учитываются." />
+	<title id="87" name="Лунный странник" visible="0" bpicture="1" pic_title="L_TWtitle16" desc="Макс. энергия +50" />
+	<title id="88" name="Рыцарь Роланд" visible="0" bpicture="1" pic_title="L_HDtitle27" desc="Рыцарь Роланд" />
+	<title id="89" name="Длань Бога" visible="0" bpicture="1" pic_title="L_HDtitle28" desc="Длань Бога" />
+	<title id="90" name="День детей" visible="0" bpicture="1" pic_title="L_MTtitle16" desc="День детей" />
+	<title id="91" name="Семья веселых енотов" visible="0" bpicture="1" pic_title="L_MTtitle17" desc="Семья веселых енотов" />
+	<title id="92" name="Смерть" visible="0" bpicture="1" pic_title="L_HDtitle29" desc="Ускоряет восстановление кармы в 3 раза. Эффект складывается с премиум-аккаунтом." />
+	<title id="93" name="Смерть" visible="0" bpicture="1" pic_title="L_HDtitle30" desc="Увеличивает снижение крит. урона на 3000." />
+	<title id="94" name="Дева пламени" visible="0" bpicture="1" pic_title="L_HDtitle31" desc="Получаемый крит. урон -30%."/>
+	<title id="95" name="Новый год 2014" visible="0" bpicture="1" pic_title="L_MYtitle01" desc="Новый год 2014" />
+	<title id="96" name="Надувательство" visible="0" bpicture="1" pic_title="L_MYtitle02" desc="Надувательство" />
+	<title id="97" name="Любитель Hold" visible="0" bpicture="1" pic_title="L_MYtitle03" desc="Любитель Hold" />
+	<title id="98" name="Печать Сердца Будды" visible="0" bpicture="1" pic_title="L_MYtitle04" desc="Печать Сердца Будды" />
+	<title id="99" name="Тест1" visible="0" bpicture="1" pic_title="L_MYtitle05" desc="Тест1" />
+	<title id="100" name="Правая рука Смерти" visible="0" bpicture="1" pic_title="L_MYtitle06" desc="Правая рука Смерти" />
+	<title id="101" name="Мусор" visible="0" bpicture="1" pic_title="L_MYtitle07" desc="Мусор" />
+	<title id="102" name="Герой драмы" visible="0" bpicture="1" pic_title="L_MYtitle08" desc="Герой драмы" />
+	<title id="103" name="Браво! Браво!" visible="0" bpicture="1" pic_title="L_MYtitle09" desc="Браво! Браво!" />
+	<title id="104" name="Божество Богатства" visible="0" bpicture="1" pic_title="L_MYtitle10" desc="Божество Богатства" />
+	<title id="105" name="Дед Мороз" visible="0" bpicture="1" pic_title="L_MYtitle11" desc="Дед Мороз" />
+	<title id="106" name="С первого взгляда" visible="0" bpicture="1" pic_title="L_MYtitle12" desc="С первого взгляда" />
+	<title id="107" name="Сто лет одиночества" visible="0" bpicture="1" pic_title="L_MYtitle13" desc="Сто лет одиночества" />
+	<title id="108" name="Я не свинья" visible="0" bpicture="1" pic_title="L_MYtitle14" desc="Я не свинья" />
+	<title id="109" name="Ящерицы - зло" visible="0" bpicture="1" pic_title="L_MYtitle15" desc="Ящерицы - зло" />
+	<title id="110" name="Повелитель пельменей" visible="0" bpicture="1" pic_title="L_HDtitle32" desc="Повелитель пельменей" />
+	<title id="111" name="С 8 марта!" visible="0" bpicture="1" pic_title="L_HDtitle34" desc="С 8 марта!" />
+	<title id="112" name="Милый свет" visible="0" bpicture="1" pic_title="L_HDtitle35" desc="Милый свет" />
+	<title id="113" name="Самая желанная" visible="0" bpicture="1" pic_title="L_HDtitle33" desc="Самая желанная" />
+	<title id="114" name="Первый на деревне" visible="0" bpicture="1" pic_title="L_MYtitle19" desc="Первый на деревне" />
+	<title id="115" name="В десятке сильнейших" visible="0" bpicture="1" pic_title="L_MYtitle18" desc="В десятке сильнейших" />
+	<title id="116" name="Король переодевания" visible="0" bpicture="1" pic_title="L_MYtitle16" desc="Король переодевания" />
+	<title id="117" name="Самый таинственный" visible="0" bpicture="1" pic_title="L_MYtitle20" desc="Самый таинственный" />
+	<title id="118" name="Без врагов одиноко" visible="0" bpicture="1" pic_title="L_MYtitle21" desc="Без врагов одиноко" />
+	<title id="119" name="Неистовый танцор" visible="0" bpicture="1" pic_title="L_MYtitle17" desc="Неистовый танцор" />
+	<title id="120" name="Фанат Facebook" visible="0" bpicture="1" pic_title="L_MYtitle33" desc="Фанат Facebook" />
+	<title id="121" name="Увидел тебя и побежал" visible="0" bpicture="1" pic_title="L_MYtitle22" desc="Увидел тебя и побежал" />
+	<title id="122" name="Жертва преследования" visible="0" bpicture="1" pic_title="L_MYtitle23" desc="Жертва преследования" />
+	<title id="123" name="Попасть в яблочко" visible="0" bpicture="1" pic_title="L_MYtitle25" desc="Попасть в яблочко" />
+	<title id="124" name="Попасть в яблочко (по версии Брюса Ли）" visible="0" bpicture="1" pic_title="L_MYtitle24" desc="Попасть в яблочко(по версии Брюса Ли）" />
+	<title id="125" name="Молодожены" visible="0" bpicture="1" pic_title="L_MYtitle27" desc="Молодожены" />
+	<title id="126" name="Нахал" visible="0" bpicture="1" pic_title="L_MYtitle30" desc="Нахал" />
+	<title id="127" name="Моряк боится воды" visible="0" bpicture="1" pic_title="L_MYtitle28" desc="Моряк боится воды" />
+	<title id="128" name="Вторая половина" visible="0" bpicture="1" pic_title="L_MYtitle29" desc="Вторая половина" />
+	<title id="129" name="Любитель мяса" visible="0" bpicture="1" pic_title="L_MYtitle26" desc="Любитель мяса" />
+	<title id="130" name="Холостяк" visible="0" bpicture="1" pic_title="L_MYtitle32" desc="Холостяк" />
+	<title id="131" name="Одинокий волк" visible="0" bpicture="1" pic_title="L_MYtitle31" desc="Одинокий волк" />
+	<title id="132" name="Мастер на все руки" visible="0" bpicture="1" pic_title="L_MYtitle34" desc="Мастер на все руки" />
+	<title id="133" name="Непоколебимый красный чай" visible="0" bpicture="1" pic_title="L_MYtitle37" desc="Непоколебимый красный чай" desc2=""/>
+	<title id="134" name="Высокомерие Неба" visible="0" bpicture="1" pic_title="L_MYtitle38" desc="Высокомерие Неба" desc2=""/>
+	<title id="135" name="Высокомерие Духа" visible="0" bpicture="1" pic_title="L_MYtitle39" desc="Высокомерие Духа" desc2=""/>
+	<title id="136" name="Поэт очень занят" visible="0" bpicture="1" pic_title="L_MYtitle40" desc="Поэт очень занят" desc2=""/>
+	<title id="137" name="Наступил Праздник Лета!!" visible="0" bpicture="1" pic_title="L_MYtitle41" desc="Наступил Праздник Лета!" desc2=""/>
+	<title id="138" name="Пора праздновать" visible="0" bpicture="1" pic_title="L_MYtitle42" desc="Пора праздновать" desc2=""/>
+	<title id="139" name="Полнолуние" visible="0" bpicture="1" pic_title="L_MYtitle43" desc="Полнолуние" desc2=""/>
+	<title id="140" name="Не пугай меня" visible="0" bpicture="1" pic_title="L_MYtitle44" desc="Не пугай меня" desc2=""/>
+	<title id="141" name="BS 4 года!" visible="0" bpicture="1" pic_title="hb4_1" desc="Поздравляем с 4-ым Днем рождения Blood and Soul! Удача +100" desc2=""/>
+	<title id="142" name="BS 4 года!" visible="0" bpicture="1" pic_title="hb4_2" desc="Поздравляем с 4-ым Днем рождения Blood and Soul! Удача +100" desc2=""/>
+	<title id="143" name="thanksgiving" visible="0" bpicture="1" pic_title="L_MYtitle47" desc="thanksgiving" desc2=""/>
+	<title id="144" name="Очень вкусные вареники" visible="0" bpicture="1" pic_title="L_MYtitle48" desc="Очень вкусные вареники" desc2=""/>
+	<title id="145" name="Лицемерие" visible="0" bpicture="1" pic_title="L_MYtitle49" desc="Лицемерие" desc2=""/>
+	<title id="146" name="Веселого Фестиваля огней!" visible="0" bpicture="1" pic_title="L_MYtitle50" desc="Веселого Фестиваля огней!" desc2=""/>
+	<title id="147" name="Рис дешевеет" visible="0" bpicture="1" pic_title="L_MYtitle51" desc="Рис дешевеет" desc2=""/>
+	<title id="148" name="Созвездие Козерога" visible="0" bpicture="1" pic_title="L_MYtitle52" desc="Созвездие Козерога" desc2=""/>
+	<title id="149" name="Созвездие Водолея" visible="0" bpicture="1" pic_title="L_MYtitle53" desc="Созвездие Водолея" desc2=""/>
+	<title id="150" name="Созвездие Рыб" visible="0" bpicture="1" pic_title="L_MYtitle54" desc="Созвездие Рыб" desc2=""/>
+	<title id="151" name="Созвездие Овна" visible="0" bpicture="1" pic_title="L_MYtitle55" desc="Созвездие Овна" desc2=""/>
+	<title id="152" name="Созвездие Тельца" visible="0" bpicture="1" pic_title="L_MYtitle56" desc="Созвездие Тельца" desc2=""/>
+	<title id="153" name="Созвездие Близнецов" visible="0" bpicture="1" pic_title="L_MYtitle57" desc="Созвездие Близнецов" desc2=""/>
+	<title id="154" name="Созвездие Рака" visible="0" bpicture="1" pic_title="L_MYtitle58" desc="Созвездие Рака" desc2=""/>
+	<title id="155" name="Созвездие Льва" visible="0" bpicture="1" pic_title="L_MYtitle59" desc="Созвездие Льва" desc2=""/>
+	<title id="156" name="Созвездие Девы" visible="0" bpicture="1" pic_title="L_MYtitle60" desc="Созвездие Девы" desc2=""/>
+	<title id="157" name="Созвездие Весов" visible="0" bpicture="1" pic_title="L_MYtitle61" desc="Созвездие Весов" desc2=""/>
+	<title id="158" name="Созвездие Скорпиона" visible="0" bpicture="1" pic_title="L_MYtitle62" desc="Созвездие Скорпиона" desc2=""/>
+	<title id="159" name="Созвездие Стрельца" visible="0" bpicture="1" pic_title="L_MYtitle63" desc="Созвездие Стрельца" desc2=""/>
+	<title id="160" name="Судьба определяет жизнь" visible="0" bpicture="1" pic_title="L_title17" desc="Судьба определяет жизнь" desc2=""/>
+	<title id="161" name="Рыцарь Лоран" visible="0" bpicture="1" pic_title="L_HDtitle27" desc="Рыцарь Лоран" desc2=""/>
+	<title id="162" name="Багровые облака" visible="0" bpicture="1" pic_title="L_title18" desc="Багровые облака" desc2=""/>
+	<title id="163" name="Повелитель мира" visible="0" bpicture="1" pic_title="L_title19" desc="Повелитель мира" desc2=""/>
+	<title id="164" name="Мяу!" visible="0" bpicture="1" pic_title="L_title20" desc="Мяу!" desc2=""/>
+	<title id="165" name="Сильное государство - опора хозяину" visible="0" bpicture="1" pic_title="L_title21" desc="Сильное государство - опора хозяину" desc2=""/>
+	<title id="166" name="Непобедимые воины" visible="0" bpicture="1" pic_title="L_title22" desc="Непобедимые воины" desc2=""/>
+	<title id="167" name="Суровый король" visible="0" bpicture="1" pic_title="L_title23" desc="Суровый король" desc2=""/>
+	<title id="168" name="Жажда жизни" visible="0" bpicture="1" pic_title="1_lvl1" desc="Увеличивает ОЗ на 20000" desc2=""/>
+	<title id="169" name="Жизненная сила" visible="0" bpicture="1" pic_title="1_lvl2" desc="Увеличивает ОЗ на 50000" desc2=""/>
+	<title id="170" name="Здоровье природы" visible="0" bpicture="1" pic_title="1_lvl3" desc="Увеличивает ОЗ на 70000" desc2=""/>
+	<title id="171" name="Чистильщик" visible="0" bpicture="1" pic_title="2_lvl1" desc="Увеличивает физ. атаку на 5000" desc2=""/>
+	<title id="172" name="Убийца" visible="0" bpicture="1" pic_title="2_lvl2" desc="Увеличивает физ. атаку на 10000" desc2=""/>
+	<title id="173" name="Ассасин" visible="0" bpicture="1" pic_title="2_lvl3" desc="Увеличивает физ. атаку на 15000" desc2=""/>
+	<title id="174" name="Адепт" visible="0" bpicture="1" pic_title="3_lvl1" desc="Увеличивает маг. атаку на 5000" desc2=""/>
+	<title id="175" name="Маг" visible="0" bpicture="1" pic_title="3_lvl2" desc="Увеличивает маг. атаку на 10000" desc2=""/>
+	<title id="176" name="Владыка" visible="0" bpicture="1" pic_title="3_lvl3" desc="Увеличивает маг. атаку на 15000" desc2=""/>
+	<title id="177" name="Удача" visible="0" bpicture="1" pic_title="4_lvl1" desc="Увеличивает удачу на 25" desc2=""/>
+	<title id="178" name="Везунчик" visible="0" bpicture="1" pic_title="4_lvl2" desc="Увеличивает удачу на 40" desc2=""/>
+	<title id="179" name="Счастливчик" visible="0" bpicture="1" pic_title="4_lvl3" desc="Увеличивает удачу на 70" desc2=""/>
+	<title id="180" name="Бессмертие" visible="0" bpicture="1" pic_title="Health_30" desc="Увеличивает ОЗ на 100000" desc2=""/>
+	<title id="181" name="С 1 апреля BS" visible="0" bpicture="1" pic_title="L_TWtitle41" desc="Позволяет получить праздничный титул." desc2=""/>
+	<title id="182" name="Король юмора" visible="0" bpicture="1" pic_title="L_TWtitle42" desc="Позволяет получить праздничный титул. Титул создан игроком Agressive2Say." desc2=""/>
+	<title id="183" name="Королева юмора" visible="0" bpicture="1" pic_title="L_TWtitle43" desc="Позволяет получить праздничный титул. Титул создан игроком Agressive2Say." desc2=""/>
+	<title id="184" name="Апрельский шут" visible="0" bpicture="1" pic_title="L_TWtitle44" desc="Позволяет получить праздничный титул. Титул создан игроком Agressive2Say." desc2=""/>
+	<title id="185" name="Легионер" visible="0" bpicture="1" pic_title="L_TWtitle45" desc="В ваших венах течёт кровь настоящего бойца. Когда нибудь о ваших подвигах на арене будут слагать легенды, но сейчас вам нужно больше тренироваться. Этот титул поможет вам выдерживать удары более сильных противников, его особое свойство - повышение брони на 600." desc2=""/>
+	<title id="186" name="1 апреля (1)" visible="0" bpicture="1" pic_title="L_TWtitle46" desc="Позволяет получить праздничный титул. Титул создан игроком MaoBrown." desc2=""/>
+	<title id="187" name="Шутник" visible="0" bpicture="1" pic_title="L_TWtitle47" desc="Позволяет получить праздничный титул. Титул создан игроком morti-do." desc2=""/>
+	<title id="188" name="Шутница (1)" visible="0" bpicture="1" pic_title="L_TWtitle48" desc="Позволяет получить праздничный титул. Титул создан игроком morti-do." desc2=""/>
+	<title id="189" name="1 апреля (2)" visible="0" bpicture="1" pic_title="L_TWtitle49" desc="Позволяет получить праздничный титул. Титул создан игроком morti-do." desc2=""/>
+	<title id="190" name="1 апреля (3)" visible="0" bpicture="1" pic_title="L_TWtitle50" desc="Позволяет получить праздничный титул. Титул создан игроком morti-do." desc2=""/>
+	<title id="191" name="Время пошалить" visible="0" bpicture="1" pic_title="L_TWtitle51" desc="Позволяет получить праздничный титул. Титул создан игроком niki5." desc2=""/>
+	<title id="192" name="Проказник" visible="0" bpicture="1" pic_title="L_TWtitle52" desc="Позволяет получить праздничный титул. Титул создан игроком niki5." desc2=""/>
+	<title id="193" name="Шутница (2)" visible="0" bpicture="1" pic_title="L_TWtitle53" desc="Позволяет получить праздничный титул. Титул создан игроком Raymah." desc2=""/>
+	<title id="194" name="1 апреля (4)" visible="0" bpicture="1" pic_title="L_TWtitle54" desc="Позволяет получить праздничный титул. Титул создан игроком Raymah." desc2=""/>
+	<title id="195" name="Петросян" visible="0" bpicture="1" pic_title="L_TWtitle55" desc="Позволяет получить праздничный титул. Титул создан игроком Rellentes." desc2=""/>
+	<title id="196" name="Приколистка" visible="0" bpicture="1" pic_title="L_TWtitle56" desc="Позволяет получить праздничный титул. Титул создан игроком Rellentes." desc2=""/>
+	<title id="197" name="Юморист" visible="0" bpicture="1" pic_title="L_TWtitle57" desc="Позволяет получить праздничный титул. Титул создан игроком Rellentes." desc2=""/>
+	<title id="198" name="День дурака (1)" visible="0" bpicture="1" pic_title="L_TWtitle58" desc="Позволяет получить праздничный титул. Титул создан игроком vikkk29." desc2=""/>
+	<title id="199" name="Король шуток" visible="0" bpicture="1" pic_title="L_TWtitle59" desc="Позволяет получить праздничный титул. Титул создан игроком Yomi-san." desc2=""/>
+	<title id="200" name="День дурака (2)" visible="0" bpicture="1" pic_title="L_TWtitle60" desc="Позволяет получить праздничный титул. Титул создан игроком Ашкаель." desc2=""/>
+	<title id="201" name="Весёлая" visible="0" bpicture="1" pic_title="L_TWtitle61" desc="Позволяет получить праздничный титул. Титул создан игроком Вайфул." desc2=""/>
+	<title id="202" name="1 апреля (5)" visible="0" bpicture="1" pic_title="L_TWtitle62" desc="Позволяет получить праздничный титул. Титул создан игроком Злая_кукла." desc2=""/>
+	<title id="203" name="Улыбка" visible="0" bpicture="1" pic_title="L_TWtitle63" desc="Позволяет получить праздничный титул. Титул создан игроком Злая_кукла." desc2=""/>
+	<title id="204" name="Герой арены" visible="0" bpicture="1" pic_title="L_TWtitle64" desc="Вы прошли множество битв, изучив Призрачную арену как свой родной дом. Пусть этот титул всем расскажет о ваших боевых заслугах! Кроме того, звание героя арены сделает вашу броню прочнее на 1200." desc2=""/>
+	<title id="205" name="Стальная воля" visible="0" bpicture="1" pic_title="L_TWtitle65" desc="Вы на верном пути, сколько уже было побед и поражений, но вы не сдались. Ваша уверенность в собственных силах позволит одолеть любые преграды, а этот титул может ещё не раз спасти вашу жизнь, его особое свойство - повышение брони на 900." desc2=""/>
+	<title id="206" name="Богатырь" visible="0" bpicture="1" pic_title="L_TWtitle66" desc="Титул истинного защитника сказочной страны." desc2=""/>
+	<title id="207" name="Царевна" visible="0" bpicture="1" pic_title="L_TWtitle67" desc="Титул истинной защитницы сказочной страны." desc2=""/>
+	<title id="208" name="BS 3 года" visible="0" bpicture="1" pic_title="L_TWtitle68" desc="Чарующий мир Теоса наполнен улыбками ликующих жителей и яркими салютами, а всё потому что 17 июня Blood and Soul исполняется 3 года! Наша команда от всей души поздравляет всех игроков с этим замечательным событием! Желаем вам как можно больше незабываемых путешествий, верных друзей и соратников, огромнейшую силу воли и веру в победу, больше улыбок и, конечно, любви!" desc2=""/>
+	<title id="209" name="Знаменосец BS" visible="0" bpicture="1" pic_title="L_TWtitle69" desc="Титул Знаменосец Blood and Soul" desc2=""/>
+	<title id="211" name="Радость серафима" visible="0" bpicture="1" pic_title="nimb" desc="Вступая в небесное воинство, храбрец обретает крылья, как и было предначертано богами. Приготовьтесь к грандиозному перерождению, ведь стать богом не так просто, докажите свою силу. Размер крыльев: 2. Срок действия: 7 дней. Когда персонаж оффлайн, время не расходуется." desc2=""/>
+	<title id="212" name="Ангел. сущность" visible="0" bpicture="1" pic_title="nimb" desc="Эльфы поговаривают, что такие крылья всегда носили непоколебимые солдаты небесной армии. Теос нуждается в вас! Пусть враги будут ослеплены вашим ликом. Размер крыльев: 3. Срок действия: 7 дней. Когда персонаж оффлайн, время не расходуется." desc2=""/>
+	<title id="213" name="Бремя архангела" visible="0" bpicture="1" pic_title="nimb" desc="В этих крыльях таится память о тысячах сражений. Архангелы, что вели в бой легионы воинов, были великими полководцами, способными беспощадно сжигать всё живое на своём пути. Готовы ли вы возложить на себя такое бремя? Размер крыльев: 4. Срок действия: 7 дней. Когда персонаж оффлайн, время не расходуется." desc2=""/>
+	<title id="214" name="Прикосн. свыше" visible="0" bpicture="1" pic_title="nimb" desc="Боги смерти обладают своеобразным чувством вкуса. Много веков назад они разжигали войны и возводили арены, дабы насладиться видом смертельной битвы. Только самые жестокие бойцы, что впечатлили богов своей яростью, после смерти возрождались с такими крыльями. Размер крыльев: 5. Срок действия: 7 дней. Когда персонаж оффлайн, время не расходуется." desc2=""/>
+	<title id="215" name="Завет купидона" visible="0" bpicture="1" pic_title="nimb" desc="Купидон верит в любовь и доброту всем сердцем, эта сила позволяет ему возводить мосты между судьбами людей и развеивать любые сомнения. Пусть эти крылья наполнят ваше сердце такой же верой. Размер крыльев: 1. Срок действия: 14 дней. Когда персонаж оффлайн, время не расходуется." desc2=""/>
+	<title id="216" name="Радость серафима" visible="0" bpicture="1" pic_title="nimb" desc="Вступая в небесное воинство, храбрец обретает крылья, как и было предначертано богами. Приготовьтесь к грандиозному перерождению, ведь стать богом не так просто, докажите свою силу. Размер крыльев: 2. Срок действия: 14 дней. Когда персонаж оффлайн, время не расходуется." desc2=""/>
+	<title id="218" name="Бремя архангела" visible="0" bpicture="1" pic_title="nimb" desc="В этих крыльях таится память о тысячах сражений. Архангелы, что вели в бой легионы воинов, были великими полководцами, способными беспощадно сжигать всё живое на своём пути. Готовы ли вы возложить на себя такое бремя? Размер крыльев: 4. Срок действия: 14 дней. Когда персонаж оффлайн, время не расходуется." desc2=""/>
+	<title id="219" name="Прикосн. свыше" visible="0" bpicture="1" pic_title="nimb" desc="Боги смерти обладают своеобразным чувством вкуса. Много веков назад они разжигали войны и возводили арены, дабы насладиться видом смертельной битвы. Только самые жестокие бойцы, что впечатлили богов своей яростью, после смерти возрождались с такими крыльями. Размер крыльев: 5. Срок действия: 14 дней. Когда персонаж оффлайн, время не расходуется." desc2=""/>
+	<title id="220" name="Завет купидона" visible="0" bpicture="1" pic_title="nimb" desc="Купидон верит в любовь и доброту всем сердцем, эта сила позволяет ему возводить мосты между судьбами людей и развеивать любые сомнения. Пусть эти крылья наполнят ваше сердце такой же верой. Размер крыльев: 1. Срок действия: 30 дней. Когда персонаж оффлайн, время не расходуется." desc2=""/>
+	<title id="221" name="Радость серафима" visible="0" bpicture="1" pic_title="nimb" desc="Вступая в небесное воинство, храбрец обретает крылья, как и было предначертано богами. Приготовьтесь к грандиозному перерождению, ведь стать богом не так просто, докажите свою силу. Размер крыльев: 2. Срок действия: 30 дней. Когда персонаж оффлайн, время не расходуется." desc2=""/>
+	<title id="222" name="Ангел. сущность" visible="0" bpicture="1" pic_title="nimb" desc="Эльфы поговаривают, что такие крылья всегда носили непоколебимые солдаты небесной армии. Теос нуждается в вас! Пусть враги будут ослеплены вашим ликом. Размер крыльев: 3. Срок действия: 30 дней. Когда персонаж оффлайн, время не расходуется." desc2=""/>
+	<title id="223" name="Бремя архангела" visible="0" bpicture="1" pic_title="nimb" desc="В этих крыльях таится память о тысячах сражений. Архангелы, что вели в бой легионы воинов, были великими полководцами, способными беспощадно сжигать всё живое на своём пути. Готовы ли вы возложить на себя такое бремя? Размер крыльев: 4. Срок действия: 30 дней. Когда персонаж оффлайн, время не расходуется." desc2=""/>
+	<title id="224" name="Прикосн. свыше" visible="0" bpicture="1" pic_title="nimb" desc="Боги смерти обладают своеобразным чувством вкуса. Много веков назад они разжигали войны и возводили арены, дабы насладиться видом смертельной битвы. Только самые жестокие бойцы, что впечатлили богов своей яростью, после смерти возрождались с такими крыльями. Размер крыльев: 5. Срок действия: 30 дней. Когда персонаж оффлайн, время не расходуется." desc2=""/>
+	<title id="225" name="Богач" visible="0" bpicture="1" pic_title="title_new1" desc="Богач" desc2=""/>
+	<title id="226" name="Мудрец" visible="0" bpicture="1" pic_title="title_new2" desc="Обладатель этого титула ощутит мудрость предков, что позволит получить дополнительные бонусы: уменьшение урона всех классов +200, 50000 ОЗ, духовность +1000, энергия +200." desc2=""/>
+	<title id="227" name="С новым годом!" visible="0" bpicture="1" pic_title="newyear2015" desc="Новый год 2015." desc2=""/>
+	<title id="228" name="Снежная буря" visible="0" bpicture="1" pic_title="storm" desc="Шанс крит. удара +10%, Урон духа +1000, ОЗ +80000, минимальный урон оружия +300, максимальный урон оружия +300, урон артефакта +300." desc2=""/>
+	<title id="229" name="Ледяной щит" visible="0" bpicture="1" pic_title="shield" desc="Уклонение в дальнем и ближнем бою +5%, Защита духа +3000, ОЗ +80000, магический и физический рикошет +5%." desc2=""/>
+	<title id="230" name="Морозная ярость" visible="0" bpicture="1" pic_title="snowman" desc="Физическая и магическая атака +10000, Урон духа +1000, ОЗ +80000, Точность +2000." desc2=""/>
+	<title id="231" name="Сердце вьюги" visible="0" bpicture="1" pic_title="heart" desc="Сжигание ОМ +100, ОЗ +80000, Духовность +3000, Урон стихий +500." desc2=""/>
+	<title id="232" name="Хочу лето" visible="0" bpicture="1" pic_title="tit_leto" desc="Хочу лето." desc2=""/>
+	<title id="233" name="Морской бриз" visible="0" bpicture="1" pic_title="tit_briz" desc="Морской бриз." desc2=""/>
+	<title id="234" name="Герой-любовник" visible="0" bpicture="1" pic_title="tit_hero" desc="Герой-любовник." desc2=""/>
+	<title id="235" name="Дама сердца" visible="0" bpicture="1" pic_title="tit_dama" desc="Дама сердца." desc2=""/>
+	<title id="236" name="Кошачьи радости" visible="0" bpicture="1" pic_title="tit_cat" desc="Повышает физ. и маг. атаку на 5000, а ОЗ - на 50000." desc2=""/>
+	<title id="237" name="В енотах счастье" visible="0" bpicture="1" pic_title="tit_enot" desc="Повышает физ. и маг. атаку на 5000, а ОЗ - на 50000." desc2=""/>
+	<title id="238" name="Обними меня" visible="0" bpicture="1" pic_title="tit_medved" desc="Повышает физ. и маг. атаку на 5000, а ОЗ - на 50000." desc2=""/>
+	<title id="239" name="Дух волка" visible="0" bpicture="1" pic_title="wolf" desc="Повышает физ. и маг. атаку на 5000, а ОЗ - на 50000." desc2=""/>
+	<title id="240" name="Медвежья ярость" visible="0" bpicture="1" pic_title="medved" desc="Повышает физ. и маг. атаку на 5000, а ОЗ - на 50000." desc2=""/>
+	<title id="241" name="Месть ворона" visible="0" bpicture="1" pic_title="voron" desc="Повышает физ. и маг. атаку на 5000, а ОЗ - на 50000." desc2=""/>
+	<title id="242" name="С 1 апреля! " visible="0" bpicture="1" pic_title="1ap" desc="Титул в честь 1-го апреля." desc2=""/>
+	<title id="243" name="С Днем Победы!" visible="0" bpicture="1" pic_title="9may" desc="Титул в честь Дня Победы" desc2=""/>
+	<title id="244" name="Безопасный отдых" visible="0" bpicture="1" pic_title="bezopasotd" desc="Титул Безопасный отдых. Повышает физ. и маг. атаку на 5000, а ОЗ - на 50000." desc2=""/>
+	<title id="245" name="Бож прохлада" visible="0" bpicture="1" pic_title="bojprohl" desc="Титул Божественная прохлада. Повышает физ. и маг. атаку на 5000, а ОЗ - на 50000." desc2=""/>
+	<title id="246" name="Лови волну" visible="0" bpicture="1" pic_title="volna" desc="Титул Лови волну. Повышает физ. и маг. атаку на 5000, а ОЗ - на 50000." desc2=""/>
+	<title id="217" name="Экстрим отдых" visible="0" bpicture="1" pic_title="kakula" desc="Титул Экстремальный отдых. Повышает физ. и маг. атаку на 5000, а ОЗ - на 50000." desc2=""/>
+	<title id="210" name="Пляжный сезон" visible="0" bpicture="1" pic_title="beachseason" desc="Титул Пляжный сезон. Повышает физ. и маг. атаку на 5000, а ОЗ - на 50000." desc2=""/>
+	<title id="247" name="Подсолнух" visible="0" bpicture="1" pic_title="sunflower" desc="Параметры: 2500 физ и маг. атака, 25000 ОЗ, сопротивление воздействию +10" desc2=""/>
+	<title id="248" name="Улитка" visible="0" bpicture="1" pic_title="kakula" desc="Параметры: 2500 физ и маг. атака, 25000 ОЗ, сопротивление воздействию +10" desc2=""/>
+	<title id="249" name="Я люблю лето" visible="0" bpicture="1" pic_title="summer" desc="Параметры: 2500 физ и маг. атака, 25000 ОЗ, сопротивление воздействию +10" desc2=""/>
+	<title id="250" name="Божья коровка" visible="0" bpicture="1" pic_title="bug" desc="Параметры: 2500 физ и маг. атака, 25000 ОЗ, сопротивление воздействию +10" desc2=""/>
+	<title id="251" name="Время отдыха" visible="0" bpicture="1" pic_title="08clocks" desc="Параметры: 5000 физ и маг. атака, 55000 ОЗ, Доп. крит. урон 15%" desc2=""/>
+	<title id="252" name="Музыка в сердце" visible="0" bpicture="1" pic_title="08headphones" desc="Параметры: 5000 физ и маг. атака, 55000 ОЗ, Доп. крит. урон 15%" desc2=""/>
+	<title id="253" name="Я люблю футбол" visible="0" bpicture="1" pic_title="08ball" desc="Параметры: 5000 физ и маг. атака, 55000 ОЗ, Доп. крит. урон 15%" desc2=""/>
+	<title id="254" name="Котовасия" visible="0" bpicture="1" pic_title="08cat" desc="Параметры: 5000 физ и маг. атака, 55000 ОЗ, Доп. крит. урон 15%" desc2=""/>
+	<title id="255" name="День знаний 2015" visible="0" bpicture="1" pic_title="1sept_t" desc="Команда Blood and Soul поздравляет вас с Днем знаний и желает вам интересных приключений и внушительных боевых заслуг на просторах Теоса!" desc2=""/>
+	<title id="256" name="Игрокот" visible="0" bpicture="1" pic_title="cat128" desc="Параметры: 5000 физ и маг. атака, 55000 ОЗ, Доп. крит. урон 15%" desc2=""/>
+	<title id="257" name="Ежовый секрет" visible="0" bpicture="1" pic_title="ej" desc="Параметры: 5000 физ и маг. атака, 55000 ОЗ, Доп. крит. урон 15%" desc2=""/>
+	<title id="258" name="Скейтомания" visible="0" bpicture="1" pic_title="skate" desc="Параметры: 5000 физ и маг. атака, 55000 ОЗ, Доп. крит. урон 15%" desc2=""/>
+	<title id="259" name="Охотник" visible="0" bpicture="1" pic_title="hunter" desc="Параметры: 5000 физ и маг. атака, 55000 ОЗ, Доп. крит. урон 15%" desc2=""/>
+	<title id="260" name="Красная панда" visible="0" bpicture="1" pic_title="redpanda" desc="Параметры: 5000 физ и маг. атака, 55000 ОЗ, Доп. крит. урон 15%" desc2=""/>
+	<title id="261" name="Неудержимый" visible="0" bpicture="1" pic_title="bimba" desc="Параметры: 5000 физ и маг. атака, 55000 ОЗ, Доп. крит. урон 15%" desc2=""/>
+	<title id="262" name="Неприступная" visible="0" bpicture="1" pic_title="nepris" desc="Параметры: 5000 физ и маг. атака, 55000 ОЗ, Доп. крит. урон 15%" desc2=""/>
+	<title id="263" name="Черный кот" visible="0" bpicture="1" pic_title="blackcat" desc="Сегодня все надели маски, словно ведьмы в страшной сказке! Тыквы, нечисти и свечи - добро пожаловать на вечер!" desc2=""/>
+	<title id="264" name="Злая тыква" visible="0" bpicture="1" pic_title="pumpkin" desc="Параметры: 5000 физ и маг. атака, 55000 ОЗ, Доп. крит. урон 15%" desc2=""/>
+	<title id="265" name="Темный властелин" visible="0" bpicture="1" pic_title="vampire" desc="Параметры: 5000 физ и маг. атака, 55000 ОЗ, Доп. крит. урон 15%" desc2=""/>
+	<title id="266" name="Привидение" visible="0" bpicture="1" pic_title="ghost" desc="Параметры: 5000 физ и маг. атака, 55000 ОЗ, Доп. крит. урон 15%" desc2=""/>
+	<title id="267" name="С новым годом!" visible="0" bpicture="1" pic_title="ny2016" desc="Команда Blood and Soul поздравляет всех жителей Теоса с новогодними праздниками. Желаем счастья всем и каждому." desc2=""/>
+	<title id="268" name="Теплокот" visible="0" bpicture="1" pic_title="catny2016" desc="ОЗ - 72016, Физ. и Маг. атака - 7500, Упорство +1200." desc2=""/>
+	<title id="269" name="Самая лучшая" visible="0" bpicture="1" pic_title="bestgny2016" desc="ОЗ - 72016, Физ. и Маг. атака - 7500, Упорство +1200." desc2=""/>
+	<title id="270" name="Самый лучший" visible="0" bpicture="1" pic_title="bestmny2016" desc="ОЗ - 72016, Физ. и Маг. атака - 7500, Упорство +1200." desc2=""/>
+	<title id="271" name="Любовь без границ" visible="0" bpicture="1" pic_title="lovewo" desc="ОЗ - 74000, Физ. и Маг. атака - 7500, Доп. крит. урон +25%" desc2=""/>
+	<title id="272" name="Подарок судьбы" visible="0" bpicture="1" pic_title="fategift" desc="ОЗ - 74000, Физ. и Маг. атака - 7500, Доп. крит. урон +25%" desc2=""/>
+	<title id="273" name="Родственные души" visible="0" bpicture="1" pic_title="soulmates" desc="ОЗ - 74000, Физ. и Маг. атака - 7500, Доп. крит. урон +25%" desc2=""/>
+	<title id="274" name="Кошачьи нежности" visible="0" bpicture="1" pic_title="cathugs" desc="ОЗ - 74000, Физ. и Маг. атака - 7500, Доп. крит. урон +25%" desc2=""/>
+	<title id="275" name="Путь воина" visible="0" bpicture="1" pic_title="warriorpath" desc="Физ. атака - 2500, ОЗ - 20000" desc2=""/>
+	<title id="276" name="Холодный зверь" visible="0" bpicture="1" pic_title="coldbeast" desc="Физ. и Маг. атака - 4000, ОЗ - 35000, Урон духа - 500" desc2=""/>
+	<title id="277" name="Ярость гладиатора" visible="0" bpicture="1" pic_title="gladiator" desc="Физ. и Маг. атаку - 6000, ОЗ - 74000, Урон духа - 1000, Восстановление ОМ - 19" desc2=""/>
+	<title id="278" name="Книга дух. мощи" visible="0" bpicture="1" pic_title="spiritbook" desc="Духовность - 8000, ОЗ - 74000, Урон духа - 1000, Восстановление ОМ - 19" desc2=""/>
+	<title id="279" name="Енот-тусовщик" visible="0" bpicture="1" pic_title="eee_rock" desc="Поздравляем с 5-ым Днем рождения Blood and Soul! Повышает параметр Удача +100." desc2=""/>
+	<title id="280" name="Праздничный торт" visible="0" bpicture="1" pic_title="tortik5" desc="Поздравляем с 5-ым Днем рождения Blood and Soul! Повышает параметр Удача +100." desc2=""/>
+	<title id="281" name="Люблю BS" visible="0" bpicture="1" pic_title="bs1love" desc="Поздравляем с 5-ым Днем рождения Blood and Soul! Повышает параметр Удача +100." desc2=""/>
+	<title id="282" name="Юбилейный" visible="0" bpicture="1" pic_title="karl" desc="Поздравляем с 5-ым Днем рождения Blood and Soul! Повышает параметр Удача +100." desc2=""/>
+	<title id="283" name="Защитник Теоса" visible="0" bpicture="1" pic_title="teossword" desc="Повышает следующие параметры: ОЗ +75000, Физ. атака +8500, Урон духа +1500, Сопротивление всем типам воздействия +10." desc2=""/>
+	<title id="284" name="Жестокий колдун" visible="0" bpicture="1" pic_title="greenhands" desc="Повышает следующие параметры: ОЗ +75000, Маг. атака +8500, Урон духа +1500, Сопротивление всем типам воздействия +10." desc2=""/>
+	<title id="285" name="Милый лекарь" visible="0" bpicture="1" pic_title="bardmelody" desc="Повышает следующие параметры: ОЗ +75000, Духовность +9000, Урон духа +1500, Сопротивление всем типам воздействия +10." desc2=""/>
+	<title id="286" name="Гнев Посейдона" visible="0" bpicture="1" pic_title="poseidon" desc="Повышает следующие параметры: ОЗ +76500, Физ. атака +9500, Защита духа +2500, Мин. и Макс. урон оружия +100." desc2=""/>
+	<title id="287" name="Песня Сирены" visible="0" bpicture="1" pic_title="sirena" desc="Повышает следующие параметры: ОЗ +76500, Маг. атака +9500, Защита духа +2500, Урон артефакта +91." desc2=""/>
+	<title id="288" name="Шум прибоя" visible="0" bpicture="1" pic_title="more" desc="Повышает следующие параметры: ОЗ +76500, Духовность +10000, Защита духа +2500, Урон артефакта +91." desc2=""/>
+	<title id="289" name="Победитель GMа" visible="0" bpicture="1" pic_title="GMkiller" desc="Уникальнейший титул, который можно получить только во время ивента Всадники Апокалипсиса, одержав победу над одним из четырех Всадников. Увеличивает параметры: ОЗ +120000, Повышение всего урона +130, Снижение всего урона +130, Сопротивление контролю +70. Срок действия - 30 дней." desc2=""/>
+	<title id="290" name="Выживший в темной башне" visible="0" bpicture="1" pic_title="DarkTower" desc="Выживший в темной башне" desc2=""/>
+	<title id="291" name="Хулиган [Физ]" visible="0" bpicture="1" pic_title="huligan" desc="Повышает следующие параметры: ОЗ +78000, Физ. атака +10500, Усиление всех типов воздействия +15, Повышение физ. урона +50." desc2=""/>
+	<title id="292" name="Королева [Физ]" visible="0" bpicture="1" pic_title="koroleva" desc="Повышает следующие параметры: ОЗ +78000, Физ. атака +10500, Усиление всех типов воздействия +15, Повышение физ. урона +50." desc2=""/>
+	<title id="293" name="Хулиган [Маг]" visible="0" bpicture="1" pic_title="huligan" desc="Повышает следующие параметры: ОЗ +78000, Маг. атака +10500, Усиление всех типов воздействия +15, Повышение маг. урона +50." desc2=""/>
+	<title id="294" name="Королева [Маг]" visible="0" bpicture="1" pic_title="koroleva" desc="Повышает следующие параметры: ОЗ +78000, Маг. атака +10500, Усиление всех типов воздействия +15, Повышение маг. урона +50." desc2=""/>
+	<title id="295" name="Хулиган [Бард]" visible="0" bpicture="1" pic_title="huligan" desc="Повышает следующие параметры: ОЗ +78000, Духовность +11000, Усиление всех типов воздействия +15, Повышение маг. урона " desc2=""/>
+	<title id="296" name="Королева [Бард]" visible="0" bpicture="1" pic_title="koroleva" desc="Повышает следующие параметры: ОЗ +78000, Духовность +11000, Усиление всех типов воздействия +15, Повышение маг. урона +50." desc2=""/>
+	<title id="297" name="День знаний 2016" visible="0" bpicture="1" pic_title="znaniya2016" desc="Команда Blood and Soul поздравляет вас с Днем знаний и желает вам интересных приключений и внушительных боевых заслуг на просторах Теоса!" desc2=""/>
+	<title id="298" name="Король [Физ]" visible="0" bpicture="1" pic_title="korol" desc="Повышает следующие параметры: ОЗ +79500, Физ. атака +11500, Точность +3200, Уменьшение физ. и маг. урона +65." desc2=""/>
+	<title id="299" name="Хулиганка [Физ]" visible="0" bpicture="1" pic_title="huliganka" desc="Повышает следующие параметры: ОЗ +79500, Физ. атака +11500, Точность +3200, Уменьшение физ. и маг. урона +65." desc2=""/>
+	<title id="300" name="Король [Маг]" visible="0" bpicture="1" pic_title="korol" desc="Повышает следующие параметры: ОЗ +79500, Маг. атака +11500, Точность +3200, Уменьшение физ. и маг. урона +65." desc2=""/>
+	<title id="301" name="Хулиганка [Маг]" visible="0" bpicture="1" pic_title="huliganka" desc="Повышает следующие параметры: ОЗ +79500, Маг. атака +11500, Точность +3200, Уменьшение физ. и маг. урона +65." desc2=""/>
+	<title id="302" name="Король [Бард]" visible="0" bpicture="1" pic_title="korol" desc="Повышает следующие параметры: ОЗ +79500, Духовность +12000, Точность +3200, Уменьшение физ. и маг. урона +65." desc2=""/>
+	<title id="303" name="Хулиганка [Бард]" visible="0" bpicture="1" pic_title="huliganka" desc="Повышает следующие параметры: ОЗ +79500, Духовность +12000, Точность +3200, Уменьшение физ. и маг. урона +65." desc2=""/>
+	<title id="304" name="Храброе сердце" visible="0" bpicture="1" pic_title="hrabr" desc="Повышает следующие параметры: ОЗ +79500, Физ. атака +11500, Точность +3200, Уменьшение физ. и маг. урона +65." desc2=""/>
+	<title id="305" name="Богиня [Физ]" visible="0" bpicture="1" pic_title="boginya" desc="Повышает следующие параметры: ОЗ +79500, Физ. атака +11500, Точность +3200, Уменьшение физ. и маг. урона +65." desc2=""/>
+	<title id="306" name="Храброе сердце" visible="0" bpicture="1" pic_title="hrabr" desc="Повышает следующие параметры: ОЗ +79500, Маг. атака +11500, Точность +3200, Уменьшение физ. и маг. урона +65." desc2=""/>
+	<title id="307" name="Богиня [Маг]" visible="0" bpicture="1" pic_title="boginya" desc="Повышает следующие параметры: ОЗ +79500, Маг. атака +11500, Точность +3200, Уменьшение физ. и маг. урона +65." desc2=""/>
+	<title id="308" name="Храброе сердце" visible="0" bpicture="1" pic_title="hrabr" desc="Повышает следующие параметры: ОЗ +79500, Духовность +12000, Точность +3200, Уменьшение физ. и маг. урона +65." desc2=""/>
+	<title id="309" name="Богиня [Бард]" visible="0" bpicture="1" pic_title="boginya" desc="Повышает следующие параметры: ОЗ +79500, Духовность +12000, Точность +3200, Уменьшение физ. и маг. урона +65." desc2=""/>
+	<title id="310" name="Рыцарь смерти" visible="0" bpicture="1" pic_title="smerti" desc="Повышает следующие параметры: ОЗ +81000, Физ. атака +12500, Урон духа +1700, Сопротивление воздействиям +15." desc2=""/>
+	<title id="311" name="Королева прокл." visible="0" bpicture="1" pic_title="prokl" desc="Повышает следующие параметры: ОЗ +81000, Физ. атака +12500, Урон духа +1700, Сопротивление воздействиям +15." desc2=""/>
+	<title id="312" name="Рыцарь смерти" visible="0" bpicture="1" pic_title="smerti" desc="Повышает следующие параметры: ОЗ +81000, Маг. атака +12500, Урон духа +1700, Сопротивление воздействиям +15." desc2=""/>
+	<title id="313" name="Королева прокл." visible="0" bpicture="1" pic_title="prokl" desc="Повышает следующие параметры: ОЗ +81000, Маг. атака +12500, Урон духа +1700, Сопротивление воздействиям +15." desc2=""/>
+	<title id="314" name="Рыцарь смерти" visible="0" bpicture="1" pic_title="smerti" desc="Повышает следующие параметры: ОЗ +81000, Духовность +13000, Урон духа +1700, Сопротивление воздействиям +15." desc2=""/>
+	<title id="315" name="Королева прокл." visible="0" bpicture="1" pic_title="prokl" desc="Повышает следующие параметры: ОЗ +81000, Духовность +13000, Урон духа +1700, Сопротивление воздействиям +15." desc2=""/>
+	<title id="316" name="Всадник без гол." visible="0" bpicture="1" pic_title="vsadnik" desc="Повышает параметр Удача +13." desc2=""/>
+	<title id="317" name="Мастер [Физ.]" visible="0" bpicture="1" pic_title="master" desc="Повышает следующие параметры: ОЗ +82500, Физ. атака +13500, Защита духа +3000, Мин. и Макс. урон оружия +120." desc2=""/>
+	<title id="318" name="Кошечка [Физ.]" visible="0" bpicture="1" pic_title="pussy" desc="Повышает следующие параметры: ОЗ +82500, Физ. атака +13500, Защита духа +3000, Мин. и Макс. урон оружия +120." desc2=""/>
+	<title id="319" name="Мастер [Маг]" visible="0" bpicture="1" pic_title="master" desc="Повышает следующие параметры: ОЗ +82500, Маг. атака +13500, Защита духа +3000, Урон артефакта +120." desc2=""/>
+	<title id="320" name="Кошечка [Маг]" visible="0" bpicture="1" pic_title="pussy" desc="Повышает следующие параметры: ОЗ +82500, Маг. атака +13500, Защита духа +3000, Урон артефакта +120." desc2=""/>
+	<title id="321" name="Мастер [Бард]" visible="0" bpicture="1" pic_title="master" desc="Повышает следующие параметры: ОЗ +82500, Духовность +14000, Защита духа +3000, Урон артефакта +120." desc2=""/>
+	<title id="322" name="Кошечка [Бард]" visible="0" bpicture="1" pic_title="pussy" desc="Повышает следующие параметры: ОЗ +82500, Духовность +14000, Защита духа +3000, Урон артефакта +120." desc2=""/>
+	<title id="323" name="Хол принц [Физ]" visible="0" bpicture="1" pic_title="cold_prince" desc="Повышает следующие параметры: ОЗ +84000, Физ. атака +14500, Точность +3300, Уменьшение физ. и маг. урона +80." desc2=""/>
+	<title id="324" name="Снежинка [Физ.]" visible="0" bpicture="1" pic_title="snowflake" desc="Повышает следующие параметры: ОЗ +84000, Физ. атака +14500, Точность +3300, Уменьшение физ. и маг. урона +80." desc2=""/>
+	<title id="325" name="Хол принц [Маг]" visible="0" bpicture="1" pic_title="cold_prince" desc="Повышает следующие параметры: ОЗ +84000, Маг. атака +14500, Точность +3300, Уменьшение физ. и маг. урона +80." desc2=""/>
+	<title id="326" name="Снежинка [Маг]" visible="0" bpicture="1" pic_title="snowflake" desc="Повышает следующие параметры: ОЗ +84000, Маг. атака +14500, Точность +3300, Уменьшение физ. и маг. урона +80." desc2=""/>
+	<title id="327" name="Хол принц [Бард]" visible="0" bpicture="1" pic_title="cold_prince" desc="Повышает следующие параметры: ОЗ +84000, Духовность +15000, Точность +3300, Уменьшение физ. и маг. урона +80." desc2=""/>
+	<title id="328" name="Снежинка [Бард]" visible="0" bpicture="1" pic_title="snowflake" desc="Повышает следующие параметры: ОЗ +84000, Духовность +15000, Точность +3300, Уменьшение физ. и маг. урона +80." desc2=""/>
+	<title id="329" name="С Новым Годом!" visible="0" bpicture="1" pic_title="ny2017" desc="Команда Blood and Soul поздравляет всех жителей Теоса с новогодними праздниками. Желаем исполнения желаний в Новом 2017 году." desc2=""/>
+	<title id="330" name="Победитель [Физ]" visible="0" bpicture="1" pic_title="winner" desc="Повышает следующие параметры: ОЗ +85500, Физ. атака +15500, Урон духа +1800, Усиление всех типов воздействия +20." desc2=""/>
+	<title id="331" name="Конфетка [Физ]" visible="0" bpicture="1" pic_title="candy" desc="Повышает следующие параметры: ОЗ +85500, Физ. атака +15500, Урон духа +1800, Усиление всех типов воздействия +20." desc2=""/>
+	<title id="332" name="Победитель [Маг]" visible="0" bpicture="1" pic_title="winner" desc="Повышает следующие параметры: ОЗ +85500, Маг. атака +15500, Урон духа +1800, Усиление всех типов воздействия +20." desc2=""/>
+	<title id="333" name="Конфетка [Маг]" visible="0" bpicture="1" pic_title="candy" desc="Повышает следующие параметры: ОЗ +85500, Маг. атака +15500, Урон духа +1800, Усиление всех типов воздействия +20." desc2=""/>
+	<title id="334" name="Победитель[Бард]" visible="0" bpicture="1" pic_title="winner" desc="Повышает следующие параметры: ОЗ +85500, Духовность +16000, Урон духа +1800, Усиление всех типов воздействия +20." desc2=""/>
+	<title id="335" name="Конфетка [Бард]" visible="0" bpicture="1" pic_title="candy" desc="Повышает следующие параметры: ОЗ +85500, Духовность +16000, Урон духа +1800, Усиление всех типов воздействия +20." desc2=""/>
+	<title id="336" name="Защитник [Физ]" visible="0" bpicture="1" pic_title="defender" desc="Повышает следующие параметры: ОЗ +87000, Физ. атака +16000, Мин. и Макс. урон оружия +130, Точность +3400." desc2=""/>
+	<title id="337" name="Весенняя [Физ]" visible="0" bpicture="1" pic_title="spring" desc="Повышает следующие параметры: ОЗ +87000, Физ. атака +16000, Мин. и Макс. урон оружия +130, Точность +3400." desc2=""/>
+	<title id="338" name="Защитник [Маг]" visible="0" bpicture="1" pic_title="defender" desc="Повышает следующие параметры: ОЗ +87000, Маг. атака +16000, Урон артефакта +130, Точность +3400." desc2=""/>
+	<title id="339" name="Весенняя [Маг]" visible="0" bpicture="1" pic_title="spring" desc="Повышает следующие параметры: ОЗ +87000, Маг. атака +16000, Урон артефакта +130, Точность +3400." desc2=""/>
+	<title id="340" name="Защитник[Бард]" visible="0" bpicture="1" pic_title="defender" desc="Повышает следующие параметры: ОЗ +87000, Духовность +17000, Урон артефакта +130, Точность +3400." desc2=""/>
+	<title id="341" name="Весенняя [Бард]" visible="0" bpicture="1" pic_title="spring" desc="Повышает следующие параметры: ОЗ +87000, Духовность +17000, Урон артефакта +130, Точность +3400." desc2=""/>
+	<title id="342" name="Мистер BS 2017" visible="0" bpicture="1" pic_title="mister1" desc="Повышает следующие параметры: ОЗ +87000, Маг. атака +16000, Урон артефакта +130, Точность +3400." desc2=""/>
+	<title id="343" name="Вице-Мистер BS" visible="0" bpicture="1" pic_title="mister3" desc="Повышает следующие параметры: ОЗ +87000, Маг. атака +16000, Урон артефакта +130, Точность +3400." desc2=""/>
+	<title id="344" name="Вице-Мистер BS" visible="0" bpicture="1" pic_title="mister2" desc="Повышает следующие параметры: ОЗ +87000, Физ. атака +16000, Мин. и Макс. урон оружия +130, Точность +3400." desc2=""/>
+	<title id="345" name="Терминатор [Физ]" visible="0" bpicture="1" pic_title="terminator" desc="ОЗ +88500, Физ. атака +17500, Сопротивление всем типам воздействия +20, Снижение физ. и маг. урона +75." desc2=""/>
+	<title id="346" name="Солнышко [Физ]" visible="0" bpicture="1" pic_title="sun" desc="ОЗ +88500, Физ. атака +17500, Сопротивление всем типам воздействия +20, Снижение физ. и маг. урона +75." desc2=""/>
+	<title id="347" name="Терминатор [Маг]" visible="0" bpicture="1" pic_title="terminator" desc="ОЗ +88500, Маг. атака +17500, Сопротивление всем типам воздействия +20, Снижение физ. и маг. урона +75." desc2=""/>
+	<title id="348" name="Солнышко [Маг]" visible="0" bpicture="1" pic_title="sun" desc="ОЗ +88500, Маг. атака +17500, Сопротивление всем типам воздействия +20, Снижение физ. и маг. урона +75." desc2=""/>
+	<title id="349" name="Терминатор [Бард]" visible="0" bpicture="1" pic_title="terminator" desc="ОЗ +88500, Духовность +18000, Сопротивление всем типам воздействия +20, Снижение физ. и маг. урона +75." desc2=""/>
+	<title id="350" name="Солнышко [Бард]" visible="0" bpicture="1" pic_title="sun" desc="ОЗ +88500, Духовность +18000, Сопротивление всем типам воздействия +20, Снижение физ. и маг. урона +75." desc2=""/>
+	<title id="351" name="Мисс BS 2017" visible="0" bpicture="1" pic_title="miss1" desc="Повышает следующие параметры: ОЗ +87000, Духовность +17000, Урон артефакта +130, Точность +3400." desc2=""/>
+	<title id="352" name="Вице-Мисс BS" visible="0" bpicture="1" pic_title="miss3" desc="Повышает следующие параметры: ОЗ +87000, Физ. атака +16000, Мин. и Макс. урон оружия +130, Точность +3400." desc2=""/>
+	<title id="353" name="Вице-Мисс BS" visible="0" bpicture="1" pic_title="miss2" desc="Повышает следующие параметры: ОЗ +87000, Физ. атака +16000, Мин. и Макс. урон оружия +130, Точность +3400." desc2=""/>
+	<title id="354" name="Пират [Физ]" visible="0" bpicture="1" pic_title="pirate" desc="Повышает следующие параметры: ОЗ +90000, Физ. атака +19000, Усиление всех типов воздействия +25, Повышение физ. и маг. урона +85." desc2=""/>
+	<title id="355" name="Принцесса [Физ]" visible="0" bpicture="1" pic_title="princess" desc="Повышает следующие параметры: ОЗ +90000, Физ. атака +19000, Усиление всех типов воздействия +25, Повышение физ. и маг. урона +85." desc2=""/>
+	<title id="356" name="Пират [Маг]" visible="0" bpicture="1" pic_title="pirate" desc="Повышает следующие параметры: ОЗ +90000, Маг. атака +19000, Усиление всех типов воздействия +25, Повышение физ. и маг. урона +85." desc2=""/>
+	<title id="357" name="Принцесса [Маг]" visible="0" bpicture="1" pic_title="princess" desc="Повышает следующие параметры: ОЗ +90000, Маг. атака +19000, Усиление всех типов воздействия +25, Повышение физ. и маг. урона +85." desc2=""/>
+	<title id="358" name="Пират [Бард]" visible="0" bpicture="1" pic_title="pirate" desc="Повышает следующие параметры: ОЗ +90000, Духовность +19500, Усиление всех типов воздействия +25, Повышение физ. и маг. урона +85." desc2=""/>
+	<title id="359" name="Принцесса [Бард]" visible="0" bpicture="1" pic_title="princess" desc="Повышает следующие параметры: ОЗ +90000, Духовность +19500, Усиление всех типов воздействия +25, Повышение физ. и маг. урона +85." desc2=""/>
+	<title id="360" name="С Победой!" visible="0" bpicture="1" pic_title="winners9" desc="С Днем Великой Победы!" desc2=""/>
+	<title id="361" name="Ковбой [Физ]" visible="0" bpicture="1" pic_title="cowboy" desc="Повышает следующие параметры: ОЗ +91500, Физ. атака +20000, Урон духа +3500, Урон стихий +750." desc2=""/>
+	<title id="362" name="Хорошая [Физ]" visible="0" bpicture="1" pic_title="goodgirl" desc="Повышает следующие параметры: ОЗ +91500, Физ. атака +20000, Урон духа +3500, Урон стихий +750." desc2=""/>
+	<title id="363" name="Плохая [Физ]" visible="0" bpicture="1" pic_title="badgirl" desc="Повышает следующие параметры: ОЗ +91500, Физ. атака +20000, Урон духа +3500, Урон стихий +750." desc2=""/>
+	<title id="364" name="Ковбой [Маг]" visible="0" bpicture="1" pic_title="cowboy" desc="Повышает следующие параметры: ОЗ +91500, Маг. атака +20000, Урон духа +3500, Урон стихий +750." desc2=""/>
+	<title id="365" name="Хорошая [Маг]" visible="0" bpicture="1" pic_title="goodgirl" desc="Повышает следующие параметры: ОЗ +91500, Маг. атака +20000, Урон духа +3500, Урон стихий +750." desc2=""/>
+	<title id="366" name="Плохая [Маг]" visible="0" bpicture="1" pic_title="badgirl" desc="Повышает следующие параметры: ОЗ +91500, Маг. атака +20000, Урон духа +3500, Урон стихий +750." desc2=""/>
+	<title id="367" name="Ковбой [Бард]" visible="0" bpicture="1" pic_title="cowboy" desc="Повышает следующие параметры: ОЗ +91500, Духовность +20500, Урон духа +3500, Урон стихий +750." desc2=""/>
+	<title id="368" name="Хорошая [Бард]" visible="0" bpicture="1" pic_title="goodgirl" desc="Повышает следующие параметры: ОЗ +91500, Духовность +20500, Урон духа +3500, Урон стихий +750." desc2=""/>
+	<title id="369" name="Плохая [Бард]" visible="0" bpicture="1" pic_title="badgirl" desc="Повышает следующие параметры: ОЗ +91500, Духовность +20500, Урон духа +3500, Урон стихий +750." desc2=""/>
+	<title id="370" name="Чудовище [Физ]" visible="0" bpicture="1" pic_title="beast" desc="Повышает следующие параметры: ОЗ +93000, Физ. атака +21000, Мин. и Макс. урон оружия +140, Повышение физ. урона +95." desc2=""/>
+	<title id="371" name="Красавица [Физ]" visible="0" bpicture="1" pic_title="Beauty" desc="Повышает следующие параметры: ОЗ +93000, Физ. атака +21000, Мин. и Макс. урон оружия +140, Повышение физ. урона +95." desc2=""/>
+	<title id="372" name="Чудовище [Маг]" visible="0" bpicture="1" pic_title="beast" desc="Повышает следующие параметры: ОЗ +93000, Маг. атака +21000, Урон артефакта +140, Повышение маг. урона +95." desc2=""/>
+	<title id="373" name="Красавица [Маг]" visible="0" bpicture="1" pic_title="Beauty" desc="Повышает следующие параметры: ОЗ +93000, Маг. атака +21000, Урон артефакта +140, Повышение маг. урона +95." desc2=""/>
+	<title id="374" name="Чудовище [Бард]" visible="0" bpicture="1" pic_title="beast" desc="Повышает следующие параметры: ОЗ +93000, Духовность +21500, Урон артефакта +140, Повышение маг. урона +95." desc2=""/>
+	<title id="375" name="Красавица [Бард]" visible="0" bpicture="1" pic_title="Beauty" desc="Повышает следующие параметры: ОЗ +93000, Духовность +21500, Урон артефакта +140, Повышение маг. урона +95." desc2=""/>
+	<title id="376" name="BS 6 лет!" visible="0" bpicture="1" pic_title="bday6" desc="Повышает следующие параметры: 20000 ОЗ, 2500 Физ. и Маг. атака." desc2=""/>
+	<title id="377" name="Разрушитель[Физ]" visible="0" bpicture="1" pic_title="destroyer" desc="Повышает следующие параметры: ОЗ +94500, Физ. атака +22000, Урон духа +1900, Усиление воздействий +30." desc2=""/>
+	<title id="378" name="Амазонка [Физ]" visible="0" bpicture="1" pic_title="amazon" desc="Повышает следующие параметры: ОЗ +94500, Физ. атака +22000, Урон духа +1900, Усиление воздействий +30." desc2=""/>
+	<title id="379" name="Разрушитель[Маг]" visible="0" bpicture="1" pic_title="destroyer" desc="Повышает следующие параметры: ОЗ +94500, Маг. атака +22000, Урон духа +1900, Усиление воздействий +30." desc2=""/>
+	<title id="380" name="Амазонка [Маг]" visible="0" bpicture="1" pic_title="amazon" desc="Повышает следующие параметры: ОЗ +94500, Маг. атака +22000, Урон духа +1900, Усиление воздействий +30." desc2=""/>
+	<title id="381" name="Разрушитель[Бард]" visible="0" bpicture="1" pic_title="destroyer" desc="Повышает следующие параметры: ОЗ +94500, Духовность +23000, Урон духа +1900, Усиление воздействий +30." desc2=""/>
+	<title id="382" name="Амазонка [Бард]" visible="0" bpicture="1" pic_title="amazon" desc="Повышает следующие параметры: ОЗ +94500, Духовность +23000, Урон духа +1900, Усиление воздействий +30." desc2=""/>
+	<title id="383" name="Взор стрелка" visible="0" bpicture="1" pic_title="archer" desc="Физ. атака - 2500, ОЗ - 20000" desc2=""/>
+	<title id="384" name="Воля мага" visible="0" bpicture="1" pic_title="mage" desc="Маг. атака - 2500, ОЗ - 20000" desc2=""/>
+	<title id="385" name="Песнь барда" visible="0" bpicture="1" pic_title="bard" desc="Духовность - 3000, ОЗ - 20000" desc2=""/>
+	<title id="386" name="Ниндзя [Физ]" visible="0" bpicture="1" pic_title="ninja" desc="Повышает следующие параметры: ОЗ +96000, Физ. атака +23000, Точность +3500, Повышение физ. урона +110." desc2=""/>
+	<title id="387" name="Няша [Физ]" visible="0" bpicture="1" pic_title="nyasha" desc="Повышает следующие параметры: ОЗ +96000, Физ. атака +23000, Точность +3500, Повышение физ. урона +110." desc2=""/>
+	<title id="388" name="Ниндзя [Маг]" visible="0" bpicture="1" pic_title="ninja" desc="Повышает следующие параметры: ОЗ +96000, Маг. атака +23000, Точность +3500, Повышение маг. урона +110." desc2=""/>
+	<title id="389" name="Няша [Маг]" visible="0" bpicture="1" pic_title="nyasha" desc="Повышает следующие параметры: ОЗ +96000, Маг. атака +23000, Точность +3500, Повышение маг. урона +110." desc2=""/>
+	<title id="390" name="Ниндзя [Бард]" visible="0" bpicture="1" pic_title="ninja" desc="Повышает следующие параметры: ОЗ +96000, Духовность +24000, Точность +3500, Повышение маг. урона +110." desc2=""/>
+	<title id="391" name="Няша [Бард]" visible="0" bpicture="1" pic_title="nyasha" desc="Повышает следующие параметры: ОЗ +96000, Духовность +24000, Точность +3500, Повышение маг. урона +110." desc2=""/>
+	<title id="392" name="ТОП-1" visible="0" bpicture="1" pic_title="top1" desc="Повышает следующие параметры: ОЗ +198000, Физ. и маг. атака +95000, Повышение и снижение всего урона +320. Срок действия - 7 дней." desc2=""/>
+	<title id="393" name="ТОП-2" visible="0" bpicture="1" pic_title="top2" desc="Повышает следующие параметры: ОЗ +185000, Физ. и маг. атака +92500, Повышение и снижение всего урона +295. Срок действия - 7 дней." desc2=""/>
+	<title id="394" name="ТОП-3" visible="0" bpicture="1" pic_title="top3" desc="Повышает следующие параметры: ОЗ +172000, Физ. и маг. атака +90000, Повышение и снижение всего урона +270. Срок действия - 7 дней." desc2=""/>
+	<title id="395" name="Тигр [Физ]" visible="0" bpicture="1" pic_title="Tiger" desc="Повышает следующие параметры: ОЗ +97500, Физ. атака +24000, Урон духа +2000, Урон стихий +800." desc2=""/>
+	<title id="396" name="Огненная [Физ]" visible="0" bpicture="1" pic_title="Fiery" desc="Повышает следующие параметры: ОЗ +97500, Физ. атака +24000, Урон духа +2000, Урон стихий +800." desc2=""/>
+	<title id="397" name="Тигр [Маг]" visible="0" bpicture="1" pic_title="Tiger" desc="Повышает следующие параметры: ОЗ +97500, Маг. атака +24000, Урон духа +2000, Урон стихий +800." desc2=""/>
+	<title id="398" name="Огненная [Маг]" visible="0" bpicture="1" pic_title="Fiery" desc="Повышает следующие параметры: ОЗ +97500, Маг. атака +24000, Урон духа +2000, Урон стихий +800." desc2=""/>
+	<title id="399" name="Тигр [Бард]" visible="0" bpicture="1" pic_title="Tiger" desc="Повышает следующие параметры: ОЗ +97500, Духовность +25000, Урон духа +2000, Урон стихий +800." desc2=""/>
+	<title id="400" name="Огненная [Бард]" visible="0" bpicture="1" pic_title="Fiery" desc="Повышает следующие параметры: ОЗ +97500, Духовность +25000, Урон духа +2000, Урон стихий +800." desc2=""/>
+	<title id="401" name="Вампир [Физ]" visible="0" bpicture="1" pic_title="vamp2017" desc="Повышает следующие параметры: ОЗ +99000, Физ. атака +25000, Ловкость +3200, Снижение всего урона +85." desc2=""/>
+	<title id="402" name="Ведьма [Физ]" visible="0" bpicture="1" pic_title="witch2017" desc="Повышает следующие параметры: ОЗ +99000, Физ. атака +25000, Ловкость +3200, Снижение всего урона +85." desc2=""/>
+	<title id="403" name="Вампир [Маг]" visible="0" bpicture="1" pic_title="vamp2017" desc="Повышает следующие параметры: ОЗ +99000, Маг. атака +25000, Ловкость +3200, Снижение всего урона +85." desc2=""/>
+	<title id="404" name="Ведьма [Маг]" visible="0" bpicture="1" pic_title="witch2017" desc="Повышает следующие параметры: ОЗ +99000, Маг. атака +25000, Ловкость +3200, Снижение всего урона +85." desc2=""/>
+	<title id="405" name="Вампир [Бард]" visible="0" bpicture="1" pic_title="vamp2017" desc="Повышает следующие параметры: ОЗ +99000, Духовность +26000, Ловкость +3200, Снижение всего урона +85." desc2=""/>
+	<title id="406" name="Ведьма [Бард]" visible="0" bpicture="1" pic_title="witch2017" desc="Повышает следующие параметры: ОЗ +99000, Духовность +26000, Ловкость +3200, Снижение всего урона +85." desc2=""/>
+	<title id="407" name="Злодей [Физ]" visible="0" bpicture="1" pic_title="zlodey" desc="Повышает следующие параметры: ОЗ +105000, Физ. атака +26000, Сопротивление воздействиям +25, Повышение физ. урона +125." desc2=""/>
+	<title id="408" name="Вредина [Физ]" visible="0" bpicture="1" pic_title="vredina" desc="Повышает следующие параметры: ОЗ +105000, Физ. атака +26000, Сопротивление воздействиям +25, Повышение физ. урона +125." desc2=""/>
+	<title id="409" name="Злодей [Маг]" visible="0" bpicture="1" pic_title="zlodey" desc="Повышает следующие параметры: ОЗ +105000, Маг. атака +26000, Сопротивление воздействиям +25, Повышение маг. урона +125." desc2=""/>
+	<title id="410" name="Вредина [Маг]" visible="0" bpicture="1" pic_title="vredina" desc="Повышает следующие параметры: ОЗ +105000, Маг. атака +26000, Сопротивление воздействиям +25, Повышение маг. урона +125." desc2=""/>
+	<title id="411" name="Злодей [Бард]" visible="0" bpicture="1" pic_title="zlodey" desc="Повышает следующие параметры: ОЗ +105000, Духовность +27000, Сопротивление воздействиям +25, Повышение маг. урона +125." desc2=""/>
+	<title id="412" name="Вредина [Бард]" visible="0" bpicture="1" pic_title="vredina" desc="Повышает следующие параметры: ОЗ +105000, Духовность +27000, Сопротивление воздействиям +25, Повышение маг. урона +125." desc2=""/>
+	<title id="413" name="С Новым Годом!" visible="0" bpicture="1" pic_title="titul_NY2018" desc="Повышает следующие параметры: ОЗ +7500, ф\м атака +1500, Точность +500." desc2=""/>
+	<title id="414" name="Полярный волк" visible="0" bpicture="1" pic_title="pwolf" desc="Повышает следующие параметры: ОЗ +106500, Физ. атака +27000, Усиление воздействий +35, Точность +3600." desc2=""/>
+	<title id="415" name="Снежная королева" visible="0" bpicture="1" pic_title="snowqueen" desc="Повышает следующие параметры: ОЗ +106500, Физ. атака +27000, Усиление воздействий +35, Точность +3600." desc2=""/>
+	<title id="416" name="Полярный волк" visible="0" bpicture="1" pic_title="pwolf" desc="Повышает следующие параметры: ОЗ +106500, Маг. атака +27000, Усиление воздействий +35, Точность +3600." desc2=""/>
+	<title id="417" name="Снежная королева" visible="0" bpicture="1" pic_title="snowqueen" desc="Повышает следующие параметры: ОЗ +106500, Маг. атака +27000, Усиление воздействий +35, Точность +3600." desc2=""/>
+	<title id="418" name="Полярный волк" visible="0" bpicture="1" pic_title="pwolf" desc="Повышает следующие параметры: ОЗ +106500, Духовность +28000, Усиление воздействий +35, Точность +3600." desc2=""/>
+	<title id="419" name="Снежная королева" visible="0" bpicture="1" pic_title="snowqueen" desc="Повышает следующие параметры: ОЗ +106500, Духовность +28000, Усиление воздействий +35, Точность +3600." desc2=""/>
+	<title id="420" name="Инквизитор" visible="0" bpicture="1" pic_title="inquisitor" desc="Повышает следующие параметры: ОЗ +108000, Физ. атака +28000, Урон стихий +850, Снижение урона +95." desc2=""/>
+	<title id="421" name="Демонесса" visible="0" bpicture="1" pic_title="demoness" desc="Повышает следующие параметры: ОЗ +108000, Физ. атака +28000, Урон стихий +850, Снижение урона +95." desc2=""/>
+	<title id="422" name="Инквизитор" visible="0" bpicture="1" pic_title="inquisitor" desc="Повышает следующие параметры: ОЗ +108000, Маг. атака +28000, Урон стихий +850, Снижение урона +95." desc2=""/>
+	<title id="423" name="Демонесса" visible="0" bpicture="1" pic_title="demoness" desc="Повышает следующие параметры: ОЗ +108000, Маг. атака +28000, Урон стихий +850, Снижение урона +95." desc2=""/>
+	<title id="424" name="Инквизитор" visible="0" bpicture="1" pic_title="inquisitor" desc="Повышает следующие параметры: ОЗ +108000, Духовность +29000, Урон стихий +850, Снижение урона +95." desc2=""/>
+	<title id="425" name="Демонесса" visible="0" bpicture="1" pic_title="demoness" desc="Повышает следующие параметры: ОЗ +108000, Духовность +29000, Урон стихий +850, Снижение урона +95." desc2=""/>
+	<title id="426" name="Хищник [Физ]" visible="0" bpicture="1" pic_title="predator" desc="Повышает следующие параметры: ОЗ +109500, Физ. атака +29000, Ловкость +3300, Сопротивление воздействиям +30." desc2=""/>
+	<title id="427" name="Зайка [Физ]" visible="0" bpicture="1" pic_title="bunny" desc="Повышает следующие параметры: ОЗ +109500, Физ. атака +29000, Ловкость +3300, Сопротивление воздействиям +30." desc2=""/>
+	<title id="428" name="Хищник [Маг]" visible="0" bpicture="1" pic_title="predator" desc="Повышает следующие параметры: ОЗ +109500, Маг. атака +29000, Ловкость +3300, Сопротивление воздействиям +30." desc2=""/>
+	<title id="429" name="Зайка [Маг]" visible="0" bpicture="1" pic_title="bunny" desc="Повышает следующие параметры: ОЗ +109500, Маг. атака +29000, Ловкость +3300, Сопротивление воздействиям +30." desc2=""/>
+	<title id="430" name="Хищник [Бард]" visible="0" bpicture="1" pic_title="predator" desc="Повышает следующие параметры: ОЗ +109500, Духовность +30000, Ловкость +3300, Сопротивление воздействиям +30." desc2=""/>
+	<title id="431" name="Зайка [Бард]" visible="0" bpicture="1" pic_title="bunny" desc="Повышает следующие параметры: ОЗ +109500, Духовность +30000, Ловкость +3300, Сопротивление воздействиям +30." desc2=""/>
+	<title id="432" name="Варвар [Физ]" visible="0" bpicture="1" pic_title="war02" desc="Повышает следующие параметры: ОЗ +111000, Физ. атака +30000, Урон духа +2100, Повышение физ. урона +140." desc2=""/>
+	<title id="433" name="Воительница[Физ]" visible="0" bpicture="1" pic_title="war01" desc="Повышает следующие параметры: ОЗ +111000, Физ. атака +30000, Урон духа +2100, Повышение физ. урона +140." desc2=""/>
+	<title id="434" name="Варвар [Маг]" visible="0" bpicture="1" pic_title="war02" desc="Повышает следующие параметры: ОЗ +111000, Маг. атака +30000, Урон духа +2100, Повышение маг. урона +140." desc2=""/>
+	<title id="435" name="Воительница[Маг]" visible="0" bpicture="1" pic_title="war01" desc="Повышает следующие параметры: ОЗ +111000, Маг. атака +30000, Урон духа +2100, Повышение маг. урона +140." desc2=""/>
+	<title id="436" name="Варвар [Бард]" visible="0" bpicture="1" pic_title="war02" desc="Повышает следующие параметры: ОЗ +111000, Духовность +31000, Урон духа +2100, Повышение маг. урона +140." desc2=""/>
+	<title id="437" name="Воительница[Бард]" visible="0" bpicture="1" pic_title="war01" desc="Повышает следующие параметры: ОЗ +111000, Духовность +31000, Урон духа +2100, Повышение маг. урона +140." desc2=""/>
+	<title id="438" name="Праведный ангел" visible="0" bpicture="1" pic_title="angel1" desc="Повышает следующие параметры: ОЗ +112500, Физ. атака +31000, Урон стихий +900, Точность +3700." desc2=""/>
+	<title id="439" name="Яростный демон" visible="0" bpicture="1" pic_title="demon1" desc="Повышает следующие параметры: ОЗ +112500, Физ. атака +31000, Урон стихий +900, Точность +3700." desc2=""/>
+	<title id="440" name="Праведный ангел" visible="0" bpicture="1" pic_title="angel1" desc="Повышает следующие параметры: ОЗ +112500, Маг. атака +31000, Урон стихий +900, Точность +3700." desc2=""/>
+	<title id="441" name="Яростный демон" visible="0" bpicture="1" pic_title="demon1" desc="Повышает следующие параметры: ОЗ +112500, Маг. атака +31000, Урон стихий +900, Точность +3700." desc2=""/>
+	<title id="442" name="Праведный ангел" visible="0" bpicture="1" pic_title="angel1" desc="Повышает следующие параметры: ОЗ +112500, Духовность +32000, Урон стихий +900, Точность +3700." desc2=""/>
+	<title id="443" name="Яростный демон" visible="0" bpicture="1" pic_title="demon1" desc="Повышает следующие параметры: ОЗ +112500, Духовность +32000, Урон стихий +900, Точность +3700." desc2=""/>
+	<title id="444" name="7 лет BS" visible="0" bpicture="1" pic_title="7y" desc="Титул повышает параметр Удача +100." desc2=""/>
+	<title id="445" name="Грибник" visible="0" bpicture="1" pic_title="mushroom" desc="Грибник" desc2=""/>
+	<title id="446" name="#люблю BS" visible="0" bpicture="1" pic_title="loveBS" desc="#люблю BS" desc2=""/>
+	<title id="447" name="Фараон" visible="0" bpicture="1" pic_title="faraon" desc="Повышает следующие параметры: ОЗ +114000, Физ. атака +32000, Защита духа +4000, Усиление воздействий +40." desc2=""/>
+	<title id="448" name="Клеопатра" visible="0" bpicture="1" pic_title="cleopatra" desc="Повышает следующие параметры: ОЗ +114000, Физ. атака +32000, Защита духа +4000, Усиление воздействий +40." desc2=""/>
+	<title id="449" name="Фараон" visible="0" bpicture="1" pic_title="faraon" desc="Повышает следующие параметры: ОЗ +114000, Маг. атака +32000, Защита духа +4000, Усиление воздействий +40." desc2=""/>
+	<title id="450" name="Клеопатра" visible="0" bpicture="1" pic_title="cleopatra" desc="Повышает следующие параметры: ОЗ +114000, Маг. атака +32000, Защита духа +4000, Усиление воздействий +40." desc2=""/>
+	<title id="451" name="Фараон" visible="0" bpicture="1" pic_title="faraon" desc="Повышает следующие параметры: ОЗ +114000, Духовность +33000, Защита духа +4000, Усиление воздействий +40." desc2=""/>
+	<title id="452" name="Клеопатра" visible="0" bpicture="1" pic_title="cleopatra" desc="Повышает следующие параметры: ОЗ +114000, Духовность +33000, Защита духа +4000, Усиление воздействий +40." desc2=""/>
+	<title id="453" name="Спасатель енотов" visible="0" bpicture="1" pic_title="animalhero" desc="Спасатель енотов" desc2=""/>
+	<title id="454" name="Любовь спасет" visible="0" bpicture="1" pic_title="lovesave" desc="Любовь спасет мир" desc2=""/>
+	<title id="455" name="Первопроходец" visible="0" bpicture="1" pic_title="pioneer" desc="Уникальный титул, который можно получить только начав игру в числе первых на сервере Сатурн. Пусть боги Теоса сопровождают тебя на опасной тропе к источнику великой силы!" desc2=""/>
+	<title id="456" name="№1 на Сатурне" visible="0" bpicture="1" pic_title="saturnf" desc="Уникальный титул, который можно получить только начав игру в числе первых на сервере Сатурн. Пусть боги Теоса сопровождают тебя на опасной тропе к источнику великой силы!" desc2=""/>
+	<title id="457" name="№1 на Сатурне" visible="0" bpicture="1" pic_title="saturnm" desc="Уникальный титул, который можно получить только начав игру в числе первых на сервере Сатурн. Пусть боги Теоса сопровождают тебя на опасной тропе к источнику великой силы!" desc2=""/>
+	<title id="458" name="Босс" visible="0" bpicture="1" pic_title="boss" desc="Повышает следующие параметры: ОЗ +115500, Физ. атака +33000, Сопротивление воздействиям +35, Снижение всего урона +100." desc2=""/>
+	<title id="459" name="Госпожа" visible="0" bpicture="1" pic_title="mistress" desc="Повышает следующие параметры: ОЗ +115500, Физ. атака +33000, Сопротивление воздействиям +35, Снижение всего урона +100." desc2=""/>
+	<title id="460" name="Босс" visible="0" bpicture="1" pic_title="boss" desc="Повышает следующие параметры: ОЗ +115500, Маг. атака +33000, Сопротивление воздействиям +35, Снижение всего урона +100." desc2=""/>
+	<title id="461" name="Госпожа" visible="0" bpicture="1" pic_title="mistress" desc="Повышает следующие параметры: ОЗ +115500, Маг. атака +33000, Сопротивление воздействиям +35, Снижение всего урона +100." desc2=""/>
+	<title id="462" name="Босс" visible="0" bpicture="1" pic_title="boss" desc="Повышает следующие параметры: ОЗ +115500, Духовность +34000, Сопротивление воздействиям +35, Снижение всего урона +100." desc2=""/>
+	<title id="463" name="Госпожа" visible="0" bpicture="1" pic_title="mistress" desc="Повышает следующие параметры: ОЗ +115500, Духовность +34000, Сопротивление воздействиям +35, Снижение всего урона +100." desc2=""/>
+	<title id="464" name="Укротитель" visible="0" bpicture="1" pic_title="tamer" desc="Повышает следующие параметры: ОЗ +117000, Физ. атака +34000, Урон духа +2200, Мин. и Макс. урон оружия +150." desc2=""/>
+	<title id="465" name="Дикая" visible="0" bpicture="1" pic_title="wild" desc="Повышает следующие параметры: ОЗ +117000, Физ. атака +34000, Урон духа +2200, Мин. и Макс. урон оружия +150." desc2=""/>
+	<title id="466" name="Укротитель" visible="0" bpicture="1" pic_title="tamer" desc="Повышает следующие параметры: ОЗ +117000, Маг. атака +34000, Урон духа +2200, Урон артефакта +150." desc2=""/>
+	<title id="467" name="Дикая" visible="0" bpicture="1" pic_title="wild" desc="Повышает следующие параметры: ОЗ +117000, Маг. атака +34000, Урон духа +2200, Урон артефакта +150." desc2=""/>
+	<title id="468" name="Укротитель" visible="0" bpicture="1" pic_title="tamer" desc="Повышает следующие параметры: ОЗ +117000, Духовность +35000, Урон духа +2200, Урон артефакта +150." desc2=""/>
+	<title id="469" name="Дикая" visible="0" bpicture="1" pic_title="wild" desc="Повышает следующие параметры: ОЗ +117000, Духовность +35000, Урон духа +2200, Урон артефакта +150." desc2=""/>
+	<title id="470" name="Крылатый страж" visible="0" bpicture="1" pic_title="guardwing" desc="Повышает следующие параметры: ОЗ +130000, Физ. атака и маг. +37500, Повышение всего урона +150, Точность +3800." desc2=""/>
+	<title id="471" name="Покоритель" visible="0" bpicture="1" pic_title="jupiter" desc="Памятный титул, который выдается только первым игрокам на сервере Юпитер. Боги Теоса благословляют тебя на покорение этого мира!" desc2=""/>
+	<title id="472" name="Красавчик" visible="0" bpicture="1" pic_title="pretty" desc="Повышает следующие параметры: ОЗ +118500, Физ. атака +35000, Урон стихий +950, Ловкость +3400." desc2=""/>
+	<title id="473" name="Куколка" visible="0" bpicture="1" pic_title="doll" desc="Повышает следующие параметры: ОЗ +118500, Физ. атака +35000, Урон стихий +950, Ловкость +3400." desc2=""/>
+	<title id="474" name="Красавчик" visible="0" bpicture="1" pic_title="pretty" desc="Повышает следующие параметры: ОЗ +118500, Маг. атака +35000, Урон стихий +950, Ловкость +3400." desc2=""/>
+	<title id="475" name="Куколка" visible="0" bpicture="1" pic_title="doll" desc="Повышает следующие параметры: ОЗ +118500, Маг. атака +35000, Урон стихий +950, Ловкость +3400." desc2=""/>
+	<title id="476" name="Красавчик" visible="0" bpicture="1" pic_title="pretty" desc="Повышает следующие параметры: ОЗ +118500, Духовность +36000, Урон стихий +950, Ловкость +3400." desc2=""/>
+	<title id="477" name="Куколка" visible="0" bpicture="1" pic_title="doll" desc="Повышает следующие параметры: ОЗ +118500, Духовность +36000, Урон стихий +950, Ловкость +3400." desc2=""/>
+	<title id="478" name="Герой пустыни[Ф]" visible="0" bpicture="1" pic_title="deserthero" desc="Повышает следующие параметры: ОЗ +99000, Физ. атака +25000, Ловкость +3200, Снижение всего урона +85." desc2=""/>
+	<title id="479" name="Герой пустыни[М]" visible="0" bpicture="1" pic_title="deserthero" desc="Повышает следующие параметры: ОЗ +99000, Маг. атака +25000, Ловкость +3200, Снижение всего урона +85." desc2=""/>
+	<title id="480" name="Герой пустыни[Б]" visible="0" bpicture="1" pic_title="deserthero" desc="Повышает следующие параметры: ОЗ +99000, Духовность +26000, Ловкость +3200, Снижение всего урона +85." desc2=""/>
+	<title id="481" name="Фантом" visible="0" bpicture="1" pic_title="phantom" desc="Повышает следующие параметры: ОЗ +120000, Физ. атака +36000, Защита духа +4500, Снижение физ. и маг. урона +110." desc2=""/>
+	<title id="482" name="Чертовка" visible="0" bpicture="1" pic_title="devilish" desc="Повышает следующие параметры: ОЗ +120000, Физ. атака +36000, Защита духа +4500, Снижение физ. и маг. урона +110." desc2=""/>
+	<title id="483" name="Фантом" visible="0" bpicture="1" pic_title="phantom" desc="Повышает следующие параметры: ОЗ +120000, Маг. атака +36000, Защита духа +4500, Снижение физ. и маг. урона +110." desc2=""/>
+	<title id="484" name="Чертовка" visible="0" bpicture="1" pic_title="devilish" desc="Повышает следующие параметры: ОЗ +120000, Маг. атака +36000, Защита духа +4500, Снижение физ. и маг. урона +110." desc2=""/>
+	<title id="485" name="Фантом" visible="0" bpicture="1" pic_title="phantom" desc="Повышает следующие параметры: ОЗ +120000, Духовность +37000, Защита духа +4500, Снижение физ. и маг. урона +110." desc2=""/>
+	<title id="486" name="Чертовка" visible="0" bpicture="1" pic_title="devilish" desc="Повышает следующие параметры: ОЗ +120000, Духовность +37000, Защита духа +4500, Снижение физ. и маг. урона +110." desc2=""/>
+	<title id="487" name="С Новым годом!" visible="0" bpicture="1" pic_title="ny2019" desc="Повышает следующие параметры: ОЗ +10000, Физ. и Маг. атака +2000, Удача +50." desc2=""/>
+	<title id="488" name="Первопроходец" visible="0" bpicture="1" pic_title="pioneer" desc="Уникальный титул, который можно получить только начав игру в числе первых на сервере Юпитер. Пусть боги Теоса сопровождают тебя на опасной тропе к источнику великой силы!" desc2=""/>
+	<title id="489" name="Дед Мороз" visible="0" bpicture="1" pic_title="dedmoroz" desc="Повышает следующие параметры: ОЗ +121500, Физ. атака +37000, Урон духа +2300, Усиление воздействий +45." desc2=""/>
+	<title id="490" name="Снегурочка" visible="0" bpicture="1" pic_title="snegurka" desc="Повышает следующие параметры: ОЗ +121500, Физ. атака +37000, Урон духа +2300, Усиление воздействий +45." desc2=""/>
+	<title id="491" name="Дед Мороз" visible="0" bpicture="1" pic_title="dedmoroz" desc="Повышает следующие параметры: ОЗ +121500, Маг. атака +37000, Урон духа +2300, Усиление воздействий +45." desc2=""/>
+	<title id="492" name="Снегурочка" visible="0" bpicture="1" pic_title="snegurka" desc="Повышает следующие параметры: ОЗ +121500, Маг. атака +37000, Урон духа +2300, Усиление воздействий +45." desc2=""/>
+	<title id="493" name="Дед Мороз" visible="0" bpicture="1" pic_title="dedmoroz" desc="Повышает следующие параметры: ОЗ +121500, Духовность +38000, Урон духа +2300, Усиление воздействий +45." desc2=""/>
+	<title id="494" name="Снегурочка" visible="0" bpicture="1" pic_title="snegurka" desc="Повышает следующие параметры: ОЗ +121500, Духовность +38000, Урон духа +2300, Усиление воздействий +45." desc2=""/>
+	<title id="495" name="Небесный атлант" visible="0" bpicture="1" pic_title="atlant" desc="Памятный титул, который выдается только первым игрокам на сервере Атлант. Боги Теоса благословляют тебя на покорение этого мира!" desc2=""/>
+	<title id="496" name="Тень" visible="0" bpicture="1" pic_title="shadow" desc="Повышает следующие параметры:  ОЗ +123000, Физ. атака +37500, Урон стихий +1000, Снижение всего урона +120." desc2=""/>
+	<title id="497" name="Ангелочек" visible="0" bpicture="1" pic_title="angel" desc="Повышает следующие параметры:  ОЗ +123000, Физ. атака +37500, Урон стихий +1000, Снижение всего урона +120." desc2=""/>
+	<title id="498" name="Тень" visible="0" bpicture="1" pic_title="shadow" desc="Повышает следующие параметры: ОЗ +123000, Маг. атака +37500, Урон стихий +1000, Снижение всего урона +120." desc2=""/>
+	<title id="499" name="Ангелочек" visible="0" bpicture="1" pic_title="angel" desc="Повышает следующие параметры: ОЗ +123000, Маг. атака +37500, Урон стихий +1000, Снижение всего урона +120." desc2=""/>
+	<title id="500" name="Тень" visible="0" bpicture="1" pic_title="shadow" desc="Повышает следующие параметры: ОЗ +123000, Духовность +39000, Урон стихий +1000, Снижение всего урона +120." desc2=""/>
+	<title id="501" name="Ангелочек" visible="0" bpicture="1" pic_title="angel" desc="Повышает следующие параметры: ОЗ +123000, Духовность +39000, Урон стихий +1000, Снижение всего урона +120." desc2=""/>
+	<title id="502" name="Люблю мужа" visible="0" bpicture="1" pic_title="hlove" desc="Повышает следующие параметры: ОЗ +124500, Физ. и маг атака +38000, Защита духа +5000, Повышение физ. и маг. урона +160." desc2=""/>
+	<title id="503" name="Люблю мужа" visible="0" bpicture="1" pic_title="hlove" desc="Повышает следующие параметры: ОЗ +124500, Духовность +40000, Защита духа +5000, Повышение физ. и маг. урона +160." desc2=""/>
+	<title id="504" name="Люблю жену" visible="0" bpicture="1" pic_title="wlove" desc="Повышает следующие параметры: ОЗ +124500, Физ. и маг атака +38000, Защита духа +5000, Повышение физ. и маг. урона +160." desc2=""/>
+	<title id="505" name="Люблю жену" visible="0" bpicture="1" pic_title="wlove" desc="Повышает следующие параметры: ОЗ +124500, Духовность +40000, Защита духа +5000, Повышение физ. и маг. урона +160." desc2=""/>
+	<title id="506" name="Сердце свободно" visible="0" bpicture="1" pic_title="mheart" desc="Повышает следующие параметры: ОЗ +124500, Физ. и маг атака +38000, Защита духа +5000, Повышение физ. и маг. урона +160." desc2=""/>
+	<title id="507" name="Сердце свободно" visible="0" bpicture="1" pic_title="mheart" desc="Повышает следующие параметры: ОЗ +124500, Духовность +40000, Защита духа +5000, Повышение физ. и маг. урона +160." desc2=""/>
+	<title id="508" name="Будь моей" visible="0" bpicture="1" pic_title="fbemine" desc="Повышает следующие параметры: ОЗ +124500, Физ. и маг атака +38000, Защита духа +5000, Повышение физ. и маг. урона +160." desc2=""/>
+	<title id="509" name="Будь моей" visible="0" bpicture="1" pic_title="fbemine" desc="Повышает следующие параметры: ОЗ +124500, Духовность +40000, Защита духа +5000, Повышение физ. и маг. урона +160." desc2=""/>
+	<title id="510" name="Будь моим" visible="0" bpicture="1" pic_title="mbemine" desc="Повышает следующие параметры: ОЗ +124500, Физ. и маг атака +38000, Защита духа +5000, Повышение физ. и маг. урона +160." desc2=""/>
+	<title id="511" name="Будь моим" visible="0" bpicture="1" pic_title="mbemine" desc="Повышает следующие параметры: ОЗ +124500, Духовность +40000, Защита духа +5000, Повышение физ. и маг. урона +160." desc2=""/>
+	<title id="512" name="VIP" visible="0" bpicture="1" pic_title="vip" desc="Повышает следующие параметры: ОЗ +143000, Физ. и маг атака +44000, Повышение и снижение всего урона +170." desc2=""/>
+	<title id="513" name="Боец" visible="0" bpicture="1" pic_title="fighter" desc="Повышает следующие параметры:  ОЗ +126000, Физ. атака +38500, Усиление воздействий +50, Точность +3750." desc2=""/>
+	<title id="514" name="Бунтарка" visible="0" bpicture="1" pic_title="rebel" desc="Повышает следующие параметры:  ОЗ +126000, Физ. атака +38500, Усиление воздействий +50, Точность +3750." desc2=""/>
+	<title id="515" name="Боец" visible="0" bpicture="1" pic_title="fighter" desc="Повышает следующие параметры: ОЗ +126000, Маг. атака +38500, Усиление воздействий +50, Точность +3750." desc2=""/>
+	<title id="516" name="Бунтарка" visible="0" bpicture="1" pic_title="rebel" desc="Повышает следующие параметры: ОЗ +126000, Маг. атака +38500, Усиление воздействий +50, Точность +3750." desc2=""/>
+	<title id="517" name="Боец" visible="0" bpicture="1" pic_title="fighter" desc="Повышает следующие параметры: ОЗ +126000, Духовность +41000,Усиление воздействий +50, Точность +3750." desc2=""/>
+	<title id="518" name="Бунтарка" visible="0" bpicture="1" pic_title="rebel" desc="Повышает следующие параметры: ОЗ +126000, Духовность +41000, Усиление воздействий +50, Точность +3750." desc2=""/>
+	<title id="519" name="Серафим" visible="0" bpicture="1" pic_title="serafim" desc="Повышает следующие параметры: ОЗ +134500, Физ. атака и маг. +39500, Сопротивление воздействиям +40, Ловкость +3500." desc2=""/>
+	<title id="520" name="Бандит" visible="0" bpicture="1" pic_title="Bandit" desc="Повышает следующие параметры: ОЗ +127500, Физ. атака +39000, Сопротивление воздействиям +40, Снижение всего урона +130." desc2=""/>
+	<title id="521" name="Злодейка" visible="0" bpicture="1" pic_title="villain" desc="Повышает следующие параметры: ОЗ +127500, Физ. атака +39000, Сопротивление воздействиям +40, Снижение всего урона +130." desc2=""/>
+	<title id="522" name="Бандит" visible="0" bpicture="1" pic_title="Bandit" desc="Повышает следующие параметры: ОЗ +127500, Маг. атака +39000, Сопротивление воздействиям +40, Снижение всего урона +130." desc2=""/>
+	<title id="523" name="Злодейка" visible="0" bpicture="1" pic_title="villain" desc="Повышает следующие параметры: ОЗ +127500, Маг. атака +39000, Сопротивление воздействиям +40, Снижение всего урона +130." desc2=""/>
+	<title id="524" name="Бандит" visible="0" bpicture="1" pic_title="Bandit" desc="Повышает следующие параметры: ОЗ +127500, Духовность +42000, Сопротивление воздействиям +40, Снижение всего урона +130." desc2=""/>
+	<title id="525" name="Злодейка" visible="0" bpicture="1" pic_title="villain" desc="Повышает следующие параметры: ОЗ +127500, Духовность +42000, Сопротивление воздействиям +40, Снижение всего урона +130." desc2=""/>
+	<title id="526" name="8 лет BS" visible="0" bpicture="1" pic_title="8y" desc="Титул повышает параметр Удача +100." desc2=""/>
+	<title id="527" name="Друг енота" visible="0" bpicture="1" pic_title="enotm" desc="Повышает следующие параметры: ОЗ +129000, Физ. атака +39500, Защита духа +5500, Усиление воздействий +55." desc2=""/>
+	<title id="528" name="Подруга енота" visible="0" bpicture="1" pic_title="enotf" desc="Повышает следующие параметры: ОЗ +129000, Физ. атака +39500, Защита духа +5500, Усиление воздействий +55." desc2=""/>
+	<title id="529" name="Друг енота" visible="0" bpicture="1" pic_title="enotm" desc="Повышает следующие параметры: ОЗ +129000, Маг. атака +39500, Защита духа +5500, Усиление воздействий +55." desc2=""/>
+	<title id="530" name="Подруга енота" visible="0" bpicture="1" pic_title="enotf" desc="Повышает следующие параметры: ОЗ +129000, Маг. атака +39500, Защита духа +5500, Усиление воздействий +55." desc2=""/>
+	<title id="531" name="Друг енота" visible="0" bpicture="1" pic_title="enotm" desc="Повышает следующие параметры: ОЗ +129000, Духовность +43000, Защита духа +5500, Усиление воздействий +55." desc2=""/>
+	<title id="532" name="Подруга енота" visible="0" bpicture="1" pic_title="enotf" desc="Повышает следующие параметры: ОЗ +129000, Духовность +43000, Защита духа +5500, Усиление воздействий +55." desc2=""/>
+	<title id="533" name="Идол" visible="0" bpicture="1" pic_title="Idol" desc="Повышает следующие параметры: ОЗ +130500, Физ. атака +40000, Урон стихий +1050, Повышение физ. урона +170." desc2=""/>
+	<title id="534" name="Модница" visible="0" bpicture="1" pic_title="Fashion" desc="Повышает следующие параметры: ОЗ +130500, Физ. атака +40000, Урон стихий +1050, Повышение физ. урона +170." desc2=""/>
+	<title id="535" name="Идол" visible="0" bpicture="1" pic_title="Idol" desc="Повышает следующие параметры: ОЗ +130500, Маг. атака +40000, Урон стихий +1050, Повышение маг. урона +170." desc2=""/>
+	<title id="536" name="Модница" visible="0" bpicture="1" pic_title="Fashion" desc="Повышает следующие параметры: ОЗ +130500, Маг. атака +40000, Урон стихий +1050, Повышение маг. урона +170." desc2=""/>
+	<title id="537" name="Идол" visible="0" bpicture="1" pic_title="Idol" desc="Повышает следующие параметры: ОЗ +130500, Духовность +44000, Урон стихий +1050, Повышение маг. урона +170." desc2=""/>
+	<title id="538" name="Модница" visible="0" bpicture="1" pic_title="Fashion" desc="Повышает следующие параметры: ОЗ +130500, Духовность +44000, Урон стихий +1050, Повышение маг. урона +170." desc2=""/>
+	<title id="539" name="Рыцарь дорог" visible="0" bpicture="1" pic_title="road_knight" desc="Повышает следующие параметры: ОЗ +132000, Физ. атака +40500, Снижение физ. и маг. урона +140, Скорость передвижения +10%." desc2=""/>
+	<title id="540" name="Бестия" visible="0" bpicture="1" pic_title="beast1" desc="Повышает следующие параметры: ОЗ +132000, Физ. атака +40500, Снижение физ. и маг. урона +140, Скорость передвижения +10%." desc2=""/>
+	<title id="541" name="Рыцарь дорог" visible="0" bpicture="1" pic_title="road_knight" desc="Повышает следующие параметры: ОЗ +132000, Маг. атака +40500, Снижение физ. и маг. урона +140, Скорость передвижения +10%." desc2=""/>
+	<title id="542" name="Бестия" visible="0" bpicture="1" pic_title="beast1" desc="Повышает следующие параметры: ОЗ +132000, Маг. атака +40500, Снижение физ. и маг. урона +140, Скорость передвижения +10%." desc2=""/>
+	<title id="543" name="Рыцарь дорог" visible="0" bpicture="1" pic_title="road_knight" desc="Повышает следующие параметры: ОЗ +132000, Духовность +45000, Снижение физ. и маг. урона +140, Скорость передвижения +10%." desc2=""/>
+	<title id="544" name="Бестия" visible="0" bpicture="1" pic_title="beast1" desc="Повышает следующие параметры: ОЗ +132000, Духовность +45000, Снижение физ. и маг. урона +140, Скорость передвижения +10%." desc2=""/>
+	<title id="545" name="Мститель" visible="0" bpicture="1" pic_title="avenger" desc="Повышает следующие параметры: ОЗ +133500, Физ. атака +41000, Точность +3850, Ловкость +3600." desc2=""/>
+	<title id="546" name="Сердцеедка" visible="0" bpicture="1" pic_title="heartbreaker" desc="Повышает следующие параметры: ОЗ +133500, Физ. атака +41000, Точность +3850, Ловкость +3600." desc2=""/>
+	<title id="547" name="Мститель" visible="0" bpicture="1" pic_title="avenger" desc="Повышает следующие параметры: ОЗ +133500, Маг. атака +41000, Точность +3850, Ловкость +3600." desc2=""/>
+	<title id="548" name="Сердцеедка" visible="0" bpicture="1" pic_title="heartbreaker" desc="Повышает следующие параметры: ОЗ +133500, Маг. атака +41000, Точность +3850, Ловкость +3600." desc2=""/>
+	<title id="549" name="Мститель" visible="0" bpicture="1" pic_title="avenger" desc="Повышает следующие параметры: ОЗ +133500, Духовность +46000, Точность +3850, Ловкость +3600." desc2=""/>
+	<title id="550" name="Сердцеедка" visible="0" bpicture="1" pic_title="heartbreaker" desc="Повышает следующие параметры: ОЗ +133500, Духовность +46000, Точность +3850, Ловкость +3600." desc2=""/>
+	<title id="551" name="Бог тьмы" visible="0" bpicture="1" pic_title="god_of_darkness" desc="Повышает следующие параметры: ОЗ +135000, Физ. атака +41500, Урон духа +2400, Повышение физ. урона +180." desc2=""/>
+	<title id="552" name="Богиня тьмы" visible="0" bpicture="1" pic_title="goddess_of_darkness" desc="Повышает следующие параметры: ОЗ +135000, Физ. атака +41500, Урон духа +2400, Повышение физ. урона +180." desc2=""/>
+	<title id="553" name="Бог тьмы" visible="0" bpicture="1" pic_title="god_of_darkness" desc="Повышает следующие параметры: ОЗ +135000, Маг. атака +41500, Урон духа +2400, Повышение маг. урона +180." desc2=""/>
+	<title id="554" name="Богиня тьмы" visible="0" bpicture="1" pic_title="goddess_of_darkness" desc="Повышает следующие параметры: ОЗ +135000, Маг. атака +41500, Урон духа +2400, Повышение маг. урона +180." desc2=""/>
+	<title id="555" name="Бог тьмы" visible="0" bpicture="1" pic_title="god_of_darkness" desc="Повышает следующие параметры: ОЗ +135000, Духовность +47000, Урон духа +2400, Повышение маг. урона +180." desc2=""/>
+	<title id="556" name="Богиня тьмы" visible="0" bpicture="1" pic_title="goddess_of_darkness" desc="Повышает следующие параметры: ОЗ +135000, Духовность +47000, Урон духа +2400, Повышение маг. урона +180." desc2=""/>
+	<title id="557" name="Агент хаоса" visible="0" bpicture="1" pic_title="chaos_agent" desc="Повышает следующие параметры: ОЗ +135000, Физ. защита +24000, Маг. защита +24000, Ловкость +3600." desc2=""/>
+	<title id="558" name="Ледяная хватка" visible="0" bpicture="1" pic_title="Ice_grip" desc="Повышает следующие параметры: ОЗ +136500, Физ. атака +42000, Усиление воздействий +60, Урон стихий +1100." desc2=""/>
+	<title id="559" name="Пламенный клинок" visible="0" bpicture="1" pic_title="Flame_blade" desc="Повышает следующие параметры: ОЗ +136500, Физ. атака +42000, Усиление воздействий +60, Урон стихий +1100." desc2=""/>
+	<title id="560" name="Ледяная хватка" visible="0" bpicture="1" pic_title="Ice_grip" desc="Повышает следующие параметры: ОЗ +136500, Маг. атака +42000, Усиление воздействий +60, Урон стихий +1100." desc2=""/>
+	<title id="561" name="Пламенный клинок" visible="0" bpicture="1" pic_title="Flame_blade" desc="Повышает следующие параметры: ОЗ +136500, Маг. атака +42000, Усиление воздействий +60, Урон стихий +1100." desc2=""/>
+	<title id="562" name="Ледяная хватка" visible="0" bpicture="1" pic_title="Ice_grip" desc="Повышает следующие параметры: ОЗ +136500, Духовность +48000, Усиление воздействий +60, Урон стихий +1100." desc2=""/>
+	<title id="563" name="Пламенный клинок" visible="0" bpicture="1" pic_title="Flame_blade" desc="Повышает следующие параметры: ОЗ +136500, Духовность +48000, Усиление воздействий +60, Урон стихий +1100." desc2=""/>
+	<title id="564" name="Баланс стихий" visible="0" bpicture="1" pic_title="Elemental_balance" desc="Повышает следующие параметры: ОЗ +136500, Физ. защита +26000, Маг. защита +26000, Защита духа +5600." desc2=""/>
+	<title id="565" name="В ожидании чуда" visible="0" bpicture="1" pic_title="Wait_miracle" desc="Повышает следующие параметры: ОЗ +138000, Физ. атака +42500, Усиление воздействий +65, Точность +3900." desc2=""/>
+	<title id="566" name="Мечтатель" visible="0" bpicture="1" pic_title="Dreamer" desc="Повышает следующие параметры: ОЗ +138000, Физ. атака +42500, Усиление воздействий +65, Точность +3900." desc2=""/>
+	<title id="567" name="В ожидании чуда" visible="0" bpicture="1" pic_title="Wait_miracle" desc="Повышает следующие параметры: ОЗ +138000, Маг. атака +42500, Усиление воздействий +65, Точность +3900." desc2=""/>
+	<title id="568" name="Мечтатель" visible="0" bpicture="1" pic_title="Dreamer" desc="Повышает следующие параметры: ОЗ +138000, Маг. атака +42500, Усиление воздействий +65, Точность +3900." desc2=""/>
+	<title id="569" name="В ожидании чуда" visible="0" bpicture="1" pic_title="Wait_miracle" desc="Повышает следующие параметры: ОЗ +138000, Духовность +49000, Усиление воздействий +65, Точность +3900." desc2=""/>
+	<title id="570" name="Мечтатель" visible="0" bpicture="1" pic_title="Dreamer" desc="Повышает следующие параметры: ОЗ +138000, Духовность +49000, Усиление воздействий +65, Точность +3900." desc2=""/>
+	<title id="571" name="Дари добро [Защита]" visible="0" bpicture="1" pic_title="Give_good" desc="Повышает следующие параметры: ОЗ +138000, Физ. защита +27000, Маг. защита +27000, Сопротивление воздействиям +50." desc2=""/>
+	<title id="572" name="С Новым Годом!" visible="0" bpicture="1" pic_title="Ny_2020" desc="Титул в честь празднования наступающего 2020 года." desc2=""/>
+	<title id="573" name="Несокрушимый" visible="0" bpicture="1" pic_title="Indestructible" desc="Повышает следующие параметры: ОЗ +139500, Физ. атака +43000, Урон духа +2500, Урон стихий +1150." desc2=""/>
+	<title id="574" name="Окрыленная" visible="0" bpicture="1" pic_title="Winged" desc="Повышает следующие параметры: ОЗ +139500, Физ. атака +43000, Урон духа +2500, Урон стихий +1150." desc2=""/>
+	<title id="575" name="Несокрушимый" visible="0" bpicture="1" pic_title="Indestructible" desc="Повышает следующие параметры: ОЗ +139500, Маг. атака +43000, Урон духа +2500, Урон стихий +1150." desc2=""/>
+	<title id="576" name="Окрыленная" visible="0" bpicture="1" pic_title="Winged" desc="Повышает следующие параметры: ОЗ +139500, Маг. атака +43000, Урон духа +2500, Урон стихий +1150." desc2=""/>
+	<title id="577" name="Несокрушимый" visible="0" bpicture="1" pic_title="Indestructible" desc="Повышает следующие параметры: ОЗ +139500, Духовность +50000, Урон духа +2500, Урон стихий +1150." desc2=""/>
+	<title id="578" name="Окрыленная" visible="0" bpicture="1" pic_title="Winged" desc="Повышает следующие параметры: ОЗ +139500, Духовность +50000, Урон духа +2500, Урон стихий +1150." desc2=""/>
+	<title id="579" name="Милосердие [Защита]" visible="0" bpicture="1" pic_title="Mercy" desc="Повышает следующие параметры: ОЗ +139500, Физ. защита +28000, Маг. защита +28000, Снижение физ. и маг. урона +140." desc2=""/>
+	<title id="580" name="Воля к победе" visible="0" bpicture="1" pic_title="will_to_win" desc="Повышает следующие параметры: ОЗ +141000, Физ. атака +43500, Усиление контроля и кровотечения +70, Повышение физ. урона +190." desc2=""/>
+	<title id="581" name="Чистая грация" visible="0" bpicture="1" pic_title="pure_grace" desc="Повышает следующие параметры: ОЗ +141000, Физ. атака +43500, Усиление контроля и кровотечения +70, Повышение физ. урона +190." desc2=""/>
+	<title id="582" name="Воля к победе" visible="0" bpicture="1" pic_title="will_to_win" desc="Повышает следующие параметры: ОЗ +141000, Маг. атака +43500, Усиление контроля и кровотечения +70, Повышение маг. урона +190." desc2=""/>
+	<title id="583" name="Чистая грация" visible="0" bpicture="1" pic_title="pure_grace" desc="Повышает следующие параметры: ОЗ +141000, Маг. атака +43500, Усиление контроля и кровотечения +70, Повышение маг. урона +190." desc2=""/>
+	<title id="584" name="Воля к победе" visible="0" bpicture="1" pic_title="will_to_win" desc="Повышает следующие параметры: ОЗ +141000, Духовность +51000, Усиление контроля и кровотечения +70, Повышение маг. урона +190." desc2=""/>
+	<title id="585" name="Чистая грация" visible="0" bpicture="1" pic_title="pure_grace" desc="Повышает следующие параметры: ОЗ +141000, Духовность +51000, Усиление контроля и кровотечения +70, Повышение маг. урона +190." desc2=""/>
+	<title id="586" name="Кошкин дом [Защита]" visible="0" bpicture="1" pic_title="cat_house" desc="Повышает следующие параметры: ОЗ +141000, Физ. защита +29000, Маг. защита +29000, Сопротивление всем типам воздействия +50." desc2=""/>
+	<title id="587" name="Взрывная ярость" visible="0" bpicture="1" pic_title="explosive_rage" desc="Повышает следующие параметры: ОЗ +142500, Физическая атака +44000, Урон духа +2600, Дополнительный критический урон +22%." desc2=""/>
+	<title id="588" name="Цвет. радость" visible="0" bpicture="1" pic_title="flower_joy" desc="Повышает следующие параметры: ОЗ +142500, Физическая атака +44000, Урон духа +2600, Дополнительный критический урон +22%." desc2=""/>
+	<title id="589" name="Взрывная ярость" visible="0" bpicture="1" pic_title="explosive_rage" desc="Повышает следующие параметры: ОЗ +142500, Магическая атака +44000, Урон духа +2600, Дополнительный критический урон +22%." desc2=""/>
+	<title id="590" name="Цвет. радость" visible="0" bpicture="1" pic_title="flower_joy" desc="Повышает следующие параметры: ОЗ +142500, Магическая атака +44000, Урон духа +2600, Дополнительный критический урон +22%." desc2=""/>
+	<title id="591" name="Взрывная ярость" visible="0" bpicture="1" pic_title="explosive_rage" desc="Повышает следующие параметры: ОЗ +142500, Духовность +52000, Урон духа +2600, Дополнительный критический урон +22%." desc2=""/>
+	<title id="592" name="Цвет. радость" visible="0" bpicture="1" pic_title="flower_joy" desc="Повышает следующие параметры: ОЗ +142500, Духовность +52000, Урон духа +2600, Дополнительный критический урон +22%." desc2=""/>
+	<title id="593" name="В объятиях панды" visible="0" bpicture="1" pic_title="arms_panda" desc="Повышает следующие параметры: Повышает следующие параметры: ОЗ +142500, Физическая защита +30000, Магическая защита +30000, Ловкость +3700." desc2=""/>
+	<title id="594" name="Цунами" visible="0" bpicture="1" pic_title="Tsunami" desc="Повышает следующие параметры: ОЗ +144000, Физическая атака +44500, Точность +3950, Физический и Магический рикошет +5%." desc2=""/>
+	<title id="595" name="Бабочка" visible="0" bpicture="1" pic_title="Butterfly" desc="Повышает следующие параметры: ОЗ +144000, Физическая атака +44500, Точность +3950, Физический и Магический рикошет +5%." desc2=""/>
+	<title id="596" name="Цунами" visible="0" bpicture="1" pic_title="Tsunami" desc="Повышает следующие параметры: ОЗ +144000, Магическая атака +44500, Точность +3950, Физический и Магический рикошет +5%." desc2=""/>
+	<title id="597" name="Бабочка" visible="0" bpicture="1" pic_title="Butterfly" desc="Повышает следующие параметры: ОЗ +144000, Магическая атака +44500, Точность +3950, Физический и Магический рикошет +5%." desc2=""/>
+	<title id="598" name="Цунами" visible="0" bpicture="1" pic_title="Tsunami" desc="Повышает следующие параметры: ОЗ +144000, Духовность +53000, Точность +3950, Физический и Магический рикошет +5%." desc2=""/>
+	<title id="599" name="Бабочка" visible="0" bpicture="1" pic_title="Butterfly" desc="Повышает следующие параметры: ОЗ +144000, Духовность +53000, Точность +3950, Физический и Магический рикошет +5%." desc2=""/>
+	<title id="600" name="Лавовый щит" visible="0" bpicture="1" pic_title="Lava_shield" desc="Повышает следующие параметры: ОЗ +144000, Физическая защита +31000, Магическая защита +31000, Снижение физического и магического урона +150." desc2=""/>
+	<title id="601" name="Скрытный убийца" visible="0" bpicture="1" pic_title="Sec_killer" desc="Повышает следующие параметры: ОЗ +145500, Физическая атака +45000, Усиление всех типов воздействия +75, Точность +4000." desc2=""/>
+	<title id="602" name="Жрица красоты" visible="0" bpicture="1" pic_title="Pr_beauty" desc="Повышает следующие параметры: ОЗ +145500, Физическая атака +45000, Усиление всех типов воздействия +75, Точность +4000." desc2=""/>
+	<title id="603" name="Скрытный убийца" visible="0" bpicture="1" pic_title="Sec_killer" desc="Повышает следующие параметры: ОЗ +145500, Магическая атака +45000, Усиление всех типов воздействия +75, Точность +4000." desc2=""/>
+	<title id="604" name="Жрица красоты" visible="0" bpicture="1" pic_title="Pr_beauty" desc="Повышает следующие параметры: ОЗ +145500, Магическая атака +45000, Усиление всех типов воздействия +75, Точность +4000." desc2=""/>
+	<title id="605" name="Скрытный убийца" visible="0" bpicture="1" pic_title="Sec_killer" desc="Повышает следующие параметры: ОЗ +145500, Духовность +54000, Усиление всех типов воздействия +75, Точность +4000." desc2=""/>
+	<title id="606" name="Жрица красоты" visible="0" bpicture="1" pic_title="Pr_beauty" desc="Повышает следующие параметры: ОЗ +145500, Духовность +54000, Усиление всех типов воздействия +75, Точность +4000." desc2=""/>
+	<title id="607" name="Аура дракона" visible="0" bpicture="1" pic_title="Dragon_aura" desc="Повышает следующие параметры: ОЗ +145500, Физическая защита +32000, Магическая защита +32000, Сопротивление всем типам воздействия +60." desc2=""/>
+	<title id="608" name="9 лет BS" visible="0" bpicture="1" pic_title="9y" desc="Титул повышает параметр Удача +100." desc2=""/>
+	<title id="609" name="Смертельный блеск" visible="0" bpicture="1" pic_title="Deadly_shine" desc="Повышает следующие параметры: ОЗ +147000, Физическая атака +45500, Урон духа +2650, Урон стихий +1200." desc2=""/>
+	<title id="610" name="Легкий бриз" visible="0" bpicture="1" pic_title="Light_breeze" desc="Повышает следующие параметры: ОЗ +147000, Физическая атака +45500, Урон духа +2650, Урон стихий +1200." desc2=""/>
+	<title id="611" name="Смертельный блеск" visible="0" bpicture="1" pic_title="Deadly_shine" desc="Повышает следующие параметры: ОЗ +147000, Магическая атака +45500, Урон духа +2650, Урон стихий +1200." desc2=""/>
+	<title id="612" name="Легкий бриз" visible="0" bpicture="1" pic_title="Light_breeze" desc="Повышает следующие параметры: ОЗ +147000, Магическая атака +45500, Урон духа +2650, Урон стихий +1200." desc2=""/>
+	<title id="613" name="Смертельный блеск" visible="0" bpicture="1" pic_title="Deadly_shine" desc="Повышает следующие параметры: ОЗ +147000, Духовность +55000, Урон духа +2650, Урон стихий +1200." desc2=""/>
+	<title id="614" name="Легкий бриз" visible="0" bpicture="1" pic_title="Light_breeze" desc="Повышает следующие параметры: ОЗ +147000, Духовность +55000, Урон духа +2650, Урон стихий +1200." desc2=""/>
+	<title id="615" name="Камень жизни" visible="0" bpicture="1" pic_title="Stone_of_life" desc="Повышает следующие параметры: ОЗ +147000, Физическая защита +32500, Магическая защита +32500, Защита духа +5650." desc2=""/>
+	<title id="616" name="Пиратский флаг" visible="0" bpicture="1" pic_title="Jolly_roger" desc="Повышает следующие параметры: ОЗ +148500, Физическая атака +46000, Усиление всех типов воздействия +80, Повышение физ. урона +200." desc2=""/>
+	<title id="617" name="Русалка" visible="0" bpicture="1" pic_title="Mermaid" desc="Повышает следующие параметры: ОЗ +148500, Физическая атака +46000, Усиление всех типов воздействия +80, Повышение физ. урона +200." desc2=""/>
+	<title id="618" name="Пиратский флаг" visible="0" bpicture="1" pic_title="Jolly_roger" desc="Повышает следующие параметры: ОЗ +148500, Магическая атака +46000, Усиление всех типов воздействия +80, Повышение маг. урона +200." desc2=""/>
+	<title id="619" name="Русалка" visible="0" bpicture="1" pic_title="Mermaid" desc="Повышает следующие параметры: ОЗ +148500, Магическая атака +46000, Усиление всех типов воздействия +80, Повышение маг. урона +200." desc2=""/>
+	<title id="620" name="Пиратский флаг" visible="0" bpicture="1" pic_title="Jolly_roger" desc="Повышает следующие параметры: ОЗ +148500, Духовность +56000, Усиление всех типов воздействия +80, Повышение маг. урона +200." desc2=""/>
+	<title id="621" name="Русалка" visible="0" bpicture="1" pic_title="Mermaid" desc="Повышает следующие параметры: ОЗ +148500, Духовность +56000, Усиление всех типов воздействия +80, Повышение маг. урона +200." desc2=""/>
+	<title id="622" name="Под морским покровом" visible="0" bpicture="1" pic_title="Sea_cover" desc="Повышает следующие параметры: ОЗ +148500, Физическая защита +33000, Магическая защита +33000, Снижение физ. и маг. урона +160." desc2=""/>
+	<title id="623" name="Лунная принцесса" visible="0" bpicture="1" pic_title="Moon_princes" desc="Повышает следующие параметры: ОЗ +150000, Физическая атака +46500, Сопротивление всем типам воздействия +50, Повышение урона оружия +160." desc2=""/>
+	<title id="624" name="НЛО" visible="0" bpicture="1" pic_title="UFO" desc="Повышает следующие параметры: ОЗ +150000, Физическая атака +46500, Сопротивление всем типам воздействия +50, Повышение урона оружия +160." desc2=""/>
+	<title id="625" name="Лунная принцесса" visible="0" bpicture="1" pic_title="Moon_princes" desc="Повышает следующие параметры: ОЗ +150000, Магическая атака +46500, Сопротивление всем типам воздействия +50, Повышение урона артефакта +160." desc2=""/>
+	<title id="626" name="НЛО" visible="0" bpicture="1" pic_title="UFO" desc="Повышает следующие параметры: ОЗ +150000, Магическая атака +46500, Сопротивление всем типам воздействия +50, Повышение урона артефакта +160." desc2=""/>
+	<title id="627" name="Лунная принцесса" visible="0" bpicture="1" pic_title="Moon_princes" desc="Повышает следующие параметры: ОЗ +150000, Духовность +57000, Сопротивление всем типам воздействия +50, Повышение урона артефакта +160." desc2=""/>
+	<title id="628" name="НЛО" visible="0" bpicture="1" pic_title="UFO" desc="Повышает следующие параметры: ОЗ +150000, Духовность +57000, Сопротивление всем типам воздействия +50, Повышение урона артефакта +160." desc2=""/>
+	<title id="629" name="Ракета" visible="0" bpicture="1" pic_title="Rocket" desc="Повышает следующие параметры: ОЗ +150000, Физическая защита +33500, Магическая защита +33500, Снижение физ. и маг. урона +170." desc2=""/>
+	<title id="630" name="Душа волка" visible="0" bpicture="1" pic_title="Wolf_soul" desc="Повышает следующие параметры: ОЗ +151500, Физическая атака +47000, Точность +4050, Скорость передвижения +10%." desc2=""/>
+	<title id="631" name="Душа лисы" visible="0" bpicture="1" pic_title="Fox_soul" desc="Повышает следующие параметры: ОЗ +151500, Физическая атака +47000, Точность +4050, Скорость передвижения +10%." desc2=""/>
+	<title id="632" name="Душа волка" visible="0" bpicture="1" pic_title="Wolf_soul" desc="Повышает следующие параметры: ОЗ +151500, Магическая атака +47000, Точность +4050, Скорость передвижения +10%." desc2=""/>
+	<title id="633" name="Душа лисы" visible="0" bpicture="1" pic_title="Fox_soul" desc="Повышает следующие параметры: ОЗ +151500, Магическая атака +47000, Точность +4050, Скорость передвижения +10%." desc2=""/>
+	<title id="634" name="Душа волка" visible="0" bpicture="1" pic_title="Wolf_soul" desc="Повышает следующие параметры: ОЗ +151500, Духовность +58000, Точность +4050, Скорость передвижения +10%." desc2=""/>
+	<title id="635" name="Душа лисы" visible="0" bpicture="1" pic_title="Fox_soul" desc="Повышает следующие параметры: ОЗ +151500, Духовность +58000, Точность +4050, Скорость передвижения +10%." desc2=""/>
+	<title id="636" name="Завет мудреца" visible="0" bpicture="1" pic_title="Sages_testament" desc="Повышает следующие параметры: ОЗ +151500, Физическая защита +34000, Магическая защита +34000, Ловкость +3750." desc2=""/>
+	<title id="637" name="Горячая голова" visible="0" bpicture="1" pic_title="Hothead" desc="Повышает следующие параметры: ОЗ +153000, Физическая атака +47500, Урон стихий +1250, Маг. и Физ. рикошет +5%." desc2=""/>
+	<title id="638" name="Аура чародейки" visible="0" bpicture="1" pic_title="Sorceress_Aura" desc="Повышает следующие параметры: ОЗ +153000, Физическая атака +47500, Урон стихий +1250, Маг. и Физ. рикошет +5%." desc2=""/>
+	<title id="639" name="Горячая голова" visible="0" bpicture="1" pic_title="Hothead" desc="Повышает следующие параметры: ОЗ +153000, Магическая атака +47500, Урон стихий +1250, Маг. и Физ. рикошет +5%." desc2=""/>
+	<title id="640" name="Аура чародейки" visible="0" bpicture="1" pic_title="Sorceress_Aura" desc="Повышает следующие параметры: ОЗ +153000, Магическая атака +47500, Урон стихий +1250, Маг. и Физ. рикошет +5%." desc2=""/>
+	<title id="641" name="Горячая голова" visible="0" bpicture="1" pic_title="Hothead" desc="Повышает следующие параметры: ОЗ +153000, Духовность +59000, Урон стихий +1250, Маг. и Физ. рикошет +5%." desc2=""/>
+	<title id="642" name="Аура чародейки" visible="0" bpicture="1" pic_title="Sorceress_Aura" desc="Повышает следующие параметры: ОЗ +153000, Духовность +59000, Урон стихий +1250, Маг. и Физ. рикошет +5%." desc2=""/>
+	<title id="643" name="В объятьях тьмы" visible="0" bpicture="1" pic_title="Arms_darkness" desc="Повышает следующие параметры: ОЗ +153000, Физическая защита +34500, Магическая защита +34500, Защита духа +5700." desc2=""/>
+	<title id="644" name="BOSS" visible="0" bpicture="1" pic_title="BOSS2" desc="Повышает следующие параметры: ОЗ +160000, Физ. и маг атака +50000, Повышение и снижение всего урона +210." desc2=""/>
+	<title id="645" name="Ледяной страж" visible="0" bpicture="1" pic_title="Ice_guardian" desc="Повышает следующие параметры: ОЗ +154500, Физическая атака +48000, Урон духа +2700, Усиление воздействий +85." desc2=""/>
+	<title id="646" name="Холодная принцесса" visible="0" bpicture="1" pic_title="Cold_princess" desc="Повышает следующие параметры: ОЗ +154500, Физическая атака +48000, Урон духа +2700, Усиление воздействий +85." desc2=""/>
+	<title id="647" name="Ледяной страж" visible="0" bpicture="1" pic_title="Ice_guardian" desc="Повышает следующие параметры: ОЗ +154500, Магическая атака +48000, Урон духа +2700, Усиление воздействий +85." desc2=""/>
+	<title id="648" name="Холодная принцесса" visible="0" bpicture="1" pic_title="Cold_princess" desc="Повышает следующие параметры: ОЗ +154500, Магическая атака +48000, Урон духа +2700, Усиление воздействий +85." desc2=""/>
+	<title id="649" name="Ледяной страж" visible="0" bpicture="1" pic_title="Ice_guardian" desc="Повышает следующие параметры: ОЗ +154500, Духовность +60000, Урон духа +2700, Усиление воздействий +85." desc2=""/>
+	<title id="650" name="Холодная принцесса" visible="0" bpicture="1" pic_title="Cold_princess" desc="Повышает следующие параметры: ОЗ +154500, Духовность +60000, Урон духа +2700, Усиление воздействий +85." desc2=""/>
+	<title id="651" name="Сновала - мой друг" visible="0" bpicture="1" pic_title="Snowvala" desc="Повышает следующие параметры: ОЗ +154500, Физическая защита +35000, Магическая защита +35000, Снижение физ. и маг. урона +170." desc2=""/>
+	<title id="652" name="С Новым Годом!" visible="0" bpicture="1" pic_title="Ny_2021" desc="Титул в честь празднования наступающего 2021 года." desc2=""/>
+	<title id="653" name="Путник" visible="0" bpicture="1" pic_title="Traveler" desc="Повышает следующие параметры: ОЗ +156000, Физическая атака +48500, Сопротивление воздействиям +60, Повышение физ. урона +220." desc2=""/>
+	<title id="654" name="Ангел нежности" visible="0" bpicture="1" pic_title="Tenderness" desc="Повышает следующие параметры: ОЗ +156000, Физическая атака +48500, Сопротивление воздействиям +60, Повышение физ. урона +220." desc2=""/>
+	<title id="655" name="Путник" visible="0" bpicture="1" pic_title="Traveler" desc="Повышает следующие параметры: ОЗ +156000, Магическая атака +48500, Сопротивление воздействиям +60, Повышение маг. урона +220." desc2=""/>
+	<title id="656" name="Ангел нежности" visible="0" bpicture="1" pic_title="Tenderness" desc="Повышает следующие параметры: ОЗ +156000, Магическая атака +48500, Сопротивление воздействиям +60, Повышение маг. урона +220." desc2=""/>
+	<title id="657" name="Путник" visible="0" bpicture="1" pic_title="Traveler" desc="Повышает следующие параметры: ОЗ +156000, Духовность +60500, Сопротивление воздействиям +60, Повышение маг. урона +220." desc2=""/>
+	<title id="658" name="Ангел нежности" visible="0" bpicture="1" pic_title="Tenderness" desc="Повышает следующие параметры: ОЗ +156000, Духовность +60500, Сопротивление воздействиям +60, Повышение маг. урона +220." desc2=""/>
+	<title id="659" name="Семья енотов" visible="0" bpicture="1" pic_title="Raccoon_f" desc="Повышает следующие параметры: ОЗ +156000, Физическая защита +35500, Магическая защита +35500, Защита духа +6000." desc2=""/>
+	<title id="660" name="В поисках сокровищ" visible="0" bpicture="1" pic_title="Treasures" desc="Повышает следующие параметры: ОЗ +156000, Маг. и Физ. рикошет +7%, Повышение всего урона +220, Шанс выпадения трофеев +7%." desc2=""/>
+	<title id="661" name="Глаз тигра" visible="0" bpicture="1" pic_title="Tiger_Eye" desc="Повышает следующие параметры: ОЗ +157500, Физическая атака +49000, Шанс крит. удара +22%, Маг. и Физ. рикошет +5%." desc2=""/>
+	<title id="662" name="Песнь ветра" visible="0" bpicture="1" pic_title="Song_wind" desc="Повышает следующие параметры: ОЗ +157500, Физическая атака +49000, Шанс крит. удара +22%, Маг. и Физ. рикошет +5%." desc2=""/>
+	<title id="663" name="Глаз тигра" visible="0" bpicture="1" pic_title="Tiger_Eye" desc="Повышает следующие параметры: ОЗ +157500, Магическая атака +49000, Шанс крит. удара +22%, Маг. и Физ. рикошет +5%." desc2=""/>
+	<title id="664" name="Песнь ветра" visible="0" bpicture="1" pic_title="Song_wind" desc="Повышает следующие параметры: ОЗ +157500, Магическая атака +49000, Шанс крит. удара +22%, Маг. и Физ. рикошет +5%." desc2=""/>
+	<title id="665" name="Глаз тигра" visible="0" bpicture="1" pic_title="Tiger_Eye" desc="Повышает следующие параметры: ОЗ +157500, Духовность +61000, Шанс крит. удара +22%, Маг. и Физ. рикошет +5%." desc2=""/>
+	<title id="666" name="Песнь ветра" visible="0" bpicture="1" pic_title="Song_wind" desc="Повышает следующие параметры: ОЗ +157500, Духовность +61000, Шанс крит. удара +22%, Маг. и Физ. рикошет +5%." desc2=""/>
+	<title id="667" name="Древнее знамя" visible="0" bpicture="1" pic_title="Ancient_banner" desc="Повышает следующие параметры: ОЗ +157500, Физическая защита +36000, Магическая защита +36000, Ловкость +3800." desc2=""/>
+	<title id="668" name="Брутальный ритм" visible="0" bpicture="1" pic_title="Brutal_rhythm" desc="Повышает следующие параметры: ОЗ +158100, Физическая атака +54000, Доп. урон +1300, Упорство +130, Ловкость +3700." desc2=""/>
+	<title id="669" name="Прицельный выстрел" visible="0" bpicture="1" pic_title="Aimed_shot" desc="Повышает следующие параметры: ОЗ +158100, Физическая атака +54000, Доп. урон +1300, Упорство +130, Ловкость +3700." desc2=""/>
+	<title id="670" name="Брутальный ритм" visible="0" bpicture="1" pic_title="Brutal_rhythm" desc="Повышает следующие параметры: ОЗ +158100, Физическая атака +54000, Восстановление ОМ +100, Сопротивление контролю +70, Точность +4100." desc2=""/>
+	<title id="671" name="Прицельный выстрел" visible="0" bpicture="1" pic_title="Aimed_shot" desc="Повышает следующие параметры: ОЗ +158100, Физическая атака +54000, Восстановление ОМ +100, Сопротивление контролю +70, Точность +4100." desc2=""/>
+	<title id="672" name="Брутальный ритм" visible="0" bpicture="1" pic_title="Brutal_rhythm" desc="Повышает следующие параметры: ОЗ +158100, Магическая атака +52000, Усиление контроля +85, Урон стихий +1300, Точность +4100." desc2=""/>
+	<title id="673" name="Прицельный выстрел" visible="0" bpicture="1" pic_title="Aimed_shot" desc="Повышает следующие параметры: ОЗ +158100, Магическая атака +52000, Усиление контроля +85, Урон стихий +1300, Точность +4100." desc2=""/>
+	<title id="674" name="Брутальный ритм" visible="0" bpicture="1" pic_title="Brutal_rhythm" desc="Повышает следующие параметры: ОЗ +158100, Духовность +61500, Восстановление ОМ +100, Урон духа +2750, Сопротивление контролю +70." desc2=""/>
+	<title id="675" name="Прицельный выстрел" visible="0" bpicture="1" pic_title="Aimed_shot" desc="Повышает следующие параметры: ОЗ +158100, Духовность +61500, Восстановление ОМ +100, Урон духа +2750, Сопротивление контролю +70." desc2=""/>
+	<title id="676" name="Под стальным крылом" visible="0" bpicture="1" pic_title="Under_swing" desc="Повышает следующие параметры: ОЗ +158100, Физическая защита +36500, Магическая защита +36500, Защита духа +6300, Сопротивление всем типам воздействия +90." desc2=""/>
+	<title id="677" name="Волк-одиночка" visible="0" bpicture="1" pic_title="Lone_wolf" desc="Повышает следующие параметры: ОЗ +158700, Физическая атака +58000, Урон духа +2750, Усиление воздействий +90, Маг. и Физ. рикошет +6%." desc2=""/>
+	<title id="678" name="Волк-одиночка" visible="0" bpicture="1" pic_title="Lone_wolf" desc="Повышает следующие параметры: ОЗ +158700, Физическая атака +58000, Доп. крит. урон +24%, Сжигание ОМ +400, Повышение физ. урона +230." desc2=""/>
+	<title id="679" name="Волк-одиночка" visible="0" bpicture="1" pic_title="Lone_wolf" desc="Повышает следующие параметры: ОЗ +158700, Магическая атака +56000, Урон духа +2750, Точность +4150, Повышение маг. урона +230." desc2=""/>
+	<title id="680" name="Волк-одиночка" visible="0" bpicture="1" pic_title="Lone_wolf" desc="Повышает следующие параметры: ОЗ +158700, Духовность +62000, Упорство +130, Урон стихий +1300, Снижение физ. и маг. урона +140." desc2=""/>
+	<title id="681" name="Отвага и опыт" visible="0" bpicture="1" pic_title="Courage_exp" desc="Повышает следующие параметры: ОЗ +158700, Физическая защита +36800, Магическая защита +36800, Защита духа +6500, Снижение физ. и маг. урона +180." desc2=""/>
+	<title id="682" name="Ликвидатор" visible="0" bpicture="1" pic_title="Liquidator" desc="Повышает следующие параметры: ОЗ +159300, Физическая атака +64000, Упорство +300, Усиление контроля +110, Снижение физ. и маг. урона +200." desc2=""/>
+	<title id="683" name="Ликвидатор" visible="0" bpicture="1" pic_title="Liquidator" desc="Повышает следующие параметры: ОЗ +159300, Физическая атака +64000, Доп. Урон духа +2800, Урон стихий +1300, Точность +4200." desc2=""/>
+	<title id="684" name="Ликвидатор" visible="0" bpicture="1" pic_title="Liquidator" desc="Повышает следующие параметры: ОЗ +159300, Магическая атака +61000, Урон духа +2800, Усиление контроля +90, Урон артефакта +200." desc2=""/>
+	<title id="685" name="Ликвидатор" visible="0" bpicture="1" pic_title="Liquidator" desc="Повышает следующие параметры: ОЗ +159300, Духовность +62500, Урон духа +2800, Защита духа +5000, Сопротивление контролю +80." desc2=""/>
+	<title id="686" name="Таков путь" visible="0" bpicture="1" pic_title="This_way" desc="Повышает следующие параметры: ОЗ +159300, Физическая защита +37000, Магическая защита +37000, Ловкость +4000, Сопротивление воздействиям +110." desc2=""/>
+	<title id="687" name="Юбилейный титул" visible="0" bpicture="1" pic_title="10yearbs" desc="Повышает следующие параметры: ОЗ +55000, Удача +200." desc2=""/>
+	<title id="688" name="Палач" visible="0" bpicture="1" pic_title="Executer" desc="Повышает следующие параметры: ОЗ +159900, Физическая атака +66000, Усиление контроля +120, Урон стихий +1300, Повышение физ. урона +240." desc2=""/>
+	<title id="689" name="Палач" visible="0" bpicture="1" pic_title="Executer" desc="Повышает следующие параметры: ОЗ +159900, Физическая атака +66000, Доп. урон +1300, Ловкость +3800, Маг. и Физ. рикошет +6%." desc2=""/>
+	<title id="690" name="Палач" visible="0" bpicture="1" pic_title="Executer" desc="Повышает следующие параметры: ОЗ +159900, Магическая атака +63000, Урон духа +2850, Усиление контроля +100, Снижение физ. и маг. урона +200." desc2=""/>
+	<title id="691" name="Палач" visible="0" bpicture="1" pic_title="Executer" desc="Повышает следующие параметры: ОЗ +159900, Духовность +63000, Сопротивление контролю +90, Повышение маг. урона +220, Снижение физ. и маг. урона +140." desc2=""/>
+	<title id="692" name="Железный характер" visible="0" bpicture="1" pic_title="Karatist" desc="Повышает следующие параметры: ОЗ +159900, Физическая защита +37500, Магическая защита +37500, Ловкость +4100, Снижение физ. и маг. урона +190." desc2=""/>
+	<title id="693" name="Легенда" visible="0" bpicture="1" pic_title="Legend21" desc="Повышает следующие параметры: ОЗ +160500, Физическая атака +66800, Усиление контроля +130, Снижение физ. и маг. урона +210, Скорость передвижения +10%." desc2=""/>
+	<title id="694" name="Легенда" visible="0" bpicture="1" pic_title="Legend21" desc="Повышает следующие параметры: ОЗ +160500, Физическая атака +66800, Урон духа +2850, Точность +4300, Доп. крит. урон +24%." desc2=""/>
+	<title id="695" name="Легенда" visible="0" bpicture="1" pic_title="Legend21" desc="Повышает следующие параметры: ОЗ +160500, Магическая атака +64500, Сопротивление контролю +90, Урон стихий +1350, Повышение маг. урона +240." desc2=""/>
+	<title id="696" name="Легенда" visible="0" bpicture="1" pic_title="Legend21" desc="Повышает следующие параметры: ОЗ +160500, Духовность +63500, Сжигание ОМ +400, Ловкость +3800, Маг. и Физ. рикошет +6%." desc2=""/>
+	<title id="697" name="Дух феникса" visible="0" bpicture="1" pic_title="Phoenix21" desc="Повышает следующие параметры: ОЗ +160500, Физическая защита +38000, Магическая защита +38000, Сопротивление контролю +120, Упорство +400." desc2=""/>
+	<title id="698" name="Смелость и отв." visible="0" bpicture="1" pic_title="courage" desc="Повышает следующие параметры: ОЗ +161000, Физическая атака +67500, Защита духа +7700, Усиление контроля +140, Маг. и Физ. рикошет +7%." desc2=""/>
+	<title id="699" name="Смелость и отв." visible="0" bpicture="1" pic_title="courage" desc="Повышает следующие параметры: ОЗ +161000, Физическая атака +67200, Шанс крит. удара +25%, Урон стихий +1350, Мин. и Макс. урон оружия +170." desc2=""/>
+	<title id="700" name="Смелость и отв." visible="0" bpicture="1" pic_title="courage" desc="Повышает следующие параметры: ОЗ +161000, Магическая атака +65500, Урон духа +2900, Усиление контроля +110, Урон стихий +1400." desc2=""/>
+	<title id="701" name="Смелость и отв." visible="0" bpicture="1" pic_title="courage" desc="Повышает следующие параметры: ОЗ +161000, Духовность +64000, Урон духа +2900, Точность +4200, Ловкость +3900." desc2=""/>
+	<title id="702" name="Дух леса" visible="0" bpicture="1" pic_title="leaves" desc="Повышает следующие параметры: ОЗ +161000, Физическая защита +38400, Магическая защита +38400, Ловкость +4200, Снижение физ. и маг. урона +200." desc2=""/>
+	<title id="703" name="Ураган" visible="0" bpicture="1" pic_title="Hurricane" desc="Повышает следующие параметры: ОЗ +161500, Физическая атака +68000, Упорство +400, Сопротивление воздействиям +110, Снижение физ. и маг. урона +220." desc2=""/>
+	<title id="704" name="Ураган" visible="0" bpicture="1" pic_title="Hurricane" desc="Повышает следующие параметры: ОЗ +161500, Физическая атака +68000, Шанс крит. удара +25%, Урон духа +2900, Урон стихий +1400." desc2=""/>
+	<title id="705" name="Ураган" visible="0" bpicture="1" pic_title="Hurricane" desc="Повышает следующие параметры: ОЗ +161500, Магическая атака +66000, Усиление контроля +120, Точность +4300, Урон артефакта +220." desc2=""/>
+	<title id="706" name="Ураган" visible="0" bpicture="1" pic_title="Hurricane" desc="Повышает следующие параметры: ОЗ +161500, Духовность +64500, Сопротивление контролю +100, Урон стихий +1400, Урон артефакта +220." desc2=""/>
+	<title id="707" name="Скала" visible="0" bpicture="1" pic_title="Rock" desc="Повышает следующие параметры: ОЗ +161500, Физическая защита +38800, Магическая защита +38800, Ловкость +4300, Сопротивление контролю +130." desc2=""/>
+	<title id="708" name="Оборотень" visible="0" bpicture="1" pic_title="Werewolf" desc="Повышает следующие параметры: ОЗ +162000, Физическая атака +69500, Урон духа +3000, Защита духа +7800, Снижение физ. и маг. урона +230." desc2=""/>
+	<title id="709" name="Чумной доктор" visible="0" bpicture="1" pic_title="Plague_Doctor" desc="Повышает следующие параметры: ОЗ +162000, Физическая атака +69500, Урон духа +3000, Защита духа +7800, Снижение физ. и маг. урона +230." desc2=""/>
+	<title id="710" name="Оборотень" visible="0" bpicture="1" pic_title="Werewolf" desc="Повышает следующие параметры: ОЗ +162000, Физическая атака +69500, Урон духа +3000, Ловкость +3800, Повышение физ. урона +240." desc2=""/>
+	<title id="711" name="Чумной доктор" visible="0" bpicture="1" pic_title="Plague_Doctor" desc="Повышает следующие параметры: ОЗ +162000, Физическая атака +69500, Урон духа +3000, Ловкость +3800, Повышение физ. урона +240." desc2=""/>
+	<title id="712" name="Оборотень" visible="0" bpicture="1" pic_title="Werewolf" desc="Повышает следующие параметры: ОЗ +162000, Магическая атака +67500, Урон духа +3000, Сжигание ОМ +500, Точность +4400." desc2=""/>
+	<title id="713" name="Чумной доктор" visible="0" bpicture="1" pic_title="Plague_Doctor" desc="Повышает следующие параметры: ОЗ +162000, Магическая атака +67500, Урон духа +3000, Сжигание ОМ +500, Точность +4400." desc2=""/>
+	<title id="714" name="Оборотень" visible="0" bpicture="1" pic_title="Werewolf" desc="Повышает следующие параметры: ОЗ +162000, Духовность +65000, Урон духа +3000, Упорство +140, Ловкость +3900." desc2=""/>
+	<title id="715" name="Чумной доктор" visible="0" bpicture="1" pic_title="Plague_Doctor" desc="Повышает следующие параметры: ОЗ +162000, Духовность +65000, Урон духа +3000, Упорство +140, Ловкость +3900." desc2=""/>
+	<title id="716" name="Сорвиголова" visible="0" bpicture="1" pic_title="Daredevil" desc="Повышает следующие параметры: ОЗ +162500, Физическая атака +70000, Урон духа +3200, Усиление контроля +145, Повышение физ. урона +245." desc2=""/>
+	<title id="717" name="Сорвиголова" visible="0" bpicture="1" pic_title="Daredevil" desc="Повышает следующие параметры: ОЗ +162500, Физическая атака +70000, Урон стихий +1450, Точность +4300, Повышение физ. урона +245." desc2=""/>
+	<title id="718" name="Сорвиголова" visible="0" bpicture="1" pic_title="Daredevil" desc="Повышает следующие параметры: ОЗ +162500, Магическая атака +68000, Урон духа +3200, Урон стихий +1450, Повышение маг. урона +245." desc2=""/>
+	<title id="719" name="Сорвиголова" visible="0" bpicture="1" pic_title="Daredevil" desc="Повышает следующие параметры: ОЗ +162500, Духовность +65500, Урон духа +3200, Урон стихий +1450, Повышение маг. урона +230." desc2=""/>
+	<title id="720" name="Рунный страж" visible="0" bpicture="1" pic_title="Rune_guard" desc="Повышает следующие параметры: ОЗ +162500, Физическая защита +39200, Магическая защита +39200, Защита духа +6700, Упорство +450." desc2=""/>
+	<title id="721" name="Разведчик" visible="0" bpicture="1" pic_title="Razvedchik" desc="Повышает следующие параметры: ОЗ +163000, Физ. и Маг. атака +70500, Урон стихий +1500, Усиление контроля +145, Точность +4300." desc2=""/>
+	<title id="722" name="Разведчик" visible="0" bpicture="1" pic_title="Razvedchik" desc="Повышает следующие параметры: ОЗ +163000, Физ. и Маг. атака +68500, Упорство +400, Ловкость +3800, Физ. и Маг. рикошет +6%." desc2=""/>
+	<title id="723" name="Разведчик" visible="0" bpicture="1" pic_title="Razvedchik" desc="Повышает следующие параметры: ОЗ +163000, Духовность +66000, Упорство +400, Урон стихий +1500, Точность +4300." desc2=""/>
+	<title id="724" name="Джаггернаут" visible="0" bpicture="1" pic_title="Djagernaut" desc="Повышает следующие параметры: ОЗ +163000, Физическая защита +39600, Магическая защита +39600, Сопротивление контролю +130, Снижение физ. и маг. урона +200." desc2=""/>
+	<title id="725" name="Год тигра" visible="0" bpicture="1" pic_title="Tigr_2022" desc="Повышает следующие параметры: ОЗ +163000, Урон духа +3300, Скорость передвижения +10%, Шанс выпадения трофеев +8%." desc2=""/>
+	<title id="726" name="С Новым Годом!" visible="0" bpicture="1" pic_title="medved_2022" desc="С Новым Годом!" desc2=""/>
+	<title id="727" name="Клинок возмездия" visible="0" bpicture="1" pic_title="BladeofVeng" desc="Повышает следующие параметры: ОЗ +163500, Физ. и Маг. атака +70900, Доп. урон +1400, Маг. и Физ. рикошет +7%, Снижение физ. и маг. урона +235." desc2=""/>
+	<title id="728" name="Клинок возмездия" visible="0" bpicture="1" pic_title="BladeofVeng" desc="Повышает следующие параметры: ОЗ +163500, Физ. и Маг. атака +68900, Урон духа +3200, Доп. крит. урон +22%, Повышение физ. и маг. урона +250." desc2=""/>
+	<title id="729" name="Клинок возмездия" visible="0" bpicture="1" pic_title="BladeofVeng" desc="Повышает следующие параметры: ОЗ +163500, Духовность +66400, Урон артефакта +220, Урон духа +3200, Скорость передвижения +10%." desc2=""/>
+	<title id="730" name="Перед лицом вечности" visible="0" bpicture="1" pic_title="Faceofeternity" desc="Повышает следующие параметры: ОЗ +163500, Физическая защита +40000, Магическая защита +40000, Ловкость +4400, Защита духа +7000." desc2=""/>
+	<title id="731" name="Костолом" visible="0" bpicture="1" pic_title="Bone_breaker" desc="Повышает следующие параметры: ОЗ +164000, Физ. и Маг. атака +71300, Игнорирование атаки +700, Уклонение +7%, Урон стихий +1500." desc2=""/>
+	<title id="732" name="Костолом" visible="0" bpicture="1" pic_title="Bone_breaker" desc="Повышает следующие параметры: ОЗ +164000, Физ. и Маг. атака +69300, Точность +5000, Усиление контроля +130, Скорость передвижения +10%." desc2=""/>
+	<title id="733" name="Костолом" visible="0" bpicture="1" pic_title="Bone_breaker" desc="Повышает следующие параметры: ОЗ +164000, Духовность +66400, Точность +5000, Урон стихий +1500, Снижение крит. урона +100." desc2=""/>
+	<title id="734" name="Меч свободы" visible="0" bpicture="1" pic_title="FrSword" desc="Повышает следующие параметры:  ОЗ +164500, Физ. и Маг. атака +71800, Усиление контроля +150, Урон стихий +1500, Скорость передвижения +10%." desc2=""/>
+	<title id="735" name="Меч свободы" visible="0" bpicture="1" pic_title="FrSword" desc="Повышает следующие параметры: ОЗ +164500, Физ. и Маг. атака +69800, Урон духа +3300, Ловкость +3900, Повышение физ. и маг. урона +245." desc2=""/>
+	<title id="736" name="Меч свободы" visible="0" bpicture="1" pic_title="FrSword" desc="Повышает следующие параметры: ОЗ +164500, Духовность +66900, Урон духа +3300, Урон стихий +1500, Скорость передвижения +10%." desc2=""/>
+	<title id="737" name="Щит правды" visible="0" bpicture="1" pic_title="Shield_Truth" desc="Повышает следующие параметры: ОЗ +164500, Физ. и Маг. защита +40400, Ловкость +4400, Сопротивление контролю +140, Снижение физ. и маг. урона +220." desc2=""/>
+	<title id="738" name="Чародей" visible="0" bpicture="1" pic_title="Sorcerer" desc="Повышает следующие параметры: ОЗ +165000, Физ. и Маг. атака +72200, Точность +4400, Доп. крит. урон +25%, Скорость передвижения +10%." desc2=""/>
+	<title id="739" name="Чародей" visible="0" bpicture="1" pic_title="Sorcerer" desc="Повышает следующие параметры: ОЗ +165000, Физ. и Маг. атака +70200, Урон стихий +1500, Ловкость +4200, Усиление контроля +160." desc2=""/>
+	<title id="740" name="Чародей" visible="0" bpicture="1" pic_title="Sorcerer" desc="Повышает следующие параметры: ОЗ +165000, Духовность +67300, Ловкость +4200, Повышение маг. урона +250, Упорство +400." desc2=""/>
+	<title id="741" name="Антимаг" visible="0" bpicture="1" pic_title="Antimage" desc="Повышает следующие параметры: ОЗ +165000, Физ. и Маг. защита +40800, Защита духа +7200, Сопротивление контролю +160, Снижение физ. и маг. урона +230." desc2=""/>
+	<title id="742" name="Юбилейный титул" visible="0" bpicture="1" pic_title="11_years" desc="Повышает следующие параметры: ОЗ +55000, Удача +200." desc2=""/>
+	<title id="743" name="Сила глубин" visible="0" bpicture="1" pic_title="power_depths" desc="Повышает следующие параметры: ОЗ +165800, Физ. и Маг. атака +73000, Ловкость +5000, Сопротивление контролю +180, Сопротивление стихиям 1800." desc2=""/>
+	<title id="744" name="Сила глубин" visible="0" bpicture="1" pic_title="power_depths" desc="Повышает следующие параметры: ОЗ +165800, Физ. и Маг. атака +71000, Повышение физ. и маг. урона +160, Точность +4400, Скорость передвижения +10%." desc2=""/>
+	<title id="745" name="Сила глубин" visible="0" bpicture="1" pic_title="power_depths" desc="Повышает следующие параметры: ОЗ +165800, Духовность +68100, Точность +4400, Урон стихий +1500, Скорость передвижения +10%." desc2=""/>
+	<title id="746" name="Стихийный щит" visible="0" bpicture="1" pic_title="Elemental_Shield" desc="Повышает следующие параметры: ОЗ +165800, Физ. и Маг. защита +42000, Сопротивление стихиям +2000, Сопротивление контролю +200, Снижение физ. и маг. урона +240." desc2=""/>
+	<title id="747" name="Берсерк" visible="0" bpicture="1" pic_title="Berserk" desc="Повышает следующие параметры: ОЗ +166300, Физ. и Маг. атака +73400, Защита духа +8000, Доп. урон +2000, Повышение физ. и маг. урона +240." desc2=""/>
+	<title id="748" name="Берсерк" visible="0" bpicture="1" pic_title="Berserk" desc="Повышает следующие параметры: ОЗ +166300, Физ. и Маг. атака +71400, Урон духа +4000, Ловкость +4600, Усиление контроля +220." desc2=""/>
+	<title id="749" name="Берсерк" visible="0" bpicture="1" pic_title="Berserk" desc="Повышает следующие параметры: ОЗ +166300, Духовность +68500, Урон духа +4000, Доп. урон +2000, Сопротивление контролю +220." desc2=""/>
+	<title id="750" name="Камнетёс" visible="0" bpicture="1" pic_title="Kamnetes" desc="Повышает следующие параметры: ОЗ +166300, Физ. и Маг. защита +42500, Защита духа +9000, Сопротивление контролю +230, Снижение физ. и маг. урона +250." desc2=""/>
+	<title id="751" name="Дракон солнца" visible="0" bpicture="1" pic_title="Sun_dragon" desc="Повышает следующие параметры: ОЗ +166800, Физ. и Маг. атака +73800, Урон стихий +1800, Повышение физ. и маг. урона +245, Упорство +500." desc2=""/>
+	<title id="752" name="Дракон солнца" visible="0" bpicture="1" pic_title="Sun_dragon" desc="Повышает следующие параметры: ОЗ +166800, Физ. и Маг. атака +71800, Маг. и Физ. рикошет +5%, Доп. крит. урон +26%, Усиление контроля +225." desc2=""/>
+	<title id="753" name="Дракон солнца" visible="0" bpicture="1" pic_title="Sun_dragon" desc="Повышает следующие параметры: ОЗ +166800, Духовность +68900, Маг. и Физ. рикошет +5%, Урон стихий +1800, Повышение физ. и маг. урона +245." desc2=""/>
+	<title id="754" name="Храбрец" visible="0" bpicture="1" pic_title="Brave_man" desc="Повышает следующие параметры: ОЗ +166800, Физ. и Маг. защита +42900, Ловкость +5000, Снижение физ. и маг. урона +255, Упорство +500." desc2=""/>
+	<title id="755" name="Стальной дракон" visible="0" bpicture="1" pic_title="Steel_dragon" desc="Повышает следующие параметры: ОЗ +167200, Физ. и Маг. атака +74200, Шанс крит. удара +26%, Повышение физ. и маг. урона +250, Доп. урон +1500." desc2=""/>
+	<title id="756" name="Стальной дракон" visible="0" bpicture="1" pic_title="Steel_dragon" desc="Повышает следующие параметры: ОЗ +167200, Физ. и Маг. атака +72200, Маг. и Физ. рикошет +6%, Упорство +600, Сопротивление контролю +230." desc2=""/>
+	<title id="757" name="Стальной дракон" visible="0" bpicture="1" pic_title="Steel_dragon" desc="Повышает следующие параметры: ОЗ +167200, Духовность +69300, Доп. урон +1500, Упорство +600, Повышение физ. и маг. урона +250." desc2=""/>
+	<title id="758" name="Смотритель драконов" visible="0" bpicture="1" pic_title="Warden" desc="Повышает следующие параметры: ОЗ +167200, Физ. и Маг. защита +43300, Защита духа +8000, Снижение физ. и маг. урона +260, Сопротивление контролю +240." desc2=""/>	
+	<title id="759" name="Искатель сокровищ" visible="0" bpicture="1" pic_title="Treasurehunter" desc="Повышает следующие параметры: ОЗ +167600, Физ. и Маг. атака +74600, Урон стихий +1850, Повышение физ. и маг. урона +255, Упорство +510." desc2=""/>
+	<title id="760" name="Искатель сокровищ" visible="0" bpicture="1" pic_title="Treasurehunter" desc="Повышает следующие параметры: ОЗ +167600, Физ. и Маг. атака +72600, Маг. и Физ. рикошет +6,10%, Доп. крит. урон +27%, Усиление контроля +230." desc2=""/>
+	<title id="761" name="Искатель сокровищ" visible="0" bpicture="1" pic_title="Treasurehunter" desc="Повышает следующие параметры: ОЗ +167600, Духовность +69700, Маг. и Физ. рикошет +6,10%, Урон стихий +1850, Повышение физ. и маг. урона +255." desc2=""/>
+	<title id="762" name="Паладин" visible="0" bpicture="1" pic_title="Paladin" desc="Повышает следующие параметры: ОЗ +167600, Физ. и Маг. защита +43700, Ловкость +5100, Снижение физ. и маг. урона +265, Упорство +510." desc2=""/>
+	<title id="763" name="Хитрец" visible="0" bpicture="1" pic_title="Sly_man" desc="Повышает следующие параметры: ОЗ +168000, Физ. и Маг. атака +75000, Шанс крит. удара +27%, Повышение физ. и маг. урона +260, Доп. урон +1600." desc2=""/>
+	<title id="764" name="Хитрец" visible="0" bpicture="1" pic_title="Sly_man" desc="Повышает следующие параметры: ОЗ +168000, Физ. и Маг. атака +73000, Маг. и Физ. рикошет +6,20%, Упорство +700, Сопротивление контролю +235." desc2=""/>
+	<title id="765" name="Хитрец" visible="0" bpicture="1" pic_title="Sly_man" desc="Повышает следующие параметры: ОЗ +168000, Духовность +70100, Доп. урон +1600, Упорство +700, Повышение физ. и маг. урона +260." desc2=""/>
+	<title id="766" name="Дева щита" visible="0" bpicture="1" pic_title="Shiels_maiden" desc="Повышает следующие параметры: ОЗ +168000, Физ. и Маг. защита +44100, Защита духа +8200, Снижение физ. и маг. урона +270, Сопротивление контролю +245." desc2=""/>
+	<title id="767" name="Покровитель" visible="0" bpicture="1" pic_title="Patron" desc="Повышает следующие параметры: ОЗ +168400, Физ. и Маг. атака +75400, Урон стихий +1900, Повышение физ. и маг. урона +265, Упорство +520." desc2=""/>
+	<title id="768" name="Покровитель" visible="0" bpicture="1" pic_title="Patron" desc="Повышает следующие параметры: ОЗ +168400, Физ. и Маг. атака +73400, Маг. и Физ. рикошет +6,30%, Доп. крит. урон +28%, Усиление контроля +240." desc2=""/>
+	<title id="769" name="Покровитель" visible="0" bpicture="1" pic_title="Patron" desc="Повышает следующие параметры: ОЗ +168400, Духовность +70500, Маг. и Физ. рикошет +6,10%, Урон стихий +1900, Повышение физ. и маг. урона +265." desc2=""/>
+	<title id="770" name="Минотавр" visible="0" bpicture="1" pic_title="Minotaur" desc="Повышает следующие параметры: ОЗ +168400, Физ. и Маг. защита +44500, Ловкость +5200, Снижение физ. и маг. урона +275, Упорство +520." desc2=""/>
+	<title id="771" name="Добытчик" visible="0" bpicture="1" pic_title="Miner" desc="Повышает следующие параметры: ОЗ +168400, Физ. и Маг. атака +75400, Скорость передвижения +10%, Шанс выпадения трофеев +10%." desc2=""/>
+	<title id="772" name="С Новым Годом!" visible="0" bpicture="1" pic_title="NY_2022" desc="С Новым Годом!" desc2=""/>
+	<title id="773" name="Архангел" visible="0" bpicture="1" pic_title="Archangel" desc="Повышает следующие параметры: ОЗ +168800, Физ. и Маг. атака +75800, Шанс крит. удара +28%, Повышение физ. и маг. урона +270, Доп. урон +1650." desc2=""/>
+	<title id="774" name="Архангел" visible="0" bpicture="1" pic_title="Archangel" desc="Повышает следующие параметры: ОЗ +168800, Физ. и Маг. атака +73800, Маг. и Физ. рикошет +6,40%, Упорство +800, Сопротивление контролю +240." desc2=""/>
+	<title id="775" name="Архангел" visible="0" bpicture="1" pic_title="Archangel" desc="Повышает следующие параметры: ОЗ +168800, Духовность +70900, Доп. урон +1650, Упорство +800, Повышение физ. и маг. урона +270." desc2=""/>
+	<title id="776" name="Белый Тигр" visible="0" bpicture="1" pic_title="White_Tiger" desc="Повышает следующие параметры: ОЗ +168800, Физ. и Маг. защита +44900, Защита духа +8400, Снижение физ. и маг. урона +280, Сопротивление контролю +250." desc2=""/>
+	<title id="777" name="Бог коварства" visible="0" bpicture="1" pic_title="God_of_deceit" desc="Повышает следующие параметры: ОЗ +169200, Физ. и Маг. атака +76200, Урон стихий +1950, Повышение физ. и маг. урона +275, Упорство +530." desc2=""/>
+	<title id="778" name="Бог коварства" visible="0" bpicture="1" pic_title="God_of_deceit" desc="Повышает следующие параметры: ОЗ +169200, Физ. и Маг. атака +74200, Маг. и Физ. рикошет +6,50%, Доп. крит. урон +29%, Усиление контроля +245." desc2=""/>
+	<title id="779" name="Бог коварства" visible="0" bpicture="1" pic_title="God_of_deceit" desc="Повышает следующие параметры: ОЗ +169200, Духовность +71300, Маг. и Физ. рикошет +6,30%, Урон стихий +1950, Повышение физ. и маг. урона +275." desc2=""/>
+	<title id="780" name="Смотритель" visible="0" bpicture="1" pic_title="Keeper" desc="Повышает следующие параметры: ОЗ +169200, Физ. и Маг. защита +45300, Ловкость +5300, Снижение физ. и маг. урона +285, Упорство +530." desc2=""/>
+	<title id="781" name="Кицунэ" visible="0" bpicture="1" pic_title="Kitsune" desc="Повышает следующие параметры: ОЗ +169600, Физ. и Маг. атака +76600, Шанс крит. удара +29%, Повышение физ. и маг. урона +280, Доп. урон +1700." desc2=""/>
+	<title id="782" name="Кицунэ" visible="0" bpicture="1" pic_title="Kitsune" desc="Повышает следующие параметры: ОЗ +169600, Физ. и Маг. атака +74600, Маг. и Физ. рикошет +6,60%, Упорство +900, Сопротивление контролю +245." desc2=""/>
+	<title id="783" name="Кицунэ" visible="0" bpicture="1" pic_title="Kitsune" desc="Повышает следующие параметры: ОЗ +169600, Духовность +71700, Доп. урон +1700, Упорство +900, Повышение физ. и маг. урона +280." desc2=""/>
+	<title id="784" name="Привратник" visible="0" bpicture="1" pic_title="Gatekeeper" desc="Повышает следующие параметры: ОЗ +169600, Физ. и Маг. защита +45700, Защита духа +8600, Снижение физ. и маг. урона +290, Сопротивление контролю +255." desc2=""/>
+	<title id="785" name="Мастер иллюзий" visible="0" bpicture="1" pic_title="Illusion_Master" desc="Повышает следующие параметры: ОЗ +170000, Физ. и Маг. атака +77000, Урон стихий +2000, Повышение физ. и маг. урона +285, Упорство +540." desc2=""/>
+	<title id="786" name="Мастер иллюзий" visible="0" bpicture="1" pic_title="Illusion_Master" desc="Повышает следующие параметры: ОЗ +170000, Физ. и Маг. атака +75000, Маг. и Физ. рикошет +6,70%, Доп. крит. урон +30%, Усиление контроля +250." desc2=""/>
+	<title id="787" name="Мастер иллюзий" visible="0" bpicture="1" pic_title="Illusion_Master" desc="Повышает следующие параметры: ОЗ +170000, Духовность +72100, Маг. и Физ. рикошет +6,70%, Урон стихий +2000, Повышение физ. и маг. урона +285." desc2=""/>
+	<title id="788" name="Сила природы" visible="0" bpicture="1" pic_title="Fjorddefender" desc="Повышает следующие параметры: ОЗ +170000, Физ. и Маг. защита +46100, Ловкость +5400, Снижение физ. и маг. урона +295, Упорство +540." desc2=""/>
+	<title id="789" name="Опасные знания" visible="0" bpicture="1" pic_title="knowledge21" desc="Повышает следующие параметры: ОЗ +170400, Физ. и Маг. атака +77400, Доп. крит урон +31%, Повышение физ. и маг. урона +290, Доп. урон +1750." desc2=""/>
+	<title id="790" name="Опасные знания" visible="0" bpicture="1" pic_title="knowledge21" desc="Повышает следующие параметры: ОЗ +170400, Физ. и Маг. атака +75400, Повышение физ. и маг. урона +290, Упорство +1000, Сопротивление контролю +255." desc2=""/>
+	<title id="791" name="Опасные знания" visible="0" bpicture="1" pic_title="knowledge21" desc="Повышает следующие параметры: ОЗ +170400, Духовность +72500, Доп. урон +1750, Упорство +1000, Скорость передвижения +10%." desc2=""/>
+	<title id="792" name="Хранитель" visible="0" bpicture="1" pic_title="Thekeeper" desc="Повышает следующие параметры: ОЗ +170400, Физ. и Маг. защита +46500, Защита духа +8800, Снижение физ. и маг. урона +300, Сопротивление контролю +260." desc2=""/>
+	<title id="793" name="Юбилейный титул" visible="0" bpicture="1" pic_title="hb12_2" desc="С днём рождения Blood and Soul! Повышает следующие параметры: ОЗ +60000, Удача +200." desc2=""/>
+	<title id="794" name="Скрытный убийца" visible="0" bpicture="1" pic_title="Cat_catana" desc="Повышает следующие параметры: ОЗ +170800, Физ. и Маг. атака +77800, Урон стихий +2050, Повышение физ. и маг. урона +295, Упорство +550." desc2=""/>
+	<title id="795" name="Скрытный убийца" visible="0" bpicture="1" pic_title="Cat_catana" desc="Повышает следующие параметры: ОЗ +170800, Физ. и Маг. атака +75800, Маг. и Физ. рикошет +6,80%, Доп. крит. урон +31%, Усиление контроля +255." desc2=""/>
+	<title id="796" name="Скрытный убийца" visible="0" bpicture="1" pic_title="Cat_catana" desc="Повышает следующие параметры: ОЗ +170800, Духовность +72900, Точность +5500, Урон стихий +2050, Повышение физ. и маг. урона +295." desc2=""/>
+	<title id="797" name="Храбрый воин" visible="0" bpicture="1" pic_title="Mops_war" desc="Повышает следующие параметры: ОЗ +170800, Физ. и Маг. защита +46900, Ловкость +5500, Снижение физ. и маг. урона +305, Упорство +550." desc2=""/>
+	<title id="798" name="Трудяга" visible="0" bpicture="1" pic_title="roadwork" desc="Повышает следующие параметры: ОЗ +170800, Физ. и Маг. атака +77800, Скорость передвижения +10%, Шанс выпадения трофеев +11%." desc2=""/>
+	<title id="799" name="Кумир" visible="0" bpicture="1" pic_title="Idol_2" desc="Повышает следующие параметры: ОЗ +171200, Физ. и Маг. атака +78200, Доп. крит урон +32%, Повышение физ. и маг. урона +300, Доп. урон +1800." desc2=""/>
+	<title id="800" name="Кумир" visible="0" bpicture="1" pic_title="Idol_2" desc="Повышает следующие параметры: ОЗ +171200, Физ. и Маг. атака +76200, Повышение физ. и маг. урона +300, Упорство +1100, Сопротивление контролю +260." desc2=""/>
+	<title id="801" name="Кумир" visible="0" bpicture="1" pic_title="Idol_2" desc="Повышает следующие параметры: ОЗ +171200, Духовность +73300, Доп. урон +1800, Упорство +1100, Скорость передвижения +10%. " desc2=""/>
+	<title id="802" name="Герой Вальхаллы" visible="0" bpicture="1" pic_title="valhala" desc="Повышает следующие параметры: ОЗ +171200, Физ. и Маг. защита +47300, Защита духа +9000, Снижение физ. и маг. урона +310, Сопротивление контролю +265." desc2=""/>
+	<title id="803" name="Одиночка" visible="0" bpicture="1" pic_title="Loner" desc="Повышает следующие параметры: ОЗ +171600, Физ. и Маг. атака +78600, Урон стихий +2100, Повышение физ. и маг. урона +305, Упорство +560." desc2=""/>
+	<title id="804" name="Одиночка" visible="0" bpicture="1" pic_title="Loner" desc="Повышает следующие параметры: ОЗ +171600, Физ. и Маг. атака +76600, Маг. и Физ. рикошет +6,90%, Доп. крит. урон +32%, Усиление контроля +260." desc2=""/>
+	<title id="805" name="Одиночка" visible="0" bpicture="1" pic_title="Loner" desc="Повышает следующие параметры: ОЗ +171600, Духовность +73700, Точность +5600, Урон стихий +2100, Повышение физ. и маг. урона +305." desc2=""/>
+	<title id="806" name="Дух эпохи" visible="0" bpicture="1" pic_title="Spirit_era" desc="Повышает следующие параметры: ОЗ +171600, Физ. и Маг. защита +47700, Ловкость +5600, Снижение физ. и маг. урона +315, Упорство +560." desc2=""/>
+</root>

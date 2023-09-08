@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30903" />
+    <entry Name="Новогоднее оружие" />
+    <entry Conditions="" />
+    <entry Overview="В период празднования нового года вы можете у &lt;M&gt;&lt;L=s02,5600019&gt;новогодней елки&lt;/L&gt;&lt;/M&gt; взять&lt;C&gt;1&lt;/C&gt; &lt;I&gt;новогоднее оружие&lt;/I&gt;." />
+</quest-local>

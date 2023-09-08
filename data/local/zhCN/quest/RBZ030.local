@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20330" />
+    <entry Name="Нефритовый пруд" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь к &lt;N&gt;Нефритовому пруду&lt;/N&gt;, найдите &lt;D&gt;&lt;L=s05, 5010096&gt;богиню Теа&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

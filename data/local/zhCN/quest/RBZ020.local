@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20320" />
+    <entry Name="Волчья порода" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйтесь в &lt;N&gt;Долину волчьих стай&lt;/N&gt; и убейте \n&lt;C&gt;70&lt;/C&gt; &lt;A&gt;&lt;L=s05, 1040021&gt;демонических волков&lt;/L&gt;&lt;/A&gt;. Затем вернитесь к &lt;D&gt;&lt;L=s05, 5010093&gt;Аллу&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

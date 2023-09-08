@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<Map id="s01" name="Стена Памяти" />
+	<Map id="s02" name="Тарио" />
+	<Map id="s03" name="Пандора" />
+	<Map id="s04" name="Долина Грома" />
+	<Map id="s05" name="Сноулэнд" />
+	<Map id="s06" name="Лес Теней" />
+	<Map id="s07" name="Южные Топи" />
+	<Map id="s08" name="Гора Смерти" />
+	<Map id="s52" name="Ромен" />
+	<Map id="s53" name="Дворец Звезд"/>
+	<Map id="s53_1" name="Храм Элементов"/>
+	<Map id="d01" name="Буковый Грот" />
+	<Map id="d02" name="Каменоломня" />
+	<Map id="d03" name="Логово Ящера" />
+	<Map id="d04" name="Пещера Льда" />
+	<Map id="d05" name="Пещера Света" />
+	<Map id="d06" name="Пещера Камня" />
+	<Map id="d07" name="Пещера Волка" />
+	<Map id="d08" name="Замок Святых" />
+	<Map id="d09" name="Пещера Песка" />
+	<Map id="d10" name="Рудник" />
+	<Map id="d11" name="Штольня" />
+	<Map id="h01" name="Логово зверя" />
+	<Map id="h02" name="Вечный ад" />
+	<Map id="f01" name="Библиотека" />
+	<Map id="f02" name="Логово Тьмы" />
+	<Map id="f03" name="Обитель Зла" />
+	<Map id="f04" name="Место власти" />
+	<Map id="f05" name="Замок теней" />
+	<Map id="f06" name="Замок ада" />
+	<Map id="f07" name="Забытый Храм" />
+	<Map id="f08" name="Битва Века" />
+	<Map id="f09" name="Долина магов" />
+	<Map id="j01" name="Мемориал" />
+	<Map id="j03" name="Сказочная долина" />
+	<Map id="s03_1" name="Грибной Холм" />
+	<Map id="q01" name="Пещера Огня" />
+	<Map id="q02" name="Пещера Снега" />
+	<Map id="q03" name="Пещера Тайн" />
+	<Map id="q04" name="Озерный Грот" />
+	<Map id="q05" name="Могила Эльфа" />
+	<Map id="h03_1" name="Обитель лорда 1" />
+	<Map id="h03_2" name="Обитель лорда 2" />
+	<Map id="h03_3" name="Обитель лорда 3" />
+	<Map id="h04" name="Мистерия" />
+	<Map id="h05" name="Вьюжный Край" />
+	<Map id="h06" name="Камнепад" />
+	<Map id="h06_1" name="Черный Грот" />
+	<Map id="a01" name="Призрачная арена 1" />
+	<Map id="a02" name="Призрачная арена 2" />
+	<Map id="a03" name="Призрачная арена 3" />
+	<Map id="s54" name="Святилище" />
+	<Map id="s55_1" name="Храм Аскез 1" />
+	<Map id="s55_2" name="Храм Аскез 2" />
+	<Map id="s55_3" name="Храм Аскез 3" />
+	<Map id="s55_4" name="Храм Аскез 4" />
+	<Map id="s55_5" name="Храм Аскез 5" />
+	<Map id="s56" name="Сокровищница" />
+	<Map id="s58" name="Лунный пруд" />
+	<Map id="s57_1" name="Кафедрал 1" />
+	<Map id="s57_2" name="Кафедрал 2" />
+	<Map id="s57_3" name="Кафедрал 3" />
+	<Map id="s57_4" name="Кафедрал 5" />
+	<Map id="s57_5" name="Бастион 1" />
+	<Map id="s57_6" name="Бастион 2" />
+	<Map id="s57_7" name="Бастион 3" />
+	<Map id="s57_8" name="Бастион 4" />
+	<Map id="s57_9" name="Кафедрал 4" />
+	<Map id="s59" name="Поле битвы" />
+	<Map id="s60" name="Фронтир" />
+	<Map id="s62" name="Тайные пределы эльфов" />
+	<Map id="s63" name="Тайное убежище эльфов"/>
+    <Map id="f20" name="Остров сомнений"/>
+	<Map id="s61" name="Остров мечты"/>
+	<Map id="s64" name="Тайная комната"/>
+	<Map id="s56_1" name="Легендарная сокровищница"/>
+	<Map id="m10" name="Волшебная долина"/>
+	<Map id="dmap1" name="Дьявольское ущелье"/>
+	<Map id="s65" name="ОлимпийскиЙ остров"/>
+	<Map id="dmap2" name="Пиратская Бухта"/>
+	<Map id="dmap4a" name="Дворец Сокровищ"/>
+	<Map id="dmap3a" name="Дворец Судьбы"/>
+	<Map id="dmap5a" name="Дворец демонов"/>
+	<Map id="n3" name="Логово похитителей"/>
+	<Map id="s09" name="Сумеречная пустошь"/>
+	<Map id="n6" name="Долина грешников"/>
+	<Map id="n9" name="Лабиринт Морока"/>
+	<Map id="s02_1" name="Лагерь испытаний"/>
+	<Map id="e02" name="Арена Фронтира 2"/>
+	<Map id="s02_2" name="Ночной Тарио"/>
+	<Map id="s66_1" name="Снежный пик" />
+	<Map id="Lich" name="Тюрьма Лича" />
+	<Map id="sn_01" name="Снежная тюрьма 1" />
+	<Map id="sn_02" name="Снежная тюрьма 2" />
+	<Map id="w01" name="Эльфийский лес"/>
+	<Map id="w02" name="Эльфийский лес"/>
+	<Map id="w03" name="Эльфийский лес"/>
+	<Map id="hb01" name="Долина Орбис"/>
+	<Map id="k1_tower" name="Темная башня"/>
+	<Map id="e03" name="Арена Фронтира 3"/>
+	<Map id="e01" name="Арена Фронтира 1"/>
+	<Map id="e04" name="Арена Фронтира 4"/>
+	<Map id="g01" name="Тропа испытаний"/>
+	<Map id="s10" name="Драконий остров"/>
+	<Map id="ld1" name="Логово дракона"/>
+	<Map id="f1" name="Личная усадьба"/>
+	<Map id="f01_1" name="Библиотека" />
+	<Map id="pd01" name="Пик отважных"/>
+	<Map id="pg01" name="Гробница Менеса"/>
+	<Map id="s11" name="Пустыня Аришат"/>
+	<Map id="br" name="Королевская битва"/>
+	<Map id="dm" name="Демонион"/>
+	<Map id="gvg" name="Древняя крепость" />
+	<Map id="h01_1" name="Логово Зверя v2" />
+	<Map id="m01" name="Ивент" />
+	<Map id="b01" name="Мост правды" />
+</root>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20644" />
+    <entry Name="Очистить логово" />
+    <entry Conditions="" />
+    <entry Overview="Убейте &lt;C&gt;100&lt;/C&gt; &lt;A&gt;&lt;L=s08, 1070033&gt;жрецов-чернокнижников&lt;/L&gt;&lt;/A&gt;,\n&lt;/A&gt;&lt;C&gt;100&lt;/C&gt; &lt;A&gt;&lt;L=s08, 1070034&gt;жрецов-черных магов&lt;/L&gt;&lt;/A&gt; и &lt;C&gt;45&lt;/C&gt; &lt;color=0xffff6000&gt;&lt;L=s08, 1070062&gt;жрецов-духов&lt;/L&gt;&lt;color=0xffffffff&gt;. После завершения доложите об успехе &lt;D&gt;&lt;L=s08, 5010209&gt;Ротту&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

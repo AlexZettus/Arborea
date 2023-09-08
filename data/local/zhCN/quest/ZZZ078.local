@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="52111" />
+    <entry Name="Ещё один шанс" />
+    <entry Conditions="" />
+    <entry Overview="Принесите мне 10 000 золота, чтобы получить на выбор один из пропусков в опасные подземелья." />
+</quest-local>

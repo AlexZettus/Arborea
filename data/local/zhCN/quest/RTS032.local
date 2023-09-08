@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="50032" />
+    <entry Name="След в лесу" />
+    <entry Conditions="" />
+    <entry Overview="Чтобы начать исследование &lt;N&gt;Леса Теней&lt;/N&gt;, нужно проверить следующие места: &lt;N&gt;&lt;Z=s06, 50563, 3800, 65689&gt;Деревня Ку&lt;/Z&gt;&lt;/N&gt;, &lt;N&gt;&lt;Z=s06, 36619, 3100, 20055&gt;Реликвия Обливиона&lt;/Z&gt;&lt;/N&gt;, &lt;N&gt;&lt;Z=s06, 80292, 7050, 21315&#xA;&gt;Лес Тигриного Рыка&lt;/Z&gt;&lt;/N&gt;, &lt;N&gt;&lt;Z=s06, 73521	, 5799, 64884&#xA;&gt;Акварипик&lt;/Z&gt;&lt;/N&gt;, cобрать &lt;C&gt;3&lt;/C&gt; &lt;M&gt;следа поиска&lt;/M&gt;. Затем вернитесь и опишите путешественнику \n&lt;D&gt;&lt;L=s06, 5511012&gt;Куку&lt;/L&gt;&lt;/D&gt; обстановку. Шанс получения предметов задания при сборе не 100%." />
+</quest-local>

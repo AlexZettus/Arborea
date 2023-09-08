@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20345" />
+    <entry Name="Доставка провианта" />
+    <entry Conditions="" />
+    <entry Overview="Сельские жители голодают! Убивайте \n&lt;A&gt;&lt;L=s05,1040001&gt;ледяных вепрей&lt;/L&gt;&lt;/A&gt; и соберите &lt;C&gt;30&lt;/C&gt; штук &lt;M&gt;кабаньего мяса&lt;/M&gt;. Затем передайте их &lt;D&gt;&lt;L=s05, 5010088&gt;Аарону&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20209" />
+    <entry Name="Заботы рудокопа" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйся к &lt;D&gt;&lt;L=s03,5010078&gt;Градосу&lt;/L&gt;&lt;/D&gt;, чтобы обучиться ремеслу добычи руды." />
+</quest-local>

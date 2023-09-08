@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="50034" />
+    <entry Name="След в лесу" />
+    <entry Conditions="" />
+    <entry Overview="Чтобы подробнее исследовать &lt;N&gt;Лес Теней&lt;/N&gt;, необходимо посетить следующие места: \n&lt;N&gt;&lt;Z=s06, 131926, 6000, 101020&gt;Мирные холмы&lt;/Z&gt;&lt;/N&gt;, \n&lt;N&gt;&lt;Z=s06, 130536, 8130, 58725&gt;Пруд лотосов&lt;/Z&gt;&lt;/N&gt;, \n&lt;N&gt;&lt;Z=s06, 60814, 7871, 104524&gt;Рощу феникса&lt;/Z&gt;&lt;/N&gt;. \nСобрав &lt;C&gt;3&lt;/C&gt; &lt;M&gt;глубоких следа&lt;/M&gt;, возвращайтесь к путешественнику &lt;D&gt;&lt;L=s06, 5511012&gt;Куку&lt;/L&gt;&lt;/D&gt;. Шанс получения предметов задания при сборе не 100%." />
+</quest-local>

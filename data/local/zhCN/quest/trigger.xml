@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<trigger name="Пройти по Грибному холму" map="s03_1" x="19534" y="5591" z="21399" id="1"/>
+	<trigger name="Пройти по Заснеженной вершине" map="s05" x="66357" Y="17541" z="43252" id="2"/>
+	<trigger name="Пройти по холму Кабутолин" map="s03" x="57750" Y="4740" z="41950" id="3"/>
+</root>

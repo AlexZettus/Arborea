@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quest-local>
+    <entry ID="30791" />
+    <entry Name="Пятицветная подарочная коробка" />
+    <entry Conditions="" />
+    <entry Overview="Получите &lt;C&gt;1 &lt;/C&gt; &lt;I&gt;Подарочную коробку на праздник начала лета&lt;/I&gt; и &lt;C&gt;1&lt;/C&gt; &lt;I&gt;Свиток судьбы&lt;/I&gt; и обменяйте на &lt;I&gt;Пятицветную подарочную коробку&lt;/I&gt;." />
+</quest-local>

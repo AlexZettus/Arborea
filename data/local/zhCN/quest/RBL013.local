@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20213" />
+    <entry Name="Новости из рудника" />
+    <entry Conditions="" />
+    <entry Overview="Отправляйся со сведениями от Градоса в Танбурт к &lt;D&gt;&lt;L=s03,5010076&gt;Хранителю эльфов&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

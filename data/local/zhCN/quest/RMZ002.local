@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20502" />
+    <entry Name="Злой первопроходец" />
+    <entry Conditions="" />
+    <entry Overview="Убейте по &lt;C&gt;45&lt;/C&gt; &lt;A&gt;&lt;L=s07, 1060005&gt;джунглевых нападающих&lt;/L&gt;&lt;/A&gt; и \n&lt;A&gt;&lt;L=s07, 1060006&gt;джунглевых разведчиков&lt;/L&gt;&lt;/A&gt;. Затем вернитесь к \n&lt;D&gt;&lt;L=s07, 5010164&gt;повелителю деревьев Харлансу&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>

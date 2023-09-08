@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest-local>
+    <entry ID="20524" />
+    <entry Name="Аватары бога" />
+    <entry Conditions="" />
+    <entry Overview="Используйте &lt;M&gt;&lt;L=s07, 6010027&gt;астролябию богов&lt;/L&gt;&lt;/M&gt;, сразитесь с аватарами &lt;color=0xffff0000&gt;Призрачного бога&lt;color=0xffffffff&gt; и &lt;color=0xffff0000&gt;Бога огня&lt;color=0xffffffff&gt;, а затем вернитесь к &lt;D&gt;&lt;L=s07, 5010204&gt;Реду&lt;/L&gt;&lt;/D&gt;." />
+</quest-local>
