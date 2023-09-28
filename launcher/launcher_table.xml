@@ -41,7 +41,7 @@
 	<item name="PatchNotFound" 		value="Ошибка автом. обновления. Узнайте подробнее на https://vk.com/leadale_bs." />
 
 	<item name="AppName"			value="Лидейл — Лаунчер" />
-	<item name="StartGame"	 		value="Играть" />
+	<item name="StartGame"	 		value=" " />
 	<item name="ManualUpdate" 		value="Новости" />
 	<item name="GameSetup"	 		value="Настройка" />
 	<item name="UpdateInfo"	 		value="Отчет" />
